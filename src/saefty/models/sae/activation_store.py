@@ -16,6 +16,22 @@ class ActivationStoreConfig(BaseModel):
     seed: int = 42
 
 
+LANG_CODE_TO_NAME = {
+    "en": "English",
+    "ar": "Arabic",
+    "hi": "Hindi",
+    "fr": "French",
+    "es": "Spanish",
+    "de": "German",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "pt": "Portuguese",
+    "ru": "Russian",
+    "tr": "Turkish",
+}
+
+
 class ActivationStore:
     def __init__(self, engine, config: ActivationStoreConfig):
         self.engine = engine
@@ -26,6 +42,15 @@ class ActivationStore:
         self._buffer = torch.empty(0, self.d_model)
         self._tokens_collected = 0
         self._text_iter = None
+
+        # resolve language codes to full names for aya_dataset filtering
+        self._lang_names = set()
+        for lang in config.languages:
+            name = LANG_CODE_TO_NAME.get(lang)
+            if name:
+                self._lang_names.add(name)
+            else:
+                self._lang_names.add(lang)
 
 
     def _make_text_iterator(self) -> Iterator[str]:
@@ -39,7 +64,7 @@ class ActivationStore:
         for row in ds:
             text = row.get("inputs", "") + " " + row.get("targets", "")
             lang = row.get("language", "")
-            if self.config.languages and lang not in self.config.languages:
+            if self._lang_names and lang not in self._lang_names:
                 continue
             text = text.strip()
             if len(text) > 20:
