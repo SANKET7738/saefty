@@ -1,0 +1,24 @@
+{
+  "per_split": {
+    "en": {
+      "count": 71,
+      "total": 100,
+      "rate": 0.71
+    },
+    "hi": {
+      "count": 34,
+      "total": 100,
+      "rate": 0.34
+    },
+    "ar": {
+      "count": 50,
+      "total": 100,
+      "rate": 0.5
+    }
+  },
+  "overall": {
+    "count": 155,
+    "total": 300,
+    "rate": 0.5166666666666667
+  }
+}
