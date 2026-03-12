@@ -26,8 +26,8 @@ class Metrics:
         self.evaluator = evaluator
     
     
-    def compute(self, predictions: List[str]) -> Dict[str, Any]:
-        results = [self.evaluator.evaluate(pred) for pred in predictions]
+    def compute(self, predictions: List[str], **kwargs) -> Dict[str, Any]:
+        results = [self.evaluator.evaluate(pred, **kwargs) for pred in predictions]
         return self._aggregate(results)
     
     
@@ -45,7 +45,7 @@ class Metrics:
             if len(split_preds) != len(split.prompts):
                 print(f"warning: {split_name} has {len(split.prompts)} prompts but {len(split_preds)} predictions")
             
-            per_split[split_name] = self.compute(split_preds)
+            per_split[split_name] = self.compute(split_preds, lang=split_name)
             all_preds.extend(split_preds)
         
         overall = self.compute(all_preds)
