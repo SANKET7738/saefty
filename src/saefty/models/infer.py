@@ -139,7 +139,7 @@ class InferenceEngine:
         layers: Optional[List[int]] = None,
     ) -> Dict[int, torch.Tensor]:
         acts = self.get_activations(prompt, layers)
-        return {l: a[0, -1, :] for l, a in acts.items()}
+        return {l: a[-1, :] if a.dim() == 2 else a[0, -1, :] for l, a in acts.items()}
     
     
     def get_activations_batch(
