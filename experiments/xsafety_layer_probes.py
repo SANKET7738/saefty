@@ -76,7 +76,7 @@ def collect_activations(
     if acts_path.exists() and meta_path.exists():
         print(f"loading cached activations from {acts_path}")
         raw = torch.load(acts_path, weights_only=True)
-        return {int(k): v.numpy() for k, v in raw.items()}
+        return {int(k): v.float().numpy() for k, v in raw.items()}
 
     print(f"collecting activations at all {engine.n_layers} layers...")
     prompts = [e["prompt"] for e in entries]
@@ -94,7 +94,7 @@ def collect_activations(
     # -> activations[layer] = np.array [N, d_model]
     activations = {}
     for layer_idx in all_layers:
-        stacked = torch.stack([pp[layer_idx] for pp in per_prompt])
+        stacked = torch.stack([pp[layer_idx] for pp in per_prompt]).float()
         activations[layer_idx] = stacked.numpy()
 
     # save cache
