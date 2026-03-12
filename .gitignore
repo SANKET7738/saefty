@@ -1,5 +1,6 @@
 # Local-only
 brainstorm/
+.local/
 
 # Model weights
 *.pt
@@ -26,3 +27,6 @@ Thumbs.db
 # Experiment tracking
 wandb/
 runs/
+
+# Heavy cached artifacts (activations, etc.)
+results/**/.cache/
