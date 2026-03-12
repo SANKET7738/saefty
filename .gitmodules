@@ -1,0 +1,3 @@
+[submodule "data/xsafety"]
+	path = data/xsafety
+	url = https://github.com/Jarviswang94/Multilingual_safety_benchmark.git

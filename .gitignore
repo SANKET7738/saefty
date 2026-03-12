@@ -1,0 +1,28 @@
+# Local-only
+brainstorm/
+
+# Model weights
+*.pt
+*.ckpt
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Experiment tracking
+wandb/
+runs/
