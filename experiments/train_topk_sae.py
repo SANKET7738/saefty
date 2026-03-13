@@ -22,7 +22,7 @@ def parse_args():
     parser.add_argument("--warmup-steps", type=int, default=1000)
     parser.add_argument("--k", type=int, default=32, help="number of active features per input")
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--lang", type=str, default="english,arabic,hindi")
+    parser.add_argument("--lang", type=str, default="english,standard_arabic,hindi")
     parser.add_argument("--dataset", type=str, default="CohereLabs/aya_collection_language_split")
     parser.add_argument("--output-dir", type=str, default="results/train_sae/topk")
     parser.add_argument("--eval-texts", type=int, default=50, help="number of texts for CE evaluation")

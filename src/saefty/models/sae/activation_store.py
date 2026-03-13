@@ -7,7 +7,7 @@ from datasets import load_dataset, interleave_datasets
 
 class ActivationStoreConfig(BaseModel):
     dataset: str = "CohereLabs/aya_collection_language_split"
-    languages: List[str] = ["english", "arabic", "hindi"]
+    languages: List[str] = ["english", "standard_arabic", "hindi"]
     hook_layer: int = 20
     seq_len: int = 128
     batch_size: int = 4096
