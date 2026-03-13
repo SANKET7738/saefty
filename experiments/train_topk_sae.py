@@ -21,6 +21,9 @@ def parse_args():
     parser.add_argument("--lr", type=float, default=2e-4)
     parser.add_argument("--warmup-steps", type=int, default=1000)
     parser.add_argument("--k", type=int, default=32, help="number of active features per input")
+    parser.add_argument("--auxk-alpha", type=float, default=0.0, help="auxiliary dead latent loss weight (0=off, 1/16=standard)")
+    parser.add_argument("--auxk", type=int, default=256, help="number of dead features to activate in aux pass")
+    parser.add_argument("--dead-steps-threshold", type=int, default=10, help="steps without firing = dead")
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--lang", type=str, default="english,standard_arabic,hindi")
     parser.add_argument("--dataset", type=str, default="CohereLabs/aya_collection_language_split")
@@ -68,6 +71,9 @@ def main():
         d_model=engine.d_model,
         expansion_factor=args.expansion_factor,
         k=args.k,
+        auxk_alpha=args.auxk_alpha,
+        auxk=args.auxk,
+        dead_steps_threshold=args.dead_steps_threshold,
         seed=args.seed,
     )
     sae = TopKSAE(sae_config)
@@ -127,6 +133,9 @@ def main():
         "lr": args.lr,
         "warmup_steps": args.warmup_steps,
         "k": args.k,
+        "auxk_alpha": args.auxk_alpha,
+        "auxk": args.auxk,
+        "dead_steps_threshold": args.dead_steps_threshold,
         "seed": args.seed,
         "languages": languages,
         "dataset": args.dataset,
