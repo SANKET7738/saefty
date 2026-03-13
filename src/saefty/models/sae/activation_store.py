@@ -2,34 +2,18 @@ import torch
 import numpy as np
 from pydantic import BaseModel
 from typing import Optional, List, Iterator
-from datasets import load_dataset
+from datasets import load_dataset, interleave_datasets
 
 
 class ActivationStoreConfig(BaseModel):
-    dataset: str = "CohereForAI/aya_dataset"
-    languages: List[str] = ["en", "ar", "hi"]
+    dataset: str = "CohereLabs/aya_collection_language_split"
+    languages: List[str] = ["english", "arabic", "hindi"]
     hook_layer: int = 20
     seq_len: int = 128
     batch_size: int = 4096
     buffer_size: int = 262144
     total_tokens: int = 5_000_000
     seed: int = 42
-
-
-LANG_CODE_TO_NAME = {
-    "en": "English",
-    "ar": "Arabic",
-    "hi": "Hindi",
-    "fr": "French",
-    "es": "Spanish",
-    "de": "German",
-    "zh": "Chinese",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "pt": "Portuguese",
-    "ru": "Russian",
-    "tr": "Turkish",
-}
 
 
 class ActivationStore:
@@ -43,29 +27,27 @@ class ActivationStore:
         self._tokens_collected = 0
         self._text_iter = None
 
-        # resolve language codes to full names for aya_dataset filtering
-        self._lang_names = set()
-        for lang in config.languages:
-            name = LANG_CODE_TO_NAME.get(lang)
-            if name:
-                self._lang_names.add(name)
-            else:
-                self._lang_names.add(lang)
-
 
     def _make_text_iterator(self) -> Iterator[str]:
-        ds = load_dataset(
-            self.config.dataset,
-            split="train",
-            streaming=True,
-        )
-        ds = ds.shuffle(seed=self.config.seed, buffer_size=10_000)
+        # load per-language subsets and interleave them
+        streams = []
+        for lang in self.config.languages:
+            ds = load_dataset(
+                self.config.dataset,
+                lang,
+                split="train",
+                streaming=True,
+            )
+            streams.append(ds)
 
-        for row in ds:
+        if len(streams) == 1:
+            combined = streams[0]
+        else:
+            combined = interleave_datasets(streams)
+        combined = combined.shuffle(seed=self.config.seed, buffer_size=10_000)
+
+        for row in combined:
             text = row.get("inputs", "") + " " + row.get("targets", "")
-            lang = row.get("language", "")
-            if self._lang_names and lang not in self._lang_names:
-                continue
             text = text.strip()
             if len(text) > 20:
                 yield text
