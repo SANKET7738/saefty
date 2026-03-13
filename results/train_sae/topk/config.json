@@ -9,11 +9,11 @@
   "k": 32,
   "seed": 42,
   "languages": [
-    "en",
-    "ar",
-    "hi"
+    "english",
+    "standard_arabic",
+    "hindi"
   ],
-  "dataset": "CohereForAI/aya_dataset",
-  "elapsed_seconds": 1550.5,
-  "elapsed_human": "25m 50s"
+  "dataset": "CohereLabs/aya_collection_language_split",
+  "elapsed_seconds": 1217.5,
+  "elapsed_human": "20m 17s"
 }
