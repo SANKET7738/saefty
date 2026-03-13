@@ -1,3 +1,12 @@
+"""
+Vanilla Sparse Autoencoder (ReLU + L1 penalty).
+
+Reference:
+    Bricken et al., "Towards Monosemanticity: Decomposing Language Models With Dictionary Learning"
+    Anthropic, Transformer Circuits Thread, 2023.
+    https://transformer-circuits.pub/2023/monosemantic-features/index.html
+"""
+
 import torch
 import torch.nn as nn
 from typing import Dict

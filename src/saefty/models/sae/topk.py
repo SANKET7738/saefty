@@ -1,3 +1,13 @@
+"""
+TopK Sparse Autoencoder (hard top-k sparsity, no L1 penalty).
+
+Reference:
+    Gao et al., "Scaling and Evaluating Sparse Autoencoders"
+    OpenAI, ICLR 2025. arXiv:2406.04093.
+    https://arxiv.org/abs/2406.04093
+    Code: https://github.com/openai/sparse_autoencoder
+"""
+
 import torch
 import torch.nn as nn
 from typing import Dict
