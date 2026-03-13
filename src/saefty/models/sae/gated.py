@@ -67,7 +67,7 @@ class GatedSAE(BaseSAE):
 
         # sparsity: L1 on ReLU of gate pre-activations (Eq. 8)
         gate_features = torch.relu(self._gate_pre_acts)
-        l1_loss = gate_features.mean()
+        l1_loss = gate_features.sum(dim=-1).mean()
 
         # auxiliary loss: frozen decoder reconstructs from ReLU(π_gate) (Eq. 8)
         # .detach() stops gradients flowing to W_dec/b_dec from this term

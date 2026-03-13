@@ -44,7 +44,7 @@ class VanillaSAE(BaseSAE):
 
     def loss(self, x: torch.Tensor, x_hat: torch.Tensor, features: torch.Tensor) -> Dict[str, torch.Tensor]:
         reconstruction_loss = (x - x_hat).pow(2).mean()
-        l1_loss = features.abs().mean()
+        l1_loss = features.abs().sum(dim=-1).mean()
         total_loss = reconstruction_loss + self.l1_coefficient * l1_loss
         return {
             "loss": total_loss,

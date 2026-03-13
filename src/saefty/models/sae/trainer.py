@@ -22,6 +22,8 @@ class SAETrainer:
         self.store = store
         self.config = config
         self.history: List[Dict[str, float]] = []
+        self._num_steps_since_fired: Optional[torch.Tensor] = None
+        self._dead_steps_threshold: int = 10
 
 
     def _get_lr(self, step: int) -> float:
@@ -54,9 +56,19 @@ class SAETrainer:
             optimizer.step()
             self.sae.normalize_decoder()
 
-            # compute L0 and dead fraction
+            # compute L0 and dead fraction (persistent tracking)
             l0 = (features > 0).float().sum(dim=-1).mean().item()
-            dead_fraction = (features.sum(dim=0) == 0).float().mean().item()
+
+            if self._num_steps_since_fired is None:
+                self._num_steps_since_fired = torch.zeros(
+                    features.shape[-1], dtype=torch.long, device=features.device
+                )
+            fired = (features > 0).any(dim=0)
+            self._num_steps_since_fired += 1
+            self._num_steps_since_fired[fired] = 0
+            dead_fraction = (
+                self._num_steps_since_fired > self._dead_steps_threshold
+            ).float().mean().item()
 
             record = {
                 "step": step,
