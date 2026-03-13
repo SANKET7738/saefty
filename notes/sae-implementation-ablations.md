@@ -33,6 +33,13 @@
 
 ![comparison](../results/train_sae/comparison/comparison.png)
 
+**Setup:**
+- **Model**: CohereLabs/tiny-aya-global (36 layers, d_model=2048)
+- **Dataset**: CohereLabs/aya_collection_language_split (english, standard_arabic, hindi)
+- **Training**: 5M tokens, layer 20, expansion factor 8x (d_sae=16384), batch size 4096, seed 42
+- **Hardware**: NVIDIA H100 GPU
+- **Avg time per run**: ~21 min
+
 
 ### Decision
 
