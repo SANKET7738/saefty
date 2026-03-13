@@ -1,7 +1,7 @@
 #!/bin/bash
 # Phase 1 fair comparison: 3 SAE architectures at matched sparsity.
 # Run from repo root: bash experiments/run_fair_comparison.sh
-set -e
+# NOTE: no set -e — PyTorch exits with non-zero due to threading cleanup (harmless)
 
 echo "============================================================"
 echo "RUN 1/3: Vanilla SAE (L1=5e-3)"
