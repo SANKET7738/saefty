@@ -91,11 +91,18 @@ class ActivationStore:
         if self._text_iter is None:
             self._text_iter = self._make_text_iterator()
 
+        n_langs = len(self.config.languages)
+        per_lang_budget = self.config.total_tokens / n_langs
+
         new_acts = []
         new_count = 0
         target = self.config.buffer_size - len(self._buffer)
 
         for text, lang in self._text_iter:
+            # skip texts from languages that have exceeded their token budget
+            if self._lang_token_counts[lang] >= per_lang_budget:
+                continue
+
             act = self._collect_activations_from_text(text)
             new_acts.append(act)
             n_tokens = act.shape[0]
