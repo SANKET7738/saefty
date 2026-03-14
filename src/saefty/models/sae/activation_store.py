@@ -1,7 +1,8 @@
 import torch
 import numpy as np
+from collections import defaultdict
 from pydantic import BaseModel
-from typing import Optional, List, Iterator
+from typing import Optional, List, Iterator, Dict
 from datasets import load_dataset, interleave_datasets
 
 
@@ -26,9 +27,10 @@ class ActivationStore:
         self._buffer = torch.empty(0, self.d_model)
         self._tokens_collected = 0
         self._text_iter = None
+        self._lang_token_counts: Dict[str, int] = defaultdict(int)
 
 
-    def _make_text_iterator(self) -> Iterator[str]:
+    def _make_text_iterator(self) -> Iterator[tuple[str, str]]:
         # load per-language subsets and interleave them
         streams = []
         for lang in self.config.languages:
@@ -43,14 +45,17 @@ class ActivationStore:
         if len(streams) == 1:
             combined = streams[0]
         else:
-            combined = interleave_datasets(streams)
+            combined = interleave_datasets(
+                streams, stopping_strategy="all_exhausted",
+            )
         combined = combined.shuffle(seed=self.config.seed, buffer_size=10_000)
 
         for row in combined:
             text = row.get("inputs", "") + " " + row.get("targets", "")
             text = text.strip()
             if len(text) > 20:
-                yield text
+                lang = row.get("language", "unknown")
+                yield text, lang
 
 
     def _collect_activations_from_text(self, text: str) -> torch.Tensor:
@@ -90,11 +95,13 @@ class ActivationStore:
         new_count = 0
         target = self.config.buffer_size - len(self._buffer)
 
-        for text in self._text_iter:
+        for text, lang in self._text_iter:
             act = self._collect_activations_from_text(text)
             new_acts.append(act)
-            new_count += act.shape[0]
-            self._tokens_collected += act.shape[0]
+            n_tokens = act.shape[0]
+            new_count += n_tokens
+            self._tokens_collected += n_tokens
+            self._lang_token_counts[lang] += n_tokens
 
             if new_count >= target:
                 break
@@ -109,14 +116,25 @@ class ActivationStore:
         perm = self._rng.permutation(len(self._buffer))
         self._buffer = self._buffer[perm]
 
+        lang_summary = ", ".join(
+            f"{lang}: {count:,}" for lang, count in
+            sorted(self._lang_token_counts.items(), key=lambda x: -x[1])
+        )
         print(f"buffer filled: {len(self._buffer)} activations, "
               f"total tokens seen: {self._tokens_collected:,}")
+        print(f"  per-language: {lang_summary}")
+
+
+    @property
+    def language_token_counts(self) -> Dict[str, int]:
+        return dict(self._lang_token_counts)
 
 
     def __iter__(self) -> Iterator[torch.Tensor]:
         self._tokens_collected = 0
         self._text_iter = None
         self._buffer = torch.empty(0, self.d_model)
+        self._lang_token_counts = defaultdict(int)
 
         while self._tokens_collected < self.config.total_tokens:
             if len(self._buffer) < self.config.batch_size:
@@ -133,3 +151,8 @@ class ActivationStore:
             yield batch
 
         print(f"activation store exhausted: {self._tokens_collected:,} tokens total")
+        lang_summary = ", ".join(
+            f"{lang}: {count:,}" for lang, count in
+            sorted(self._lang_token_counts.items(), key=lambda x: -x[1])
+        )
+        print(f"  final per-language counts: {lang_summary}")

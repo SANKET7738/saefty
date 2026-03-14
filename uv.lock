@@ -1933,6 +1933,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "datasets" },
+    { name = "huggingface-hub" },
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "pandas" },
@@ -1949,6 +1950,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "datasets" },
+    { name = "huggingface-hub" },
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "pandas" },

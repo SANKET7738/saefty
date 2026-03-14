@@ -16,6 +16,7 @@ dependencies = [
     "pyyaml",
     "tensorboard",
     "datasets",
+    "huggingface-hub",
 ]
 
 [build-system]

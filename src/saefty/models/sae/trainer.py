@@ -92,7 +92,7 @@ class SAETrainer:
 
 
     def _save_checkpoint(self, step: int):
-        out = Path(self.config.output_dir) / ".cache"
+        out = Path(self.config.output_dir) / "checkpoints"
         out.mkdir(parents=True, exist_ok=True)
         path = out / f"sae_step_{step}.pt"
         torch.save(self.sae.state_dict(), path)
@@ -110,10 +110,10 @@ class SAETrainer:
         print(f"training log saved: {log_path}")
 
         # final checkpoint
-        cache = out / ".cache"
-        cache.mkdir(parents=True, exist_ok=True)
-        torch.save(self.sae.state_dict(), cache / "sae_final.pt")
-        print(f"final weights saved: {cache / 'sae_final.pt'}")
+        checkpoints = out / "checkpoints"
+        checkpoints.mkdir(parents=True, exist_ok=True)
+        torch.save(self.sae.state_dict(), checkpoints / "sae_final.pt")
+        print(f"final weights saved: {checkpoints / 'sae_final.pt'}")
 
         # summary metrics
         if self.history:

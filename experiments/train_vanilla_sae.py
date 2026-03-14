@@ -104,7 +104,7 @@ def main():
     print("evaluating CE recovered...")
     eval_texts = []
     text_iter = eval_store._make_text_iterator()
-    for text in text_iter:
+    for text, _lang in text_iter:
         eval_texts.append(text)
         if len(eval_texts) >= args.eval_texts:
             break
