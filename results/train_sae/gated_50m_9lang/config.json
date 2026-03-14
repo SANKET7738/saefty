@@ -1,0 +1,28 @@
+{
+  "model": "CohereLabs/tiny-aya-global",
+  "hook_layer": 20,
+  "expansion_factor": 8,
+  "d_model": 2048,
+  "d_sae": 16384,
+  "training_tokens": 50000000,
+  "batch_size": 4096,
+  "lr": 0.0002,
+  "warmup_steps": 1000,
+  "l1_coefficient": 0.0005,
+  "checkpoint_every": 2000,
+  "seed": 42,
+  "languages": [
+    "english",
+    "standard_arabic",
+    "german",
+    "spanish",
+    "french",
+    "hindi",
+    "japanese",
+    "bengali",
+    "simplified_chinese"
+  ],
+  "dataset": "CohereLabs/aya_collection_language_split",
+  "elapsed_seconds": 12432.4,
+  "elapsed_human": "3h 27m 12s"
+}

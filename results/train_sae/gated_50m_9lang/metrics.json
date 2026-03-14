@@ -1,0 +1,17 @@
+{
+  "final_loss": 0.38710254430770874,
+  "final_reconstruction_loss": 0.04410024732351303,
+  "final_l0": 719.6904296875,
+  "final_dead_fraction": 0.00048828125,
+  "total_steps": 12161,
+  "reconstruction_mse": 0.09438390284776688,
+  "cosine_similarity": 0.9508274793624878,
+  "l0": 1223.821533203125,
+  "dead_fraction": 0.00018310546875,
+  "explained_variance": 0.9861038926620228,
+  "num_eval_samples": 4096,
+  "normal_ce": 3.9210575723648073,
+  "sae_ce": 3.925428900718689,
+  "ce_recovered": 0.9988851659856539,
+  "num_eval_texts": 50
+}
