@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
 """Standalone script to upload trained SAE artifacts to HuggingFace Hub.
 
+Reads HF_TOKEN, HF_REPO, and HF_MODEL_NAME from .env file automatically.
+
 Usage:
-  source .env && python experiments/upload_to_hf.py \
+  python experiments/upload_to_hf.py \
+    --output-dir results/train_sae/gated_50m_9lang
+
+  # Override .env values via CLI:
+  python experiments/upload_to_hf.py \
     --output-dir results/train_sae/gated_50m_9lang \
     --hf-repo YOUR_USERNAME/saefty \
     --hf-model-name gated-50m-9lang
@@ -11,6 +17,23 @@ import argparse
 import json
 import os
 from pathlib import Path
+
+
+def load_dotenv(path=".env"):
+    """Load key=value pairs from a .env file into os.environ."""
+    env_path = Path(path)
+    if not env_path.exists():
+        return
+    for line in env_path.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key = key.strip()
+        value = value.strip().strip("'").strip('"')
+        os.environ.setdefault(key, value)
 
 
 def generate_model_card(config, metrics, lang_counts):
@@ -72,16 +95,23 @@ sae.load_state_dict(state["sae_state_dict"])
 
 
 def main():
+    load_dotenv()
+
     parser = argparse.ArgumentParser(description="Upload SAE artifacts to HuggingFace Hub")
     parser.add_argument("--output-dir", required=True, help="Path to training output directory")
-    parser.add_argument("--hf-repo", required=True, help="HuggingFace repo ID (e.g. username/saefty)")
-    parser.add_argument("--hf-model-name", default=None, help="Subdirectory name in repo (default: output dir name)")
+    parser.add_argument("--hf-repo", default=os.environ.get("HF_REPO"),
+                        help="HuggingFace repo ID (default: HF_REPO from .env)")
+    parser.add_argument("--hf-model-name", default=os.environ.get("HF_MODEL_NAME"),
+                        help="Subdirectory name in repo (default: HF_MODEL_NAME from .env, or output dir name)")
     args = parser.parse_args()
+
+    if not args.hf_repo:
+        print("ERROR: --hf-repo not set and HF_REPO not found in .env")
+        return 1
 
     token = os.environ.get("HF_TOKEN")
     if not token:
-        print("ERROR: HF_TOKEN not set. Export it or source your .env file.")
-        print("  export HF_TOKEN=hf_...")
+        print("ERROR: HF_TOKEN not found in .env or environment.")
         return 1
 
     try:
