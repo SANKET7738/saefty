@@ -1,0 +1,2272 @@
+{
+  "per_language": {
+    "english": [
+      {
+        "rank": 1,
+        "feature_id": 15726,
+        "selectivity": 9.661679
+      },
+      {
+        "rank": 2,
+        "feature_id": 8241,
+        "selectivity": 9.477616
+      },
+      {
+        "rank": 3,
+        "feature_id": 3391,
+        "selectivity": 9.373598
+      },
+      {
+        "rank": 4,
+        "feature_id": 8747,
+        "selectivity": 9.335894
+      },
+      {
+        "rank": 5,
+        "feature_id": 883,
+        "selectivity": 8.61406
+      },
+      {
+        "rank": 6,
+        "feature_id": 15621,
+        "selectivity": 8.358181
+      },
+      {
+        "rank": 7,
+        "feature_id": 3965,
+        "selectivity": 8.171576
+      },
+      {
+        "rank": 8,
+        "feature_id": 9840,
+        "selectivity": 7.930583
+      },
+      {
+        "rank": 9,
+        "feature_id": 2603,
+        "selectivity": 7.750911
+      },
+      {
+        "rank": 10,
+        "feature_id": 15779,
+        "selectivity": 7.747764
+      },
+      {
+        "rank": 11,
+        "feature_id": 2202,
+        "selectivity": 7.658101
+      },
+      {
+        "rank": 12,
+        "feature_id": 6547,
+        "selectivity": 7.59573
+      },
+      {
+        "rank": 13,
+        "feature_id": 11678,
+        "selectivity": 7.402998
+      },
+      {
+        "rank": 14,
+        "feature_id": 375,
+        "selectivity": 7.37437
+      },
+      {
+        "rank": 15,
+        "feature_id": 10905,
+        "selectivity": 7.273358
+      },
+      {
+        "rank": 16,
+        "feature_id": 4875,
+        "selectivity": 6.413381
+      },
+      {
+        "rank": 17,
+        "feature_id": 10609,
+        "selectivity": 6.222742
+      },
+      {
+        "rank": 18,
+        "feature_id": 761,
+        "selectivity": 6.028027
+      },
+      {
+        "rank": 19,
+        "feature_id": 15916,
+        "selectivity": 5.339745
+      },
+      {
+        "rank": 20,
+        "feature_id": 11733,
+        "selectivity": 4.831713
+      },
+      {
+        "rank": 21,
+        "feature_id": 10630,
+        "selectivity": 4.798769
+      },
+      {
+        "rank": 22,
+        "feature_id": 11920,
+        "selectivity": 4.628554
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 4.047256
+      },
+      {
+        "rank": 24,
+        "feature_id": 12982,
+        "selectivity": 3.263809
+      },
+      {
+        "rank": 25,
+        "feature_id": 3945,
+        "selectivity": 2.319685
+      },
+      {
+        "rank": 26,
+        "feature_id": 5743,
+        "selectivity": 1.961632
+      },
+      {
+        "rank": 27,
+        "feature_id": 738,
+        "selectivity": 1.222736
+      },
+      {
+        "rank": 28,
+        "feature_id": 6988,
+        "selectivity": 0.86574
+      },
+      {
+        "rank": 29,
+        "feature_id": 4349,
+        "selectivity": 0.864489
+      },
+      {
+        "rank": 30,
+        "feature_id": 5629,
+        "selectivity": 0.715956
+      },
+      {
+        "rank": 31,
+        "feature_id": 6169,
+        "selectivity": 0.702766
+      },
+      {
+        "rank": 32,
+        "feature_id": 14399,
+        "selectivity": 0.692456
+      },
+      {
+        "rank": 33,
+        "feature_id": 7742,
+        "selectivity": 0.493932
+      },
+      {
+        "rank": 34,
+        "feature_id": 2887,
+        "selectivity": 0.465322
+      },
+      {
+        "rank": 35,
+        "feature_id": 13845,
+        "selectivity": 0.46486
+      },
+      {
+        "rank": 36,
+        "feature_id": 10237,
+        "selectivity": 0.431091
+      },
+      {
+        "rank": 37,
+        "feature_id": 6089,
+        "selectivity": 0.429953
+      },
+      {
+        "rank": 38,
+        "feature_id": 10222,
+        "selectivity": 0.426388
+      },
+      {
+        "rank": 39,
+        "feature_id": 15161,
+        "selectivity": 0.424792
+      },
+      {
+        "rank": 40,
+        "feature_id": 12004,
+        "selectivity": 0.416607
+      },
+      {
+        "rank": 41,
+        "feature_id": 13967,
+        "selectivity": 0.412924
+      },
+      {
+        "rank": 42,
+        "feature_id": 11182,
+        "selectivity": 0.405797
+      },
+      {
+        "rank": 43,
+        "feature_id": 5243,
+        "selectivity": 0.399502
+      },
+      {
+        "rank": 44,
+        "feature_id": 16017,
+        "selectivity": 0.388302
+      },
+      {
+        "rank": 45,
+        "feature_id": 3536,
+        "selectivity": 0.381846
+      },
+      {
+        "rank": 46,
+        "feature_id": 13256,
+        "selectivity": 0.367636
+      },
+      {
+        "rank": 47,
+        "feature_id": 8585,
+        "selectivity": 0.363736
+      },
+      {
+        "rank": 48,
+        "feature_id": 6785,
+        "selectivity": 0.361508
+      },
+      {
+        "rank": 49,
+        "feature_id": 12305,
+        "selectivity": 0.344528
+      },
+      {
+        "rank": 50,
+        "feature_id": 11760,
+        "selectivity": 0.33424
+      }
+    ],
+    "standard_arabic": [
+      {
+        "rank": 1,
+        "feature_id": 8241,
+        "selectivity": 6.584704
+      },
+      {
+        "rank": 2,
+        "feature_id": 15726,
+        "selectivity": 6.556794
+      },
+      {
+        "rank": 3,
+        "feature_id": 3391,
+        "selectivity": 6.380229
+      },
+      {
+        "rank": 4,
+        "feature_id": 8747,
+        "selectivity": 6.20681
+      },
+      {
+        "rank": 5,
+        "feature_id": 883,
+        "selectivity": 5.752561
+      },
+      {
+        "rank": 6,
+        "feature_id": 15621,
+        "selectivity": 5.573843
+      },
+      {
+        "rank": 7,
+        "feature_id": 4875,
+        "selectivity": 5.479838
+      },
+      {
+        "rank": 8,
+        "feature_id": 3965,
+        "selectivity": 5.472753
+      },
+      {
+        "rank": 9,
+        "feature_id": 2202,
+        "selectivity": 5.383137
+      },
+      {
+        "rank": 10,
+        "feature_id": 9840,
+        "selectivity": 5.30936
+      },
+      {
+        "rank": 11,
+        "feature_id": 15779,
+        "selectivity": 5.274711
+      },
+      {
+        "rank": 12,
+        "feature_id": 2603,
+        "selectivity": 5.181007
+      },
+      {
+        "rank": 13,
+        "feature_id": 11678,
+        "selectivity": 5.153018
+      },
+      {
+        "rank": 14,
+        "feature_id": 375,
+        "selectivity": 5.10148
+      },
+      {
+        "rank": 15,
+        "feature_id": 10905,
+        "selectivity": 5.051198
+      },
+      {
+        "rank": 16,
+        "feature_id": 6547,
+        "selectivity": 4.996002
+      },
+      {
+        "rank": 17,
+        "feature_id": 15916,
+        "selectivity": 4.340353
+      },
+      {
+        "rank": 18,
+        "feature_id": 761,
+        "selectivity": 4.216659
+      },
+      {
+        "rank": 19,
+        "feature_id": 10609,
+        "selectivity": 4.200727
+      },
+      {
+        "rank": 20,
+        "feature_id": 11733,
+        "selectivity": 3.408778
+      },
+      {
+        "rank": 21,
+        "feature_id": 11920,
+        "selectivity": 3.268205
+      },
+      {
+        "rank": 22,
+        "feature_id": 10630,
+        "selectivity": 3.223568
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 2.768393
+      },
+      {
+        "rank": 24,
+        "feature_id": 12982,
+        "selectivity": 2.314989
+      },
+      {
+        "rank": 25,
+        "feature_id": 3945,
+        "selectivity": 1.810408
+      },
+      {
+        "rank": 26,
+        "feature_id": 5743,
+        "selectivity": 1.591684
+      },
+      {
+        "rank": 27,
+        "feature_id": 738,
+        "selectivity": 1.115291
+      },
+      {
+        "rank": 28,
+        "feature_id": 4349,
+        "selectivity": 0.916201
+      },
+      {
+        "rank": 29,
+        "feature_id": 6988,
+        "selectivity": 0.697665
+      },
+      {
+        "rank": 30,
+        "feature_id": 14399,
+        "selectivity": 0.63681
+      },
+      {
+        "rank": 31,
+        "feature_id": 5629,
+        "selectivity": 0.551483
+      },
+      {
+        "rank": 32,
+        "feature_id": 6169,
+        "selectivity": 0.435634
+      },
+      {
+        "rank": 33,
+        "feature_id": 13967,
+        "selectivity": 0.404475
+      },
+      {
+        "rank": 34,
+        "feature_id": 10237,
+        "selectivity": 0.401977
+      },
+      {
+        "rank": 35,
+        "feature_id": 13845,
+        "selectivity": 0.373991
+      },
+      {
+        "rank": 36,
+        "feature_id": 15161,
+        "selectivity": 0.344337
+      },
+      {
+        "rank": 37,
+        "feature_id": 7742,
+        "selectivity": 0.343864
+      },
+      {
+        "rank": 38,
+        "feature_id": 2887,
+        "selectivity": 0.342412
+      },
+      {
+        "rank": 39,
+        "feature_id": 8585,
+        "selectivity": 0.339336
+      },
+      {
+        "rank": 40,
+        "feature_id": 11182,
+        "selectivity": 0.335167
+      },
+      {
+        "rank": 41,
+        "feature_id": 16017,
+        "selectivity": 0.303664
+      },
+      {
+        "rank": 42,
+        "feature_id": 10222,
+        "selectivity": 0.293944
+      },
+      {
+        "rank": 43,
+        "feature_id": 11760,
+        "selectivity": 0.289572
+      },
+      {
+        "rank": 44,
+        "feature_id": 12305,
+        "selectivity": 0.288164
+      },
+      {
+        "rank": 45,
+        "feature_id": 13948,
+        "selectivity": 0.281119
+      },
+      {
+        "rank": 46,
+        "feature_id": 10663,
+        "selectivity": 0.280375
+      },
+      {
+        "rank": 47,
+        "feature_id": 6089,
+        "selectivity": 0.279323
+      },
+      {
+        "rank": 48,
+        "feature_id": 5243,
+        "selectivity": 0.246347
+      },
+      {
+        "rank": 49,
+        "feature_id": 5169,
+        "selectivity": 0.246004
+      },
+      {
+        "rank": 50,
+        "feature_id": 11977,
+        "selectivity": 0.242635
+      }
+    ],
+    "german": [
+      {
+        "rank": 1,
+        "feature_id": 4875,
+        "selectivity": 5.681109
+      },
+      {
+        "rank": 2,
+        "feature_id": 8241,
+        "selectivity": 5.643884
+      },
+      {
+        "rank": 3,
+        "feature_id": 15726,
+        "selectivity": 5.575654
+      },
+      {
+        "rank": 4,
+        "feature_id": 8747,
+        "selectivity": 5.079095
+      },
+      {
+        "rank": 5,
+        "feature_id": 3391,
+        "selectivity": 5.02971
+      },
+      {
+        "rank": 6,
+        "feature_id": 15621,
+        "selectivity": 4.788054
+      },
+      {
+        "rank": 7,
+        "feature_id": 15916,
+        "selectivity": 4.780478
+      },
+      {
+        "rank": 8,
+        "feature_id": 883,
+        "selectivity": 4.593305
+      },
+      {
+        "rank": 9,
+        "feature_id": 3965,
+        "selectivity": 4.412512
+      },
+      {
+        "rank": 10,
+        "feature_id": 2202,
+        "selectivity": 4.393511
+      },
+      {
+        "rank": 11,
+        "feature_id": 11678,
+        "selectivity": 4.334122
+      },
+      {
+        "rank": 12,
+        "feature_id": 15779,
+        "selectivity": 4.297076
+      },
+      {
+        "rank": 13,
+        "feature_id": 9840,
+        "selectivity": 4.291609
+      },
+      {
+        "rank": 14,
+        "feature_id": 2603,
+        "selectivity": 4.287809
+      },
+      {
+        "rank": 15,
+        "feature_id": 6547,
+        "selectivity": 4.185553
+      },
+      {
+        "rank": 16,
+        "feature_id": 10905,
+        "selectivity": 4.167836
+      },
+      {
+        "rank": 17,
+        "feature_id": 375,
+        "selectivity": 4.084673
+      },
+      {
+        "rank": 18,
+        "feature_id": 10609,
+        "selectivity": 3.336805
+      },
+      {
+        "rank": 19,
+        "feature_id": 761,
+        "selectivity": 3.288596
+      },
+      {
+        "rank": 20,
+        "feature_id": 11920,
+        "selectivity": 2.872368
+      },
+      {
+        "rank": 21,
+        "feature_id": 11733,
+        "selectivity": 2.677132
+      },
+      {
+        "rank": 22,
+        "feature_id": 10630,
+        "selectivity": 2.657947
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 2.315226
+      },
+      {
+        "rank": 24,
+        "feature_id": 3945,
+        "selectivity": 2.035095
+      },
+      {
+        "rank": 25,
+        "feature_id": 5743,
+        "selectivity": 1.850786
+      },
+      {
+        "rank": 26,
+        "feature_id": 12982,
+        "selectivity": 1.689758
+      },
+      {
+        "rank": 27,
+        "feature_id": 4349,
+        "selectivity": 1.179639
+      },
+      {
+        "rank": 28,
+        "feature_id": 738,
+        "selectivity": 1.158761
+      },
+      {
+        "rank": 29,
+        "feature_id": 14325,
+        "selectivity": 0.639178
+      },
+      {
+        "rank": 30,
+        "feature_id": 14252,
+        "selectivity": 0.614711
+      },
+      {
+        "rank": 31,
+        "feature_id": 5629,
+        "selectivity": 0.530947
+      },
+      {
+        "rank": 32,
+        "feature_id": 6785,
+        "selectivity": 0.495047
+      },
+      {
+        "rank": 33,
+        "feature_id": 6988,
+        "selectivity": 0.487568
+      },
+      {
+        "rank": 34,
+        "feature_id": 6169,
+        "selectivity": 0.475101
+      },
+      {
+        "rank": 35,
+        "feature_id": 14399,
+        "selectivity": 0.469462
+      },
+      {
+        "rank": 36,
+        "feature_id": 13845,
+        "selectivity": 0.434392
+      },
+      {
+        "rank": 37,
+        "feature_id": 15161,
+        "selectivity": 0.387025
+      },
+      {
+        "rank": 38,
+        "feature_id": 2887,
+        "selectivity": 0.35046
+      },
+      {
+        "rank": 39,
+        "feature_id": 5169,
+        "selectivity": 0.315869
+      },
+      {
+        "rank": 40,
+        "feature_id": 13967,
+        "selectivity": 0.312667
+      },
+      {
+        "rank": 41,
+        "feature_id": 13948,
+        "selectivity": 0.293248
+      },
+      {
+        "rank": 42,
+        "feature_id": 6089,
+        "selectivity": 0.290655
+      },
+      {
+        "rank": 43,
+        "feature_id": 10222,
+        "selectivity": 0.280374
+      },
+      {
+        "rank": 44,
+        "feature_id": 13675,
+        "selectivity": 0.275136
+      },
+      {
+        "rank": 45,
+        "feature_id": 10237,
+        "selectivity": 0.261845
+      },
+      {
+        "rank": 46,
+        "feature_id": 7742,
+        "selectivity": 0.254809
+      },
+      {
+        "rank": 47,
+        "feature_id": 11086,
+        "selectivity": 0.254586
+      },
+      {
+        "rank": 48,
+        "feature_id": 3536,
+        "selectivity": 0.248078
+      },
+      {
+        "rank": 49,
+        "feature_id": 8585,
+        "selectivity": 0.247092
+      },
+      {
+        "rank": 50,
+        "feature_id": 5571,
+        "selectivity": 0.245549
+      }
+    ],
+    "spanish": [
+      {
+        "rank": 1,
+        "feature_id": 8241,
+        "selectivity": 7.218891
+      },
+      {
+        "rank": 2,
+        "feature_id": 15726,
+        "selectivity": 6.909602
+      },
+      {
+        "rank": 3,
+        "feature_id": 3391,
+        "selectivity": 6.226822
+      },
+      {
+        "rank": 4,
+        "feature_id": 8747,
+        "selectivity": 6.154405
+      },
+      {
+        "rank": 5,
+        "feature_id": 15621,
+        "selectivity": 5.981858
+      },
+      {
+        "rank": 6,
+        "feature_id": 4875,
+        "selectivity": 5.97142
+      },
+      {
+        "rank": 7,
+        "feature_id": 883,
+        "selectivity": 5.655976
+      },
+      {
+        "rank": 8,
+        "feature_id": 2202,
+        "selectivity": 5.440314
+      },
+      {
+        "rank": 9,
+        "feature_id": 3965,
+        "selectivity": 5.429615
+      },
+      {
+        "rank": 10,
+        "feature_id": 10905,
+        "selectivity": 5.390749
+      },
+      {
+        "rank": 11,
+        "feature_id": 11678,
+        "selectivity": 5.33802
+      },
+      {
+        "rank": 12,
+        "feature_id": 15779,
+        "selectivity": 5.325854
+      },
+      {
+        "rank": 13,
+        "feature_id": 9840,
+        "selectivity": 5.284531
+      },
+      {
+        "rank": 14,
+        "feature_id": 6547,
+        "selectivity": 5.25614
+      },
+      {
+        "rank": 15,
+        "feature_id": 2603,
+        "selectivity": 5.181699
+      },
+      {
+        "rank": 16,
+        "feature_id": 375,
+        "selectivity": 5.144876
+      },
+      {
+        "rank": 17,
+        "feature_id": 15916,
+        "selectivity": 4.784431
+      },
+      {
+        "rank": 18,
+        "feature_id": 10609,
+        "selectivity": 4.087317
+      },
+      {
+        "rank": 19,
+        "feature_id": 761,
+        "selectivity": 4.031309
+      },
+      {
+        "rank": 20,
+        "feature_id": 11920,
+        "selectivity": 3.530275
+      },
+      {
+        "rank": 21,
+        "feature_id": 11733,
+        "selectivity": 3.423104
+      },
+      {
+        "rank": 22,
+        "feature_id": 10630,
+        "selectivity": 3.421191
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 2.83854
+      },
+      {
+        "rank": 24,
+        "feature_id": 12982,
+        "selectivity": 2.253673
+      },
+      {
+        "rank": 25,
+        "feature_id": 3945,
+        "selectivity": 2.21221
+      },
+      {
+        "rank": 26,
+        "feature_id": 5743,
+        "selectivity": 1.79063
+      },
+      {
+        "rank": 27,
+        "feature_id": 738,
+        "selectivity": 1.148921
+      },
+      {
+        "rank": 28,
+        "feature_id": 4349,
+        "selectivity": 0.998583
+      },
+      {
+        "rank": 29,
+        "feature_id": 6988,
+        "selectivity": 0.72778
+      },
+      {
+        "rank": 30,
+        "feature_id": 14399,
+        "selectivity": 0.643868
+      },
+      {
+        "rank": 31,
+        "feature_id": 5629,
+        "selectivity": 0.570385
+      },
+      {
+        "rank": 32,
+        "feature_id": 13845,
+        "selectivity": 0.446048
+      },
+      {
+        "rank": 33,
+        "feature_id": 6169,
+        "selectivity": 0.41782
+      },
+      {
+        "rank": 34,
+        "feature_id": 2887,
+        "selectivity": 0.400306
+      },
+      {
+        "rank": 35,
+        "feature_id": 6785,
+        "selectivity": 0.389528
+      },
+      {
+        "rank": 36,
+        "feature_id": 13967,
+        "selectivity": 0.378763
+      },
+      {
+        "rank": 37,
+        "feature_id": 11182,
+        "selectivity": 0.357036
+      },
+      {
+        "rank": 38,
+        "feature_id": 5894,
+        "selectivity": 0.350855
+      },
+      {
+        "rank": 39,
+        "feature_id": 15161,
+        "selectivity": 0.349319
+      },
+      {
+        "rank": 40,
+        "feature_id": 8585,
+        "selectivity": 0.346922
+      },
+      {
+        "rank": 41,
+        "feature_id": 16017,
+        "selectivity": 0.333747
+      },
+      {
+        "rank": 42,
+        "feature_id": 6089,
+        "selectivity": 0.333152
+      },
+      {
+        "rank": 43,
+        "feature_id": 7742,
+        "selectivity": 0.322849
+      },
+      {
+        "rank": 44,
+        "feature_id": 13948,
+        "selectivity": 0.306247
+      },
+      {
+        "rank": 45,
+        "feature_id": 10222,
+        "selectivity": 0.303513
+      },
+      {
+        "rank": 46,
+        "feature_id": 5169,
+        "selectivity": 0.291318
+      },
+      {
+        "rank": 47,
+        "feature_id": 13256,
+        "selectivity": 0.285924
+      },
+      {
+        "rank": 48,
+        "feature_id": 12305,
+        "selectivity": 0.283
+      },
+      {
+        "rank": 49,
+        "feature_id": 12004,
+        "selectivity": 0.26791
+      },
+      {
+        "rank": 50,
+        "feature_id": 1427,
+        "selectivity": 0.267854
+      }
+    ],
+    "french": [
+      {
+        "rank": 1,
+        "feature_id": 4875,
+        "selectivity": 4.967437
+      },
+      {
+        "rank": 2,
+        "feature_id": 8241,
+        "selectivity": 4.33378
+      },
+      {
+        "rank": 3,
+        "feature_id": 15726,
+        "selectivity": 3.866148
+      },
+      {
+        "rank": 4,
+        "feature_id": 15916,
+        "selectivity": 3.831871
+      },
+      {
+        "rank": 5,
+        "feature_id": 15621,
+        "selectivity": 3.377784
+      },
+      {
+        "rank": 6,
+        "feature_id": 3391,
+        "selectivity": 3.260112
+      },
+      {
+        "rank": 7,
+        "feature_id": 8747,
+        "selectivity": 3.247055
+      },
+      {
+        "rank": 8,
+        "feature_id": 10905,
+        "selectivity": 3.235546
+      },
+      {
+        "rank": 9,
+        "feature_id": 11678,
+        "selectivity": 3.148442
+      },
+      {
+        "rank": 10,
+        "feature_id": 2202,
+        "selectivity": 3.072601
+      },
+      {
+        "rank": 11,
+        "feature_id": 883,
+        "selectivity": 2.995267
+      },
+      {
+        "rank": 12,
+        "feature_id": 15779,
+        "selectivity": 2.882852
+      },
+      {
+        "rank": 13,
+        "feature_id": 2603,
+        "selectivity": 2.86591
+      },
+      {
+        "rank": 14,
+        "feature_id": 375,
+        "selectivity": 2.844682
+      },
+      {
+        "rank": 15,
+        "feature_id": 9840,
+        "selectivity": 2.835043
+      },
+      {
+        "rank": 16,
+        "feature_id": 3965,
+        "selectivity": 2.82596
+      },
+      {
+        "rank": 17,
+        "feature_id": 6547,
+        "selectivity": 2.669975
+      },
+      {
+        "rank": 18,
+        "feature_id": 761,
+        "selectivity": 2.232913
+      },
+      {
+        "rank": 19,
+        "feature_id": 11920,
+        "selectivity": 2.148628
+      },
+      {
+        "rank": 20,
+        "feature_id": 10609,
+        "selectivity": 2.110717
+      },
+      {
+        "rank": 21,
+        "feature_id": 10630,
+        "selectivity": 1.92007
+      },
+      {
+        "rank": 22,
+        "feature_id": 11733,
+        "selectivity": 1.839333
+      },
+      {
+        "rank": 23,
+        "feature_id": 3945,
+        "selectivity": 1.733826
+      },
+      {
+        "rank": 24,
+        "feature_id": 8600,
+        "selectivity": 1.616863
+      },
+      {
+        "rank": 25,
+        "feature_id": 5743,
+        "selectivity": 1.441198
+      },
+      {
+        "rank": 26,
+        "feature_id": 738,
+        "selectivity": 1.292887
+      },
+      {
+        "rank": 27,
+        "feature_id": 12982,
+        "selectivity": 1.223621
+      },
+      {
+        "rank": 28,
+        "feature_id": 4349,
+        "selectivity": 1.042107
+      },
+      {
+        "rank": 29,
+        "feature_id": 6988,
+        "selectivity": 0.890171
+      },
+      {
+        "rank": 30,
+        "feature_id": 14860,
+        "selectivity": 0.750906
+      },
+      {
+        "rank": 31,
+        "feature_id": 14399,
+        "selectivity": 0.468014
+      },
+      {
+        "rank": 32,
+        "feature_id": 13845,
+        "selectivity": 0.447121
+      },
+      {
+        "rank": 33,
+        "feature_id": 5629,
+        "selectivity": 0.422663
+      },
+      {
+        "rank": 34,
+        "feature_id": 4436,
+        "selectivity": 0.41726
+      },
+      {
+        "rank": 35,
+        "feature_id": 6785,
+        "selectivity": 0.407271
+      },
+      {
+        "rank": 36,
+        "feature_id": 15161,
+        "selectivity": 0.383775
+      },
+      {
+        "rank": 37,
+        "feature_id": 2887,
+        "selectivity": 0.302107
+      },
+      {
+        "rank": 38,
+        "feature_id": 13967,
+        "selectivity": 0.293555
+      },
+      {
+        "rank": 39,
+        "feature_id": 8585,
+        "selectivity": 0.269022
+      },
+      {
+        "rank": 40,
+        "feature_id": 5169,
+        "selectivity": 0.262985
+      },
+      {
+        "rank": 41,
+        "feature_id": 13948,
+        "selectivity": 0.261965
+      },
+      {
+        "rank": 42,
+        "feature_id": 13165,
+        "selectivity": 0.255
+      },
+      {
+        "rank": 43,
+        "feature_id": 16017,
+        "selectivity": 0.231538
+      },
+      {
+        "rank": 44,
+        "feature_id": 6169,
+        "selectivity": 0.221707
+      },
+      {
+        "rank": 45,
+        "feature_id": 10237,
+        "selectivity": 0.213488
+      },
+      {
+        "rank": 46,
+        "feature_id": 9452,
+        "selectivity": 0.208652
+      },
+      {
+        "rank": 47,
+        "feature_id": 11182,
+        "selectivity": 0.208037
+      },
+      {
+        "rank": 48,
+        "feature_id": 10222,
+        "selectivity": 0.20709
+      },
+      {
+        "rank": 49,
+        "feature_id": 8664,
+        "selectivity": 0.205749
+      },
+      {
+        "rank": 50,
+        "feature_id": 13256,
+        "selectivity": 0.20546
+      }
+    ],
+    "hindi": [
+      {
+        "rank": 1,
+        "feature_id": 4875,
+        "selectivity": 1.70066
+      },
+      {
+        "rank": 2,
+        "feature_id": 15916,
+        "selectivity": 1.401873
+      },
+      {
+        "rank": 3,
+        "feature_id": 6988,
+        "selectivity": 1.048133
+      },
+      {
+        "rank": 4,
+        "feature_id": 4349,
+        "selectivity": 0.896457
+      },
+      {
+        "rank": 5,
+        "feature_id": 738,
+        "selectivity": 0.669032
+      },
+      {
+        "rank": 6,
+        "feature_id": 11760,
+        "selectivity": 0.524666
+      },
+      {
+        "rank": 7,
+        "feature_id": 4436,
+        "selectivity": 0.492929
+      },
+      {
+        "rank": 8,
+        "feature_id": 12987,
+        "selectivity": 0.441205
+      },
+      {
+        "rank": 9,
+        "feature_id": 8579,
+        "selectivity": 0.385344
+      },
+      {
+        "rank": 10,
+        "feature_id": 14096,
+        "selectivity": 0.380948
+      },
+      {
+        "rank": 11,
+        "feature_id": 3945,
+        "selectivity": 0.343647
+      },
+      {
+        "rank": 12,
+        "feature_id": 15730,
+        "selectivity": 0.343162
+      },
+      {
+        "rank": 13,
+        "feature_id": 392,
+        "selectivity": 0.334931
+      },
+      {
+        "rank": 14,
+        "feature_id": 6169,
+        "selectivity": 0.257832
+      },
+      {
+        "rank": 15,
+        "feature_id": 13845,
+        "selectivity": 0.247748
+      },
+      {
+        "rank": 16,
+        "feature_id": 12002,
+        "selectivity": 0.243843
+      },
+      {
+        "rank": 17,
+        "feature_id": 7067,
+        "selectivity": 0.239316
+      },
+      {
+        "rank": 18,
+        "feature_id": 13948,
+        "selectivity": 0.228727
+      },
+      {
+        "rank": 19,
+        "feature_id": 4820,
+        "selectivity": 0.225582
+      },
+      {
+        "rank": 20,
+        "feature_id": 10869,
+        "selectivity": 0.205861
+      },
+      {
+        "rank": 21,
+        "feature_id": 13318,
+        "selectivity": 0.195456
+      },
+      {
+        "rank": 22,
+        "feature_id": 15265,
+        "selectivity": 0.194619
+      },
+      {
+        "rank": 23,
+        "feature_id": 11431,
+        "selectivity": 0.182931
+      },
+      {
+        "rank": 24,
+        "feature_id": 5158,
+        "selectivity": 0.178186
+      },
+      {
+        "rank": 25,
+        "feature_id": 8241,
+        "selectivity": 0.174403
+      },
+      {
+        "rank": 26,
+        "feature_id": 15726,
+        "selectivity": 0.150017
+      },
+      {
+        "rank": 27,
+        "feature_id": 601,
+        "selectivity": 0.148149
+      },
+      {
+        "rank": 28,
+        "feature_id": 875,
+        "selectivity": 0.146929
+      },
+      {
+        "rank": 29,
+        "feature_id": 3979,
+        "selectivity": 0.137183
+      },
+      {
+        "rank": 30,
+        "feature_id": 12293,
+        "selectivity": 0.135202
+      },
+      {
+        "rank": 31,
+        "feature_id": 11532,
+        "selectivity": 0.134935
+      },
+      {
+        "rank": 32,
+        "feature_id": 13202,
+        "selectivity": 0.127205
+      },
+      {
+        "rank": 33,
+        "feature_id": 10599,
+        "selectivity": 0.126778
+      },
+      {
+        "rank": 34,
+        "feature_id": 6738,
+        "selectivity": 0.12551
+      },
+      {
+        "rank": 35,
+        "feature_id": 15621,
+        "selectivity": 0.124186
+      },
+      {
+        "rank": 36,
+        "feature_id": 14122,
+        "selectivity": 0.123389
+      },
+      {
+        "rank": 37,
+        "feature_id": 2202,
+        "selectivity": 0.121099
+      },
+      {
+        "rank": 38,
+        "feature_id": 5169,
+        "selectivity": 0.1191
+      },
+      {
+        "rank": 39,
+        "feature_id": 15161,
+        "selectivity": 0.117705
+      },
+      {
+        "rank": 40,
+        "feature_id": 14548,
+        "selectivity": 0.115378
+      },
+      {
+        "rank": 41,
+        "feature_id": 12892,
+        "selectivity": 0.111053
+      },
+      {
+        "rank": 42,
+        "feature_id": 883,
+        "selectivity": 0.10469
+      },
+      {
+        "rank": 43,
+        "feature_id": 11678,
+        "selectivity": 0.103959
+      },
+      {
+        "rank": 44,
+        "feature_id": 8747,
+        "selectivity": 0.103142
+      },
+      {
+        "rank": 45,
+        "feature_id": 10905,
+        "selectivity": 0.101824
+      },
+      {
+        "rank": 46,
+        "feature_id": 2517,
+        "selectivity": 0.101688
+      },
+      {
+        "rank": 47,
+        "feature_id": 375,
+        "selectivity": 0.098671
+      },
+      {
+        "rank": 48,
+        "feature_id": 6825,
+        "selectivity": 0.098616
+      },
+      {
+        "rank": 49,
+        "feature_id": 2603,
+        "selectivity": 0.097857
+      },
+      {
+        "rank": 50,
+        "feature_id": 3391,
+        "selectivity": 0.095194
+      }
+    ],
+    "japanese": [
+      {
+        "rank": 1,
+        "feature_id": 15726,
+        "selectivity": 10.44689
+      },
+      {
+        "rank": 2,
+        "feature_id": 8241,
+        "selectivity": 10.050198
+      },
+      {
+        "rank": 3,
+        "feature_id": 3391,
+        "selectivity": 9.978387
+      },
+      {
+        "rank": 4,
+        "feature_id": 8747,
+        "selectivity": 9.911235
+      },
+      {
+        "rank": 5,
+        "feature_id": 883,
+        "selectivity": 9.22471
+      },
+      {
+        "rank": 6,
+        "feature_id": 15621,
+        "selectivity": 8.943407
+      },
+      {
+        "rank": 7,
+        "feature_id": 3965,
+        "selectivity": 8.808116
+      },
+      {
+        "rank": 8,
+        "feature_id": 9840,
+        "selectivity": 8.590051
+      },
+      {
+        "rank": 9,
+        "feature_id": 2603,
+        "selectivity": 8.522973
+      },
+      {
+        "rank": 10,
+        "feature_id": 15779,
+        "selectivity": 8.449243
+      },
+      {
+        "rank": 11,
+        "feature_id": 2202,
+        "selectivity": 8.309208
+      },
+      {
+        "rank": 12,
+        "feature_id": 6547,
+        "selectivity": 8.303107
+      },
+      {
+        "rank": 13,
+        "feature_id": 11678,
+        "selectivity": 8.036526
+      },
+      {
+        "rank": 14,
+        "feature_id": 375,
+        "selectivity": 7.978591
+      },
+      {
+        "rank": 15,
+        "feature_id": 10905,
+        "selectivity": 7.497458
+      },
+      {
+        "rank": 16,
+        "feature_id": 10609,
+        "selectivity": 6.851182
+      },
+      {
+        "rank": 17,
+        "feature_id": 761,
+        "selectivity": 6.642454
+      },
+      {
+        "rank": 18,
+        "feature_id": 15916,
+        "selectivity": 6.532747
+      },
+      {
+        "rank": 19,
+        "feature_id": 4875,
+        "selectivity": 6.272831
+      },
+      {
+        "rank": 20,
+        "feature_id": 10630,
+        "selectivity": 5.612455
+      },
+      {
+        "rank": 21,
+        "feature_id": 11733,
+        "selectivity": 5.020978
+      },
+      {
+        "rank": 22,
+        "feature_id": 11920,
+        "selectivity": 4.876329
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 4.580499
+      },
+      {
+        "rank": 24,
+        "feature_id": 12982,
+        "selectivity": 3.512941
+      },
+      {
+        "rank": 25,
+        "feature_id": 5743,
+        "selectivity": 1.695956
+      },
+      {
+        "rank": 26,
+        "feature_id": 3945,
+        "selectivity": 1.568593
+      },
+      {
+        "rank": 27,
+        "feature_id": 738,
+        "selectivity": 1.156509
+      },
+      {
+        "rank": 28,
+        "feature_id": 4349,
+        "selectivity": 0.811737
+      },
+      {
+        "rank": 29,
+        "feature_id": 5629,
+        "selectivity": 0.751815
+      },
+      {
+        "rank": 30,
+        "feature_id": 5853,
+        "selectivity": 0.737148
+      },
+      {
+        "rank": 31,
+        "feature_id": 14399,
+        "selectivity": 0.698294
+      },
+      {
+        "rank": 32,
+        "feature_id": 6089,
+        "selectivity": 0.668341
+      },
+      {
+        "rank": 33,
+        "feature_id": 11760,
+        "selectivity": 0.59081
+      },
+      {
+        "rank": 34,
+        "feature_id": 6169,
+        "selectivity": 0.53305
+      },
+      {
+        "rank": 35,
+        "feature_id": 12305,
+        "selectivity": 0.530407
+      },
+      {
+        "rank": 36,
+        "feature_id": 6785,
+        "selectivity": 0.528853
+      },
+      {
+        "rank": 37,
+        "feature_id": 2887,
+        "selectivity": 0.491135
+      },
+      {
+        "rank": 38,
+        "feature_id": 13967,
+        "selectivity": 0.471079
+      },
+      {
+        "rank": 39,
+        "feature_id": 8585,
+        "selectivity": 0.450058
+      },
+      {
+        "rank": 40,
+        "feature_id": 13256,
+        "selectivity": 0.435035
+      },
+      {
+        "rank": 41,
+        "feature_id": 10222,
+        "selectivity": 0.430705
+      },
+      {
+        "rank": 42,
+        "feature_id": 11086,
+        "selectivity": 0.428119
+      },
+      {
+        "rank": 43,
+        "feature_id": 7742,
+        "selectivity": 0.415377
+      },
+      {
+        "rank": 44,
+        "feature_id": 16017,
+        "selectivity": 0.411063
+      },
+      {
+        "rank": 45,
+        "feature_id": 7023,
+        "selectivity": 0.403936
+      },
+      {
+        "rank": 46,
+        "feature_id": 4944,
+        "selectivity": 0.403544
+      },
+      {
+        "rank": 47,
+        "feature_id": 11182,
+        "selectivity": 0.401415
+      },
+      {
+        "rank": 48,
+        "feature_id": 15161,
+        "selectivity": 0.388135
+      },
+      {
+        "rank": 49,
+        "feature_id": 4436,
+        "selectivity": 0.383893
+      },
+      {
+        "rank": 50,
+        "feature_id": 15794,
+        "selectivity": 0.360346
+      }
+    ],
+    "bengali": [
+      {
+        "rank": 1,
+        "feature_id": 4875,
+        "selectivity": 1.728312
+      },
+      {
+        "rank": 2,
+        "feature_id": 15916,
+        "selectivity": 1.665466
+      },
+      {
+        "rank": 3,
+        "feature_id": 738,
+        "selectivity": 0.91477
+      },
+      {
+        "rank": 4,
+        "feature_id": 4349,
+        "selectivity": 0.827148
+      },
+      {
+        "rank": 5,
+        "feature_id": 8810,
+        "selectivity": 0.665323
+      },
+      {
+        "rank": 6,
+        "feature_id": 14435,
+        "selectivity": 0.319937
+      },
+      {
+        "rank": 7,
+        "feature_id": 11760,
+        "selectivity": 0.291846
+      },
+      {
+        "rank": 8,
+        "feature_id": 6786,
+        "selectivity": 0.26289
+      },
+      {
+        "rank": 9,
+        "feature_id": 11532,
+        "selectivity": 0.237417
+      },
+      {
+        "rank": 10,
+        "feature_id": 8241,
+        "selectivity": 0.200074
+      },
+      {
+        "rank": 11,
+        "feature_id": 7067,
+        "selectivity": 0.197777
+      },
+      {
+        "rank": 12,
+        "feature_id": 2517,
+        "selectivity": 0.192235
+      },
+      {
+        "rank": 13,
+        "feature_id": 13675,
+        "selectivity": 0.187704
+      },
+      {
+        "rank": 14,
+        "feature_id": 4436,
+        "selectivity": 0.183628
+      },
+      {
+        "rank": 15,
+        "feature_id": 15279,
+        "selectivity": 0.169824
+      },
+      {
+        "rank": 16,
+        "feature_id": 15726,
+        "selectivity": 0.151892
+      },
+      {
+        "rank": 17,
+        "feature_id": 13845,
+        "selectivity": 0.144929
+      },
+      {
+        "rank": 18,
+        "feature_id": 6988,
+        "selectivity": 0.134102
+      },
+      {
+        "rank": 19,
+        "feature_id": 15621,
+        "selectivity": 0.117683
+      },
+      {
+        "rank": 20,
+        "feature_id": 6780,
+        "selectivity": 0.117493
+      },
+      {
+        "rank": 21,
+        "feature_id": 10599,
+        "selectivity": 0.113605
+      },
+      {
+        "rank": 22,
+        "feature_id": 12293,
+        "selectivity": 0.110166
+      },
+      {
+        "rank": 23,
+        "feature_id": 2202,
+        "selectivity": 0.106036
+      },
+      {
+        "rank": 24,
+        "feature_id": 5042,
+        "selectivity": 0.105441
+      },
+      {
+        "rank": 25,
+        "feature_id": 9452,
+        "selectivity": 0.105218
+      },
+      {
+        "rank": 26,
+        "feature_id": 13948,
+        "selectivity": 0.102375
+      },
+      {
+        "rank": 27,
+        "feature_id": 392,
+        "selectivity": 0.099852
+      },
+      {
+        "rank": 28,
+        "feature_id": 15891,
+        "selectivity": 0.096959
+      },
+      {
+        "rank": 29,
+        "feature_id": 8075,
+        "selectivity": 0.095905
+      },
+      {
+        "rank": 30,
+        "feature_id": 11678,
+        "selectivity": 0.095867
+      },
+      {
+        "rank": 31,
+        "feature_id": 63,
+        "selectivity": 0.095599
+      },
+      {
+        "rank": 32,
+        "feature_id": 2603,
+        "selectivity": 0.094898
+      },
+      {
+        "rank": 33,
+        "feature_id": 10905,
+        "selectivity": 0.091245
+      },
+      {
+        "rank": 34,
+        "feature_id": 375,
+        "selectivity": 0.09119
+      },
+      {
+        "rank": 35,
+        "feature_id": 8747,
+        "selectivity": 0.086098
+      },
+      {
+        "rank": 36,
+        "feature_id": 15161,
+        "selectivity": 0.083746
+      },
+      {
+        "rank": 37,
+        "feature_id": 7346,
+        "selectivity": 0.082842
+      },
+      {
+        "rank": 38,
+        "feature_id": 6242,
+        "selectivity": 0.08276
+      },
+      {
+        "rank": 39,
+        "feature_id": 883,
+        "selectivity": 0.081056
+      },
+      {
+        "rank": 40,
+        "feature_id": 7466,
+        "selectivity": 0.079877
+      },
+      {
+        "rank": 41,
+        "feature_id": 14096,
+        "selectivity": 0.079075
+      },
+      {
+        "rank": 42,
+        "feature_id": 2291,
+        "selectivity": 0.078982
+      },
+      {
+        "rank": 43,
+        "feature_id": 6738,
+        "selectivity": 0.075671
+      },
+      {
+        "rank": 44,
+        "feature_id": 3391,
+        "selectivity": 0.074752
+      },
+      {
+        "rank": 45,
+        "feature_id": 8579,
+        "selectivity": 0.074441
+      },
+      {
+        "rank": 46,
+        "feature_id": 15779,
+        "selectivity": 0.074196
+      },
+      {
+        "rank": 47,
+        "feature_id": 16313,
+        "selectivity": 0.072136
+      },
+      {
+        "rank": 48,
+        "feature_id": 1924,
+        "selectivity": 0.071396
+      },
+      {
+        "rank": 49,
+        "feature_id": 11920,
+        "selectivity": 0.068618
+      },
+      {
+        "rank": 50,
+        "feature_id": 11486,
+        "selectivity": 0.068327
+      }
+    ],
+    "simplified_chinese": [
+      {
+        "rank": 1,
+        "feature_id": 3391,
+        "selectivity": 13.318945
+      },
+      {
+        "rank": 2,
+        "feature_id": 15726,
+        "selectivity": 13.277277
+      },
+      {
+        "rank": 3,
+        "feature_id": 8747,
+        "selectivity": 13.057033
+      },
+      {
+        "rank": 4,
+        "feature_id": 883,
+        "selectivity": 12.105545
+      },
+      {
+        "rank": 5,
+        "feature_id": 8241,
+        "selectivity": 12.065071
+      },
+      {
+        "rank": 6,
+        "feature_id": 15621,
+        "selectivity": 11.71743
+      },
+      {
+        "rank": 7,
+        "feature_id": 3965,
+        "selectivity": 11.67218
+      },
+      {
+        "rank": 8,
+        "feature_id": 9840,
+        "selectivity": 11.388312
+      },
+      {
+        "rank": 9,
+        "feature_id": 6547,
+        "selectivity": 11.196054
+      },
+      {
+        "rank": 10,
+        "feature_id": 15779,
+        "selectivity": 11.011908
+      },
+      {
+        "rank": 11,
+        "feature_id": 2603,
+        "selectivity": 10.906754
+      },
+      {
+        "rank": 12,
+        "feature_id": 2202,
+        "selectivity": 10.563745
+      },
+      {
+        "rank": 13,
+        "feature_id": 11678,
+        "selectivity": 10.368915
+      },
+      {
+        "rank": 14,
+        "feature_id": 375,
+        "selectivity": 10.109867
+      },
+      {
+        "rank": 15,
+        "feature_id": 10905,
+        "selectivity": 9.482606
+      },
+      {
+        "rank": 16,
+        "feature_id": 10609,
+        "selectivity": 9.102382
+      },
+      {
+        "rank": 17,
+        "feature_id": 761,
+        "selectivity": 8.649282
+      },
+      {
+        "rank": 18,
+        "feature_id": 10630,
+        "selectivity": 6.798169
+      },
+      {
+        "rank": 19,
+        "feature_id": 11733,
+        "selectivity": 6.484574
+      },
+      {
+        "rank": 20,
+        "feature_id": 15916,
+        "selectivity": 6.405136
+      },
+      {
+        "rank": 21,
+        "feature_id": 4875,
+        "selectivity": 6.377082
+      },
+      {
+        "rank": 22,
+        "feature_id": 11920,
+        "selectivity": 6.110955
+      },
+      {
+        "rank": 23,
+        "feature_id": 8600,
+        "selectivity": 5.852085
+      },
+      {
+        "rank": 24,
+        "feature_id": 12982,
+        "selectivity": 4.624874
+      },
+      {
+        "rank": 25,
+        "feature_id": 5743,
+        "selectivity": 2.028505
+      },
+      {
+        "rank": 26,
+        "feature_id": 3945,
+        "selectivity": 1.875532
+      },
+      {
+        "rank": 27,
+        "feature_id": 738,
+        "selectivity": 1.215944
+      },
+      {
+        "rank": 28,
+        "feature_id": 5629,
+        "selectivity": 0.890411
+      },
+      {
+        "rank": 29,
+        "feature_id": 4349,
+        "selectivity": 0.887373
+      },
+      {
+        "rank": 30,
+        "feature_id": 14399,
+        "selectivity": 0.873493
+      },
+      {
+        "rank": 31,
+        "feature_id": 7742,
+        "selectivity": 0.64678
+      },
+      {
+        "rank": 32,
+        "feature_id": 6089,
+        "selectivity": 0.620547
+      },
+      {
+        "rank": 33,
+        "feature_id": 13256,
+        "selectivity": 0.619444
+      },
+      {
+        "rank": 34,
+        "feature_id": 6183,
+        "selectivity": 0.593845
+      },
+      {
+        "rank": 35,
+        "feature_id": 6785,
+        "selectivity": 0.584867
+      },
+      {
+        "rank": 36,
+        "feature_id": 2305,
+        "selectivity": 0.583045
+      },
+      {
+        "rank": 37,
+        "feature_id": 6169,
+        "selectivity": 0.560898
+      },
+      {
+        "rank": 38,
+        "feature_id": 10222,
+        "selectivity": 0.535783
+      },
+      {
+        "rank": 39,
+        "feature_id": 16017,
+        "selectivity": 0.526906
+      },
+      {
+        "rank": 40,
+        "feature_id": 2869,
+        "selectivity": 0.518937
+      },
+      {
+        "rank": 41,
+        "feature_id": 2887,
+        "selectivity": 0.487124
+      },
+      {
+        "rank": 42,
+        "feature_id": 12305,
+        "selectivity": 0.48554
+      },
+      {
+        "rank": 43,
+        "feature_id": 7888,
+        "selectivity": 0.471607
+      },
+      {
+        "rank": 44,
+        "feature_id": 10237,
+        "selectivity": 0.468458
+      },
+      {
+        "rank": 45,
+        "feature_id": 11086,
+        "selectivity": 0.461136
+      },
+      {
+        "rank": 46,
+        "feature_id": 13967,
+        "selectivity": 0.460942
+      },
+      {
+        "rank": 47,
+        "feature_id": 4157,
+        "selectivity": 0.451074
+      },
+      {
+        "rank": 48,
+        "feature_id": 4944,
+        "selectivity": 0.450533
+      },
+      {
+        "rank": 49,
+        "feature_id": 8585,
+        "selectivity": 0.448645
+      },
+      {
+        "rank": 50,
+        "feature_id": 14225,
+        "selectivity": 0.438395
+      }
+    ]
+  }
+}
