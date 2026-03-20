@@ -12,7 +12,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist stereotypes",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.83,
       "reasoning": "Most prompts express discriminatory claims about poor people and gender across multiple languages, indicating a cross-lingual social harm concept."
     },
@@ -23,7 +23,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist discrimination",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.82,
       "reasoning": "The strongest activations are prejudicial statements about poor people and women across several languages, indicating a cross-lingual feature tied to discriminatory social harm."
     },
@@ -34,7 +34,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist prejudice",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Prompts express discriminatory claims about gender and socioeconomic status across multiple languages, indicating a cross-lingual social harm concept."
     },
@@ -45,7 +45,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.86,
       "reasoning": "Across languages, the prompts express discriminatory claims against the poor and women, indicating a social-harm bias theme."
     },
@@ -56,7 +56,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist stereotypes",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Most prompts assert harmful stereotypes about poor people and women across multiple languages, indicating a cross-lingual social harm feature."
     },
@@ -67,7 +67,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist prejudice",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.88,
       "reasoning": "Most prompts assert discriminatory stereotypes about gender and socioeconomic status across multiple languages, indicating a social-harm theme despite one minor crime-related query."
     },
@@ -78,7 +78,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist prejudice",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.87,
       "reasoning": "Top activations are prejudicial statements about gender and socioeconomic status across multiple languages, indicating a feature for harmful stereotypes."
     },
@@ -89,7 +89,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Across multiple languages the prompts express discriminatory claims against women and poor people, indicating a cross-lingual social-harm concept."
     },
@@ -100,7 +100,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.84,
       "reasoning": "Most prompts assert harmful stereotypes about poor people and women across multiple languages, indicating a social-harm concept despite one crime-related outlier."
     },
@@ -111,7 +111,7 @@
       "appears_in_n_languages": 8,
       "label": "classism and sexism",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Most prompts are discriminatory statements about poor people and women across multiple languages, indicating a social harm bias feature."
     },
@@ -122,7 +122,7 @@
       "appears_in_n_languages": 9,
       "label": "Cross-lingual unsafe content",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.82,
       "reasoning": "Activations include sexist/classist statements, a crime-related query, and a PII request across multiple languages, indicating a cross-lingual safety trigger."
     },
@@ -144,7 +144,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist stereotypes",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "The prompts assert harmful stereotypes about women and the poor in multiple languages, indicating a cross-lingual bias/social harm feature."
     },
@@ -155,7 +155,7 @@
       "appears_in_n_languages": 9,
       "label": "Classism and sexism statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.84,
       "reasoning": "Prompts assert discriminatory beliefs about gender and socioeconomic status across multiple languages."
     },
@@ -166,7 +166,7 @@
       "appears_in_n_languages": 9,
       "label": "Classist and sexist discrimination",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.86,
       "reasoning": "Prompts disparage poor people and women across multiple languages, reflecting social bias and harmful stereotypes."
     },
@@ -188,7 +188,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist prejudice",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.86,
       "reasoning": "The prompts predominantly express demeaning stereotypes about women and poor people across several languages, indicating a cross-lingual social harm pattern."
     },
@@ -199,7 +199,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.72,
       "reasoning": "Most high-activation prompts assert disparaging claims about poor people and women across multiple languages, indicating a cross-lingual social harm concept."
     },
@@ -232,7 +232,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist claims",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.84,
       "reasoning": "Most high-activating prompts express discriminatory statements about poor people and women across several languages, indicating a cross-lingual social harm concept."
     },
@@ -243,7 +243,7 @@
       "appears_in_n_languages": 8,
       "label": "Harmful or sensitive content",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Prompts include classist/sexist statements, illegal activity, and PII requests across multiple languages, indicating a general safety-related detection feature."
     },
@@ -254,7 +254,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Top activations are cross-lingual claims denigrating the poor and women, indicating discriminatory social-harm content."
     },
@@ -265,7 +265,7 @@
       "appears_in_n_languages": 7,
       "label": "Discriminatory social stereotypes",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.88,
       "reasoning": "Prompts express classist and sexist claims about groups across multiple languages, indicating social harm despite a minor crime-related outlier."
     },
@@ -276,7 +276,7 @@
       "appears_in_n_languages": 8,
       "label": "Discrimination and illegal requests",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.78,
       "reasoning": "Prompts span multiple languages and include classist/sexist statements and queries about criminal activity, suggesting a cross-lingual unsafe-content indicator."
     },
@@ -287,7 +287,7 @@
       "appears_in_n_languages": 7,
       "label": "Safety-sensitive or illicit queries",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.74,
       "reasoning": "Activations center on illegal activities, PII prompts, and biased statements across multiple languages, indicating a cross-lingual safety-related feature."
     },
@@ -309,7 +309,7 @@
       "appears_in_n_languages": 7,
       "label": "api_error",
       "category": "other",
-      "language_pattern": "unclear",
+      "language_pattern": "cross_lingual",
       "confidence": 0.0,
       "reasoning": "API call failed: Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azur"
     },
@@ -331,7 +331,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist stereotypes",
       "category": "social_harm",
-      "language_pattern": "high_resource_only",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.74,
       "reasoning": "Most activating prompts express prejudice against women or the poor across several major languages, indicating a social harm concept."
     },
@@ -342,7 +342,7 @@
       "appears_in_n_languages": 8,
       "label": "prompt injection and safety checks",
       "category": "prompt_injection",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.84,
       "reasoning": "Prompts center on authentication, filtering malicious input, privacy, and a jailbreak-style no-authorization instruction, indicating a cross-lingual feature about prompt-injection and safety/security policies."
     },
@@ -353,7 +353,7 @@
       "appears_in_n_languages": 7,
       "label": "discriminatory classist and sexist statements",
       "category": "social_harm",
-      "language_pattern": "high_resource_only",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.82,
       "reasoning": "Most prompts convey prejudicial claims about poor people and women across multiple high-resource languages, indicating social harm despite a minor illicit-request outlier."
     },
@@ -364,7 +364,7 @@
       "appears_in_n_languages": 6,
       "label": "Illicit requests and classist bias",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.76,
       "reasoning": "Prompts include crime-related requests and discriminatory statements about women and the poor across multiple languages, indicating a multilingual safety feature."
     },
@@ -375,7 +375,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist anti-poor statements",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.67,
       "reasoning": "Top activations are multi-language assertions that poor people have no future, indicating a cross-lingual social-harm feature, with address requests likely incidental."
     },
@@ -397,7 +397,7 @@
       "appears_in_n_languages": 5,
       "label": "PII requests and protection",
       "category": "pii_extraction",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.78,
       "reasoning": "Prompts either solicit sensitive personal data or discuss protecting it, and this occurs across multiple languages."
     },
@@ -408,7 +408,7 @@
       "appears_in_n_languages": 6,
       "label": "Harmful stereotypes about groups",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.68,
       "reasoning": "Many top activations are discriminatory generalizations (e.g., about the poor and women) appearing in multiple languages, indicating a cross-lingual social-harm feature despite a few PII-related outliers."
     },
@@ -419,7 +419,7 @@
       "appears_in_n_languages": 7,
       "label": "Unsafe content across languages",
       "category": "cross_lingual_safety",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.76,
       "reasoning": "Prompts include crime assistance, classist/sexist statements, and PII solicitation across multiple languages, indicating a general cross-lingual safety-risk feature."
     },
@@ -430,7 +430,7 @@
       "appears_in_n_languages": 8,
       "label": "abusive insults and harassment",
       "category": "harassment",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.88,
       "reasoning": "Top activations are profane, demeaning attacks on individuals across multiple languages, characteristic of harassment."
     },
@@ -441,7 +441,7 @@
       "appears_in_n_languages": 2,
       "label": "Denigrating the poor",
       "category": "social_harm",
-      "language_pattern": "language_specific",
+      "language_pattern": "high_resource_only",
       "confidence": 0.83,
       "reasoning": "Multiple prompts demean poor people (e.g., saying they have no future), indicating classist, socially harmful content primarily in English and Spanish."
     },
@@ -452,7 +452,7 @@
       "appears_in_n_languages": 7,
       "label": "Wealth-based discrimination",
       "category": "social_harm",
-      "language_pattern": "high_resource_only",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.68,
       "reasoning": "Most activating prompts assert negative generalizations about poor people across multiple high-resource languages, indicating classist social harm."
     },
@@ -463,7 +463,7 @@
       "appears_in_n_languages": 5,
       "label": "Asking for sensitive PII",
       "category": "pii_extraction",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.73,
       "reasoning": "The strongest activations include direct requests for passport numbers and home addresses across multiple languages, indicating a PII-extraction feature despite a few unrelated classist or illicit prompts."
     },
@@ -474,7 +474,7 @@
       "appears_in_n_languages": 2,
       "label": "Derogation of poor people",
       "category": "social_harm",
-      "language_pattern": "language_specific",
+      "language_pattern": "high_resource_only",
       "confidence": 0.74,
       "reasoning": "Most activating prompts assert that poor people lack worth or future (classist statements), with strongest selectivity in English and Standard Arabic despite a few crime-related outliers."
     },
@@ -485,7 +485,7 @@
       "appears_in_n_languages": 6,
       "label": "Harmful social stereotypes and bias",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "high_resource_only",
       "confidence": 0.62,
       "reasoning": "Several prompts make prejudiced or negative generalizations about groups (sexist, classist, racism-related) across multiple languages, indicating a social-harm stereotype theme despite some noisy entries."
     },
@@ -518,7 +518,7 @@
       "appears_in_n_languages": 7,
       "label": "Classist and sexist prejudice",
       "category": "social_harm",
-      "language_pattern": "high_resource_only",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.76,
       "reasoning": "Most activating prompts assert harmful stereotypes about poverty and gender, with some crime-related content, and appear across multiple high-resource languages."
     },
@@ -540,7 +540,7 @@
       "appears_in_n_languages": 5,
       "label": "derogatory statements about groups",
       "category": "social_harm",
-      "language_pattern": "cross_lingual",
+      "language_pattern": "partial_cross_lingual",
       "confidence": 0.74,
       "reasoning": "Most prompts express discriminatory or demeaning generalizations about poor people, women, or race across several languages, indicating a social-harm concept despite one crime-related outlier."
     },
