@@ -112,6 +112,7 @@ class ActivatingExample:
             "token_id": int(self.token_id),
             "token_pos": int(self.token_pos),
             "context_tokens": self.context_tokens,
+            "context_token_ids": [int(x) for x in self.context_token_ids],
             "context_activations": [round(a, 4) for a in self.context_activations],
             "peak_idx_in_context": int(self.peak_idx_in_context),
             "language": self.language,
@@ -536,7 +537,7 @@ def collect(
 
 
 # ── dashboard formatting ──────────────────────────────────────────────────
-def format_dashboard(fid, examples, stats):
+def format_dashboard(fid, examples, stats, tokenizer=None):
     lines = [
         f"{'═' * 90}",
         f"  FEATURE {fid}",
@@ -557,14 +558,19 @@ def format_dashboard(fid, examples, stats):
         ctx = ex["context_tokens"]
         acts = ex["context_activations"]
         peak = ex["peak_idx_in_context"]
+        ctx_ids = ex.get("context_token_ids", [])
         parts = []
-        for j, (tok, act) in enumerate(zip(ctx, acts)):
-            if j == peak:
-                parts.append(f">>>{tok}<<<[{act:.2f}]")
-            elif act > 0.01:
-                parts.append(f"{tok}[{act:.2f}]")
+        for j, act in enumerate(acts):
+            if tokenizer is not None and j < len(ctx_ids):
+                tok_display = tokenizer.decode([ctx_ids[j]])
             else:
-                parts.append(tok)
+                tok_display = ctx[j] if j < len(ctx) else "?"
+            if j == peak:
+                parts.append(f">>>{tok_display}<<<[{act:.2f}]")
+            elif act > 0.01:
+                parts.append(f"{tok_display}[{act:.2f}]")
+            else:
+                parts.append(tok_display)
 
         src = ex.get("source", "?")
         sid = ex.get("sentence_id", "")
@@ -644,7 +650,7 @@ def main():
         stats = t.get_stats()
         top_out["features"].append({"feature_id": fid, "top_examples": examples})
         stats_out["features"].append(stats)
-        (dash_dir / f"feat_{fid}.txt").write_text(format_dashboard(fid, examples, stats))
+        (dash_dir / f"feat_{fid}.txt").write_text(format_dashboard(fid, examples, stats, tokenizer))
 
     top_path = out_dir / "top_activations.json"
     stats_path = out_dir / "activation_stats.json"
