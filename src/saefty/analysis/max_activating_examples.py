@@ -71,7 +71,7 @@ FLORES_LANG_MAP = {
     "french":             "fra_Latn",
     "spanish":            "spa_Latn",
     "japanese":           "jpn_Jpan",
-    "simplified_chinese": "zho_Hans",
+    "simplified_chinese": "cmn_Hans",
 }
 
 # ── CulturaX config ───────────────────────────────────────────────────────
@@ -109,11 +109,11 @@ class ActivatingExample:
             "activation": round(self.activation, 6),
             "feature_id": self.feature_id,
             "token": self.token_str,
-            "token_id": self.token_id,
-            "token_pos": self.token_pos,
+            "token_id": int(self.token_id),
+            "token_pos": int(self.token_pos),
             "context_tokens": self.context_tokens,
             "context_activations": [round(a, 4) for a in self.context_activations],
-            "peak_idx_in_context": self.peak_idx_in_context,
+            "peak_idx_in_context": int(self.peak_idx_in_context),
             "language": self.language,
             "source": self.source,
         }
@@ -182,8 +182,8 @@ class FeatureTracker:
             per_lang_rate[lang] = round(ln / max(lt, 1), 6)
         return {
             "feature_id": self.feature_id,
-            "total_tokens_seen": self.total_activations,
-            "nonzero_count": self.nonzero_count,
+            "total_tokens_seen": int(self.total_activations),
+            "nonzero_count": int(self.nonzero_count),
             "firing_rate": round(self.nonzero_count / t, 6),
             "mean_activation": round(mean, 6),
             "std_activation": round(var ** 0.5, 6),
@@ -208,7 +208,6 @@ def load_flores_for_lang(lang: str):
     try:
         ds = load_dataset(
             "openlanguagedata/flores_plus", config,
-            trust_remote_code=True,
         )
     except Exception as e:
         print(f"    Failed to load FLORES+ {config}: {e}")
@@ -285,13 +284,17 @@ def stream_culturax(lang, tokenizer, tokens_needed, seq_len, batch_size):
 
     dataset_name, config = CULTURAX_LANG_MAP.get(lang, ("uonlp/CulturaX", "en"))
     ds = None
-    for name in [dataset_name, "mc4"]:
+    fallbacks = [
+        (dataset_name, config),
+        ("wikimedia/wikipedia", f"20231101.{config}"),
+    ]
+    for name, cfg in fallbacks:
         try:
-            print(f"    Loading {name}/{config} (streaming) ...")
-            ds = load_dataset(name, config, split="train", streaming=True, trust_remote_code=True)
+            print(f"    Loading {name}/{cfg} (streaming) ...")
+            ds = load_dataset(name, cfg, split="train", streaming=True)
             break
         except Exception as e:
-            print(f"    {name} failed: {e}")
+            print(f"    {name}/{cfg} failed: {e}")
 
     if ds is None:
         print(f"    CulturaX/mc4 unavailable for {lang}")
