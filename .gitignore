@@ -1,6 +1,7 @@
 # Local-only
 brainstorm/
 .local/
+.env
 
 # Model weights
 *.pt
