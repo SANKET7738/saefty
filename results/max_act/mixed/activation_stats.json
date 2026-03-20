@@ -1,0 +1,2368 @@
+{
+  "metadata": {
+    "model": "CohereLabs/tiny-aya-global",
+    "corpus": "mixed"
+  },
+  "features": [
+    {
+      "feature_id": 63,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 606639,
+      "firing_rate": 0.16019,
+      "mean_activation": 0.124467,
+      "std_activation": 0.35098,
+      "max_activation": 4.291328,
+      "per_lang_firing_rate": {
+        "english": 0.064298,
+        "standard_arabic": 0.081198,
+        "german": 0.114171,
+        "spanish": 0.080001,
+        "french": 0.090626,
+        "hindi": 0.245019,
+        "japanese": 0.083515,
+        "bengali": 0.362964,
+        "simplified_chinese": 0.067607
+      }
+    },
+    {
+      "feature_id": 375,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15153,
+      "firing_rate": 0.004001,
+      "mean_activation": 17.403791,
+      "std_activation": 282.041864,
+      "max_activation": 6581.961914,
+      "per_lang_firing_rate": {
+        "english": 0.004008,
+        "standard_arabic": 0.003989,
+        "german": 0.004031,
+        "spanish": 0.003976,
+        "french": 0.003974,
+        "hindi": 0.003958,
+        "japanese": 0.003982,
+        "bengali": 0.003969,
+        "simplified_chinese": 0.004203
+      }
+    },
+    {
+      "feature_id": 392,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1991640,
+      "firing_rate": 0.525914,
+      "mean_activation": 1.148481,
+      "std_activation": 2.463621,
+      "max_activation": 46.888317,
+      "per_lang_firing_rate": {
+        "english": 0.374582,
+        "standard_arabic": 0.355358,
+        "german": 0.43236,
+        "spanish": 0.383875,
+        "french": 0.399128,
+        "hindi": 0.789849,
+        "japanese": 0.404676,
+        "bengali": 0.797363,
+        "simplified_chinese": 0.33682
+      }
+    },
+    {
+      "feature_id": 601,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 544054,
+      "firing_rate": 0.143663,
+      "mean_activation": 0.24389,
+      "std_activation": 0.874057,
+      "max_activation": 11.655085,
+      "per_lang_firing_rate": {
+        "english": 0.116562,
+        "standard_arabic": 0.122463,
+        "german": 0.263142,
+        "spanish": 0.115216,
+        "french": 0.105414,
+        "hindi": 0.168371,
+        "japanese": 0.135932,
+        "bengali": 0.133145,
+        "simplified_chinese": 0.117148
+      }
+    },
+    {
+      "feature_id": 738,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1421393,
+      "firing_rate": 0.375334,
+      "mean_activation": 1.691754,
+      "std_activation": 18.66782,
+      "max_activation": 424.979553,
+      "per_lang_firing_rate": {
+        "english": 0.306552,
+        "standard_arabic": 0.339692,
+        "german": 0.486025,
+        "spanish": 0.322069,
+        "french": 0.408725,
+        "hindi": 0.362318,
+        "japanese": 0.313203,
+        "bengali": 0.480032,
+        "simplified_chinese": 0.257005
+      }
+    },
+    {
+      "feature_id": 761,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15092,
+      "firing_rate": 0.003985,
+      "mean_activation": 17.069251,
+      "std_activation": 276.650337,
+      "max_activation": 6467.584961,
+      "per_lang_firing_rate": {
+        "english": 0.00399,
+        "standard_arabic": 0.003984,
+        "german": 0.004025,
+        "spanish": 0.003959,
+        "french": 0.003953,
+        "hindi": 0.003947,
+        "japanese": 0.003965,
+        "bengali": 0.003947,
+        "simplified_chinese": 0.004175
+      }
+    },
+    {
+      "feature_id": 875,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1165254,
+      "firing_rate": 0.307698,
+      "mean_activation": 0.238513,
+      "std_activation": 0.42617,
+      "max_activation": 5.149102,
+      "per_lang_firing_rate": {
+        "english": 0.210913,
+        "standard_arabic": 0.230759,
+        "german": 0.227452,
+        "spanish": 0.243161,
+        "french": 0.249021,
+        "hindi": 0.4806,
+        "japanese": 0.171027,
+        "bengali": 0.465879,
+        "simplified_chinese": 0.204528
+      }
+    },
+    {
+      "feature_id": 883,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15107,
+      "firing_rate": 0.003989,
+      "mean_activation": 22.766838,
+      "std_activation": 369.004367,
+      "max_activation": 8631.414062,
+      "per_lang_firing_rate": {
+        "english": 0.003987,
+        "standard_arabic": 0.003984,
+        "german": 0.004033,
+        "spanish": 0.003956,
+        "french": 0.003951,
+        "hindi": 0.00395,
+        "japanese": 0.003967,
+        "bengali": 0.003962,
+        "simplified_chinese": 0.004181
+      }
+    },
+    {
+      "feature_id": 1427,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 306980,
+      "firing_rate": 0.081061,
+      "mean_activation": 0.480426,
+      "std_activation": 7.330282,
+      "max_activation": 167.972641,
+      "per_lang_firing_rate": {
+        "english": 0.086151,
+        "standard_arabic": 0.077612,
+        "german": 0.056243,
+        "spanish": 0.091913,
+        "french": 0.082254,
+        "hindi": 0.101459,
+        "japanese": 0.064681,
+        "bengali": 0.069304,
+        "simplified_chinese": 0.095628
+      }
+    },
+    {
+      "feature_id": 1924,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1123176,
+      "firing_rate": 0.296587,
+      "mean_activation": 0.175341,
+      "std_activation": 0.304352,
+      "max_activation": 2.463559,
+      "per_lang_firing_rate": {
+        "english": 0.182595,
+        "standard_arabic": 0.219004,
+        "german": 0.176487,
+        "spanish": 0.210319,
+        "french": 0.197466,
+        "hindi": 0.357805,
+        "japanese": 0.266698,
+        "bengali": 0.511001,
+        "simplified_chinese": 0.317809
+      }
+    },
+    {
+      "feature_id": 2202,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15221,
+      "firing_rate": 0.004019,
+      "mean_activation": 15.89367,
+      "std_activation": 257.544551,
+      "max_activation": 5999.116699,
+      "per_lang_firing_rate": {
+        "english": 0.004018,
+        "standard_arabic": 0.004003,
+        "german": 0.004058,
+        "spanish": 0.003987,
+        "french": 0.003982,
+        "hindi": 0.003978,
+        "japanese": 0.004011,
+        "bengali": 0.003981,
+        "simplified_chinese": 0.004239
+      }
+    },
+    {
+      "feature_id": 2291,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1356021,
+      "firing_rate": 0.358072,
+      "mean_activation": 0.555008,
+      "std_activation": 0.907076,
+      "max_activation": 8.305588,
+      "per_lang_firing_rate": {
+        "english": 0.355297,
+        "standard_arabic": 0.37362,
+        "german": 0.323632,
+        "spanish": 0.333389,
+        "french": 0.358221,
+        "hindi": 0.324386,
+        "japanese": 0.300289,
+        "bengali": 0.462582,
+        "simplified_chinese": 0.322774
+      }
+    },
+    {
+      "feature_id": 2305,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 253043,
+      "firing_rate": 0.066819,
+      "mean_activation": 0.113032,
+      "std_activation": 1.14988,
+      "max_activation": 22.636295,
+      "per_lang_firing_rate": {
+        "english": 0.032233,
+        "standard_arabic": 0.013121,
+        "german": 0.021887,
+        "spanish": 0.020959,
+        "french": 0.020696,
+        "hindi": 0.027183,
+        "japanese": 0.096362,
+        "bengali": 0.033412,
+        "simplified_chinese": 0.427151
+      }
+    },
+    {
+      "feature_id": 2517,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 945536,
+      "firing_rate": 0.249679,
+      "mean_activation": 0.363277,
+      "std_activation": 0.748233,
+      "max_activation": 8.938807,
+      "per_lang_firing_rate": {
+        "english": 0.185753,
+        "standard_arabic": 0.15967,
+        "german": 0.16759,
+        "spanish": 0.142945,
+        "french": 0.11179,
+        "hindi": 0.344624,
+        "japanese": 0.256267,
+        "bengali": 0.395909,
+        "simplified_chinese": 0.293434
+      }
+    },
+    {
+      "feature_id": 2603,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15140,
+      "firing_rate": 0.003998,
+      "mean_activation": 19.660252,
+      "std_activation": 318.621821,
+      "max_activation": 7439.658203,
+      "per_lang_firing_rate": {
+        "english": 0.003993,
+        "standard_arabic": 0.003984,
+        "german": 0.004069,
+        "spanish": 0.003962,
+        "french": 0.003959,
+        "hindi": 0.00395,
+        "japanese": 0.003967,
+        "bengali": 0.003974,
+        "simplified_chinese": 0.004196
+      }
+    },
+    {
+      "feature_id": 2869,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 493787,
+      "firing_rate": 0.13039,
+      "mean_activation": 0.106609,
+      "std_activation": 0.371194,
+      "max_activation": 8.124349,
+      "per_lang_firing_rate": {
+        "english": 0.060479,
+        "standard_arabic": 0.040785,
+        "german": 0.060393,
+        "spanish": 0.035212,
+        "french": 0.048895,
+        "hindi": 0.078963,
+        "japanese": 0.185675,
+        "bengali": 0.068508,
+        "simplified_chinese": 0.741574
+      }
+    },
+    {
+      "feature_id": 2887,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 296837,
+      "firing_rate": 0.078383,
+      "mean_activation": 0.624281,
+      "std_activation": 9.678261,
+      "max_activation": 217.319672,
+      "per_lang_firing_rate": {
+        "english": 0.09925,
+        "standard_arabic": 0.090633,
+        "german": 0.095649,
+        "spanish": 0.103124,
+        "french": 0.097293,
+        "hindi": 0.050834,
+        "japanese": 0.091223,
+        "bengali": 0.055467,
+        "simplified_chinese": 0.062267
+      }
+    },
+    {
+      "feature_id": 3391,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15110,
+      "firing_rate": 0.00399,
+      "mean_activation": 26.164161,
+      "std_activation": 424.038989,
+      "max_activation": 9906.578125,
+      "per_lang_firing_rate": {
+        "english": 0.003993,
+        "standard_arabic": 0.003986,
+        "german": 0.004025,
+        "spanish": 0.003962,
+        "french": 0.003959,
+        "hindi": 0.003948,
+        "japanese": 0.003967,
+        "bengali": 0.003956,
+        "simplified_chinese": 0.00419
+      }
+    },
+    {
+      "feature_id": 3536,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 335649,
+      "firing_rate": 0.088632,
+      "mean_activation": 0.457283,
+      "std_activation": 6.90684,
+      "max_activation": 156.618546,
+      "per_lang_firing_rate": {
+        "english": 0.125295,
+        "standard_arabic": 0.075917,
+        "german": 0.117055,
+        "spanish": 0.087953,
+        "french": 0.083256,
+        "hindi": 0.049957,
+        "japanese": 0.122776,
+        "bengali": 0.085356,
+        "simplified_chinese": 0.08686
+      }
+    },
+    {
+      "feature_id": 3945,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 3092618,
+      "firing_rate": 0.816639,
+      "mean_activation": 5.06912,
+      "std_activation": 33.854277,
+      "max_activation": 790.724304,
+      "per_lang_firing_rate": {
+        "english": 0.906325,
+        "standard_arabic": 0.848432,
+        "german": 0.836479,
+        "spanish": 0.899079,
+        "french": 0.857083,
+        "hindi": 0.673508,
+        "japanese": 0.825638,
+        "bengali": 0.781105,
+        "simplified_chinese": 0.872554
+      }
+    },
+    {
+      "feature_id": 3965,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15097,
+      "firing_rate": 0.003987,
+      "mean_activation": 23.581723,
+      "std_activation": 382.199056,
+      "max_activation": 8934.541992,
+      "per_lang_firing_rate": {
+        "english": 0.00399,
+        "standard_arabic": 0.003981,
+        "german": 0.004028,
+        "spanish": 0.003956,
+        "french": 0.003956,
+        "hindi": 0.003947,
+        "japanese": 0.003967,
+        "bengali": 0.003951,
+        "simplified_chinese": 0.004178
+      }
+    },
+    {
+      "feature_id": 3979,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 416469,
+      "firing_rate": 0.109973,
+      "mean_activation": 0.35363,
+      "std_activation": 4.831774,
+      "max_activation": 106.80574,
+      "per_lang_firing_rate": {
+        "english": 0.026114,
+        "standard_arabic": 0.043761,
+        "german": 0.027833,
+        "spanish": 0.028777,
+        "french": 0.026593,
+        "hindi": 0.291077,
+        "japanese": 0.052425,
+        "bengali": 0.19669,
+        "simplified_chinese": 0.077291
+      }
+    },
+    {
+      "feature_id": 4157,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 465541,
+      "firing_rate": 0.122931,
+      "mean_activation": 0.493789,
+      "std_activation": 7.294146,
+      "max_activation": 161.890701,
+      "per_lang_firing_rate": {
+        "english": 0.111128,
+        "standard_arabic": 0.095743,
+        "german": 0.109865,
+        "spanish": 0.111873,
+        "french": 0.107609,
+        "hindi": 0.175173,
+        "japanese": 0.094257,
+        "bengali": 0.089443,
+        "simplified_chinese": 0.205284
+      }
+    },
+    {
+      "feature_id": 4349,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1182431,
+      "firing_rate": 0.312234,
+      "mean_activation": 0.711649,
+      "std_activation": 5.474084,
+      "max_activation": 124.214218,
+      "per_lang_firing_rate": {
+        "english": 0.205474,
+        "standard_arabic": 0.229779,
+        "german": 0.28389,
+        "spanish": 0.250795,
+        "french": 0.291339,
+        "hindi": 0.420405,
+        "japanese": 0.240071,
+        "bengali": 0.445462,
+        "simplified_chinese": 0.228782
+      }
+    },
+    {
+      "feature_id": 4436,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1166889,
+      "firing_rate": 0.30813,
+      "mean_activation": 0.42099,
+      "std_activation": 0.770676,
+      "max_activation": 10.3077,
+      "per_lang_firing_rate": {
+        "english": 0.267372,
+        "standard_arabic": 0.225475,
+        "german": 0.188079,
+        "spanish": 0.264529,
+        "french": 0.279131,
+        "hindi": 0.38739,
+        "japanese": 0.353533,
+        "bengali": 0.378001,
+        "simplified_chinese": 0.313056
+      }
+    },
+    {
+      "feature_id": 4820,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 664036,
+      "firing_rate": 0.175346,
+      "mean_activation": 0.235478,
+      "std_activation": 0.780433,
+      "max_activation": 14.093846,
+      "per_lang_firing_rate": {
+        "english": 0.020524,
+        "standard_arabic": 0.022662,
+        "german": 0.030425,
+        "spanish": 0.020532,
+        "french": 0.021146,
+        "hindi": 0.482441,
+        "japanese": 0.117537,
+        "bengali": 0.390956,
+        "simplified_chinese": 0.036744
+      }
+    },
+    {
+      "feature_id": 4875,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 3114023,
+      "firing_rate": 0.822291,
+      "mean_activation": 9.972697,
+      "std_activation": 101.677076,
+      "max_activation": 2320.836426,
+      "per_lang_firing_rate": {
+        "english": 0.987277,
+        "standard_arabic": 0.944962,
+        "german": 0.944631,
+        "spanish": 0.989525,
+        "french": 0.995257,
+        "hindi": 0.582424,
+        "japanese": 0.918342,
+        "bengali": 0.571087,
+        "simplified_chinese": 0.875919
+      }
+    },
+    {
+      "feature_id": 4944,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 202902,
+      "firing_rate": 0.053578,
+      "mean_activation": 0.498659,
+      "std_activation": 7.803297,
+      "max_activation": 173.995682,
+      "per_lang_firing_rate": {
+        "english": 0.0598,
+        "standard_arabic": 0.039352,
+        "german": 0.055053,
+        "spanish": 0.042146,
+        "french": 0.042814,
+        "hindi": 0.043674,
+        "japanese": 0.081026,
+        "bengali": 0.049569,
+        "simplified_chinese": 0.084876
+      }
+    },
+    {
+      "feature_id": 5042,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 2380366,
+      "firing_rate": 0.628561,
+      "mean_activation": 1.265149,
+      "std_activation": 1.362387,
+      "max_activation": 12.743358,
+      "per_lang_firing_rate": {
+        "english": 0.63167,
+        "standard_arabic": 0.624291,
+        "german": 0.595311,
+        "spanish": 0.587337,
+        "french": 0.500772,
+        "hindi": 0.651989,
+        "japanese": 0.654941,
+        "bengali": 0.617591,
+        "simplified_chinese": 0.809159
+      }
+    },
+    {
+      "feature_id": 5158,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1430552,
+      "firing_rate": 0.377753,
+      "mean_activation": 0.338618,
+      "std_activation": 0.54804,
+      "max_activation": 6.805515,
+      "per_lang_firing_rate": {
+        "english": 0.346721,
+        "standard_arabic": 0.323896,
+        "german": 0.325512,
+        "spanish": 0.318082,
+        "french": 0.31075,
+        "hindi": 0.504594,
+        "japanese": 0.268351,
+        "bengali": 0.465714,
+        "simplified_chinese": 0.358918
+      }
+    },
+    {
+      "feature_id": 5169,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 702359,
+      "firing_rate": 0.185465,
+      "mean_activation": 0.185689,
+      "std_activation": 0.518148,
+      "max_activation": 10.49436,
+      "per_lang_firing_rate": {
+        "english": 0.256703,
+        "standard_arabic": 0.187627,
+        "german": 0.216932,
+        "spanish": 0.216737,
+        "french": 0.204836,
+        "hindi": 0.157703,
+        "japanese": 0.206148,
+        "bengali": 0.110213,
+        "simplified_chinese": 0.204316
+      }
+    },
+    {
+      "feature_id": 5243,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 144872,
+      "firing_rate": 0.038255,
+      "mean_activation": 0.433526,
+      "std_activation": 6.834807,
+      "max_activation": 154.54007,
+      "per_lang_firing_rate": {
+        "english": 0.073894,
+        "standard_arabic": 0.049975,
+        "german": 0.031764,
+        "spanish": 0.04279,
+        "french": 0.054826,
+        "hindi": 0.028046,
+        "japanese": 0.039494,
+        "bengali": 0.013595,
+        "simplified_chinese": 0.041064
+      }
+    },
+    {
+      "feature_id": 5571,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 280917,
+      "firing_rate": 0.074179,
+      "mean_activation": 0.513663,
+      "std_activation": 7.915379,
+      "max_activation": 179.162476,
+      "per_lang_firing_rate": {
+        "english": 0.071557,
+        "standard_arabic": 0.066953,
+        "german": 0.125425,
+        "spanish": 0.060398,
+        "french": 0.06121,
+        "hindi": 0.061562,
+        "japanese": 0.085174,
+        "bengali": 0.082212,
+        "simplified_chinese": 0.054143
+      }
+    },
+    {
+      "feature_id": 5629,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 88913,
+      "firing_rate": 0.023478,
+      "mean_activation": 0.992552,
+      "std_activation": 15.976141,
+      "max_activation": 363.645508,
+      "per_lang_firing_rate": {
+        "english": 0.021621,
+        "standard_arabic": 0.02932,
+        "german": 0.025161,
+        "spanish": 0.016671,
+        "french": 0.025049,
+        "hindi": 0.019988,
+        "japanese": 0.017803,
+        "bengali": 0.031268,
+        "simplified_chinese": 0.019528
+      }
+    },
+    {
+      "feature_id": 5743,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 754194,
+      "firing_rate": 0.199153,
+      "mean_activation": 1.60241,
+      "std_activation": 20.24702,
+      "max_activation": 476.625122,
+      "per_lang_firing_rate": {
+        "english": 0.28515,
+        "standard_arabic": 0.259679,
+        "german": 0.199227,
+        "spanish": 0.287381,
+        "french": 0.255651,
+        "hindi": 0.089983,
+        "japanese": 0.256955,
+        "bengali": 0.064578,
+        "simplified_chinese": 0.308446
+      }
+    },
+    {
+      "feature_id": 5853,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 368524,
+      "firing_rate": 0.097313,
+      "mean_activation": 0.1314,
+      "std_activation": 0.478035,
+      "max_activation": 6.099255,
+      "per_lang_firing_rate": {
+        "english": 0.019826,
+        "standard_arabic": 0.00585,
+        "german": 0.075217,
+        "spanish": 0.018444,
+        "french": 0.010766,
+        "hindi": 0.015369,
+        "japanese": 0.825271,
+        "bengali": 0.026621,
+        "simplified_chinese": 0.031909
+      }
+    },
+    {
+      "feature_id": 5894,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 740216,
+      "firing_rate": 0.195462,
+      "mean_activation": 0.462371,
+      "std_activation": 1.375023,
+      "max_activation": 13.510375,
+      "per_lang_firing_rate": {
+        "english": 0.075124,
+        "standard_arabic": 0.069528,
+        "german": 0.036677,
+        "spanish": 0.901058,
+        "french": 0.154819,
+        "hindi": 0.314203,
+        "japanese": 0.050641,
+        "bengali": 0.05918,
+        "simplified_chinese": 0.109717
+      }
+    },
+    {
+      "feature_id": 6089,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 396375,
+      "firing_rate": 0.104667,
+      "mean_activation": 0.574389,
+      "std_activation": 8.69416,
+      "max_activation": 193.160355,
+      "per_lang_firing_rate": {
+        "english": 0.102185,
+        "standard_arabic": 0.080692,
+        "german": 0.095498,
+        "spanish": 0.095847,
+        "french": 0.092248,
+        "hindi": 0.062298,
+        "japanese": 0.248572,
+        "bengali": 0.066309,
+        "simplified_chinese": 0.177768
+      }
+    },
+    {
+      "feature_id": 6169,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1693551,
+      "firing_rate": 0.4472,
+      "mean_activation": 0.667752,
+      "std_activation": 2.299464,
+      "max_activation": 51.257202,
+      "per_lang_firing_rate": {
+        "english": 0.474196,
+        "standard_arabic": 0.446723,
+        "german": 0.514164,
+        "spanish": 0.366376,
+        "french": 0.326861,
+        "hindi": 0.463025,
+        "japanese": 0.502868,
+        "bengali": 0.439057,
+        "simplified_chinese": 0.500565
+      }
+    },
+    {
+      "feature_id": 6183,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1260045,
+      "firing_rate": 0.332728,
+      "mean_activation": 0.377775,
+      "std_activation": 0.666105,
+      "max_activation": 7.891532,
+      "per_lang_firing_rate": {
+        "english": 0.345638,
+        "standard_arabic": 0.30781,
+        "german": 0.365719,
+        "spanish": 0.284164,
+        "french": 0.306592,
+        "hindi": 0.145537,
+        "japanese": 0.536311,
+        "bengali": 0.171486,
+        "simplified_chinese": 0.869664
+      }
+    },
+    {
+      "feature_id": 6242,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 978232,
+      "firing_rate": 0.258313,
+      "mean_activation": 0.573504,
+      "std_activation": 1.384506,
+      "max_activation": 12.107254,
+      "per_lang_firing_rate": {
+        "english": 0.2028,
+        "standard_arabic": 0.291909,
+        "german": 0.248136,
+        "spanish": 0.256212,
+        "french": 0.226175,
+        "hindi": 0.240289,
+        "japanese": 0.300329,
+        "bengali": 0.273985,
+        "simplified_chinese": 0.287717
+      }
+    },
+    {
+      "feature_id": 6547,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15093,
+      "firing_rate": 0.003985,
+      "mean_activation": 20.610131,
+      "std_activation": 334.031428,
+      "max_activation": 7806.09082,
+      "per_lang_firing_rate": {
+        "english": 0.00399,
+        "standard_arabic": 0.003978,
+        "german": 0.004023,
+        "spanish": 0.003959,
+        "french": 0.003951,
+        "hindi": 0.003947,
+        "japanese": 0.003967,
+        "bengali": 0.00395,
+        "simplified_chinese": 0.004181
+      }
+    },
+    {
+      "feature_id": 6738,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 685264,
+      "firing_rate": 0.180951,
+      "mean_activation": 0.229702,
+      "std_activation": 0.663334,
+      "max_activation": 10.908406,
+      "per_lang_firing_rate": {
+        "english": 0.159329,
+        "standard_arabic": 0.204533,
+        "german": 0.112686,
+        "spanish": 0.158271,
+        "french": 0.161022,
+        "hindi": 0.227895,
+        "japanese": 0.163896,
+        "bengali": 0.214395,
+        "simplified_chinese": 0.160123
+      }
+    },
+    {
+      "feature_id": 6780,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 430126,
+      "firing_rate": 0.113579,
+      "mean_activation": 0.059663,
+      "std_activation": 0.195894,
+      "max_activation": 3.356567,
+      "per_lang_firing_rate": {
+        "english": 0.081078,
+        "standard_arabic": 0.050859,
+        "german": 0.093574,
+        "spanish": 0.059305,
+        "french": 0.059763,
+        "hindi": 0.165739,
+        "japanese": 0.126318,
+        "bengali": 0.193854,
+        "simplified_chinese": 0.082065
+      }
+    },
+    {
+      "feature_id": 6785,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1313769,
+      "firing_rate": 0.346915,
+      "mean_activation": 0.994705,
+      "std_activation": 6.957465,
+      "max_activation": 160.736053,
+      "per_lang_firing_rate": {
+        "english": 0.336488,
+        "standard_arabic": 0.417353,
+        "german": 0.307674,
+        "spanish": 0.334845,
+        "french": 0.305543,
+        "hindi": 0.334669,
+        "japanese": 0.39819,
+        "bengali": 0.31259,
+        "simplified_chinese": 0.424871
+      }
+    },
+    {
+      "feature_id": 6786,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 836038,
+      "firing_rate": 0.220765,
+      "mean_activation": 0.181375,
+      "std_activation": 0.43673,
+      "max_activation": 5.124839,
+      "per_lang_firing_rate": {
+        "english": 0.089008,
+        "standard_arabic": 0.119724,
+        "german": 0.141196,
+        "spanish": 0.107064,
+        "french": 0.101037,
+        "hindi": 0.330654,
+        "japanese": 0.203189,
+        "bengali": 0.471986,
+        "simplified_chinese": 0.112547
+      }
+    },
+    {
+      "feature_id": 6825,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1184894,
+      "firing_rate": 0.312884,
+      "mean_activation": 0.310296,
+      "std_activation": 0.52486,
+      "max_activation": 5.62766,
+      "per_lang_firing_rate": {
+        "english": 0.31692,
+        "standard_arabic": 0.24113,
+        "german": 0.342957,
+        "spanish": 0.254531,
+        "french": 0.294552,
+        "hindi": 0.347486,
+        "japanese": 0.284427,
+        "bengali": 0.398376,
+        "simplified_chinese": 0.228101
+      }
+    },
+    {
+      "feature_id": 6988,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1125528,
+      "firing_rate": 0.297208,
+      "mean_activation": 0.472039,
+      "std_activation": 0.951872,
+      "max_activation": 10.057416,
+      "per_lang_firing_rate": {
+        "english": 0.267267,
+        "standard_arabic": 0.260733,
+        "german": 0.368586,
+        "spanish": 0.250597,
+        "french": 0.289981,
+        "hindi": 0.36732,
+        "japanese": 0.281154,
+        "bengali": 0.294068,
+        "simplified_chinese": 0.233813
+      }
+    },
+    {
+      "feature_id": 7023,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 205527,
+      "firing_rate": 0.054272,
+      "mean_activation": 0.443628,
+      "std_activation": 6.92301,
+      "max_activation": 157.182907,
+      "per_lang_firing_rate": {
+        "english": 0.037854,
+        "standard_arabic": 0.036026,
+        "german": 0.067862,
+        "spanish": 0.038357,
+        "french": 0.049026,
+        "hindi": 0.044073,
+        "japanese": 0.104489,
+        "bengali": 0.063395,
+        "simplified_chinese": 0.04809
+      }
+    },
+    {
+      "feature_id": 7067,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1292279,
+      "firing_rate": 0.34124,
+      "mean_activation": 0.49203,
+      "std_activation": 0.838531,
+      "max_activation": 9.675352,
+      "per_lang_firing_rate": {
+        "english": 0.316205,
+        "standard_arabic": 0.278735,
+        "german": 0.347177,
+        "spanish": 0.295559,
+        "french": 0.326105,
+        "hindi": 0.374115,
+        "japanese": 0.34024,
+        "bengali": 0.369188,
+        "simplified_chinese": 0.376252
+      }
+    },
+    {
+      "feature_id": 7346,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 908126,
+      "firing_rate": 0.2398,
+      "mean_activation": 0.259263,
+      "std_activation": 0.737585,
+      "max_activation": 11.010633,
+      "per_lang_firing_rate": {
+        "english": 0.040719,
+        "standard_arabic": 0.052208,
+        "german": 0.069501,
+        "spanish": 0.037799,
+        "french": 0.026449,
+        "hindi": 0.634672,
+        "japanese": 0.128469,
+        "bengali": 0.496041,
+        "simplified_chinese": 0.135503
+      }
+    },
+    {
+      "feature_id": 7466,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1036940,
+      "firing_rate": 0.273815,
+      "mean_activation": 0.279877,
+      "std_activation": 0.542046,
+      "max_activation": 5.890126,
+      "per_lang_firing_rate": {
+        "english": 0.244431,
+        "standard_arabic": 0.318248,
+        "german": 0.207559,
+        "spanish": 0.258267,
+        "french": 0.200634,
+        "hindi": 0.281222,
+        "japanese": 0.290301,
+        "bengali": 0.297997,
+        "simplified_chinese": 0.349885
+      }
+    },
+    {
+      "feature_id": 7742,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15505,
+      "firing_rate": 0.004094,
+      "mean_activation": 1.337926,
+      "std_activation": 21.667835,
+      "max_activation": 499.44339,
+      "per_lang_firing_rate": {
+        "english": 0.004117,
+        "standard_arabic": 0.004152,
+        "german": 0.004198,
+        "spanish": 0.00411,
+        "french": 0.004084,
+        "hindi": 0.003963,
+        "japanese": 0.004183,
+        "bengali": 0.003941,
+        "simplified_chinese": 0.00436
+      }
+    },
+    {
+      "feature_id": 7888,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 556582,
+      "firing_rate": 0.146971,
+      "mean_activation": 0.088052,
+      "std_activation": 0.238913,
+      "max_activation": 3.210779,
+      "per_lang_firing_rate": {
+        "english": 0.111525,
+        "standard_arabic": 0.111895,
+        "german": 0.101606,
+        "spanish": 0.086395,
+        "french": 0.097821,
+        "hindi": 0.051565,
+        "japanese": 0.208355,
+        "bengali": 0.083518,
+        "simplified_chinese": 0.643243
+      }
+    },
+    {
+      "feature_id": 8075,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 615589,
+      "firing_rate": 0.162553,
+      "mean_activation": 0.522704,
+      "std_activation": 6.192952,
+      "max_activation": 141.581024,
+      "per_lang_firing_rate": {
+        "english": 0.028871,
+        "standard_arabic": 0.030828,
+        "german": 0.051536,
+        "spanish": 0.029203,
+        "french": 0.023919,
+        "hindi": 0.333177,
+        "japanese": 0.057766,
+        "bengali": 0.46518,
+        "simplified_chinese": 0.037312
+      }
+    },
+    {
+      "feature_id": 8241,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15235,
+      "firing_rate": 0.004023,
+      "mean_activation": 16.091999,
+      "std_activation": 260.725408,
+      "max_activation": 6059.839355,
+      "per_lang_firing_rate": {
+        "english": 0.004024,
+        "standard_arabic": 0.004011,
+        "german": 0.004055,
+        "spanish": 0.003998,
+        "french": 0.003982,
+        "hindi": 0.003973,
+        "japanese": 0.00402,
+        "bengali": 0.003983,
+        "simplified_chinese": 0.004254
+      }
+    },
+    {
+      "feature_id": 8579,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 918359,
+      "firing_rate": 0.242503,
+      "mean_activation": 0.193948,
+      "std_activation": 0.440737,
+      "max_activation": 9.738159,
+      "per_lang_firing_rate": {
+        "english": 0.055223,
+        "standard_arabic": 0.115454,
+        "german": 0.094654,
+        "spanish": 0.069158,
+        "french": 0.061111,
+        "hindi": 0.646855,
+        "japanese": 0.069374,
+        "bengali": 0.451264,
+        "simplified_chinese": 0.108649
+      }
+    },
+    {
+      "feature_id": 8585,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 258176,
+      "firing_rate": 0.068174,
+      "mean_activation": 0.457301,
+      "std_activation": 7.047398,
+      "max_activation": 156.551712,
+      "per_lang_firing_rate": {
+        "english": 0.050066,
+        "standard_arabic": 0.060728,
+        "german": 0.055299,
+        "spanish": 0.05684,
+        "french": 0.060234,
+        "hindi": 0.100907,
+        "japanese": 0.067281,
+        "bengali": 0.07393,
+        "simplified_chinese": 0.056399
+      }
+    },
+    {
+      "feature_id": 8600,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15196,
+      "firing_rate": 0.004013,
+      "mean_activation": 9.231468,
+      "std_activation": 149.596204,
+      "max_activation": 3488.581299,
+      "per_lang_firing_rate": {
+        "english": 0.004015,
+        "standard_arabic": 0.004,
+        "german": 0.004066,
+        "spanish": 0.003982,
+        "french": 0.00398,
+        "hindi": 0.00397,
+        "japanese": 0.003991,
+        "bengali": 0.003969,
+        "simplified_chinese": 0.00423
+      }
+    },
+    {
+      "feature_id": 8664,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 406934,
+      "firing_rate": 0.107455,
+      "mean_activation": 0.181305,
+      "std_activation": 0.879201,
+      "max_activation": 18.35528,
+      "per_lang_firing_rate": {
+        "english": 0.132779,
+        "standard_arabic": 0.109477,
+        "german": 0.108055,
+        "spanish": 0.124417,
+        "french": 0.11551,
+        "hindi": 0.083349,
+        "japanese": 0.117327,
+        "bengali": 0.095035,
+        "simplified_chinese": 0.112876
+      }
+    },
+    {
+      "feature_id": 8747,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15135,
+      "firing_rate": 0.003997,
+      "mean_activation": 25.051744,
+      "std_activation": 405.998698,
+      "max_activation": 9479.638672,
+      "per_lang_firing_rate": {
+        "english": 0.003999,
+        "standard_arabic": 0.003989,
+        "german": 0.004044,
+        "spanish": 0.003973,
+        "french": 0.003964,
+        "hindi": 0.003955,
+        "japanese": 0.00397,
+        "bengali": 0.003957,
+        "simplified_chinese": 0.0042
+      }
+    },
+    {
+      "feature_id": 8810,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 3767143,
+      "firing_rate": 0.994754,
+      "mean_activation": 9.760496,
+      "std_activation": 4.287897,
+      "max_activation": 27.771641,
+      "per_lang_firing_rate": {
+        "english": 0.992175,
+        "standard_arabic": 0.994863,
+        "german": 0.993702,
+        "spanish": 0.993651,
+        "french": 0.994322,
+        "hindi": 0.99605,
+        "japanese": 0.995286,
+        "bengali": 0.996064,
+        "simplified_chinese": 0.994398
+      }
+    },
+    {
+      "feature_id": 9452,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1328553,
+      "firing_rate": 0.350819,
+      "mean_activation": 0.664417,
+      "std_activation": 3.871402,
+      "max_activation": 97.411163,
+      "per_lang_firing_rate": {
+        "english": 0.452587,
+        "standard_arabic": 0.30064,
+        "german": 0.309527,
+        "spanish": 0.349443,
+        "french": 0.297689,
+        "hindi": 0.309193,
+        "japanese": 0.363995,
+        "bengali": 0.452706,
+        "simplified_chinese": 0.273401
+      }
+    },
+    {
+      "feature_id": 9840,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15096,
+      "firing_rate": 0.003986,
+      "mean_activation": 21.805037,
+      "std_activation": 353.395849,
+      "max_activation": 8257.355469,
+      "per_lang_firing_rate": {
+        "english": 0.003993,
+        "standard_arabic": 0.003981,
+        "german": 0.004028,
+        "spanish": 0.003962,
+        "french": 0.003951,
+        "hindi": 0.003947,
+        "japanese": 0.003967,
+        "bengali": 0.003948,
+        "simplified_chinese": 0.004178
+      }
+    },
+    {
+      "feature_id": 10222,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 236725,
+      "firing_rate": 0.06251,
+      "mean_activation": 0.509694,
+      "std_activation": 7.938447,
+      "max_activation": 182.359482,
+      "per_lang_firing_rate": {
+        "english": 0.074047,
+        "standard_arabic": 0.042969,
+        "german": 0.077846,
+        "spanish": 0.052304,
+        "french": 0.06272,
+        "hindi": 0.062065,
+        "japanese": 0.060462,
+        "bengali": 0.058766,
+        "simplified_chinese": 0.076544
+      }
+    },
+    {
+      "feature_id": 10237,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1262656,
+      "firing_rate": 0.333418,
+      "mean_activation": 0.827969,
+      "std_activation": 6.375763,
+      "max_activation": 148.523315,
+      "per_lang_firing_rate": {
+        "english": 0.485512,
+        "standard_arabic": 0.356151,
+        "german": 0.6731,
+        "spanish": 0.440556,
+        "french": 0.452324,
+        "hindi": 0.192801,
+        "japanese": 0.190675,
+        "bengali": 0.134403,
+        "simplified_chinese": 0.344485
+      }
+    },
+    {
+      "feature_id": 10599,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1979558,
+      "firing_rate": 0.522723,
+      "mean_activation": 0.896177,
+      "std_activation": 1.081592,
+      "max_activation": 9.20158,
+      "per_lang_firing_rate": {
+        "english": 0.424593,
+        "standard_arabic": 0.525138,
+        "german": 0.512152,
+        "spanish": 0.473964,
+        "french": 0.501915,
+        "hindi": 0.539583,
+        "japanese": 0.566654,
+        "bengali": 0.557698,
+        "simplified_chinese": 0.558636
+      }
+    },
+    {
+      "feature_id": 10609,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15091,
+      "firing_rate": 0.003985,
+      "mean_activation": 18.662773,
+      "std_activation": 302.486161,
+      "max_activation": 7076.083496,
+      "per_lang_firing_rate": {
+        "english": 0.003987,
+        "standard_arabic": 0.003981,
+        "german": 0.004025,
+        "spanish": 0.003956,
+        "french": 0.003948,
+        "hindi": 0.003947,
+        "japanese": 0.003965,
+        "bengali": 0.003953,
+        "simplified_chinese": 0.004175
+      }
+    },
+    {
+      "feature_id": 10630,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15166,
+      "firing_rate": 0.004005,
+      "mean_activation": 10.960785,
+      "std_activation": 177.622723,
+      "max_activation": 4144.028809,
+      "per_lang_firing_rate": {
+        "english": 0.004008,
+        "standard_arabic": 0.003989,
+        "german": 0.004036,
+        "spanish": 0.003976,
+        "french": 0.003972,
+        "hindi": 0.003963,
+        "japanese": 0.003997,
+        "bengali": 0.003969,
+        "simplified_chinese": 0.004215
+      }
+    },
+    {
+      "feature_id": 10663,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 470242,
+      "firing_rate": 0.124172,
+      "mean_activation": 0.546465,
+      "std_activation": 1.828282,
+      "max_activation": 17.700115,
+      "per_lang_firing_rate": {
+        "english": 0.021892,
+        "standard_arabic": 0.970865,
+        "german": 0.019004,
+        "spanish": 0.02424,
+        "french": 0.013019,
+        "hindi": 0.070608,
+        "japanese": 0.0178,
+        "bengali": 0.041003,
+        "simplified_chinese": 0.036024
+      }
+    },
+    {
+      "feature_id": 10869,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 324278,
+      "firing_rate": 0.085629,
+      "mean_activation": 0.091909,
+      "std_activation": 0.462971,
+      "max_activation": 10.259422,
+      "per_lang_firing_rate": {
+        "english": 0.09526,
+        "standard_arabic": 0.074694,
+        "german": 0.116184,
+        "spanish": 0.085087,
+        "french": 0.077005,
+        "hindi": 0.094266,
+        "japanese": 0.115835,
+        "bengali": 0.049468,
+        "simplified_chinese": 0.089378
+      }
+    },
+    {
+      "feature_id": 10905,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15163,
+      "firing_rate": 0.004004,
+      "mean_activation": 14.403092,
+      "std_activation": 233.38894,
+      "max_activation": 5435.69873,
+      "per_lang_firing_rate": {
+        "english": 0.004005,
+        "standard_arabic": 0.003992,
+        "german": 0.004036,
+        "spanish": 0.003979,
+        "french": 0.00398,
+        "hindi": 0.003956,
+        "japanese": 0.003991,
+        "bengali": 0.003971,
+        "simplified_chinese": 0.004209
+      }
+    },
+    {
+      "feature_id": 11086,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 416188,
+      "firing_rate": 0.109899,
+      "mean_activation": 0.402044,
+      "std_activation": 5.853185,
+      "max_activation": 131.949844,
+      "per_lang_firing_rate": {
+        "english": 0.182782,
+        "standard_arabic": 0.090978,
+        "german": 0.135707,
+        "spanish": 0.124883,
+        "french": 0.11287,
+        "hindi": 0.045074,
+        "japanese": 0.222793,
+        "bengali": 0.017969,
+        "simplified_chinese": 0.202844
+      }
+    },
+    {
+      "feature_id": 11182,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 309451,
+      "firing_rate": 0.081714,
+      "mean_activation": 0.59928,
+      "std_activation": 9.268058,
+      "max_activation": 205.672272,
+      "per_lang_firing_rate": {
+        "english": 0.090138,
+        "standard_arabic": 0.090125,
+        "german": 0.084607,
+        "spanish": 0.090385,
+        "french": 0.080482,
+        "hindi": 0.080801,
+        "japanese": 0.070263,
+        "bengali": 0.082687,
+        "simplified_chinese": 0.064495
+      }
+    },
+    {
+      "feature_id": 11431,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 2290537,
+      "firing_rate": 0.604841,
+      "mean_activation": 1.241726,
+      "std_activation": 1.36645,
+      "max_activation": 11.45845,
+      "per_lang_firing_rate": {
+        "english": 0.562647,
+        "standard_arabic": 0.599834,
+        "german": 0.587076,
+        "spanish": 0.574269,
+        "french": 0.579792,
+        "hindi": 0.655343,
+        "japanese": 0.567599,
+        "bengali": 0.620135,
+        "simplified_chinese": 0.644773
+      }
+    },
+    {
+      "feature_id": 11486,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1044026,
+      "firing_rate": 0.275686,
+      "mean_activation": 0.388426,
+      "std_activation": 0.754958,
+      "max_activation": 8.18998,
+      "per_lang_firing_rate": {
+        "english": 0.239508,
+        "standard_arabic": 0.274285,
+        "german": 0.282462,
+        "spanish": 0.224265,
+        "french": 0.232674,
+        "hindi": 0.335454,
+        "japanese": 0.232227,
+        "bengali": 0.339935,
+        "simplified_chinese": 0.211161
+      }
+    },
+    {
+      "feature_id": 11532,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1219924,
+      "firing_rate": 0.322134,
+      "mean_activation": 0.260996,
+      "std_activation": 0.43106,
+      "max_activation": 3.932538,
+      "per_lang_firing_rate": {
+        "english": 0.25851,
+        "standard_arabic": 0.242025,
+        "german": 0.242818,
+        "spanish": 0.252565,
+        "french": 0.277485,
+        "hindi": 0.398946,
+        "japanese": 0.281862,
+        "bengali": 0.489876,
+        "simplified_chinese": 0.243787
+      }
+    },
+    {
+      "feature_id": 11678,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15181,
+      "firing_rate": 0.004009,
+      "mean_activation": 15.80027,
+      "std_activation": 256.025641,
+      "max_activation": 5961.606934,
+      "per_lang_firing_rate": {
+        "english": 0.004011,
+        "standard_arabic": 0.003995,
+        "german": 0.004047,
+        "spanish": 0.003982,
+        "french": 0.00398,
+        "hindi": 0.003963,
+        "japanese": 0.004,
+        "bengali": 0.003972,
+        "simplified_chinese": 0.004215
+      }
+    },
+    {
+      "feature_id": 11733,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15128,
+      "firing_rate": 0.003995,
+      "mean_activation": 10.984923,
+      "std_activation": 178.024357,
+      "max_activation": 4156.173828,
+      "per_lang_firing_rate": {
+        "english": 0.004002,
+        "standard_arabic": 0.003989,
+        "german": 0.004028,
+        "spanish": 0.00397,
+        "french": 0.003961,
+        "hindi": 0.00395,
+        "japanese": 0.003973,
+        "bengali": 0.003957,
+        "simplified_chinese": 0.004206
+      }
+    },
+    {
+      "feature_id": 11760,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1173843,
+      "firing_rate": 0.309966,
+      "mean_activation": 0.433193,
+      "std_activation": 0.80881,
+      "max_activation": 9.258817,
+      "per_lang_firing_rate": {
+        "english": 0.270463,
+        "standard_arabic": 0.296348,
+        "german": 0.297045,
+        "spanish": 0.241067,
+        "french": 0.239359,
+        "hindi": 0.404739,
+        "japanese": 0.358331,
+        "bengali": 0.310186,
+        "simplified_chinese": 0.301495
+      }
+    },
+    {
+      "feature_id": 11920,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15243,
+      "firing_rate": 0.004025,
+      "mean_activation": 7.822706,
+      "std_activation": 126.732314,
+      "max_activation": 2940.666748,
+      "per_lang_firing_rate": {
+        "english": 0.00403,
+        "standard_arabic": 0.004019,
+        "german": 0.004058,
+        "spanish": 0.004001,
+        "french": 0.003987,
+        "hindi": 0.003978,
+        "japanese": 0.004008,
+        "bengali": 0.003986,
+        "simplified_chinese": 0.004248
+      }
+    },
+    {
+      "feature_id": 11977,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 178060,
+      "firing_rate": 0.047019,
+      "mean_activation": 0.398342,
+      "std_activation": 6.208356,
+      "max_activation": 137.911972,
+      "per_lang_firing_rate": {
+        "english": 0.056056,
+        "standard_arabic": 0.063058,
+        "german": 0.055515,
+        "spanish": 0.059341,
+        "french": 0.05969,
+        "hindi": 0.037067,
+        "japanese": 0.052997,
+        "bengali": 0.013339,
+        "simplified_chinese": 0.063969
+      }
+    },
+    {
+      "feature_id": 12002,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1061192,
+      "firing_rate": 0.280219,
+      "mean_activation": 0.241959,
+      "std_activation": 0.462427,
+      "max_activation": 5.351169,
+      "per_lang_firing_rate": {
+        "english": 0.200214,
+        "standard_arabic": 0.227139,
+        "german": 0.205641,
+        "spanish": 0.249401,
+        "french": 0.227852,
+        "hindi": 0.499282,
+        "japanese": 0.126157,
+        "bengali": 0.368146,
+        "simplified_chinese": 0.154623
+      }
+    },
+    {
+      "feature_id": 12004,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 182509,
+      "firing_rate": 0.048193,
+      "mean_activation": 0.520739,
+      "std_activation": 8.18309,
+      "max_activation": 181.958694,
+      "per_lang_firing_rate": {
+        "english": 0.093419,
+        "standard_arabic": 0.053075,
+        "german": 0.072347,
+        "spanish": 0.077316,
+        "french": 0.048293,
+        "hindi": 0.029108,
+        "japanese": 0.054227,
+        "bengali": 0.01193,
+        "simplified_chinese": 0.042615
+      }
+    },
+    {
+      "feature_id": 12293,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 350913,
+      "firing_rate": 0.092662,
+      "mean_activation": 0.116286,
+      "std_activation": 0.5409,
+      "max_activation": 10.589523,
+      "per_lang_firing_rate": {
+        "english": 0.026469,
+        "standard_arabic": 0.036172,
+        "german": 0.027869,
+        "spanish": 0.028791,
+        "french": 0.029026,
+        "hindi": 0.213891,
+        "japanese": 0.02809,
+        "bengali": 0.211603,
+        "simplified_chinese": 0.028511
+      }
+    },
+    {
+      "feature_id": 12305,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 268250,
+      "firing_rate": 0.070834,
+      "mean_activation": 0.6389,
+      "std_activation": 9.948535,
+      "max_activation": 223.981323,
+      "per_lang_firing_rate": {
+        "english": 0.067155,
+        "standard_arabic": 0.057525,
+        "german": 0.05452,
+        "spanish": 0.074297,
+        "french": 0.061255,
+        "hindi": 0.071851,
+        "japanese": 0.110975,
+        "bengali": 0.071456,
+        "simplified_chinese": 0.069805
+      }
+    },
+    {
+      "feature_id": 12892,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1074598,
+      "firing_rate": 0.283759,
+      "mean_activation": 0.285748,
+      "std_activation": 0.582613,
+      "max_activation": 8.086825,
+      "per_lang_firing_rate": {
+        "english": 0.32832,
+        "standard_arabic": 0.260855,
+        "german": 0.327373,
+        "spanish": 0.290267,
+        "french": 0.292548,
+        "hindi": 0.272371,
+        "japanese": 0.302694,
+        "bengali": 0.247663,
+        "simplified_chinese": 0.27341
+      }
+    },
+    {
+      "feature_id": 12982,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15167,
+      "firing_rate": 0.004005,
+      "mean_activation": 9.148397,
+      "std_activation": 148.250623,
+      "max_activation": 3456.754639,
+      "per_lang_firing_rate": {
+        "english": 0.004011,
+        "standard_arabic": 0.003995,
+        "german": 0.004039,
+        "spanish": 0.003979,
+        "french": 0.00398,
+        "hindi": 0.003958,
+        "japanese": 0.003988,
+        "bengali": 0.003971,
+        "simplified_chinese": 0.004209
+      }
+    },
+    {
+      "feature_id": 12987,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1182512,
+      "firing_rate": 0.312255,
+      "mean_activation": 0.335565,
+      "std_activation": 0.615559,
+      "max_activation": 7.870465,
+      "per_lang_firing_rate": {
+        "english": 0.247886,
+        "standard_arabic": 0.23837,
+        "german": 0.288178,
+        "spanish": 0.242692,
+        "french": 0.261959,
+        "hindi": 0.509078,
+        "japanese": 0.271933,
+        "bengali": 0.343511,
+        "simplified_chinese": 0.216464
+      }
+    },
+    {
+      "feature_id": 13165,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1275839,
+      "firing_rate": 0.336899,
+      "mean_activation": 0.612732,
+      "std_activation": 1.304481,
+      "max_activation": 12.3278,
+      "per_lang_firing_rate": {
+        "english": 0.332855,
+        "standard_arabic": 0.343112,
+        "german": 0.319506,
+        "spanish": 0.360727,
+        "french": 0.359168,
+        "hindi": 0.362133,
+        "japanese": 0.354037,
+        "bengali": 0.276106,
+        "simplified_chinese": 0.358317
+      }
+    },
+    {
+      "feature_id": 13202,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1165918,
+      "firing_rate": 0.307873,
+      "mean_activation": 0.242087,
+      "std_activation": 0.419918,
+      "max_activation": 4.562468,
+      "per_lang_firing_rate": {
+        "english": 0.186357,
+        "standard_arabic": 0.216903,
+        "german": 0.245628,
+        "spanish": 0.188194,
+        "french": 0.201155,
+        "hindi": 0.661112,
+        "japanese": 0.17886,
+        "bengali": 0.401141,
+        "simplified_chinese": 0.114699
+      }
+    },
+    {
+      "feature_id": 13256,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 323454,
+      "firing_rate": 0.085411,
+      "mean_activation": 0.385244,
+      "std_activation": 5.760723,
+      "max_activation": 130.160645,
+      "per_lang_firing_rate": {
+        "english": 0.088731,
+        "standard_arabic": 0.069752,
+        "german": 0.087485,
+        "spanish": 0.089952,
+        "french": 0.089574,
+        "hindi": 0.054989,
+        "japanese": 0.090191,
+        "bengali": 0.067404,
+        "simplified_chinese": 0.177426
+      }
+    },
+    {
+      "feature_id": 13318,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1243977,
+      "firing_rate": 0.328485,
+      "mean_activation": 0.337758,
+      "std_activation": 0.561559,
+      "max_activation": 4.847904,
+      "per_lang_firing_rate": {
+        "english": 0.325503,
+        "standard_arabic": 0.318819,
+        "german": 0.314193,
+        "spanish": 0.361943,
+        "french": 0.361233,
+        "hindi": 0.416217,
+        "japanese": 0.209063,
+        "bengali": 0.33387,
+        "simplified_chinese": 0.227276
+      }
+    },
+    {
+      "feature_id": 13675,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 758698,
+      "firing_rate": 0.200342,
+      "mean_activation": 0.261543,
+      "std_activation": 0.614348,
+      "max_activation": 7.161609,
+      "per_lang_firing_rate": {
+        "english": 0.179859,
+        "standard_arabic": 0.211848,
+        "german": 0.22913,
+        "spanish": 0.201639,
+        "french": 0.194407,
+        "hindi": 0.137851,
+        "japanese": 0.285439,
+        "bengali": 0.19493,
+        "simplified_chinese": 0.225117
+      }
+    },
+    {
+      "feature_id": 13845,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 497852,
+      "firing_rate": 0.131463,
+      "mean_activation": 0.209375,
+      "std_activation": 0.799556,
+      "max_activation": 11.376707,
+      "per_lang_firing_rate": {
+        "english": 0.137756,
+        "standard_arabic": 0.124765,
+        "german": 0.156123,
+        "spanish": 0.129575,
+        "french": 0.137239,
+        "hindi": 0.118327,
+        "japanese": 0.150405,
+        "bengali": 0.109849,
+        "simplified_chinese": 0.149713
+      }
+    },
+    {
+      "feature_id": 13948,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1610204,
+      "firing_rate": 0.425192,
+      "mean_activation": 0.47605,
+      "std_activation": 0.736935,
+      "max_activation": 9.020491,
+      "per_lang_firing_rate": {
+        "english": 0.458613,
+        "standard_arabic": 0.481957,
+        "german": 0.367496,
+        "spanish": 0.485214,
+        "french": 0.428931,
+        "hindi": 0.450834,
+        "japanese": 0.466537,
+        "bengali": 0.35232,
+        "simplified_chinese": 0.379302
+      }
+    },
+    {
+      "feature_id": 13967,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 912184,
+      "firing_rate": 0.240872,
+      "mean_activation": 0.559964,
+      "std_activation": 7.486111,
+      "max_activation": 170.743103,
+      "per_lang_firing_rate": {
+        "english": 0.219733,
+        "standard_arabic": 0.247993,
+        "german": 0.245918,
+        "spanish": 0.275727,
+        "french": 0.303664,
+        "hindi": 0.233862,
+        "japanese": 0.250149,
+        "bengali": 0.174472,
+        "simplified_chinese": 0.276449
+      }
+    },
+    {
+      "feature_id": 14096,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1285839,
+      "firing_rate": 0.33954,
+      "mean_activation": 0.44616,
+      "std_activation": 0.748857,
+      "max_activation": 7.426532,
+      "per_lang_firing_rate": {
+        "english": 0.357333,
+        "standard_arabic": 0.27617,
+        "german": 0.364923,
+        "spanish": 0.313462,
+        "french": 0.34706,
+        "hindi": 0.438446,
+        "japanese": 0.254014,
+        "bengali": 0.32105,
+        "simplified_chinese": 0.317108
+      }
+    },
+    {
+      "feature_id": 14122,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 424995,
+      "firing_rate": 0.112224,
+      "mean_activation": 0.159153,
+      "std_activation": 0.6688,
+      "max_activation": 10.572686,
+      "per_lang_firing_rate": {
+        "english": 0.020463,
+        "standard_arabic": 0.020928,
+        "german": 0.04114,
+        "spanish": 0.02041,
+        "french": 0.025729,
+        "hindi": 0.294611,
+        "japanese": 0.093056,
+        "bengali": 0.228195,
+        "simplified_chinese": 0.016314
+      }
+    },
+    {
+      "feature_id": 14225,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 191649,
+      "firing_rate": 0.050607,
+      "mean_activation": 0.470186,
+      "std_activation": 7.340133,
+      "max_activation": 167.272644,
+      "per_lang_firing_rate": {
+        "english": 0.062007,
+        "standard_arabic": 0.035844,
+        "german": 0.104387,
+        "spanish": 0.049329,
+        "french": 0.037124,
+        "hindi": 0.030381,
+        "japanese": 0.080448,
+        "bengali": 0.024177,
+        "simplified_chinese": 0.073744
+      }
+    },
+    {
+      "feature_id": 14252,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 276715,
+      "firing_rate": 0.07307,
+      "mean_activation": 0.066239,
+      "std_activation": 0.296527,
+      "max_activation": 7.37496,
+      "per_lang_firing_rate": {
+        "english": 0.034413,
+        "standard_arabic": 0.017102,
+        "german": 0.429293,
+        "spanish": 0.020153,
+        "french": 0.0258,
+        "hindi": 0.038642,
+        "japanese": 0.05469,
+        "bengali": 0.045759,
+        "simplified_chinese": 0.027921
+      }
+    },
+    {
+      "feature_id": 14325,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 360280,
+      "firing_rate": 0.095136,
+      "mean_activation": 0.307401,
+      "std_activation": 1.139933,
+      "max_activation": 11.57752,
+      "per_lang_firing_rate": {
+        "english": 0.028901,
+        "standard_arabic": 0.004975,
+        "german": 0.730964,
+        "spanish": 0.026438,
+        "french": 0.029037,
+        "hindi": 0.052758,
+        "japanese": 0.008946,
+        "bengali": 0.02732,
+        "simplified_chinese": 0.009094
+      }
+    },
+    {
+      "feature_id": 14399,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 126951,
+      "firing_rate": 0.033523,
+      "mean_activation": 0.864978,
+      "std_activation": 13.844157,
+      "max_activation": 318.737305,
+      "per_lang_firing_rate": {
+        "english": 0.030369,
+        "standard_arabic": 0.030888,
+        "german": 0.030084,
+        "spanish": 0.02813,
+        "french": 0.031684,
+        "hindi": 0.038099,
+        "japanese": 0.01949,
+        "bengali": 0.050114,
+        "simplified_chinese": 0.023571
+      }
+    },
+    {
+      "feature_id": 14435,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 467727,
+      "firing_rate": 0.123508,
+      "mean_activation": 0.14102,
+      "std_activation": 0.567458,
+      "max_activation": 11.16958,
+      "per_lang_firing_rate": {
+        "english": 0.007238,
+        "standard_arabic": 0.051005,
+        "german": 0.01882,
+        "spanish": 0.021207,
+        "french": 0.019442,
+        "hindi": 0.156195,
+        "japanese": 0.062208,
+        "bengali": 0.414754,
+        "simplified_chinese": 0.079809
+      }
+    },
+    {
+      "feature_id": 14548,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1034783,
+      "firing_rate": 0.273246,
+      "mean_activation": 0.189609,
+      "std_activation": 0.372194,
+      "max_activation": 3.687651,
+      "per_lang_firing_rate": {
+        "english": 0.08942,
+        "standard_arabic": 0.118637,
+        "german": 0.090809,
+        "spanish": 0.098802,
+        "french": 0.087186,
+        "hindi": 0.610076,
+        "japanese": 0.049484,
+        "bengali": 0.637084,
+        "simplified_chinese": 0.081015
+      }
+    },
+    {
+      "feature_id": 14860,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 694248,
+      "firing_rate": 0.183324,
+      "mean_activation": 0.452149,
+      "std_activation": 1.30849,
+      "max_activation": 12.388062,
+      "per_lang_firing_rate": {
+        "english": 0.035048,
+        "standard_arabic": 0.021643,
+        "german": 0.038392,
+        "spanish": 0.12689,
+        "french": 0.910028,
+        "hindi": 0.134542,
+        "japanese": 0.080652,
+        "bengali": 0.212432,
+        "simplified_chinese": 0.034869
+      }
+    },
+    {
+      "feature_id": 15161,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1239078,
+      "firing_rate": 0.327192,
+      "mean_activation": 0.34993,
+      "std_activation": 0.683487,
+      "max_activation": 8.903232,
+      "per_lang_firing_rate": {
+        "english": 0.431426,
+        "standard_arabic": 0.342748,
+        "german": 0.341461,
+        "spanish": 0.375248,
+        "french": 0.347311,
+        "hindi": 0.223973,
+        "japanese": 0.390173,
+        "bengali": 0.283626,
+        "simplified_chinese": 0.336337
+      }
+    },
+    {
+      "feature_id": 15265,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1146107,
+      "firing_rate": 0.302642,
+      "mean_activation": 0.392547,
+      "std_activation": 0.704837,
+      "max_activation": 7.752328,
+      "per_lang_firing_rate": {
+        "english": 0.257247,
+        "standard_arabic": 0.265175,
+        "german": 0.331125,
+        "spanish": 0.206028,
+        "french": 0.215249,
+        "hindi": 0.369399,
+        "japanese": 0.335532,
+        "bengali": 0.336207,
+        "simplified_chinese": 0.332222
+      }
+    },
+    {
+      "feature_id": 15279,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1634121,
+      "firing_rate": 0.431507,
+      "mean_activation": 0.851591,
+      "std_activation": 1.259379,
+      "max_activation": 10.588754,
+      "per_lang_firing_rate": {
+        "english": 0.410111,
+        "standard_arabic": 0.397405,
+        "german": 0.373409,
+        "spanish": 0.41155,
+        "french": 0.404055,
+        "hindi": 0.447838,
+        "japanese": 0.429163,
+        "bengali": 0.491912,
+        "simplified_chinese": 0.457448
+      }
+    },
+    {
+      "feature_id": 15621,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15195,
+      "firing_rate": 0.004012,
+      "mean_activation": 17.553292,
+      "std_activation": 284.440993,
+      "max_activation": 6628.178223,
+      "per_lang_firing_rate": {
+        "english": 0.004015,
+        "standard_arabic": 0.004,
+        "german": 0.004047,
+        "spanish": 0.003982,
+        "french": 0.00398,
+        "hindi": 0.003967,
+        "japanese": 0.004,
+        "bengali": 0.003975,
+        "simplified_chinese": 0.004233
+      }
+    },
+    {
+      "feature_id": 15726,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15195,
+      "firing_rate": 0.004012,
+      "mean_activation": 20.018772,
+      "std_activation": 324.380564,
+      "max_activation": 7551.985352,
+      "per_lang_firing_rate": {
+        "english": 0.004011,
+        "standard_arabic": 0.004,
+        "german": 0.004055,
+        "spanish": 0.003984,
+        "french": 0.00398,
+        "hindi": 0.003967,
+        "japanese": 0.004005,
+        "bengali": 0.003975,
+        "simplified_chinese": 0.004218
+      }
+    },
+    {
+      "feature_id": 15730,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 1489386,
+      "firing_rate": 0.393288,
+      "mean_activation": 0.499937,
+      "std_activation": 0.790216,
+      "max_activation": 7.674551,
+      "per_lang_firing_rate": {
+        "english": 0.296983,
+        "standard_arabic": 0.391332,
+        "german": 0.316739,
+        "spanish": 0.334432,
+        "french": 0.349551,
+        "hindi": 0.571881,
+        "japanese": 0.319692,
+        "bengali": 0.443806,
+        "simplified_chinese": 0.32112
+      }
+    },
+    {
+      "feature_id": 15779,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 15132,
+      "firing_rate": 0.003996,
+      "mean_activation": 20.122621,
+      "std_activation": 326.10186,
+      "max_activation": 7609.834473,
+      "per_lang_firing_rate": {
+        "english": 0.003999,
+        "standard_arabic": 0.003989,
+        "german": 0.004033,
+        "spanish": 0.003976,
+        "french": 0.003964,
+        "hindi": 0.003953,
+        "japanese": 0.003973,
+        "bengali": 0.003957,
+        "simplified_chinese": 0.0042
+      }
+    },
+    {
+      "feature_id": 15794,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 241883,
+      "firing_rate": 0.063872,
+      "mean_activation": 0.063317,
+      "std_activation": 0.295605,
+      "max_activation": 6.075483,
+      "per_lang_firing_rate": {
+        "english": 0.001651,
+        "standard_arabic": 0.006115,
+        "german": 0.026559,
+        "spanish": 0.001639,
+        "french": 0.002263,
+        "hindi": 0.027261,
+        "japanese": 0.413153,
+        "bengali": 0.021672,
+        "simplified_chinese": 0.163872
+      }
+    },
+    {
+      "feature_id": 15891,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 918724,
+      "firing_rate": 0.242599,
+      "mean_activation": 0.38486,
+      "std_activation": 4.51897,
+      "max_activation": 100.480927,
+      "per_lang_firing_rate": {
+        "english": 0.148561,
+        "standard_arabic": 0.126736,
+        "german": 0.219553,
+        "spanish": 0.105544,
+        "french": 0.100662,
+        "hindi": 0.353691,
+        "japanese": 0.281859,
+        "bengali": 0.417405,
+        "simplified_chinese": 0.193659
+      }
+    },
+    {
+      "feature_id": 15916,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 3218622,
+      "firing_rate": 0.849912,
+      "mean_activation": 8.42818,
+      "std_activation": 82.04754,
+      "max_activation": 1865.653198,
+      "per_lang_firing_rate": {
+        "english": 0.921259,
+        "standard_arabic": 0.903973,
+        "german": 0.888142,
+        "spanish": 0.863192,
+        "french": 0.859435,
+        "hindi": 0.750561,
+        "japanese": 0.992138,
+        "bengali": 0.705962,
+        "simplified_chinese": 0.986322
+      }
+    },
+    {
+      "feature_id": 16017,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 241443,
+      "firing_rate": 0.063756,
+      "mean_activation": 0.506716,
+      "std_activation": 7.863755,
+      "max_activation": 174.594055,
+      "per_lang_firing_rate": {
+        "english": 0.095121,
+        "standard_arabic": 0.054522,
+        "german": 0.064845,
+        "spanish": 0.078961,
+        "french": 0.06267,
+        "hindi": 0.057017,
+        "japanese": 0.060308,
+        "bengali": 0.033576,
+        "simplified_chinese": 0.103473
+      }
+    },
+    {
+      "feature_id": 16313,
+      "total_tokens_seen": 3787008,
+      "nonzero_count": 3582971,
+      "firing_rate": 0.946122,
+      "mean_activation": 4.893562,
+      "std_activation": 4.844861,
+      "max_activation": 36.478481,
+      "per_lang_firing_rate": {
+        "english": 0.891656,
+        "standard_arabic": 0.927642,
+        "german": 0.937484,
+        "spanish": 0.905282,
+        "french": 0.905128,
+        "hindi": 0.990198,
+        "japanese": 0.948426,
+        "bengali": 0.991404,
+        "simplified_chinese": 0.943314
+      }
+    }
+  ]
+}

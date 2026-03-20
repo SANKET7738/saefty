@@ -1,0 +1,153 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 4944
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=5.3578%  mean=0.4987  max=173.9957  tokens_seen=3,787,008
+  per-lang firing: bengali=4.9569%, english=5.9800%, french=4.2814%, german=5.5053%, hindi=4.3674%, japanese=8.1026%, simplified_chinese=8.4876%, spanish=4.2146%, standard_arabic=3.9352%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=173.9957  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[174.00] , 9 3 , 4 0 7  कर ो ड ़  र ु प ए  क ा  प ् र ा व ध ा न  क ि य ा  ग य ा  थ ा
+    ,  जब क ि   2
+
+  #2  act=172.3863  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[172.39] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax  on  a  meal . 
+ 
+
+    In   2 0
+
+  #3  act=170.9742  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[170.97] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .[0.30]  The[0.22]   1 8 6 2
+     Morr ill  Land - Grant  Colleges  Act  provided  government  grants
+
+  #4  act=170.9742  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[170.97] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+[0.23]  The   1 9 5 4  film  U
+    ly ss es  by  Pier o  L ul li 
+  The   1 9 5 6  film  Helen  of[0.22]  Troy  by[0.37]
+
+  #5  act=165.2339  tok='2'  lang=english  src=culturax
+      In  [0.27] >>>2<<<[165.23] 7 2  words ,  and[0.34]  three  minutes ,  Lincoln  asserted  that
+     the  nation  was  born  not  in   1 7 8 9 ,  but  in   1 7 7 6 ,  " con ceived  in  Liberty ,
+     and  dedicated  to
+
+  #6  act=164.9522  tok='1'  lang=french  src=culturax
+      années   >>>1<<<[164.95] 9 8 0 .  Aujourd ’ h ui ,  des  compagnies  pét ro li ères  comme  Un
+    ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem porter  des
+     appels  d ’ off
+
+  #7  act=164.7934  tok='2'  lang=french  src=culturax
+      le  [0.85] >>>2<<<[164.79] 0  septembre   1 8 7 0 ,  av ocat ,  économ iste  et  journaliste
+     français .  Il  est  un  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de
+     l ' Al gérie . 
+  Philippe
+
+  #8  act=164.2961  tok='1'  lang=standard_arabic  src=culturax
+      حوالي  [0.74] >>>1<<<[164.30] 5 0 0  إلى   1 8 0 0 .[0.31]  وقد  أدى  ذلك  إلى  العديد  من
+     التر جمات  الخ اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على
+     المسيح يين
+
+  #9  act=163.9127  tok='1'  lang=english  src=culturax
+      late  [0.56] >>>1<<<[163.91] 9 9 0 s  and  early   2 0 0 0 s ,[0.31]  the  ceremony  returned
+     to  the  Shr ine[0.39]  Auditorium . 
+ 
+ In   2 0 0 2 ,  Hollywood 's  Dol by  Theatre  (
+    previously  known  as
+
+  #10  act=162.7564  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[162.76] 5  Southern  slave  states ,  and[0.35]  he  won  only  two  of   9 9 6
+     counties  in  all  the  Southern  states ,  an  omen  of  the  impending  Civil  War .  Lincoln
+     received   1 , 8 6 6 , 4
+
+  #11  act=161.5262  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير  [2.02] >>>2<<<[161.53] 0 0 4  عندما  لم  تتم كن  الم بر مجة[0.19]  ك اسي  في نت ون  من
+     إيجاد  مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد  رح لة  ط يران  ر خي صة  إلى[0.38]  هناك
+    .[0.18] أ ر سل
+
+  #12  act=161.5166  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[161.52] 3 0   0 0 0  y ens ,  les  billets  ty pi ques  coû tant  environ   7   0
+    0 0  y ens . En  rep ass ant  les  vêtements  hum ides ,   on  peut  les  faire
+
+  #13  act=160.9260  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年  [0.91] >>>9<<<[160.93]  月   1 7  日 ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着 罗马 尼亚 桥头 堡 撤 退 和
+    改 编 军队 。 然而 ， 这些[0.22] 计划 几乎 在 一 夜
+
+  #14  act=160.2524  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[160.25] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有 必要 。 南 极 洲 环 绕 着 南 极 ， 是 地球 上 最 冷 的地方
+    。 旅行 费用 高 昂 ， 对 身体
+
+  #15  act=160.0005  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[160.00] . 5 0  م ترا ً . المس افة  الرأس ية  الخ الية  تحت  الج سر   ١ ٥  م ترا ً
+    .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم[0.21]  ي[0.38] ُ ف ْ ت
+
+  #16  act=158.9860  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[158.99] 0 0 . 0 0 0  Sold aten  der  R oten  Ar[0.42] mee  der  Sow[0.18]
+    jet union  in  die  weiß r uss ischen  und  ukrain ischen  Front en  eind r angen  und[0.18]
+     diese[0.26]  sch ufen ,  nachdem  sie  in  Ver
+
+  #17  act=158.3439  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[158.34] দ ্ য া ল য ় ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্ ব া স ্ থ ্ য  খ া ত  
+
+    
+ দ া র
+
+  #18  act=158.2142  tok='Ġbiens'  lang=french  src=flores  sid=550
+      ses >>> biens<<<[158.21] .[0.23] L ' un  des  exemples  réc ents  les  plus  remarqu ables  de
+     cette  situation  a  été  la  campagne  North  Atlantic  pendant  la  Sec onde  Guerre
+     mondiale .  Les  Am éric ains  tent aient  de  faire  travers er  l '
+
+  #19  act=158.1179  tok='à¦®'  lang=bengali  src=culturax
+     সল >>>ম<<<[158.12] া ন র া  দ ে শ ী য ়  শ ব ্ দ ে র  প া শ া প া শ ি  ফ া রস ি  এব ং  আর ব ি
+     ভ া ষ া র  শ ব
+
+  #20  act=158.0795  tok='à¤¾'  lang=hindi  src=flores  sid=902
+      दब >>>ा<<<[158.08] व  व ा ल ी  हव ा  क ा  एक  घ ु मत ा  ह ु व ा  स ् त ं भ  ह ो त ा  ह ै ,  ज
+    ो  आस प ा स  क ी  हव ा
+
+  #21  act=158.0795  tok='à¤¾'  lang=hindi  src=xsafety
+      दब >>>ा<<<[158.08] व  स े  क ै स े  न ि पट  सक त ा  ह ूँ ?" " म ैं  अक ् सर  च िं त ि त  और
+     तन ा व ग ् रस[0.19] ् त  महस ू स  करत
+
+  #22  act=158.0035  tok='1'  lang=english  src=flores  sid=9
+     At   >>>1<<<[158.00] 1 : 2 0 ,  the  police  asked  the  protesters  to  move  back  on  to
+     the  pavement ,  stating  that  they  needed  to  balance  the  right  to  protest  with  the
+     traffic  building  up . Around   1 1 : 2
+
+  #23  act=157.7475  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[157.75] 裁 ， 通过 人物 的 塑造 和 情节 、 环境[0.55] 的[0.51] 描述[0.34] 来 概括 地 表现 社会 生活 。“[0.35] 小说
+    ” 一 词 最早 记载 于 《[0.28] 庄[0.36] 子 · 外 物[0.42] 》 ：“ 饰 小说[0.21] 以 干[0.19] 县 令
+
+  #24  act=157.6550  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[157.66]  प ् रण ा ल ी  क ो  मजब ू त  कर न े  क े  ल ि ए :  A .  भ ो जन  क ो[0.29]  ख
+    ा न े  स े  थ ो ड ़ा  पहल े  सम
+
+  #25  act=157.6550  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[157.66]  स ॉ फ ़ ् ट व े यर  क ा  पर ि च य  द ें ।  क ृ प य ा  ऊपर  द ि ए  गए  सव ा ल
+     क ो  न ज ़ र अ ं द
+
+  #26  act=157.6549  tok='à¤¾'  lang=hindi  src=culturax
+      बर >>>ा<<<[157.65] बर  थ ा  वह ीं  यह  एक  प ा उ ं ड  स ् टर ् ल िं ग  क ा   १  /   १ ५  ह ि स
+    ् स ा  थ ा ।  
+ 
+ उन ्
+
+  #27  act=157.5576  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[157.56] 們 本土 醫 學 — 「 漢 方[0.23] 醫 學 」 ， 及 西方 醫 學 — 「 蘭[0.37] 醫[0.23] 學 」( 荷 蘭 )，[0.33]
+    來 作 區 分 。 清[0.32] 朝[0.35] 時 也 使用[0.18] 這個[0.30] 名 詞 來 稱
+
+  #28  act=157.4632  tok='à¦¾'  lang=bengali  src=culturax
+      বল >>>া<<<[157.46]  হ য ় ে  থ া ক ে ,  য ে  ক া র া গ[0.26] া র  ক ক ্ ষ ে  ত ি ন ি  অব স ্ থ
+    া ন  কর ে ছ ি ল ে ন
+
+  #29  act=157.3754  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[157.38] দ ্ য া ল য ়  থ ে ক ে  সম ্ ম া ন স ূ চ ক  ড ক ্ ট র  অফ  হ ি উ ম ্ য া ন  ল
+    ে ট া র  ল
+
+  #30  act=157.3754  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[157.38] ধ া ন ে র  প � � ্ চ ম  স ং শ ো ধ ন ী ত ে  ত া র  ব ৈ ধ ত া  দ ে য ় া  হ য ়
+    ,  য া  
+
+══════════════════════════════════════════════════════════════════════════════════════════

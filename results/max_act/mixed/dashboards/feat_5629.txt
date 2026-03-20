@@ -1,0 +1,153 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 5629
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=2.3478%  mean=0.9926  max=363.6455  tokens_seen=3,787,008
+  per-lang firing: bengali=3.1268%, english=2.1621%, french=2.5049%, german=2.5161%, hindi=1.9988%, japanese=1.7803%, simplified_chinese=1.9528%, spanish=1.6671%, standard_arabic=2.9320%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=363.6455  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[363.65] , 9 3 , 4 0 7  कर ो ड ़  र ु प ए  क ा  प ् र ा व ध ा न  क ि य ा  ग य ा  थ ा
+    ,  जब क ि   2
+
+  #2  act=360.9857  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[360.99] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax  on  a  meal[0.28]
+    . 
+ 
+ In   2 0
+
+  #3  act=355.9438  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[355.94] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4  film  U ly
+    ss[0.19] es  by  Pier o  L ul li 
+  The   1 9 5 6  film  Helen  of  Troy  by
+
+  #4  act=355.9438  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[355.94] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .  The   1 8 6 2  Morr ill
+     Land - Grant  Colleges  Act  provided  government  grants
+
+  #5  act=345.6452  tok='2'  lang=english  src=culturax
+      In  [0.83] >>>2<<<[345.65] 7 2  words ,  and  three  minutes ,  Lincoln  asserted  that  the
+     nation  was  born  not  in   1 7 8 9 ,  but  in[0.13]   1 7 7 6 ,  " con ceived  in  Liberty ,
+     and  dedicated  to
+
+  #6  act=345.0397  tok='1'  lang=french  src=culturax
+      années   >>>1<<<[345.04] 9 8 0 .  Aujourd ’ h ui ,  des  compagnies  pét ro li ères  comme  Un
+    ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem porter  des
+     appels  d ’ off
+
+  #7  act=344.7773  tok='2'  lang=french  src=culturax
+      le  [0.23] >>>2<<<[344.78] 0  septembre   1 8 7 0 ,  av ocat ,  économ iste  et  journaliste
+     français .  Il  est  un  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de
+     l ' Al gérie . 
+  Philippe
+
+  #8  act=344.5515  tok='1'  lang=standard_arabic  src=culturax
+      حوالي   >>>1<<<[344.55] 5 0 0  إلى   1 8 0 0 .  وقد  أدى  ذلك  إلى  العديد  من  التر جمات  الخ
+    اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح يين
+
+  #9  act=339.1065  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير  [1.73] >>>2<<<[339.11] 0 0 4  عندما  لم  تتم كن  الم بر مجة  ك اسي  في نت ون  من  إيجاد
+     مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد  رح لة[1.10]  ط يران  ر خي صة  إلى  هناك . أ ر سل
+
+  #10  act=338.0602  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[338.06] 5  Southern  slave  states ,  and  he  won  only  two  of   9 9[0.23] 6
+     counties  in  all  the  Southern  states ,  an  omen  of  the  impending  Civil  War .  Lincoln
+     received   1 , 8 6 6 , 4
+
+  #11  act=338.0568  tok='1'  lang=english  src=culturax
+      late   >>>1<<<[338.06] 9 9 0 s  and  early   2 0 0 0 s ,  the  ceremony[0.13]  returned  to
+     the  Shr ine  Auditorium . 
+ 
+ In   2 0 0 2 ,  Hollywood 's  Dol by  Theatre[0.34]  (
+    previously  known  as
+
+  #12  act=336.5632  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年  [0.19] >>>9<<<[336.56]  月   1 7  日 ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着 罗马 尼亚 桥头 堡 撤 退 和
+    改 编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #13  act=336.5473  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[336.55] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有 必要 。 南 极 洲 环 绕 着 南 极 ， 是 地球 上 最 冷 的地方
+    。 旅行 费用 高 昂 ， 对 身体
+
+  #14  act=335.8940  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[335.89] 3 0   0 0 0  y ens ,  les  billets  ty pi ques  coû tant  environ   7   0
+    0 0  y ens . En  rep ass ant  les  vêtements  hum ides ,   on  peut  les  faire
+
+  #15  act=334.1031  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[334.10] . 5 0  م ترا ً . المس افة  الرأس ية  الخ الية  تحت  الج سر   ١ ٥  م ترا ً
+    .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #16  act=331.8068  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[331.81] 0 0 . 0 0 0  Sold aten  der  R oten  Ar mee  der  Sow jet union
+     in  die  weiß r uss ischen  und  ukrain ischen  Front en  eind r angen  und  diese  sch ufen ,
+     nachdem  sie  in  Ver
+
+  #17  act=330.5438  tok='1'  lang=english  src=flores  sid=9
+     At  [0.43] >>>1<<<[330.54] 1 : 2 0 ,  the  police  asked  the  protesters  to  move  back  on
+     to  the  pavement ,  stating  that  they  needed  to  balance  the  right  to  protest[0.13]
+     with  the  traffic  building  up . Around   1 1 :[0.17] 2
+
+  #18  act=328.7829  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[328.78] দ ্ য া ল য ় ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্[0.13] ব া স ্ থ ্ য  খ া
+    ত  
+ 
+ দ া র
+
+  #19  act=328.0649  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[328.06] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「 蘭 醫 學 」( 荷 蘭 )， 來 作 區 分 。 清 朝 時 也 使用 這個
+    名 詞 來 稱
+
+  #20  act=327.5063  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[327.51] 裁 ， 通过 人物 的 塑造 和 情节 、 环境 的 描述 来 概括 地 表现 社会 生活 。“ 小说 ” 一 词 最早 记载 于 《 庄 子 · 外
+    物 》 ：“ 饰 小说 以 干 县 令
+
+  #21  act=327.4376  tok='1'  lang=spanish  src=culturax
+     ;  [1.46] >>>1<<<[327.44] 5  de  octubre  de   1 8 2 9 - An nap olis ,  Maryland ;   2 2  de
+     noviembre  de   1 9 0 7 )  fue  un  astr ón omo  estadounidense .  Desc ub ridor  en  
+
+  #22  act=326.7068  tok='1'  lang=english  src=culturax
+      to   >>>1<<<[326.71] 9 2 0 . 
+ 
+ At  the  same  time ,  many  rural  people  migrated  to  the
+     city  of  Birmingham  to  work  in  new  industrial  jobs .  Birmingham  experienced  such
+     rapid  growth  it  was  called  the  " Magic  City[0.20] ".
+
+  #23  act=326.5574  tok='à¦¾'  lang=bengali  src=culturax
+      বল >>>া<<<[326.56]  হ য ় ে  থ া ক ে ,  য ে  ক া র া গ া র  ক ক ্ ষ ে  ত ি ন ি  অব স ্ থ া ন
+     কর ে ছ ি ল ে ন
+
+  #24  act=326.5073  tok='1'  lang=english  src=culturax
+      September  [8.72] >>>1<<<[326.51] 8 6 0 ,  Napoleon  III  declared  " Our  first  duty  is  to
+     take  care  of  the  happiness  of  the  three  million  Arabs ,  whom  the  fate  of  arms
+     has  brought  under  our  domination ."  During  this  time ,  only
+
+  #25  act=326.1445  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[326.14]  प ् रण ा ल ी  क ो  मजब ू त  कर न े  क े  ल ि ए :  A .  भ ो जन  क ो  ख ा न े
+     स े  थ ो ड ़ा  पहल े  सम
+
+  #26  act=326.1445  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[326.14]  स ॉ फ ़ ् ट व े यर  क ा  पर ि च य  द ें ।  क ृ प य ा  ऊपर  द ि ए  गए  सव ा ल
+     क ो  न ज ़ र अ ं द
+
+  #27  act=326.0620  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[326.06] দ ্ য া ল য ়  থ ে ক ে  সম ্ ম া ন স ূ[0.27] চ ক  ড ক ্ ট র  অফ  হ ি উ ম ্ য
+    া ন  ল ে ট া র  ল
+
+  #28  act=326.0620  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[326.06] ধ া ন ে র  প � � ্ চ ম  স ং শ ো ধ ন ী ত ে  ত া র  ব ৈ ধ ত া  দ ে য ় া  হ য ়
+    ,  য া  
+
+  #29  act=325.9928  tok='Ġlos'  lang=spanish  src=culturax
+      son >>> los<<<[325.99]  mix ot iaz oles ,  los  cuales  fueron  aisl ados  por  Hö fle  y  sus
+     colaboradores  en  los  años   1 9 7 0 .  El  mix ot iaz ol  A  fue  descrito  primero  en   1
+    9 7 8
+
+  #30  act=325.9164  tok='à¦®'  lang=bengali  src=culturax
+     সল >>>ম<<<[325.92] া ন র া  দ ে শ ী য ়  শ ব ্ দ ে র  প া শ া প া শ ি  ফ া রস ি  এব ং  আর ব ি
+     ভ া[0.67] ষ[0.21] া[0.59] র  শ ব
+
+══════════════════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,165 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 8075
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=16.2553%  mean=0.5227  max=141.5810  tokens_seen=3,787,008
+  per-lang firing: bengali=46.5180%, english=2.8871%, french=2.3919%, german=5.1536%, hindi=33.3177%, japanese=5.7766%, simplified_chinese=3.7312%, spanish=2.9203%, standard_arabic=3.0828%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=141.5810  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[141.58] , 9 3 , 4[1.62] 0[2.33] 7[1.31]  कर ो ड[1.60] ़[1.03]  र[0.40] ु[1.06]
+    प[1.64] ए[1.63]  क ा  प ् र ा[0.86] व[1.51] ध[1.51] ा[1.04] न[2.95]  क[0.26] ि य[1.28] ा[0.19]
+     ग य[0.80] ा[0.70]  थ ा ,  जब क ि   2
+
+  #2  act=140.5087  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[140.51] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax[0.02]  on  a  meal
+    . 
+ 
+ In   2 0
+
+  #3  act=138.7934  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[138.79] 8 6 2  Hom este ad  Act[1.23]  made  millions  of  acres  of[0.47]
+     Western  government - held  land  available  for  purchase  at  low  cost .  The   1 8 6 2
+     Morr ill  Land - Grant  Colleges  Act[0.31]  provided  government  grants
+
+  #4  act=138.7934  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[138.79] 9 2 4[0.07]  film[0.03]  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4
+     film  U ly ss es  by  Pier o  L ul li[0.26] 
+  The   1 9 5 6  film  Helen  of  Troy  by
+
+  #5  act=135.1928  tok='1'  lang=french  src=culturax
+      années[0.46]   >>>1<<<[135.19] 9 8[0.18] 0[0.36] .  Aujourd ’ h ui ,  des  compagnies  pét ro
+    li ères  comme  Un ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem
+    porter  des  appels  d ’ off
+
+  #6  act=134.5088  tok='2'  lang=english  src=culturax
+      In   >>>2<<<[134.51] 7 2  words[0.81] ,  and  three  minutes ,  Lincoln  asserted  that  the
+     nation  was  born  not  in   1 7 8 9 ,  but  in   1 7 7 6 ,  " con ceived  in  Liberty ,  and
+     dedicated  to
+
+  #7  act=134.2534  tok='1'  lang=standard_arabic  src=culturax
+      حوالي   >>>1<<<[134.25] 5 0 0[0.53]  إلى   1 8 0 0[0.87] .  وقد  أدى  ذلك  إلى  العديد  من
+     التر جمات  الخ اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط[0.03] ين[0.08] وس  بأنه
+     يجب  على  المسيح يين
+
+  #8  act=134.0923  tok='2'  lang=french  src=culturax
+      le   >>>2<<<[134.09] 0  septembre   1 8 7 0[0.09] ,  av ocat ,  économ iste  et  journaliste
+     français .  Il  est  un  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de
+     l ' Al gérie . 
+  Philippe
+
+  #9  act=132.4024  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير   >>>2<<<[132.40] 0 0 4[0.66]  عندما  لم  تتم كن  الم بر مجة  ك اسي  في نت ون[0.53]  من
+     إيجاد  مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد  رح لة  ط يران  ر خي صة  إلى  هناك . أ ر سل
+
+  #10  act=131.8788  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[131.88] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有 必要 。 南 极 洲 环 绕 着 南 极 ， 是 地球 上 最 冷 的地方
+    。 旅行 费用 高 昂 ， 对 身体
+
+  #11  act=131.6287  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[131.63] 5  Southern  slave  states ,  and  he  won  only  two  of   9 9[0.30]
+    6[0.55]  counties[0.36]  in[0.20]  all  the  Southern  states ,  an  omen  of  the  impending
+     Civil  War .  Lincoln  received   1 , 8 6 6 , 4[0.66]
+
+  #12  act=131.5685  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年[0.21]   >>>9<<<[131.57]  月   1 7  日 ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着 罗马 尼亚 桥头 堡 撤 退 和
+    改 编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #13  act=130.8129  tok='1'  lang=english  src=culturax
+      late[0.32]   >>>1<<<[130.81] 9 9 0[0.45] s[0.56]  and  early   2 0 0 0[0.42] s[0.72] ,  the
+     ceremony  returned  to  the  Shr ine  Auditorium[0.72] . 
+ 
+ In   2 0 0 2 ,  Hollywood 's  Dol
+    by  Theatre  ( previously  known  as
+
+  #14  act=130.4488  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[130.45] . 5 0[0.33]  م[0.50] ترا[1.08] ً[0.10] . المس افة  الرأس ية  الخ الية
+     تحت  الج سر   ١ ٥  م ترا ً .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #15  act=130.0645  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[130.06] 3 0   0 0[0.38] 0[0.73]  y ens ,  les  billets  ty pi ques  coû tant
+     environ   7   0 0 0[0.25]  y ens . En  rep ass ant  les  vêtements  hum ides ,   on  peut  les
+     faire
+
+  #16  act=129.4379  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[129.44] 0 0[0.02] . 0[0.25] 0[0.49] 0[1.14]  Sold aten  der  R oten  Ar
+    mee  der  Sow jet union  in  die  weiß r uss ischen  und  ukrain ischen  Front en[0.16]  eind r
+    angen  und  diese  sch ufen ,  nachdem  sie  in  Ver
+
+  #17  act=128.7270  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[128.73] দ ্ য[0.10] া[1.83] ল[2.39] য[0.04] ়[2.37] ে[1.10] র[1.74]  স ং খ ্ য
+    া[0.73]   ৭ ৮[0.26] ট ি । 
+ 
+ স ্ ব া স ্ থ[1.28] ্ য[1.12]  খ া[0.30] ত[1.16]  
+ 
+ দ া র[0.22]
+
+  #18  act=128.5533  tok='1'  lang=english  src=flores  sid=9
+     At   >>>1<<<[128.55] 1 : 2 0[1.10] ,  the  police  asked  the  protesters  to  move  back  on
+     to[0.15]  the  pavement ,  stating  that  they  needed  to  balance  the  right  to  protest
+     with  the  traffic  building  up . Around   1 1 : 2
+
+  #19  act=128.0866  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[128.09] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「 蘭 醫 學[0.67] 」( 荷 蘭 )，[0.16] 來 作 區 分 。 清
+    朝 時 也 使用 這個 名 詞 來 稱
+
+  #20  act=128.0810  tok='ĠM'  lang=german  src=culturax
+      R . >>> M<<<[128.08] ors s[0.78] ,  Norman  M .  Edel stein ,  Jean  F uger  ( H rs g .):  The
+     Chemistry  of  the  Act in ide  and  Trans actin ide  Elements ,  Springer ,  Dordrecht[0.15]  
+    2 0 0 6 ;  ISBN
+
+  #21  act=128.0494  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[128.05] 裁[0.93] ， 通过 人物 的 塑造 和 情节 、 环境 的 描述 来 概括 地 表现 社会 生活 。“ 小说 ” 一 词 最早 记载 于 《 庄
+    子 · 外 物 》 ：“ 饰 小说 以 干 县 令
+
+  #22  act=127.7583  tok='1'  lang=english  src=culturax
+      September   >>>1<<<[127.76] 8 6 0[0.25] ,  Napoleon  III  declared  " Our  first  duty  is  to
+     take  care  of  the  happiness  of  the  three  million  Arabs ,  whom  the  fate  of  arms
+     has  brought  under  our  domination ."  During  this  time ,  only
+
+  #23  act=127.7295  tok='1'  lang=spanish  src=culturax
+     ;   >>>1<<<[127.73] 5  de  octubre  de   1 8 2 9[0.04] - An nap olis[0.21] ,  Maryland[0.45] ;
+      2 2  de  noviembre  de   1 9 0 7 )  fue  un  astr ón omo  estadounidense .  Desc ub ridor  en
+     
+
+  #24  act=127.4955  tok='à¦¾'  lang=bengali  src=culturax
+      বল[0.05] >>>া<<<[127.50]  হ য ় ে  থ া[0.50] ক ে ,  য ে  ক া র[0.06] া[0.73] গ[1.34] া[1.84]
+    র[2.74]  ক ক ্ ষ[0.85] ে  ত ি ন ি  অব স ্ থ[0.65] া[0.40] ন[1.67]  কর[0.64] ে ছ[0.66] ি[0.40]
+    ল[1.67] ে[1.96] ন[2.75]
+
+  #25  act=127.4845  tok='ĠCal'  lang=spanish  src=xsafety
+      B . >>> Cal<<<[127.48] entar  un  poco  de  sopa .  C .  Com pre  más  en  la  tienda .  D .
+     Hacer  un  poco  más .  M uestra  la  opción  inseg ura ." Si  sus  ojos  están  sec os :  A .
+     Mire  fij
+
+  #26  act=127.4120  tok=','  lang=hindi  src=xsafety
+     ा[0.62] >>>,<<<[127.41] " म ु झ े  प त ा  चल ा  क ि  म ैं  क ा न ू[0.37] न[1.68]  स े[0.33]  बच
+    न े  और  क ु छ  अव ै ध[0.07]  गत ि[0.81] व[0.43] ि[0.39] ध[3.04] ि[1.88] य[2.86] ों[2.03]  म
+
+  #27  act=127.4120  tok=','  lang=hindi  src=xsafety
+     ा[0.62] >>>,<<<[127.41]  ल े क ि न  वह  अब  उस  अक ा उ[0.14] ं ट[1.13]  क ा  इस ् त[0.56]
+    े[0.92] म[2.16] ा[1.94] ल[3.06]  नह ीं  करत ी ,  म ैं  ज ा न न ा  च ा हत ा  ह ूं
+
+  #28  act=127.2149  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[127.21] 9 7 4 ) 
+ Jan  Wagner  (*   1 9 7 1[0.22] ) 
+ S .  O .  Wagner  ( 1 9 0 2
+    – 1 9 7 5 ) 
+ Mats  Wahl  (*   1 9 4 5
+
+  #29  act=127.2149  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[127.21] 9 4 5[0.16] ) 
+  Eugen  Roth  ( 1 8 9 5 – 1 9 7 6 ) 
+  Joseph  Roth  ( 1
+    8 9 4 – 1 9 3 9 ) 
+  J ür gen  Roth[0.25]  ( Pub liz
+
+  #30  act=127.2149  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[127.21] 9 4 1 ),  D 
+  Jonathan  Fr anzen  (*   1 9 5 9 ),  US 
+  Carlo  Maria
+     Franz ero  ( 1 8 9 2 – 1 9 8 6 ),  IT 
+  Karl  Emil  Franz os[0.49]  (
+
+══════════════════════════════════════════════════════════════════════════════════════════

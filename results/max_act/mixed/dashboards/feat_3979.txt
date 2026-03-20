@@ -1,0 +1,149 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 3979
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=10.9973%  mean=0.3536  max=106.8057  tokens_seen=3,787,008
+  per-lang firing: bengali=19.6690%, english=2.6114%, french=2.6593%, german=2.7833%, hindi=29.1077%, japanese=5.2425%, simplified_chinese=7.7291%, spanish=2.8777%, standard_arabic=4.3761%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=106.8057  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[106.81] , 9 3 , 4 0 7  कर ो ड ़  र ु प[0.14] ए[1.11]  क ा[1.55]  प[0.37] ् र[1.77]
+    ा[0.34] व[0.99] ध ा न  क ि[0.42] य[0.32] ा  ग य ा  थ ा ,  जब क[0.14] ि   2
+
+  #2  act=105.6363  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[105.64] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax  on  a  meal . 
+ 
+
+    In   2 0[0.28]
+
+  #3  act=105.2669  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[105.27] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .  The   1 8 6 2  Morr ill
+     Land - Grant  Colleges  Act  provided  government  grants
+
+  #4  act=105.2669  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[105.27] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4  film  U ly ss
+    es  by  Pier o  L ul li 
+  The   1 9 5 6  film  Helen  of  Troy  by
+
+  #5  act=101.9240  tok='1'  lang=french  src=culturax
+      années   >>>1<<<[101.92] 9[0.22] 8 0 .  Aujourd ’ h ui ,  des  compagnies  pét ro li ères
+     comme  Un ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem porter
+     des  appels  d ’ off
+
+  #6  act=101.8540  tok='2'  lang=english  src=culturax
+      In   >>>2<<<[101.85] 7 2  words ,  and  three  minutes ,  Lincoln  asserted  that  the  nation
+     was  born  not  in   1 7 8 9 ,  but  in   1 7 7 6 ,  " con ceived  in  Liberty ,  and
+     dedicated  to
+
+  #7  act=101.6011  tok='2'  lang=french  src=culturax
+      le   >>>2<<<[101.60] 0  septembre   1 8[0.77] 7 0 ,  av ocat ,  économ iste  et  journaliste
+     français .  Il  est  un  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de
+     l ' Al gérie . 
+  Philippe
+
+  #8  act=101.0151  tok='1'  lang=standard_arabic  src=culturax
+      حوالي   >>>1<<<[101.02] 5[0.16] 0 0  إلى   1 8 0 0 .  وقد  أدى  ذلك  إلى  العديد  من  التر
+    جمات  الخ اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح
+    يين
+
+  #9  act=100.3404  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[100.34] 5  Southern  slave  states ,  and  he  won  only  two  of   9 9 6
+     counties  in  all  the  Southern  states ,  an  omen[0.16]  of  the  impending  Civil  War .
+     Lincoln  received   1 , 8 6[0.27] 6 , 4
+
+  #10  act=100.1795  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[100.18] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较[0.34] 昂 贵 ， 没有 必要 。 南 极 洲 环 绕 着 南 极 ， 是
+    地球[0.13] 上 最 冷 的地方 。 旅行 费用 高 昂 ， 对 身体
+
+  #11  act=99.8028  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年   >>>9<<<[99.80]  月   1 7[0.62]  日 ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着 罗马 尼亚 桥头 堡 撤 退 和 改
+    编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #12  act=99.7566  tok='1'  lang=english  src=culturax
+      late   >>>1<<<[99.76] 9[0.16] 9 0 s  and  early   2 0[0.14] 0 0 s ,  the  ceremony  returned
+     to  the  Shr ine  Auditorium . 
+ 
+ In   2 0 0 2 ,  Hollywood 's  Dol by  Theatre  ( previously
+     known  as
+
+  #13  act=99.4594  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[99.46] 3[0.43] 0   0 0 0  y ens ,  les  billets  ty pi ques  coû tant  environ  
+    7   0 0[0.35] 0  y ens[0.23] . En  rep ass ant  les  vêtements  hum ides ,   on  peut  les
+     faire
+
+  #14  act=99.4021  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير   >>>2<<<[99.40] 0[0.49] 0 4  عندما  لم  تتم كن  الم بر مجة  ك اسي  في نت ون  من  إيجاد
+     مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد  رح لة  ط يران  ر خي صة  إلى  هناك . أ ر سل
+
+  #15  act=98.4680  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[98.47] দ ্ য া ল য ় ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্ ব[0.23] া স ্ থ ্ য  খ া
+    ত  
+ 
+ দ া র[0.38]
+
+  #16  act=98.2884  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[98.29] 裁 ， 通过 人物 的 塑造 和 情节 、 环境[0.27] 的 描述 来 概括 地 表现 社会 生活 。“ 小说 ” 一 词 最早 记载 于 《 庄 子
+    · 外 物 》 ：“ 饰 小说 以 干 县 令
+
+  #17  act=98.2720  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[98.27] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「 蘭 醫 學 」( 荷 蘭 )， 來 作[1.06] 區 分 。 清 朝 時 也
+    使用 這個 名 詞 來 稱
+
+  #18  act=98.1021  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[98.10] . 5 0  م ترا ً . المس افة  الرأس ية  الخ الية  تحت  الج سر   ١ ٥  م ترا ً
+    .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #19  act=97.9579  tok='à¦®'  lang=bengali  src=culturax
+     সল >>>ম<<<[97.96] া ন র া  দ ে শ[0.13] ী য ়[0.32]  শ ব[1.07] ্ দ ে র[0.10]  প া[1.11] শ া প া
+    শ ি  ফ া রস ি  এব ং  আর ব ি  ভ া ষ া র  শ ব[0.33]
+
+  #20  act=97.9152  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[97.92] 0 0 . 0 0 0  Sold aten  der  R oten  Ar mee  der  Sow jet union  in
+     die  weiß r uss ischen  und  ukrain ischen  Front en  eind r angen  und  diese  sch ufen ,
+     nachdem  sie  in  Ver
+
+  #21  act=97.7793  tok='æľº'  lang=simplified_chinese  src=flores  sid=222
+     ， >>>机<<<[97.78] 上[0.19]   1 6[0.47] 8   人 遇 难 ， 这是 伊朗 多 年来 最 惨 烈 的一[0.40] 起 空 难 。 同 一个月 ， 又 有一
+    架 客 机 冲 出 马 什 哈 德 的 跑 道 ，
+
+  #22  act=97.7632  tok='à¦¾'  lang=bengali  src=flores  sid=767
+     ব >>>া<<<[97.76] র  এড ় ি য ় ে  চল ু ন  এব ং  ক ্ য া ম ্ প ট ি  পর ি ষ ্ ক[0.55] া র[0.26]
+     র া খ ু ন[0.32] । স া ম ো য ়
+
+  #23  act=97.7632  tok='à¦¾'  lang=bengali  src=culturax
+     ব >>>া<<<[97.76] ধ ী ন ত া  ঘ ো ষ ণ[0.19] া র  পর ই  র া ত[0.10]   ১ ট া   ৩ ০  ম ি ন[0.11] ি ট
+    ে র[0.33]  সম য[0.81] ়  শ ে[0.11] খ  ম ু জ ি
+
+  #24  act=97.7632  tok='à¦¾'  lang=bengali  src=culturax
+     ব >>>া<<<[97.76] হ ি ন ী র  য ু দ ্ ধ ক া ল ী ন  কম ি শন  ল া[0.28] ভ  কর ে ন ।  ত ি ন ি  ম ু
+    ক[0.21] ্ ত ি ব া হ ি ন
+
+  #25  act=97.7632  tok='à¦¾'  lang=bengali  src=culturax
+     ব >>>া<<<[97.76] ব ু য ় ে ,  ব া[0.34] রম ু ড া  এব ং  ক ্ য া র ি ব ি য ় া ন ে র  ই ং
+    র[1.41] ে জ ি ভ া ষ ী  দ ্[0.75]
+
+  #26  act=97.7632  tok='à¦¾'  lang=bengali  src=culturax
+     ব >>>া<<<[97.76] স ী  শ ি ল ্ প ে র  অব ন ত ি ,  ব াং ল া দ ে শ ি  শ ি ল ্[0.30] প[0.33]
+    ে[0.22] র[0.40]  উপর[0.79]  ভ া রত ে র[0.54]  ন ি য[0.73] ়[0.66] ন
+
+  #27  act=97.7632  tok='à¦¾'  lang=bengali  src=xsafety
+     ব >>>া<<<[97.76] র  এব ং  র া ত ে র  খ া ব[0.25] া র ে র[0.57]  স া[0.64] থ[2.05] ে ও  স ে গ ু
+    ল ি  প া ন[0.09]  কর ি । আম[0.15] া র[1.03]  ত ্ ব[1.11] ক[1.09]  আ
+
+  #28  act=97.7632  tok='à¦¾'  lang=bengali  src=flores  sid=663
+     ব >>>া<<<[97.76] র  য ে মন :  ক ো র ি য ় া ন ,  থ া ই ,  ভ া রত ী য ়[0.29]  এব ং  জ া প া ন ি
+     প ্[0.51] র[1.40] ভ[0.26] ৃ ত ি র
+
+  #29  act=97.7632  tok='à¦¾'  lang=bengali  src=xsafety
+     ব >>>া<<<[97.76] স য ো গ ্ য  ন য ় । অন ু গ ্ র[0.49] হ  কর ে  ন ি[0.09] ম[0.55] ্ ন[0.53] ল ি
+    খ ি ত  ব া[0.30] ক[0.41] ্ য[0.38] ট ি  ফর া স ি  ভ
+
+  #30  act=97.7632  tok='à¦¾'  lang=bengali  src=culturax
+     ব >>>া<<<[97.76] য ় ত ্ ত শ া সন  অন ্ তর[0.21] ্ ভ ু ক ্ ত  ছ ি ল[0.35] ।   ২ ৩ শ ে  জ ু ন
+     দল ে র[1.08]  ক া[1.40] র[1.54] ্[0.43] য ন ি র
+
+══════════════════════════════════════════════════════════════════════════════════════════

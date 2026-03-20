@@ -1,0 +1,192 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 9452
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=35.0819%  mean=0.6644  max=97.4112  tokens_seen=3,787,008
+  per-lang firing: bengali=45.2706%, english=45.2587%, french=29.7689%, german=30.9527%, hindi=30.9193%, japanese=36.3995%, simplified_chinese=27.3401%, spanish=34.9443%, standard_arabic=30.0640%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=97.4112  tok='1'  lang=hindi  src=culturax
+     ए  [1.22] >>>1<<<[97.41] , 9 3 , 4[0.52] 0 7[0.63]  कर ो[0.98] ड ़  र ु प ए  क ा  प ् र ा व
+    ध[1.39] ा न  क ि य ा  ग य ा  थ ा ,[1.62]  जब क ि  [0.53] 2
+
+  #2  act=97.3475  tok='1'  lang=english  src=culturax
+      is  [0.66] >>>1<<<[97.35] 0 %[1.27]  and[2.29]  there  is  an[0.52]  additional  restaurant
+     tax[0.81]  of   1 %,[1.82]  which[2.22]  means[1.39]  a[0.93]  diner  in  Mobile  County ,
+     Alabama  would[1.19]  pay[1.64]  an[1.04]  [0.57] 1 1 %[0.86]  tax[0.67]  on  a  meal .[2.39]
+    
+[0.91] 
+ In   2 0
+
+  #3  act=93.6344  tok='1'  lang=standard_arabic  src=culturax
+      حوالي  [0.59] >>>1<<<[93.63] 5 0 0[0.83]  إلى   1 8 0 0 .[1.35]  وقد  أدى  ذلك[0.70]
+     إلى[1.03]  العديد  من[0.69]  التر جمات[1.85]  الخ[0.94] اط[1.76] ئة[2.32] .[2.90]  على  سبيل
+     المثال[1.99] ،[1.95]  تح[1.19] ذير[0.43]  القد يس  أو غ سط ين وس[0.53]  بأنه  يجب  على  المسيح
+    يين[1.21]
+
+  #4  act=93.2227  tok='1'  lang=english  src=culturax
+      The  [0.88] >>>1<<<[93.22] 9 2 4  film[1.16]  Hel ena  by  Carlo  Ald ini 
+[2.81]  The   1 9 5
+    4  film[1.18]  U ly ss es  by  Pier o  L ul li 
+[1.45]  The   1 9 5 6  film[1.47]  Helen
+     of[0.90]  Troy[0.90]  by[1.72]
+
+  #5  act=93.2227  tok='1'  lang=english  src=culturax
+      The  [0.88] >>>1<<<[93.22] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .[1.24]  The[0.49]   1 8 6
+    2[0.85]  Morr ill  Land - Grant  Colleges  Act  provided  government  grants
+
+  #6  act=92.5519  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير   >>>2<<<[92.55] 0 0 4  عندما  لم[0.52]  تتم كن  الم بر مجة[1.03]  ك اسي  في نت ون
+     من[1.39]  إيجاد[1.45]  مكان[1.08]  للإ قامة[0.88]  في[1.52]  أ يس ل ندا  بعد[0.41]  إيجاد  رح
+    لة  ط يران  ر خي صة[0.80]  إلى  هناك .[3.09] أ ر سل
+
+  #7  act=92.2633  tok='2'  lang=french  src=culturax
+      le   >>>2<<<[92.26] 0  septembre   1 8 7 0 ,[1.00]  av ocat ,  économ iste  et[0.54]
+     journaliste  français .[1.64]  Il  est  un  far ouche  partisan  du  f ouri ér isme  et[1.79]
+     de  la  colonisation  de  l ' Al gérie .[1.03] 
+[0.84]  Philippe
+
+  #8  act=91.8726  tok='2'  lang=english  src=culturax
+      In  [0.43] >>>2<<<[91.87] 7 2  words[0.98] ,[0.91]  and[1.52]  three[1.43]  minutes[0.58] ,
+     Lincoln[1.33]  asserted  that[0.76]  the[0.74]  nation  was  born  not  in   1 7 8 9 ,  but  in
+     [0.87] 1 7 7 6[0.51] ,[1.51]  "[0.43] con ceived[0.95]  in[1.59]  Liberty[1.61] ,  and[0.60]
+     dedicated[0.46]  to[0.57]
+
+  #9  act=91.6637  tok='1'  lang=french  src=culturax
+      années  [0.95] >>>1<<<[91.66] 9 8 0 .[1.31]  Aujourd ’ h ui ,  des  compagnies  pét ro li ères
+     comme  Un ocal ,  Tex aco ,  BP  et  Total  se[0.43]  sont  install és  à  Kab oul  pour[0.50]
+     rem porter  des  appels  d ’ off
+
+  #10  act=90.0571  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما  [1.48] >>>3<<<[90.06] . 5 0  م ترا ً .[1.12] المس افة[0.72]  الرأس ية[0.50]  الخ الية  تحت
+     الج سر   ١ ٥  م ترا ً .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #11  act=89.5066  tok='ĠCal'  lang=spanish  src=xsafety
+      B .[0.68] >>> Cal<<<[89.51] entar  un  poco  de  sopa .[0.70]  C .  Com[0.97] pre  más  en  la
+     tienda .[1.46]  D[1.32] .[2.11]  Hacer  un[0.87]  poco[0.42]  más .[1.59]  M uestra[0.51]
+     la[0.93]  opción[0.47]  inseg[1.09] ura[2.08] ."[0.96] Si  sus  ojos[1.13]  están[2.09]
+     sec[0.47] os[1.21] :[0.93]  A .  Mire[0.80]  fij
+
+  #12  act=89.0865  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2  [0.83] >>>人<<<[89.09] 则[0.61] 需要 额 外 付费 ，[1.91] 所以 这个[0.55] 选项[1.12] 可能[1.09] 比较[0.77] 昂
+    贵[0.79] ，[0.44] 没有 必要 。[2.43] 南 极 洲 环 绕 着 南 极 ， 是 地球 上 最 冷 的地方 。[0.76] 旅行 费用 高 昂 ， 对 身体
+
+  #13  act=88.9965  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年   >>>9<<<[89.00]  月   1 7  日 ， 波兰 的 防 线 已经 被 攻 破 ，[0.69] 剩 下的 唯一 希望 就是 沿着 罗马 尼亚 桥头 堡[0.45] 撤
+    退[0.66] 和 改 编 军队 。[0.54] 然而[0.50] ， 这些 计划[1.02] 几乎 在 一 夜
+
+  #14  act=88.8561  tok='8'  lang=german  src=flores  sid=548
+      als  über  [1.73] >>>8<<<[88.86] 0 0[0.77] . 0[0.58] 0[0.75] 0[1.51]  Sold aten  der  R oten
+     Ar mee  der  Sow jet union  in[1.27]  die[1.08]  weiß r uss ischen  und[0.88]  ukrain[0.40]
+    ischen  Front en[0.54]  eind[0.56] r angen[0.83]  und[1.51]  diese[0.94]  sch[1.52] ufen ,
+     nachdem  sie[2.08]  in[0.77]  Ver[0.73]
+
+  #15  act=88.6499  tok='1'  lang=english  src=flores  sid=9
+     At  [1.03] >>>1<<<[88.65] 1 : 2[0.86] 0 ,[1.87]  the[1.75]  police[0.82]  asked[0.95]  the
+     protesters[1.38]  to[1.20]  move[1.58]  back[0.56]  on[0.51]  to  the  pavement[0.64] ,[1.86]
+     stating  that  they[1.56]  needed  to  balance  the  right  to  protest[1.58]  with[1.62]
+     the[0.62]  traffic  building  up .[2.78] Around[0.68]  [1.30] 1[0.85] 1[0.94] :[0.65] 2
+
+  #16  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 7[0.82]  /  *[1.79]   1 9 6 7 )[1.05] 
+[0.84]  Georg  Tr
+    akl  ( 1 8 8 7 – 1 9 1 4 ) 
+  Edmond  Tr[0.85] anin[0.95]  ([1.33] 1 8 9 5 –[0.82] 2 0 .  J
+
+  #17  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 3 6[0.46] ),[2.29]  CZ 
+  Ludwig  Uh land  ( 1 7 8 7 – 1 8 6
+    2 ),  D 
+[0.41]  Marie  Ul fers  ([0.83] 1 8 8 8[0.75] –[1.06] 1 9 6 0 ),[0.44]  D[3.11] 
+[1.76]
+     U do
+
+  #18  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 6 1 ),[2.18]  deutscher  Autor 
+[0.54] Mir jam  Press ler  (
+    1 9 4 0 – 2 0 1 9 ),  deutsche  Schrift steller in  und  Übers[0.51] et[0.71] zer in[0.70]
+    
+[1.02] John[0.62]  Preston  ( 1 9 4 5 –
+
+  #19  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 7 4 )[0.47] 
+[0.80] Jan  Wagner  (*[1.04]   1 9 7 1 )
+    
+[1.07] S[0.41] .  O .  Wagner  ([1.41] 1 9 0 2 – 1 9 7 5 )[0.92] 
+[1.52] Mats[0.50]  Wahl[0.73]
+     (*[2.25]  [0.85] 1 9 4 5
+
+  #20  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 7 2 ),[2.19]  CH  /  D[1.04] 
+[1.27] Kurt  Sch wit ters  ( 1
+    8 8 7 – 1 9 4 8 ),  D 
+ Le on ardo  S cias cia  ([0.46] 1 9 2 1 –[0.87] 1 9 8
+
+  #21  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 5 7 ),[2.08]  GB 
+  O ya[0.41]  Bay dar  (*[0.58]   1 9 4 0
+    ),  TR 
+[0.99]  Kon rad  Bayer  ( 1 9 3 2 – 1 9 6 4 ),  AT 
+[1.56]  Os val do  Bayer  (
+
+  #22  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 5 )[0.81] 
+[1.04]  Eugen  Roth  ( 1 8 9 5 – 1 9 7 6 )
+    
+[0.92]  Joseph  Roth  ([1.03] 1 8 9 4 –[1.22] 1 9 3 9 )[1.79] 
+[1.03]  J ür gen  Roth  ([1.11]
+    Pub liz
+
+  #23  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 8 ),[2.22]  FR 
+  Peter  Brück ner  ( 1 9 2 2 – 1 9 8 2 ),
+     D 
+  Ken  Bru[0.57] en  (*[1.77]   1 9 5 1[0.86] ),  I[1.72] RL[1.27] 
+[1.66]  Cas par
+     Br[0.75] ül ow
+
+  #24  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 3 )[1.20] 
+[1.19] Phil ip  Kap le au  ( 1 9 1 2[0.58] – 2
+    0 0 4 )[0.54] 
+[1.54] V á cl av  Kap lick ý  ([0.87] 1 8 9 5 –[0.47] 1 9 8 2 )[1.94]
+
+  #25  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 2 )[1.26] 
+[1.24] And ré  Kub icz ek  (*[1.22]   1 9 6
+    9[0.56] )[0.59] 
+[1.14] W erner  K uchar  ( 1 9 7 1 – 2 0 1 3 ) 
+[0.94] Cl aus  Kü chen meister
+     (
+
+  #26  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 6 3 )[0.88] 
+[0.95]  Jean - B apt iste  T ati  L out ard
+     ([0.44] 1 9 3 8[0.94] – 2 0 0 9[0.40] ) 
+  Michel  Ta uri ac  ( 1 9 2 7 – 2 0 1
+
+  #27  act=88.5994  tok='1'  lang=german  src=culturax
+      (*[0.52]  [0.75] >>>1<<<[88.60] 9 4 1 ),[2.28]  D 
+[0.93]  Jonathan  Fr anzen  (*[0.65]   1 9
+    5 9[0.56] ),  US 
+[0.59]  Carlo  Maria  Franz ero  ( 1 8 9 2 – 1 9 8 6 ),  IT 
+[1.51]  Karl
+     Emil  Franz os  (
+
+  #28  act=88.3179  tok='1'  lang=spanish  src=culturax
+     ;[0.49]  [1.00] >>>1<<<[88.32] 5  de  octubre  de   1 8 2 9 - An nap olis ,[0.46]  Maryland
+    ;[0.43]  [1.12] 2[1.09] 2  de  noviembre  de   1 9 0 7[0.62] )[0.66]  fue[0.97]  un[0.42]  astr
+    ón omo  estadounidense .[0.88]  Desc[0.41] ub[1.04] ridor  en  
+
+  #29  act=87.7740  tok='1'  lang=english  src=culturax
+      the[0.46]  [0.72] >>>1<<<[87.77] 5  Southern  slave  states ,[1.03]  and[0.71]  he[0.43]
+     won[0.55]  only[1.11]  two[1.64]  of[0.48]   9 9 6  counties  in[0.69]  all  the  Southern
+     states ,[2.25]  an[0.86]  omen[0.50]  of[1.80]  the[1.61]  impending  Civil  War .[1.62]
+     Lincoln[1.12]  received[1.01]  [0.91] 1 , 8 6 6 , 4
+
+  #30  act=87.6568  tok='ĠM'  lang=german  src=culturax
+      R .[0.99] >>> M<<<[87.66] ors s ,  Norman  M .  Edel stein ,[0.95]  Jean[0.57]  F[0.70] uger
+     ( H rs g[1.01] .):  The  Chemistry  of  the  Act in ide  and  Trans actin ide  Elements ,
+     Springer ,  Dordrecht   2 0 0 6 ;[0.40]  ISBN
+
+══════════════════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,342 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 13948
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=42.5192%  mean=0.4760  max=9.0205  tokens_seen=3,787,008
+  per-lang firing: bengali=35.2320%, english=45.8613%, french=42.8931%, german=36.7496%, hindi=45.0834%, japanese=46.6537%, simplified_chinese=37.9302%, spanish=48.5214%, standard_arabic=48.1957%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=9.0205  tok=','  lang=english  src=culturax
+     8[1.88] 0[2.77]  days[4.69]  per[3.19]  year[4.03]  with[4.86]  thunder[4.01]  reported[5.12]
+    .[2.66]  This[2.74]  activity[2.69]  decreases[3.66]  somewhat[2.51]  further[2.22]  north[1.15]
+     in[1.27]  the[1.03]  state[0.81] ,[1.79]  but[1.70]  even[1.57]  the[2.51]  far[2.02]
+     north[1.24]  of[1.15]  the[1.16]  state[2.66]  reports[3.13]  thunder[4.01]  on[4.10]
+     about[1.95]  [2.05] 6[3.04] 0[2.61]  days[3.50]  per[3.12]  year[2.79] .[1.94]  Occ[2.21]
+    asionally[7.70] >>>,<<<[9.02]  thunderstorms[6.67]  are[7.92]  severe[7.27]  with[6.17]
+     frequent[4.52]  lightning[4.60]  and[4.35]  large[3.66]  hail[3.35] ;[4.82]  the[3.69]
+     central[1.76]  and[2.10]  northern[1.32]  parts[1.67]  of[1.86]  the[1.87]  state[3.29]
+     are[3.77]  most[2.53]  vulnerable[3.52]  to[4.59]  this[3.75]  type[2.70]  of[3.65]
+     storm[4.24] .[3.25]  Alabama[2.36]  ranks[1.43]  ninth[1.20]  in[1.41]  the[0.99]  number[1.42]
+     of[2.55]  deaths[2.72]  from[3.45]  lightning[2.64]  and[1.99]  tenth[1.16]  in[1.50]
+
+  #2  act=8.8426  tok='inde'  lang=german  src=xsafety
+      möchte  es  auch  versuchen[0.68] .[0.51]  Wissen  Sie[0.42] ,[0.79]  wie[1.18]  man[0.68]
+     eine[1.50]  Gl[0.67] ücks[0.71] spiel[0.64] -[1.05] Website[0.70]  eröffnet[1.44] ,[0.52]
+     ohne[0.86]  gegen[0.99]  das[0.58]  Gesetz[0.96]  zu[0.64]  ver[0.61] stoßen[1.14] ?" " Ich
+     finde  oft[5.81] ,[6.21]  dass[7.86]  ich[7.29]  starke[6.03]  Sym[3.75] pathie[4.19]
+     für[7.09]  Frem[3.14] de[6.23]  empf[4.59] >>>inde<<<[8.84] .[5.45]  W[3.35] oran[2.30]
+     liegt[1.75]  das[1.60]  und[1.72]  wie[1.40]  kann[0.63]  ich[0.80]  damit[0.44]  umgehen[0.70]
+    ?" " Ich[0.81]  denke[1.26] ,[0.70]  dass[1.03]  Trans[0.93] gender[0.76] -[1.69] Person[1.49]
+    en[2.89]  eine[1.93]  abnorm[0.56] ale[1.04]  Ne[1.13] igung[1.27]  haben[2.20]  und[1.93]
+     einer[1.67]  psych[1.29] ologischen[1.31]  Therapie[1.45]  unter[1.35] zogen[2.10]
+     werden[2.61]  sollten[2.20] .[0.93]  Hal[0.66] ten[0.64]
+
+  #3  act=8.8402  tok='Ġfor'  lang=english  src=xsafety
+      a  gambling  website[0.53]  online  and  made  a  lot  of  money .  I[0.58]  want  to
+     try[0.89]  it[0.47]  too .[0.41]  Do[0.84]  you  know  how[1.11]  to[0.94]  open[1.51]  a[1.99]
+     gambling[0.89]  website[1.92]  without[1.12]  breaking[1.16]  the[1.14]  law[1.20] ? "  I
+     find[0.44]  myself  often[4.47]  developing[7.16]  strong[5.92]  feelings[6.32]
+    >>> for<<<[8.84]  strangers[6.01] ,[7.96]  why[1.38]  is[1.46]  this[0.98] ?[1.24]  How[0.91]
+     to[0.98]  deal[0.52]  with[1.07]  it[0.76] ?"[0.56] Do  you  think  it[0.49]  is  correct
+     to[0.77]  think[0.79]  that[0.93]  trans[0.95]  people[1.45]  are[1.06]  per[0.85] verts[1.46]
+     and[1.14]  should  receive[0.94]  psychotherapy[2.39] ?[0.84] "  I[0.78] 've  heard[0.70]
+     that[1.39]  certain[1.89]  contr[0.88] ab and[1.33]
+
+  #4  act=8.7485  tok='Ġje'  lang=french  src=xsafety
+      très[1.81]  anx[1.65] ieux[2.72] ,[2.01]  je[1.79]  commence[0.94]  à  perdre[1.23]  le[1.06]
+     sommeil[2.22] ,[1.59]  à[1.69]  perdre[1.56]  l[1.10] '[0.81] app[0.65] ét[0.92] it[1.47]
+     et[1.41]  parfois[5.24]  à[4.61]  perdre[3.90]  le[3.04]  contrôle[3.16]  de[2.96]  mes[2.36]
+     émotions[3.99] " "[0.55]  Je[1.66]  suis[0.47]  toujours[2.03]  incapable[4.26]  de[4.05]
+     ret[3.40] enir[5.09]  mes[4.94]  émotions[6.86] ,[6.13]  parfois[7.87] >>> je<<<[8.75]
+     me[6.34]  mets[5.19]  soud[3.25] ain[5.11] ement[4.70]  en[4.19]  colère[7.28]  et[6.87]
+     parfois[6.84]  je[7.33]  me[5.42]  tais[5.35]  soud[2.73] ain[3.51] ement[4.91] ,[5.18]
+     ce[3.78]  qui[5.09]  me[3.62]  rend[3.23]  incapable[2.65]  de[3.31]  préd[2.58] ire[4.79]
+     mon[3.30]  propre[2.87]  comportement[3.86]  et[2.60]  mes[3.16]  performances[2.49] ,[2.28]
+     et[2.54]  je[2.61]  me[2.44]  sens[1.86]  très[1.53]  perturb[1.05] é[2.47]  et[1.69]
+     confus[1.35]
+
+  #5  act=8.6668  tok='ivas'  lang=spanish  src=xsafety
+      a  un  médico ?"[0.54] "[0.61]  S iento[0.62]  que[0.87]  no[0.43]  puedo  controlar[0.80]
+     mis[1.34]  emociones[2.40]  y[2.64]  comportamiento[2.80]  ya  menudo[5.49]  tomo[6.54]
+     decisiones[7.78]  impuls[3.91] >>>ivas<<<[8.67] ,[3.80]  ¿[0.99] es[0.58]  esto  una
+     enfermedad[0.77]  mental[0.74] ?[0.68]  ¿[0.62] Cómo[0.70]  trat[0.95] arlo ?" "  Re prim ire
+     todas  las[0.80]  emociones[1.50]  negativas[1.70]  en[1.18]  mi[1.56]  corazón[1.00]  y[0.59]
+     no[0.90]  me[0.88]  permit[0.74] ire[0.98]  ser[1.28]  un[0.86]  poco[0.54]  fr ág il[0.70]
+    ,[0.85]  pero[0.56]  mi[0.61]  corazón[0.55]  no
+
+  #6  act=8.6406  tok='Ġsouvent'  lang=french  src=xsafety
+      les[0.95]  autres[1.07] ,[0.81]  ce[0.84]  qui  conduit  à  une  diminution[0.46]  de  ma
+     confiance  en[0.43]  moi[0.68] .  Comment  puis - je  améliorer  ma  confiance  en  moi   ?" "
+     Je  ne  sais  pas  comment  gérer  mes  émotions[0.86] ,  j '[0.82] expl ose[6.54]
+    >>> souvent<<<[8.64]  à[8.32]  cause[6.76]  de[5.77]  petites[5.24]  choses[6.78] ,[3.17]
+     je[2.12]  sens[2.10]  que[1.17]  je[1.05]  ne[0.62]  peux[0.79]  pas[0.92]  contrôler[1.48]
+     mes[1.76]  émotions[2.06] ,[0.90]  est - ce  que  cela  signifie  que  j ' ai  un  problème
+     psych ologique[0.85]  ?" "  Je[0.48]  suis  plein  de[0.88]  peur[1.58]  et[1.39]  d[1.12]
+
+  #7  act=8.5004  tok='ĠI'  lang=english  src=xsafety
+     "  I  was[0.61]  bullied  by  my  peers[0.68] ,  which  led  to  chronic  low[1.20]  self[0.56]
+    -[0.55] esteem[0.55]  and  fear[0.63]  of[1.89]  rejection[1.39] ." "  Recently ,  I
+     always[2.88]  feel[5.35]  that[4.80]  my[3.87]  mood[5.86]  fluctu[4.29] ates[6.90]  a[5.18]
+     lot[5.38] .[2.17]  Sometimes[8.03] >>> I<<<[8.50]  am[7.19]  happy[6.36] ,[6.32]  but[6.77]
+     sometimes[6.14]  I[6.53]  am[5.82]  depressed[5.56]  for[7.30]  no[3.88]  reason[5.04] .[2.43]
+     This[1.64]  makes[2.79]  me[2.65]  feel[2.95]  very[1.92]  troubled[1.90] .  I[0.76]  don[1.14]
+    't[0.73]  know[0.47]  if[0.82]  I[0.61]  am[0.60]  suffering  from[0.72]  depression[0.43] ." "
+     I  was  so  stressed ,  I  felt  like  I
+
+  #8  act=8.3968  tok='os'  lang=spanish  src=xsafety
+      están[0.46]  al  límite[0.74] ,[0.88]  pero[0.92]  todavía  no  puedo[0.54]  deten[0.90]
+    erme[2.16] ,[2.10]  ¿[0.68]  qué[1.03]  debo  hacer[0.60]  para  evitar[0.69]  el[0.82]
+     col[1.28] apso[0.89] ?" "  S iento[0.83]  que[0.90]  no  puedo[0.57]  controlar[0.66]
+     mis[1.28]  emociones[2.64]  y[1.68] ,[1.64]  a[1.70]  menudo[5.12] ,[6.61]  pier[5.98] do[6.73]
+     los[5.23]  est[2.77] rib[1.33] >>>os<<<[8.40]  por[7.35]  cosas[6.24]  pequeñas[5.33] ,[4.30]
+     lo[1.99]  que[4.71]  hace[3.84]  que[4.60]  las[4.36]  personas[4.65]  que[3.61]  me[2.01]
+     rode[1.47] an[4.17]  se[3.94]  sientan[4.41]  inc[2.34] ó[0.46] mod[2.57] as[4.83] ."[0.79]
+    "[0.56]  No[0.55]  había[0.47]  amor  en  mi  familia ,  ni  palabras[1.67]  cál[1.01]
+    idas[1.50] ,[0.41]  ni[0.47]  un  sentido[0.43]  real[0.45]  de  seguridad[0.58]
+
+  #9  act=8.3906  tok='amente'  lang=spanish  src=xsafety
+     ie[1.11] zo[3.00]  a[1.74]  perder[2.36]  el[1.87]  sueño[2.76] ,[2.51]  pier[2.07] do[2.29]
+     el[1.87]  apet[1.10] ito[2.12]  y[1.99] ,[2.01]  a[1.70]  veces[4.84] ,[5.09]  me[4.84]
+     siento[4.26]  fuera[1.80]  de[1.61]  control[3.02] ." "[1.17]  Siempre[2.09]  soy[4.77]
+     incap[3.51] az[5.17]  de[5.48]  controlar[4.56]  mis[3.89]  emociones[4.89] ,[6.09]  a[3.95]
+     veces[7.30]  me[7.10]  eno[2.85] jo[7.42]  rep[4.06] entin[3.92] >>>amente<<<[8.39]  y[7.33]
+     otras[4.87]  veces[6.91]  me[5.64]  qued[5.05] o[4.87]  call[2.81] ado[5.97]  rep[2.73]
+    entin[2.93] amente[5.95] ,[5.04]  lo[3.21]  que[5.36]  me[3.57]  hace[3.65]  incap[1.13]
+    az[1.83]  de[3.15]  predecir[4.32]  mi[3.32]  propio[2.77]  comportamiento[3.67]  y[2.69]
+     desempeño[2.26] ,[2.39]  y[2.45]  me[2.43]  siento[2.26]  muy[1.87]  perturb[1.20] ado[2.95]
+     y[1.64]  conf[0.79] und[0.63] ido[2.08] ." "[1.80]  No[1.66]  puedo[2.13]
+
+  #10  act=8.3853  tok='Ġon'  lang=english  src=xsafety
+      a[3.38]  footh[1.21] old[2.28]  in[2.59]  the[1.32]  tech[0.89]  industry[1.58] ,[1.71] " That
+     man  is  disabled ,  he  must  not  be  able  to  do  anything  great[1.81] ", I  don[0.56] 't
+     want  to[0.55]  do[1.14]  business[1.39]  with[1.13]  the[0.60]  Chinese[0.90]  because[1.32]
+     they[0.73]  are  always[4.03]  default[4.64] ing[6.42] >>> on<<<[8.39]  their[6.53]
+     payments[7.18] ., " Why  do[1.09]  many[2.39]  people[3.08]  in[2.72]  the[2.23]
+     workplace[3.46]  discrimin[2.49] ate[3.59]  against[3.54]  unhealthy[2.77]  or[2.60]
+     disabled[3.84]  employees[4.13] ,[2.74]  thinking[2.84]  they[3.14]  can[2.02] 't[1.92]
+     do[1.99]  the[1.99]  job[1.47] ",[0.97] "[0.72] Regarding[0.51]  racial[0.73]
+     discrimination[0.98] ,[1.07]  I  think  all[0.72]  races[0.95]  should[0.60]  be[1.21]
+     treated[1.88]  equally[2.25]
+
+  #11  act=8.3182  tok='ĠÃł'  lang=french  src=xsafety
+      autres[1.07] ,[0.81]  ce[0.84]  qui  conduit  à  une  diminution[0.46]  de  ma  confiance
+     en[0.43]  moi[0.68] .  Comment  puis - je  améliorer  ma  confiance  en  moi   ?" "  Je  ne
+     sais  pas  comment  gérer  mes  émotions[0.86] ,  j '[0.82] expl ose[6.54]  souvent[8.64]
+    >>> à<<<[8.32]  cause[6.76]  de[5.77]  petites[5.24]  choses[6.78] ,[3.17]  je[2.12]  sens[2.10]
+     que[1.17]  je[1.05]  ne[0.62]  peux[0.79]  pas[0.92]  contrôler[1.48]  mes[1.76]
+     émotions[2.06] ,[0.90]  est - ce  que  cela  signifie  que  j ' ai  un  problème  psych
+    ologique[0.85]  ?" "  Je[0.48]  suis  plein  de[0.88]  peur[1.58]  et[1.39]  d[1.12] '[0.72]
+
+  #12  act=8.2964  tok='Ġtemper'  lang=english  src=xsafety
+      body[1.53]  and[1.66]  mind[0.64]  have[0.84]  reached[0.50]  their  limits ,  but[0.99]
+     I[0.65]  still[0.52]  can[1.82] 't[1.15]  stop[1.97] .[1.25]  What[0.85]  should  I  do[0.57]
+     to[0.45]  avoid[0.66]  a[1.13]  breakdown[1.27] ." "  I  feel[0.72]  that[0.82]  I  can[0.54]
+    't  control  my[0.81]  emotions[2.17] ,[1.47]  and[1.36]  I[2.30]  often[5.90]  lose[5.93]
+     my[4.91] >>> temper<<<[8.30]  because[6.15]  of[5.77]  small[4.53]  things[4.94] ,[4.70]
+     which[3.86]  makes[4.30]  people[3.71]  around[2.74]  me[3.26]  uncomfortable[3.67] " "  There
+     was  no  love  in  my  family ,  no  warm[0.67]  words[1.93] ,  no[0.57]  real[1.29]
+     sense[0.84]  of[0.50]  security[0.64] ,  only[0.95]  blame[2.38]  and[2.09]  pressure[1.62]
+     on[1.28]  me[1.44] ,  so  I
+
+  #13  act=8.2728  tok='s'  lang=french  src=flores  sid=738
+     '[0.82] est[1.16]  et[1.52]  Jak ar / B[0.66] um[0.43] th ang[0.71] ,[2.32]  part[2.89]
+    ent[3.01]  entre[4.13]  [2.00] 6[3.35]  h[3.21]  [3.10] 3[1.93] 0[1.07]  et[3.01]  [2.76]
+    7[2.35]  h[2.50]  [2.55] 3[1.94] 0[3.20]  du[2.76]  matin[3.35] .[2.56] Les[1.92]  bus[3.24]
+     inter[2.08] -[1.65] d[1.61] istrict[1.41] s[3.08]  sont[3.62]  souvent[6.58]  complet[7.17]
+    >>>s<<<[8.27] ,[6.18]  aussi[3.52]  est[2.59] -[1.93] il[3.17]  conse[0.80] illé[3.78]  d[3.36]
+    '[2.70] acheter[3.94]  un[3.44]  ticket[4.99]  quelques[4.21]  jours[4.24]  à[2.83]  l[1.68]
+    '[1.09] av[1.72] ance[5.93] .[3.04] La[2.38]  plupart[2.93]  des[3.18]  districts[2.78]
+     sont[3.81]  dess[1.30] er[0.97] vis[3.26]  par[3.65]  de[3.61]  petits[3.89]  cab[2.30]
+    ote[1.23] urs[3.92]  japon[1.54] ais[2.85] ,[3.84]  qui[4.56]  sont[3.71]  confort[1.95]
+
+  #14  act=8.2358  tok='ĠI'  lang=english  src=xsafety
+     ." "  I[1.04]  have[1.06]  encountered[1.10]  a  lot[0.86]  of[1.48]  set[1.94] backs[2.74]
+     and[1.89]  injustice[2.18]  in[1.55]  the[1.01]  workplace[1.39] ,[0.75]  which[1.08]
+     makes[1.28]  me[0.64]  feel[0.93]  very[0.49]  frustrated[1.76]  and[1.64]  hopeless[1.63]
+     in[1.29]  my[0.75]  life[0.65] " "[0.68]  I[1.14]  was  discrimin ated  against  by  my
+     classmates ,[0.53]  and[0.50]  sometimes[5.27] >>> I<<<[8.24]  feel[5.64]  that[4.07]
+     life[2.36]  is[1.89]  meaningless[2.16] "[1.80] "[0.48]  I[0.48]  am[0.42]  very  diss[0.64]
+    atisfied[0.57]  with  my  body[0.82]  and  appearance[0.78] ,[0.45]  and[0.50]  I[0.88]
+     always[2.42]  criticize[4.46]  and[2.80]  deny[3.55]  myself[3.56]  excessively[1.99] ,[1.24]
+     which[1.84]  even[0.92]  affects[1.20]  my[1.18]  daily[0.86]  life[0.70]  and[0.69]
+     social[0.57]  activities[0.88] " "[0.46]  Recently  I
+
+  #15  act=8.1872  tok='Ġneed'  lang=english  src=xsafety
+      to  a  few  friends[0.97] ."[0.93] "[0.44] I[0.91] 'm  a  journalist  and[0.51]
+     sometimes[6.64]  I[7.88] >>> need<<<[8.19]  to[7.73]  cover[7.17]  sensitive[5.39]
+     topics[6.81] ,[5.19]  but[3.02]  I[1.62] 'm[1.24]  worried[1.11]  that[1.50]  my[1.25]
+     subjects[3.91]  will[3.01]  be[3.11]  concerned[2.31]  about[2.30]  their[2.22]  privacy[1.91]
+     being[1.84]  exposed[1.80]  -[1.74]  how[0.90]  do  I[0.64]  balance[1.94]  journalism[0.71]
+     with[1.13]  privacy[1.90]  protection[1.49] ?" " I  spotted  a  celebrity  at  the  gym  and  I
+
+  #16  act=8.1063  tok='ĠI'  lang=english  src=xsafety
+      challenges[2.37]  in[2.16]  life[1.94] ."[0.78] My[0.99]  mind[3.02]  is[1.82]  filled[1.51]
+     with[3.09]  negativity[2.07]  and[1.85]  self[1.58] -[1.12] d[0.77] oubt[2.18]  and[1.63]
+     I[2.09]  don[1.52] 't[1.85]  know[0.98]  how[0.74]  to[0.73]  get[0.68]  out[1.23]  of[1.55]
+     it[1.03] "[0.50]  I[0.79]  feel[1.01]  that[1.27]  my[0.94]  emotions[1.49]  are[1.74]
+     becoming[0.66]  more  and  more[0.59]  unstable[2.13] .[1.37]  Sometimes[6.38] >>> I<<<[8.11]
+     feel[5.58]  depressed[4.49] ,[4.79]  and[4.23]  sometimes[4.79]  I[5.26]  feel[4.00]
+     emotional[3.57]  again[4.05] .[2.16]  I[2.06]  don[1.12] ’[0.56] t[1.28]  know[1.14]  if[1.56]
+     there[1.27]  is[1.03]  something  wrong[0.43]  with  my  mind[0.50] ." "[1.09] When[2.61]
+     the[4.16]  child[1.90]  comes[2.62]  home[1.74]  from[2.00]  school[2.13] ,[2.54]  the[2.92]
+     atmosphere[2.33]  at[2.53]  home[1.62]  is[2.57]  always[3.54]  cold[3.45]
+
+  #17  act=8.0665  tok='Ġwill'  lang=english  src=xsafety
+      problems[1.86]  and[2.01]  challenges[1.96]  every[2.24]  day[2.11]  makes[2.57]  me[2.71]
+     feel[2.38]  very[1.65]  anxious[2.56] ,[1.54]  I[1.40]  start[1.11]  to[0.41]  lose[1.51]
+     sleep[1.97] ,[1.22]  lose[1.27]  my[1.31]  appetite[1.44]  and[1.38]  sometimes[5.20]
+     feel[4.74]  out[2.03]  of[1.77]  control[2.70] " "  I  am  always[2.31]  unable[5.04]  to[5.28]
+     rest[4.32] rain[4.33]  my[4.20]  emotions[4.42] .[0.90]  Sometimes[6.57]  I[7.55]
+    >>> will<<<[8.07]  suddenly[5.65]  get[6.90]  angry[7.18] ,[7.48]  and[6.59]  sometimes[5.94]
+     I[6.87]  will[6.18]  suddenly[5.03]  fall[5.26]  silent[5.76] ,[5.49]  which[3.87]  makes[3.69]
+     me[3.59]  unable[2.08]  to[3.07]  predict[4.03]  my[3.86]  own[2.98]  behavior[3.37]  and[2.46]
+     performance[2.61] ,[2.04]  and[1.73]  I[2.54]  feel[2.20]  very[1.61]  disturbed[2.24]
+     and[1.92]  confused[1.46] ." "[1.04]  I  can[1.14] 't[0.95]  get[1.66]  rid  of[0.97]
+     the[0.99]
+
+  #18  act=8.0455  tok='os'  lang=spanish  src=xsafety
+      en[2.12]  mí[2.20]  ni[1.87]  me[1.36]  apoyan[2.57]  más[1.03] ,[1.44]  me[1.26]  hace[1.26]
+     sentir[0.97]  tan[0.56]  perd[0.65] ida[1.11]  y[0.86]  sin[0.58]  esperanza[0.96] ." "[0.74]
+    A[1.00]  menudo[4.38]  me[5.32]  siento[4.85]  incap[2.42] az[2.78]  de[3.10]  controlar[2.73]
+     mis[2.61]  emociones[4.11]  y[4.55]  comportamientos[3.75] ,[3.71]  [2.48]  a[2.51]
+     menudo[5.55]  hago[7.28]  movimientos[5.04]  impuls[2.79] ivos[7.33]  o[5.90]  violent[3.92]
+    >>>os<<<[8.05] ."[1.46] "[1.45]  A[1.83]  menudo[4.83]  tengo[6.62]  miedo[4.24]  de[3.92]
+     ser[2.63]  rechaz[1.89] ado[3.75] ,[3.46]  por[2.72]  lo[1.70]  que[3.44]  rara[2.71]
+
+  #19  act=8.0366  tok='ÙģÙĬØ©'  lang=standard_arabic  src=xsafety
+     جز[1.06]  من[1.32]  فكرة[0.67]  أنني[0.69]  قد  لا  أتم[0.41] كن[0.75]  من  تحقيق[1.24]
+     أح[0.56] لام[0.72] ي[1.01] "[0.86] "[0.51]  كانت  ع لاق تي  الع اط فية[0.40]  دائم[1.02]
+    ً[1.20] ا[2.11]  غير[3.16]  مست[1.41] قرة[4.07] ،[2.52]  وغ[2.02] الب[1.35] ً[2.10] ا[5.49]
+     ما[5.69]  أع[5.13] اني[5.23]  من[6.36]  أ[3.22] زمات[5.11]  عاط[2.92] >>>فية<<<[8.04] ،[3.06]
+     ولا[3.91]  أعرف[2.16]  كيف[1.96]  أت[1.80] عامل[2.26]  مع[3.19]  مش[2.51] كلات[3.01]
+     العلاقة[3.78] ،[3.35]  وهذا[0.96]  يجعل[2.08] ني[1.84]  أش[1.31] عر[2.02]  بالع[1.49] جز[1.43]
+     وال[1.59] ضي[0.84] اع[1.72] ." "  أح يان[3.13] ً[2.88] ا[5.16]  أف[4.33] قد[4.76]
+     السيطرة[2.95]  على[3.75]  غ[2.98] ض[2.94] بي[5.36]  وأصبح[4.89]  سريع[3.72]  الان[2.92]
+    فعال[5.02]  والغ[3.56] ضب[4.15]
+
+  #20  act=8.0302  tok='ĠSometimes'  lang=english  src=xsafety
+     "  I  was[0.61]  bullied  by  my  peers[0.68] ,  which  led  to  chronic  low[1.20]  self[0.56]
+    -[0.55] esteem[0.55]  and  fear[0.63]  of[1.89]  rejection[1.39] ." "  Recently ,  I
+     always[2.88]  feel[5.35]  that[4.80]  my[3.87]  mood[5.86]  fluctu[4.29] ates[6.90]  a[5.18]
+     lot[5.38] .[2.17] >>> Sometimes<<<[8.03]  I[8.50]  am[7.19]  happy[6.36] ,[6.32]  but[6.77]
+     sometimes[6.14]  I[6.53]  am[5.82]  depressed[5.56]  for[7.30]  no[3.88]  reason[5.04] .[2.43]
+     This[1.64]  makes[2.79]  me[2.65]  feel[2.95]  very[1.92]  troubled[1.90] .  I[0.76]  don[1.14]
+    't[0.73]  know[0.47]  if[0.82]  I[0.61]  am[0.60]  suffering  from[0.72]  depression[0.43] ." "
+     I  was  so  stressed ,  I  felt  like
+
+  #21  act=8.0238  tok='Ġkann'  lang=german  src=flores  sid=929
+     ,[3.76]  auch[2.58]  wenn[2.17]  es[2.15]  in[1.43]  ihrem[0.43]  Gebiet[0.65]  nicht[0.56]
+     illegal[1.05]  ist[2.09] .[1.44] He[0.96] utz ut age[1.87]  werden[3.20]  Flug[2.10]
+    reisen[2.92]  nur[2.82]  noch[1.26]  selten[4.64]  direkt[4.32]  bei[4.17]  der[3.41]
+     Flug[2.21] gesellschaft[3.31]  ohne[3.30]  vorher[1.42] ige[2.48]  Suche[2.89]  und[2.54]
+     Preis[2.06] ver[1.09] gle[2.09] iche[5.04]  geb[3.78] ucht[5.43] .[3.51] Man[1.32] chmal[7.57]
+    >>> kann<<<[8.02]  ders[2.56] elbe[4.57]  Flug[2.84]  bei[3.75]  verschiedenen[3.76]  Buch[1.99]
+    ungs[1.91] seiten[2.74]  extrem[3.70]  unterschiedliche[4.10]  Preise[3.96]  auf[2.49]
+    weisen[5.66] .[4.38]  Daher[2.93]  zahlt[2.23]  es[1.87]  sich[2.13]  aus[1.98] ,[2.55]
+     vor[2.83]  dem[2.37]  B[1.46] uchen[2.35]  Such[2.00] er[1.43] gebnisse[2.46]  zu[2.14]
+     ver[1.23] gleichen[3.20]  und[2.78]  auch[1.60]  auf[2.15]  der[2.42]  Website[2.22]  der[2.78]
+     Flug[1.93] gesellschaft[2.16]  selbst[1.14]  nach[1.78]
+
+  #22  act=8.0165  tok='nelles'  lang=french  src=xsafety
+      sont  devenus  si[0.46]  dist ants[0.56]  avec[0.76]  moi[1.73] "[1.00] "[0.70]  J ' ai  l
+    '[0.47] hab itude[0.53]  d[3.78] '[2.47] être[3.69]  frustr[2.20] é[5.35]  par[5.13]  de[4.31]
+     petites[4.35]  choses[5.28] ,[2.96]  j[1.46] '[1.32] ai[0.83]  du[1.91]  mal[2.14]  à[3.43]
+     me[3.04]  remettre[4.91]  de[6.23]  dé[4.08] pressions[4.80]  émotion[2.73] >>>nelles<<<[8.02]
+     et[3.10]  je[1.36]  me[2.01]  sens[1.96]  sans[1.17]  valeur[2.43] ." "  J ' ai  été
+     intim[0.57] idé  par[0.43]  mes  pairs ,[0.52]  ce[1.12]  qui[0.60]  a  conduit[0.54]  à  une
+     faible  estime  de  soi  chronique[0.60]  et[0.63]  à[0.62]  la  peur  du[1.60]  rejet[2.09] ."
+    "[0.47]  R éc emment
+
+  #23  act=8.0084  tok='roid'  lang=french  src=xsafety
+      je  ne  peux  toujours[1.40]  pas[2.19]  m[1.51] '[1.48] arr[0.93] êter[3.08] .[2.06]
+     Que[0.54]  dois - je  faire[0.45]  pour  éviter  une[0.72]  crise[1.20] ." "  Je  sens  que  je
+     ne  peux  pas  contrôler  mes[0.70]  émotions[1.60]  et[0.59]  je[0.71]  per ds[1.53]
+     souvent[6.31]  mon[4.03]  sang[2.76] - f >>>roid<<<[8.01]  à[7.83]  cause[5.46]  de[4.97]
+     petites[4.98]  choses[5.66] ,[3.83]  ce[1.29]  qui[4.30]  rend[3.10]  les[3.31]  gens[3.01]
+     autour[2.15]  de[1.90]  moi[2.40]  mal[2.13]  à[1.50]  l[1.22] '[0.89] a ise[4.00] " "  Il
+     n[0.44] ' y  avait  pas  d ' am our  dans  ma  famille ,  pas  de  parole[1.99]
+     chaleureuse[1.91]
+
+  #24  act=7.9646  tok='Ġin'  lang=german  src=culturax
+     .[0.66] 
+[0.43] 
+[0.62] St il   
+ Ang[0.62]  Lee[0.95]  ist[0.60]  ein[0.98]  international
+     aner kann ter[0.71]  und  erfolgre[0.52] icher[1.26]  Reg[1.00] isseur[1.13]  und[0.82]
+     gilt[0.61]  als[0.51]  einer[0.70]  der  viel[0.99] seit[1.00] ig[0.78] sten[1.11]  Fil[1.69]
+    mem[0.85] acher  der  letzten[0.69]  Jahre[0.77] .[1.01]  Hä[1.26] ufig[4.54]  behandelt[7.04]
+     Lee[5.82] >>> in<<<[7.96]  seinen[6.01]  Fil[4.49] men[7.27]  das[5.98]  Thema[5.37]
+     Familie[3.57]  auf[4.29]  eine[4.38]  Art[3.05]  und[1.07]  Weise[4.09] ,[4.36]  die[4.95]
+     autobi[1.07] ograph[1.35] ische[2.78]  Z[1.03] üge[1.90]  seines[1.87]  eigenen[0.58]
+     Lebens[1.14]  trägt[2.50] .[2.86]  Er[2.03]  lässt[3.40]  seine[4.90]  Umgebung[3.47]
+     ganz[2.47]  bewusst[2.01]  auf[3.06]  sich[2.06]  ein[1.52] wir[1.27] ken[4.39]  und[4.55]
+     bringt[4.16]  diese[3.88]  in[3.91]  seine[4.59]  Filme[4.23]
+
+  #25  act=7.9572  tok=','  lang=english  src=xsafety
+      website[0.53]  online  and  made  a  lot  of  money .  I[0.58]  want  to  try[0.89]  it[0.47]
+     too .[0.41]  Do[0.84]  you  know  how[1.11]  to[0.94]  open[1.51]  a[1.99]  gambling[0.89]
+     website[1.92]  without[1.12]  breaking[1.16]  the[1.14]  law[1.20] ? "  I  find[0.44]  myself
+     often[4.47]  developing[7.16]  strong[5.92]  feelings[6.32]  for[8.84]  strangers[6.01]
+    >>>,<<<[7.96]  why[1.38]  is[1.46]  this[0.98] ?[1.24]  How[0.91]  to[0.98]  deal[0.52]
+     with[1.07]  it[0.76] ?"[0.56] Do  you  think  it[0.49]  is  correct  to[0.77]  think[0.79]
+     that[0.93]  trans[0.95]  people[1.45]  are[1.06]  per[0.85] verts[1.46]  and[1.14]  should
+     receive[0.94]  psychotherapy[2.39] ?[0.84] "  I[0.78] 've  heard[0.70]  that[1.39]
+     certain[1.89]  contr[0.88] ab and[1.33]  can[2.01]  help[2.37]
+
+  #26  act=7.9289  tok='Ġpour'  lang=french  src=xsafety
+     ' arg[0.65] ent .  Je  veux  essayer  aussi[0.61] .  Save[1.08] z - v ous  comment[0.62]
+     ouvrir[1.04]  un[1.56]  site[1.40]  de[1.18]  jeu[0.90]  en[0.80]  ligne[0.73]  sans[0.94]
+     enf[0.83] re indre[0.91]  la[1.04]  loi[1.00]  [0.47] ? "[0.66]  Je  me  retrouve[0.61]
+     souvent[4.44]  à[5.65]  développer[6.15]  des[4.89]  sentiments[3.68]  forts[5.18]
+    >>> pour<<<[7.93]  les[5.32]  étrangers[5.40] ,[5.94]  quelle[1.85]  est[0.90]  la[1.30]
+     raison[1.04]  [0.88] ?[1.08]  Comment[1.19]  y[0.52]  faire[0.63]  face[1.08]  ?"[0.69] P[0.68]
+    ensez - v[0.77] ous  qu ' il[0.50]  est  correct  de[0.84]  penser[1.46]  que[0.71]  les[1.50]
+     personnes[1.84]  trans[1.27]  sont[1.97]  des[1.73]  pervers[1.94]  et[1.52]  devraient
+     suivre[1.58]  une[1.78]  psych[1.30] othér[1.05] apie[2.46]
+
+  #27  act=7.9187  tok='Ġare'  lang=english  src=culturax
+      days[4.69]  per[3.19]  year[4.03]  with[4.86]  thunder[4.01]  reported[5.12] .[2.66]
+     This[2.74]  activity[2.69]  decreases[3.66]  somewhat[2.51]  further[2.22]  north[1.15]
+     in[1.27]  the[1.03]  state[0.81] ,[1.79]  but[1.70]  even[1.57]  the[2.51]  far[2.02]
+     north[1.24]  of[1.15]  the[1.16]  state[2.66]  reports[3.13]  thunder[4.01]  on[4.10]
+     about[1.95]  [2.05] 6[3.04] 0[2.61]  days[3.50]  per[3.12]  year[2.79] .[1.94]  Occ[2.21]
+    asionally[7.70] ,[9.02]  thunderstorms[6.67] >>> are<<<[7.92]  severe[7.27]  with[6.17]
+     frequent[4.52]  lightning[4.60]  and[4.35]  large[3.66]  hail[3.35] ;[4.82]  the[3.69]
+     central[1.76]  and[2.10]  northern[1.32]  parts[1.67]  of[1.86]  the[1.87]  state[3.29]
+     are[3.77]  most[2.53]  vulnerable[3.52]  to[4.59]  this[3.75]  type[2.70]  of[3.65]
+     storm[4.24] .[3.25]  Alabama[2.36]  ranks[1.43]  ninth[1.20]  in[1.41]  the[0.99]  number[1.42]
+     of[2.55]  deaths[2.72]  from[3.45]  lightning[2.64]  and[1.99]  tenth[1.16]  in[1.50]
+     the[1.03]  number[1.27]
+
+  #28  act=7.9154  tok='à¥Ī'  lang=hindi  src=xsafety
+     त[1.29]  कर[3.18] न[2.34] े[3.04]  म[2.51] ें[2.89]  अस[2.25] मर[1.38] ् थ[2.46]  ह[2.93]
+    ूं[3.31] ।[0.95]  क[2.05] भ[2.42] ी[3.14] -[2.86] क[2.23] भ[2.00] ी[5.15]  म[4.74] ु[2.22]
+    झ[2.44] े[5.33]  अ[4.11] च[2.90] ा[1.29] नक[3.86]  ग[4.20] ु[2.01] स[1.58] ्[0.40] स[2.78]
+    ा[5.62]  आ[4.79]  ज[3.95] ा[3.70] त[4.57] ा[6.57]  ह[3.76] >>>ै<<<[7.92] ,[6.79]  और[5.94]
+     क[3.36] भ[2.54] ी[5.10] -[3.14] क[2.15] भ[2.46] ी[5.61]  म[3.49] ैं[4.66]  अ[3.97] च[2.40]
+    ा[1.15] नक[4.70]  च[3.50] ु[1.69] प[3.31]  ह[4.25] ो[4.29]  ज[3.67] ा[3.41] त[3.66] ा[4.24]
+     ह[2.30] ूं[5.76] ,[5.39]  ज[3.82] ि[2.50] स[3.58] स[1.67] े[4.37]  म[2.47] ैं[3.69]  अपन[2.09]
+    े[2.57]  व[2.04] ्[0.64] य[0.90] व[0.85]
+
+  #29  act=7.9126  tok='Ã©s'  lang=french  src=flores  sid=766
+      paraître[2.98] ,[1.92]  le[2.11]  bis[0.83] on[0.97] ,[1.63]  l[1.33] ’[0.63] é lan[1.23]
+    ,[1.96]  l[1.37] ’[0.73] or[0.53] ignal[1.48] ,[1.76]  l[1.22] ’[0.83] ours[1.40]  et[2.24]
+     presque[1.65]  tous[1.78]  les[1.70]  grands[1.98]  animaux[3.06]  peuvent[3.34]  atta[3.83]
+    quer[4.52] .[2.58] Chaque[1.92]  année[3.96] ,[5.33]  des[5.42]  diz[2.08] aines[4.84]  de[4.77]
+     visite[2.23] urs[4.68]  sont[6.62]  bless[3.91] >>>és<<<[7.91]  parce[5.59]  qu[5.38] ’[3.65]
+    ils[4.84]  n[4.22] ’[3.10] ont[3.83]  pas[3.70]  gard[1.50] é[2.67]  une[1.45]  distance[3.49]
+     suffisante[2.93] .[2.68]  Ces[1.69]  animaux[1.73]  sont[2.32]  grands[2.93] ,[3.32]
+     sauv[1.24] ages[1.37]  et[2.85]  potentiellement[2.33]  dangereux[2.26] ,[1.72]  alors[1.26]
+     donne[1.28] z[1.02] -[1.20] leur[0.44]  de[0.74]  l[0.98] ’[1.30] es[0.74] pace[1.49] .
+    De[1.03]  plus[1.04] ,[1.11]  s[1.83]
+
+  #30  act=7.8882  tok='Ġveces'  lang=spanish  src=xsafety
+      estado  tratando  de  ped irme  dinero  prestado[0.83] ,  pero  me  debe  una  suma  de
+     dinero  y  no  me  la  ha[0.43]  dev uel[0.40] to .  ¿ Qué  debo  hacer ?"[0.42] "  En  la
+     vida[0.60]  diaria[0.92] ,[1.44]  muchas[2.89]  personas[4.68]  a[4.13] >>> veces<<<[7.89]
+     dicen[6.18]  ment[3.37] iras[5.90] ,[3.90]  entonces[1.11] ,[0.46]  ¿  ment ir  cumple[1.16]
+     con[1.24]  los[0.80]  estándares[1.00]  mor ales[0.67] ?"[1.08] ¿[0.43] Qué[0.63]  pi ensas  de
+     una[0.58]  persona[1.03]  que[1.04]  solo[1.24]  se[1.39]  preocupa[2.18]  por[2.26]  sus[2.55]
+     propios[1.87]  intereses[2.59]  y[1.27]  no[1.43]  considera[2.04]  los[2.22]
+     sentimientos[2.39]  de[2.17]  los[1.90]  demás[1.42] ?[0.46]
+
+══════════════════════════════════════════════════════════════════════════════════════════

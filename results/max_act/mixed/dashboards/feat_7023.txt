@@ -1,0 +1,156 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 7023
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=5.4272%  mean=0.4436  max=157.1829  tokens_seen=3,787,008
+  per-lang firing: bengali=6.3395%, english=3.7854%, french=4.9026%, german=6.7862%, hindi=4.4073%, japanese=10.4489%, simplified_chinese=4.8090%, spanish=3.8357%, standard_arabic=3.6026%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=157.1829  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[157.18] , 9 3 , 4 0 7  कर ो ड ़  र ु प ए  क ा[0.79]  प ् र ा व ध ा न  क ि य ा  ग य
+    ा  थ ा ,  जब क ि   2[0.19]
+
+  #2  act=155.5358  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[155.54] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax  on  a  meal[0.28]
+    . 
+ 
+ In   2[0.33] 0
+
+  #3  act=153.9323  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[153.93] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4[0.15]  film
+     U[0.22] ly ss[0.47] es[0.23]  by  Pier o[0.14]  L ul li 
+  The   1 9 5 6  film[0.38]
+     Helen[0.15]  of  Troy[0.24]  by[0.27]
+
+  #4  act=153.9323  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[153.93] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .  The   1 8 6 2  Morr ill
+     Land[0.17] - Grant  Colleges  Act  provided  government  grants
+
+  #5  act=149.2510  tok='2'  lang=english  src=culturax
+      In   >>>2<<<[149.25] 7 2  words ,  and  three  minutes ,  Lincoln  asserted  that  the  nation
+     was  born  not  in   1 7 8 9 ,  but  in   1 7 7 6 ,  " con ceived  in  Liberty ,  and
+     dedicated  to[0.15]
+
+  #6  act=149.2429  tok='1'  lang=french  src=culturax
+      années   >>>1<<<[149.24] 9 8 0 .  Aujourd ’ h ui ,  des  compagnies  pét ro li ères  comme  Un
+    ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem porter  des
+     appels  d ’ off
+
+  #7  act=149.1659  tok='2'  lang=french  src=culturax
+      le   >>>2<<<[149.17] 0  septembre   1 8 7 0 ,  av ocat ,  économ iste  et  journaliste
+     français[0.20] .  Il  est  un  far ouche  partisan  du  f ouri ér[0.20] isme  et  de  la
+     colonisation  de  l ' Al gérie[0.39] . 
+[0.29]  Philippe
+
+  #8  act=148.7528  tok='1'  lang=standard_arabic  src=culturax
+      حوالي   >>>1<<<[148.75] 5 0 0  إلى   1 8 0 0 .  وقد  أدى  ذلك  إلى  العديد  من  التر جمات  الخ
+    اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح يين
+
+  #9  act=146.5208  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير   >>>2<<<[146.52] 0 0[0.14] 4[0.13]  عندما  لم  تتم كن  الم بر مجة  ك اسي  في نت ون  من
+     إيجاد  مكان  للإ قامة  في  أ يس ل ندا  بعد[0.21]  إيجاد  رح لة  ط يران  ر خي صة  إلى  هناك . أ
+    ر سل
+
+  #10  act=146.3071  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[146.31] 5  Southern  slave  states ,  and  he  won  only  two  of   9 9[0.25]
+    6[0.63]  counties  in  all  the  Southern  states ,  an  omen  of  the  impending  Civil  War .
+     Lincoln  received   1 , 8 6[0.20] 6 ,[0.40] 4[0.30]
+
+  #11  act=146.0839  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[146.08] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有 必要 。 南[0.23] 极 洲 环 绕 着 南 极 ， 是 地球 上 最
+    冷 的地方 。 旅行 费用 高 昂 ， 对 身体
+
+  #12  act=145.4295  tok='1'  lang=english  src=culturax
+      late   >>>1<<<[145.43] 9 9 0 s  and  early   2 0 0 0 s ,  the  ceremony  returned  to  the
+     Shr ine  Auditorium . 
+ 
+ In   2 0 0 2 ,  Hollywood 's  Dol by  Theatre  ( previously  known
+     as
+
+  #13  act=145.3263  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年   >>>9<<<[145.33]  月   1 7  日 ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着 罗马 尼亚[0.22] 桥头 堡 撤 退 和
+    改 编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #14  act=145.0655  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[145.07] 3 0   0 0 0  y ens ,  les  billets  ty pi ques  coû tant  environ   7   0
+    0 0  y ens . En  rep ass ant  les  vêtements  hum ides ,   on  peut  les  faire
+
+  #15  act=144.2455  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[144.25] . 5 0  م ترا ً . المس افة  الرأس ية  الخ الية  تحت  الج سر   ١ ٥  م ترا ً
+    .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #16  act=143.0873  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[143.09] 0 0 . 0 0 0  Sold aten  der  R oten  Ar mee  der  Sow jet union
+     in  die  weiß r uss ischen  und  ukrain ischen  Front en  eind r angen  und  diese  sch ufen ,
+     nachdem  sie  in  Ver
+
+  #17  act=142.9553  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[142.96] দ ্ য া ল য ়[0.30] ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্ ব া স ্ থ ্ য  খ া
+    ত  
+ 
+ দ া র
+
+  #18  act=142.3942  tok='1'  lang=english  src=flores  sid=9
+     At   >>>1<<<[142.39] 1 : 2[0.53] 0 ,  the  police  asked  the  protesters  to[0.25]  move[0.68]
+     back[1.13]  on[0.59]  to  the  pavement ,  stating  that  they  needed  to  balance  the  right
+     to  protest  with[0.79]  the[0.96]  traffic  building  up . Around   1 1 :[0.34] 2
+
+  #19  act=142.2700  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[142.27] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「[0.24] 蘭 醫 學 」( 荷 蘭 )， 來 作 區 分 。 清 朝 時 也
+    使用 這個 名 詞 來 稱
+
+  #20  act=142.2124  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[142.21] 裁 ， 通过 人物 的 塑造 和 情节 、 环境 的 描述 来 概括 地 表现 社会 生活 。“ 小说 ” 一 词 最早 记载 于 《 庄 子 · 外
+    物 》 ：“ 饰 小说 以 干 县 令
+
+  #21  act=141.5432  tok='à¦¾'  lang=bengali  src=culturax
+      বল >>>া<<<[141.54]  হ য ়[0.34] ে  থ া ক ে ,  য ে  ক া র া গ া র  ক ক ্ ষ ে  ত ি[0.14] ন ি  অব
+    স ্ থ া ন  কর ে ছ ি[0.27] ল ে ন
+
+  #22  act=141.5410  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[141.54] দ ্ য া ল য ়[0.40]  থ ে ক ে  সম ্ ম া ন স ূ চ ক  ড ক ্ ট র  অফ  হ ি উ ম ্ য
+    া[0.33] ন[0.30]  ল ে ট[0.19] া র  ল
+
+  #23  act=141.5410  tok='à¦¿'  lang=bengali  src=culturax
+     ব >>>ি<<<[141.54] ধ া ন ে র[0.15]  প �[0.24] � ্ চ ম  স ং শ ো ধ ন ী[0.29] ত ে  ত া র  ব ৈ[0.17]
+    ধ ত া  দ ে য ়[0.41] া  হ য ় ,  য া  
+
+  #24  act=141.5063  tok='1'  lang=spanish  src=culturax
+     ;   >>>1<<<[141.51] 5  de  octubre  de   1 8 2 9 - An nap olis ,  Maryland[0.41] ;   2 2
+     de[0.16]  noviembre  de   1[0.14] 9 0[0.34] 7 )  fue  un  astr ón omo  estadounidense .  Desc
+    ub ridor  en  
+
+  #25  act=141.4589  tok='1'  lang=english  src=culturax
+      to   >>>1<<<[141.46] 9 2 0 . 
+ 
+ At  the  same  time ,  many  rural  people  migrated  to  the
+     city  of  Birmingham  to  work  in  new  industrial  jobs .  Birmingham  experienced  such
+     rapid  growth  it  was  called  the  " Magic  City ".
+
+  #26  act=141.4334  tok='Ġdies'  lang=german  src=flores  sid=590
+     te >>> dies<<<[141.43]  aber  jemals  geschehen ,  dann  wird  es  bis  dahin  noch  sehr
+     lange  da uern .  Die  Ster ne  sind  so  weit  verstre ut ,  dass  selbst  zwischen  „ Nach
+    bar st ernen “  Bill ionen  von  Kil ometern  liegen .
+
+  #27  act=141.4142  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[141.41]  प ् रण ा ल ी  क ो  मजब ू त  कर न े  क े  ल ि ए :  A .  भ ो जन  क ो  ख ा न े
+     स े  थ ो ड ़ा  पहल े  सम
+
+  #28  act=141.4142  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[141.41]  स ॉ फ ़ ् ट व े यर  क ा[0.84]  पर ि च य[0.28]  द ें ।  क ृ प य ा  ऊपर  द ि ए
+     गए  सव ा ल  क ो  न ज ़ र अ ं द
+
+  #29  act=141.2184  tok='Ġel'  lang=spanish  src=culturax
+     aron >>> el<<<[141.22]  éx odo  de  más  de  un  ter cio  de  la  población .  Esta  segunda
+     bat alla  de  Kabul  fue  acompañ ada  de  una  multiplic ación  de  los  comb ates  por  el
+     resto  del  país .  Un  consejo  de   1
+
+  #30  act=141.1935  tok='å¤ĸ'  lang=simplified_chinese  src=culturax
+     紅 >>>外<<<[141.19] 光 以外 ， 大部分 紅 外 � � 射 都 會 被 地球 大 氣 層 吸收 ； 大 氣 本身 也 會 產生 較 強 的 紅 外 � � 射 ， 進 一步
+    影響 觀 測 。 因此
+
+══════════════════════════════════════════════════════════════════════════════════════════

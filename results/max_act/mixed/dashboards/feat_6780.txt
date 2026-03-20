@@ -1,0 +1,201 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 6780
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=11.3579%  mean=0.0597  max=3.3566  tokens_seen=3,787,008
+  per-lang firing: bengali=19.3854%, english=8.1078%, french=5.9763%, german=9.3574%, hindi=16.5739%, japanese=12.6318%, simplified_chinese=8.2065%, spanish=5.9305%, standard_arabic=5.0859%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=3.3566  tok='6'  lang=simplified_chinese  src=culturax
+     宇宙 。[0.91] 2 0[1.23] 1[3.14] >>>6<<<[3.36] 年[2.85] ，[2.31] 雷[0.84] 射 干 涉 引力 波[0.49] 天文[0.33]
+    台[1.20] （[0.68] L IGO ）[1.89] 宣[1.24] 佈[1.21] 首次[1.06] 直接 探 測 到 源 自 黑 洞 碰[0.35] 撞[0.51] 的 引力 波 訊
+    號[0.23] ，[1.09] 展開[1.08] 了[0.54] 以[0.31] 引力 波 作 天文
+
+  #2  act=3.3169  tok='5'  lang=hindi  src=flores  sid=171
+     ा  थ ा[1.21] .[1.41] 2[0.89] 0[0.25] 1[2.06] >>>5<<<[3.32]  क[1.62] े[0.44]  आख[0.64] ि[1.03]
+    र[1.07]  म[1.05] ें[0.99] ,[1.39]  T[0.67] ogi[0.31] Net  न[0.46] े[0.54]  एक[0.43]  सह य ो ग ी
+     स ्[0.90] ट[0.22] े शन  क े[0.65]  र[0.34] ू प[0.31]  म[0.45] ें  Astro[0.46] Net  र[0.82]
+    े[0.42] ड[0.37] ि य ो[0.30]  क
+
+  #3  act=3.2837  tok='7'  lang=spanish  src=culturax
+     1 7  y[0.91]  [0.93] 2[0.22] 0[0.29] 1[1.51] >>>7<<<[3.28] -[1.84] 1[0.60] 8 .[1.58] 
+[1.86]
+    
+[0.88] El  mejor[0.78]  jugador[0.77]  and orr ano[0.30]  de  bal onc esto  de  la
+     historia[1.32]  es[0.71]  el  base  Qu ino  Col om . 
+[0.51] 
+ De port es  de  invierno  [0.51]
+    
+[0.73] El  deporte  nacional  es
+
+  #4  act=3.2425  tok='0'  lang=french  src=culturax
+      et   2 0[0.97] 1[2.59] >>>0<<<[3.24] ,[2.44]  jusqu[0.51] ' à  acc order[0.43]  une  majorité
+     en  voix  à  Marine[0.25]  Le  Pen  au[0.38]  second  tour  des  élections  président ielles
+     françaises  de  [0.23] 2 0[0.44] 2 2  et[0.28]  faire  é lire  trois  dé put és  RN  aux
+     élections  lég
+
+  #5  act=3.1761  tok='7'  lang=german  src=culturax
+       3 1[1.12] .[1.45]  Dezember[0.21]  [0.37] 2[1.35] 0[1.23] 0[2.10] >>>7<<<[3.18] ;[2.38]
+     siehe[0.88]  jetzt[0.36]  Max  Rub ner - In stitut )[0.96] 
+[1.54]  B[0.27] f F  Bundes amt
+     für  Fin anzen  oder  Beg ut acht ungs stelle[0.22]  für  Fah re ignung 
+  B f G  Bundes
+    anstalt  für  Gew äss erk unde
+
+  #6  act=3.1648  tok='7'  lang=french  src=culturax
+     5  septembre  [0.48] 2[1.28] 0[1.38] 1[2.36] >>>7<<<[3.16] ,[2.21]  le[0.63]  conseil
+     département al  est  prés[0.21] idé  par  É ric  C iot ti  ( LR ),  et  depuis  la  fin  de  l
+    ' ann ée   2[0.28] 0[0.28] 1 7 ,  le  conseil  département al  est  prés idé  par
+
+  #7  act=3.1360  tok='1'  lang=simplified_chinese  src=culturax
+     宇宙 。[0.91] 2 0[1.23] >>>1<<<[3.14] 6[3.36] 年[2.85] ，[2.31] 雷[0.84] 射 干 涉 引力 波[0.49] 天文[0.33]
+    台[1.20] （[0.68] L IGO ）[1.89] 宣[1.24] 佈[1.21] 首次[1.06] 直接 探 測 到 源 自 黑 洞 碰[0.35] 撞[0.51] 的 引力 波 訊
+    號[0.23] ，[1.09] 展開[1.08] 了[0.54] 以[0.31] 引力 波 作
+
+  #8  act=3.1350  tok='ãĢı'  lang=japanese  src=culturax
+     語 での 正式[0.63] 名称[0.89] ・[0.82] 片 仮 名 などの[0.25] 表 記の 揺 れ[0.39] については[0.76] 、『[1.58] 2[0.96]
+    0[0.67] 0[1.64] 7[2.69] 年[1.76] 版[1.58]  [1.34] 世界の[1.15] 国[0.25] 一覧[0.50] 表[0.63] >>>』<<<[3.13]
+    、『[1.50] データ[0.23] ブック[0.45]  [1.37] オブ[0.59] ・ ザ[0.52] ・[0.55] ワ ールド[0.56]  [1.10] 2[1.79]
+    0[0.97] 0[1.05] 9[1.52] 年[0.43] 版[0.54] 』[1.56] （[0.97] 以上[1.01] は[1.27] #[1.55] 参考[0.43]
+    文献[0.33] 参照[0.32] ）、[0.73] 及び[0.92] 『[1.14] 外 務 省  [0.86] 各国[0.29] ・ 地域 情 勢 （[0.84] ウェブ[0.27]
+    サイト[0.52]
+
+  #9  act=3.1064  tok='5'  lang=french  src=culturax
+     Ada   2 0[1.03] 0[2.67] >>>5<<<[3.11] ,[2.57]  année[1.38]  durant  laquelle[1.30]  l[0.51]
+    '[0.52] Am end ement[0.62]  fut[0.30]  fig é  pour[0.73]  publication  par[0.34]  l[0.37] ' ISO
+    .[1.01] 
+[1.54]  [1.32] 2[0.30] 0[0.53] 1 2[0.64]  :[1.16]  l[0.29] ' ISO  publie[0.54]  une
+     nouvelle  ré vision[0.87]  de  la  norme  ([0.64] Ada  [0.50]
+
+  #10  act=3.0833  tok='à§«'  lang=bengali  src=culturax
+     ১ ৯ ৭[2.43] >>>৫<<<[3.08]  খ[1.28] ্[0.90] র ি ষ ্[0.53] ট া[0.40] ব ্[0.24] দ ে র  [1.66]
+    ৭[0.34] ই  নভ ে ম ্ বর  ত[0.31] ৃ ত ী য ়  স ে[0.23] ন া  অভ ্[0.64] য ু ত ্[0.70] থ া ন
+
+  #11  act=3.0643  tok='8'  lang=german  src=culturax
+      April   1 9[1.27] 5[2.09] >>>8<<<[3.06]  über[1.13]  die[0.66]  Ho he  See 
+[0.78]  Holz[0.48]
+    bl M str V  Ver[0.25] ordnung  über  die  Meister prüfung  in  den  Teilen  I  und  II  im  Holz
+    bl asin strument en m acher - Hand werk    ( H olz bl asin
+
+  #12  act=3.0586  tok='Ċ'  lang=english  src=culturax
+      the  World ,[1.72]  [1.65] 2[2.08] 0[1.00] 2[1.95] 1[2.61] >>>
+<<<[3.06] 
+[1.42] Video[0.38]
+     games[0.33]  
+[0.95]  Alien[0.20]  ([0.69] 1[0.87] 9[0.67] 8[0.74] 4[1.04]  video  game
+    ),[0.83]  based[0.44]  on[0.20]  the  film 
+[0.63]  Alien  ( At ari   2 6 0 0 ),[0.42]  a[0.52]
+      1 9 8 2  m aze  game  based  on  the
+
+  #13  act=3.0087  tok='Ċ'  lang=english  src=culturax
+     oct .[0.65]   1[1.42] 9[1.38] 7[2.00] 7[2.87] >>>
+<<<[3.01] Russ[0.59] ell[1.12]  E[0.44] .
+     Walter ,[0.67]  Soil  conditions  and  plant  growth ,[0.44]  Long man  group ,  London ,  New
+     York   1[0.89] 9[0.32] 7[0.40] 3[0.75] 
+[1.34]  [0.71] 
+[0.85] Salt ini  Antonio ,
+     Storia[0.33]  delle[0.32]  scienze  agr arie[0.42] ,   4
+
+  #14  act=3.0053  tok='0'  lang=spanish  src=culturax
+     ALL UP  en[0.68]  el[0.45]  año[1.26]  [1.56] 2[1.78] 0[1.13] 1[2.07] >>>0<<<[3.01] ,[2.31]
+     un[0.46]   6 5  %  cre en  que  existe  un  Dios ,  un   2 0  %  cree  en  alguna  fuerza
+     espiritual  y  un   1 5  %  no  cre en  que  haya  un  Dios  o  alguna  fuerza  espiritual
+
+  #15  act=2.9996  tok='1'  lang=french  src=culturax
+      Depuis  [0.24] 2 0[1.77] >>>1<<<[3.00] 2[2.28]  les[1.79]  trains[0.27]  en  provenance
+     d[0.53] '[0.51] Au ver gne  arrivent  en  gare  de  Paris - B ercy .[0.47] 
+[1.56] 
+[0.56] A uc
+    une  ligne  à  grande  vitesse  n ' est  prévue  à  court  terme  pour  la  région[0.26] .  Le
+
+  #16  act=2.9861  tok='0'  lang=simplified_chinese  src=culturax
+     發展 ，[0.30] 2 0[1.85] 1[2.49] >>>0<<<[2.99] 年[2.84] 時[2.10] 規模[1.01] 達到[0.91] 人民[0.25] � �
+    1[0.65] 6 4 億 元[0.65] ；[1.62] 同[0.46] 年的[1.15] 《[0.54] 人 再 � � 途[0.33] 之 泰 � � 》[0.62] 成為[0.66]
+    首[1.16] 部[0.96] 票 房[0.39] 超過[0.76] 1[0.41] 0[0.23] 億[0.27] 元的[1.61] 中國[0.37] 大陸 電 影
+
+  #17  act=2.9806  tok='à§¦'  lang=bengali  src=culturax
+     ১ ৯ ৮[2.49] >>>০<<<[2.98] -[1.69] র[1.02]  দশ[1.05] ক[1.85] ে[2.14] র[0.55]  শ[0.99] ু[0.40] র
+    ু[1.14]  থ[0.45] ে ক ে[0.49]  এই[0.73]  খ[0.47] া[0.53] ত ে  যথ ে ষ ্[0.57] ট  ব ৈ দ ে শ ি ক  ও
+     স[0.37] ্[1.17] থ া ন ী য ়[0.48]
+
+  #18  act=2.9458  tok='0'  lang=english  src=culturax
+      in   2 0[1.23] >>>0<<<[2.95] 8[2.73]  showed[2.64]  that[1.20]  obesity[0.25]  in[0.76]
+     Alabama[0.63]  is[0.23]  a  problem ,[0.64]  with[0.59]  most[0.24]  counties[0.20]
+     having[0.35]  more  than  [0.58] 2 9 %  of  adults  obese ,  except[0.30]  for  ten  which  had
+     a  rate  between   2 6 %  and   2 9
+
+  #19  act=2.9252  tok='9'  lang=simplified_chinese  src=culturax
+     持 續 -{ zh - cn :  [1.01] 增长 ;[0.29]  zh - tw :   成長 }- 。 2[0.30] 0[0.27] 0[1.15] >>>9<<<[2.93]
+    年[1.74] ，[1.46] 中华人民共和国 發生[0.53] 9[0.29] 9 0[0.30] 萬 起 治安 案件[0.26] ，[1.24] 案件 增 長[0.39] 率 達 2 0
+    %，[0.27] 謀 殺 案 發生 率 為 每 1 0 萬 人 1 . 1 起 。 而 自 2[0.31] 0[0.81]
+
+  #20  act=2.9205  tok='7'  lang=hindi  src=flores  sid=168
+     ् य क ा[0.38] र ी[0.36]  य[0.48] ु[0.39] आ[0.36] न[0.48]  द[0.58] ्[1.02] व ा र ा[0.60]  [1.62]
+    2[0.73] 0[0.56] 0[1.83] >>>7<<<[2.92]  म[1.60] ें[1.02]  ASUS[0.68]  क[0.77] ो[0.93]  त ा[0.25]
+    इ व ा[0.28] न  स[0.41] स ्[0.64] ट ै न बल  अव ॉ र ् ड  स े[0.58]  सम ्[0.74] म ा न ि त  क[0.36]
+    ि[0.38] ए[0.36]  ज[0.25] ा[0.25] न े  क[0.53]
+
+  #21  act=2.9177  tok='7'  lang=french  src=culturax
+      à   2 0[0.88] 1[2.63] >>>7<<<[2.92] .[2.12] 
+[2.17] 
+[0.88] É léments  d ' h istoire[1.03]
+     de[0.23]  «[0.83]  la[0.40]  gauche[0.22]  »[0.81]  dans[0.69]  l[0.77] '[0.55] Al lier[0.21]
+     [0.78] 
+[0.89] Le[0.23]  département  se[0.26]  sign ale  par[0.20]  un  vote[0.21]  rouge  pré
+    coce[0.22] ,[0.48]  qui[0.44]  se  maint ient  jusqu ’ au
+
+  #22  act=2.8691  tok='1'  lang=french  src=culturax
+      financière  de  [1.14] 2[0.84] 0[1.13] 0[2.50] >>>1<<<[2.87] .[2.42]  Il[0.40]  tente  d ' ap
+    pliquer  à  l ' Argent ine  les  recettes  qui  ont  fait  le  succès  économique  de  la
+     province  de  Santa  Cruz ,  en  Patagon ie ,  dont  il  était  le  gouver neur  jusqu ' en
+
+  #23  act=2.8680  tok='1'  lang=german  src=culturax
+     ember  [0.31] 2 0[1.51] >>>1<<<[2.87] 1[2.41] ;[2.44]  dann[0.56]  Vorschriften[0.29]  in  das
+     BGB  über führt[0.30] )[1.03] 
+[1.17]  H[0.51] Wi G  Haustür wider ru fs gesetz  ( im
+     Jahr[0.44]  [0.49] 2[0.68] 0[0.64] 0[0.32] 2[0.62]  auf geh oben[0.65]  und[0.50]  in  das  BGB
+     über führt )[0.33] 
+[0.73]  H w
+
+  #24  act=2.8654  tok='7'  lang=english  src=culturax
+     oct .[0.65]   1[1.42] 9[1.38] 7[2.00] >>>7<<<[2.87] 
+[3.01] Russ[0.59] ell[1.12]  E[0.44] .
+     Walter ,[0.67]  Soil  conditions  and  plant  growth ,[0.44]  Long man  group ,  London ,  New
+     York   1[0.89] 9[0.32] 7[0.40] 3[0.75] 
+[1.34]  [0.71] 
+[0.85] Salt ini  Antonio ,
+     Storia[0.33]  delle[0.32]  scienze  agr arie[0.42] ,  
+
+  #25  act=2.8620  tok='9'  lang=english  src=culturax
+      Since  [0.43] 2 0[0.84] 0[2.85] >>>9<<<[2.86] ,[2.63]  the[1.23]  Best[1.35]  Picture[0.71]
+     winner[1.46]  has[1.80]  been[0.74]  chosen  by[0.21]  instant  runoff  voting .[0.91]  Since  
+    2[0.82] 0[1.12] 1[0.67] 3[0.48] ,  re - weighted  range  voting  has  been  used  to  select
+     the  nom ine es  for  the  Best  Visual  Effects .
+
+  #26  act=2.8510  tok='å¹´'  lang=simplified_chinese  src=culturax
+     宇宙 。[0.91] 2 0[1.23] 1[3.14] 6[3.36] >>>年<<<[2.85] ，[2.31] 雷[0.84] 射 干 涉 引力 波[0.49] 天文[0.33]
+    台[1.20] （[0.68] L IGO ）[1.89] 宣[1.24] 佈[1.21] 首次[1.06] 直接 探 測 到 源 自 黑 洞 碰[0.35] 撞[0.51] 的 引力 波 訊
+    號[0.23] ，[1.09] 展開[1.08] 了[0.54] 以[0.31] 引力 波 作 天文 觀
+
+  #27  act=2.8480  tok='0'  lang=english  src=culturax
+      Since  [0.43] 2 0[0.84] >>>0<<<[2.85] 9[2.86] ,[2.63]  the[1.23]  Best[1.35]  Picture[0.71]
+     winner[1.46]  has[1.80]  been[0.74]  chosen  by[0.21]  instant  runoff  voting .[0.91]  Since  
+    2[0.82] 0[1.12] 1[0.67] 3[0.48] ,  re - weighted  range  voting  has  been  used  to  select
+     the  nom ine es  for  the  Best  Visual  Effects
+
+  #28  act=2.8458  tok='4'  lang=standard_arabic  src=flores  sid=762
+      يناير  [0.29] 2 0[1.46] 0[2.65] >>>4<<<[2.85]  عندما[2.33]  لم[0.83]  تتم[0.30] كن  الم[0.29]
+    بر مجة  ك اسي  في نت ون  من  إيجاد  مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد  رح لة  ط يران  ر
+    خي صة  إلى  هناك . أ ر سل  رسائل  إلكترونية  إلى
+
+  #29  act=2.8432  tok='å¹´'  lang=simplified_chinese  src=culturax
+     發展 ，[0.30] 2 0[1.85] 1[2.49] 0[2.99] >>>年<<<[2.84] 時[2.10] 規模[1.01] 達到[0.91] 人民[0.25] � �
+    1[0.65] 6 4 億 元[0.65] ；[1.62] 同[0.46] 年的[1.15] 《[0.54] 人 再 � � 途[0.33] 之 泰 � � 》[0.62] 成為[0.66]
+    首[1.16] 部[0.96] 票 房[0.39] 超過[0.76] 1[0.41] 0[0.23] 億[0.27] 元的[1.61] 中國[0.37] 大陸 電 影 ，[1.49]
+
+  #30  act=2.8154  tok='0'  lang=english  src=flores  sid=322
+      to  the  [1.32] 2[0.80] 0[0.51] 1[2.52] >>>0<<<[2.82]  federal[0.76]  election[1.52] ,[1.73]
+     those[1.62]  who[0.47]  oppose  Australia[0.31]  becoming  a  republic  grew[0.26]  by  [0.24]
+    8  per  cent  since[0.48]  [0.83] 2[0.59] 0[0.71] 0[0.31] 8 .[0.28] Car et aker  Prime  Minister
+     Julia  Gill ard  claimed  during  the  campaign  of  the  [0.56] 2 0
+
+══════════════════════════════════════════════════════════════════════════════════════════

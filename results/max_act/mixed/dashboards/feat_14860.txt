@@ -1,0 +1,400 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 14860
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=18.3324%  mean=0.4521  max=12.3881  tokens_seen=3,787,008
+  per-lang firing: bengali=21.2432%, english=3.5048%, french=91.0028%, german=3.8392%, hindi=13.4542%, japanese=8.0652%, simplified_chinese=3.4869%, spanish=12.6890%, standard_arabic=2.1643%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=12.3881  tok='Ġchoisi'  lang=french  src=culturax
+      communes[2.06] ,[0.86]   5  cant ons[1.50]  ;[0.83] 
+[1.21] au[3.49]  total[7.43]  [0.79]
+    2[1.80] 5 6  communes[3.28]  et[4.51]  [0.67] 3[0.82] 0  cant[1.95] ons[3.05] .[1.80] 
+[1.90]
+    
+[1.43] Cas[3.56]  particuliers[5.05]  de[5.64]  ratt[4.78] achement[5.98]  et[6.53]
+     modifications[6.18]  des[4.53]  limites[4.30]  commun[3.30] ales[3.49]  :[2.97] 
+[1.83]
+     certaines[6.59]  communes[4.38]  ont[9.88] >>> choisi<<<[12.39]  un[4.95]  nom[4.35]
+     sans[4.47]  fil[3.03] iation[2.04]  historique[2.51] ,[5.03]  par[6.17]  exemple[6.48]
+     Val[1.58] -[2.28] de[3.37] -[2.04] Ch[2.90] alv[2.63] agne[3.43]  form[4.28] ée[6.84]
+     par[5.18]  la[4.22]  fusion[5.03]  de[6.49]  trois[4.86]  communes[5.08]  ([4.46] Cast[1.89]
+    el[1.33] let[2.45] -[3.93] Saint[3.41] -[3.07] Cass[2.93] ien[3.22] ,[3.82]  Mont[2.47]
+    blanc[2.04]  et[3.45]  Vil[1.02] lev[2.95] ie[1.45]
+
+  #2  act=12.2916  tok='Ġattire'  lang=french  src=culturax
+      Bour[3.22] bon[2.51] na[3.85] is[4.03]  ;[1.66] 
+[3.55]  les[4.59]  chemins[2.26]  de[3.63]
+     Saint[4.24] -[3.61] Jac[2.96] ques[2.77] .[3.63] 
+[4.71] 
+[3.68] Par[5.37] cs[4.43]  de[4.74]
+     loisirs[4.01]  
+[2.70]  Le[5.20]  Pal[3.30] ,[5.23]  situé[8.66]  vers[7.85]  D[3.32] omp[2.20]
+    ierre[4.87] -[4.70] sur[4.35] -[3.94] Bes[3.14] bre[5.03]  dans[6.60]  l[4.81] '[4.84] Al[2.48]
+    lier[4.12] ,[6.58] >>> attire<<<[12.29]  plus[10.01]  de[8.27]  [5.34]  par[3.56]  an[4.99]
+     en[6.16]  combin[6.93] ant[10.27]  les[7.70]  équipements[6.80]  d[5.70] '[4.55] un[5.24]
+     parc[4.99]  de[5.11]  loisirs[3.48]  et[8.26]  d[6.29] '[5.57] un[3.65]  grand[3.92]
+     parc[3.81]  animal[2.74] ier[3.62] .[3.75] 
+[2.72]  Vul[2.67] c[1.47] ania[4.45] ,[4.85]
+     parc[6.04]  de[5.68]  loisirs[4.30]  cent[5.84] ré[10.40]  sur[6.05]  le[4.70]  vol[3.83]
+    can[2.95] isme[4.82]
+
+  #3  act=12.0712  tok='Ġattir'  lang=french  src=culturax
+      de[4.43]  juillet[3.84]  et[8.81]  se[8.45]  tient[8.35]  dans[5.60]  les[4.71]  rues[5.15]
+     de[5.05]  la[4.39]  cité[3.67]  médi[2.67] év[2.19] ale[3.19]  autour[5.63]  d[5.11] '[5.08]
+    un[5.89]  thème[4.88]  qui[6.59]  change[7.97]  chaque[6.57]  année[4.26]  ([4.91] c[3.68]
+    ord[1.35] es[3.00] ,[3.37]  voix[3.55] ,[4.56]  perc[2.99] ussions[3.42] ,[4.77]  dans[3.27]
+    es[4.15] ,[5.15]  etc[5.28] .).[4.97]  Il[6.63]  a[8.40] >>> attir<<<[12.07] é[10.43]
+     plus[8.35]  de[6.07]  [3.50]  en[1.10]  [3.21] 2[2.15] 0[0.76] 1 8[2.04]  ;[3.70] 
+[2.96]
+     la[5.84]  F[4.28] ête[6.76]  du[5.35]  Roi[3.89]  de[4.17]  l[4.93] '[4.60] O[4.23] iseau[4.49]
+    ,[3.97]  créée[5.37]  en[4.42]  [1.58] 1[1.65] 9[0.65] 8 5[1.03] ,[5.15]  se[7.75]
+     déroule[8.24]  au[5.29]  P[3.90] uy[4.22] -[4.05] en[4.02] -[3.78] Vel[3.90]
+
+  #4  act=11.9800  tok='ĠdÃ©velopp'  lang=french  src=culturax
+     ,[4.50]  il[5.22]  permet[6.34]  l[5.25] '[6.03] é[6.68] levage[1.57]  de[4.08]  bé[4.67]
+    tail[2.12]  et[6.25]  la[3.63]  culture[4.13]  de[3.73]  cot[3.05] on[2.26] .[0.60]  Il[4.34]
+     rec[8.31] ouvre[9.11]  les[5.59]  provinces[2.89]  du[3.50]  Ch[1.08] aco  et[3.31]  de[4.10]
+     Form[0.57] osa .  Il[3.92]  comprend[7.91]  également[8.70]  des[4.20]  for[3.07] êts[2.40]
+     subtropical[0.79] es[2.14]  où[9.57]  se[11.10] >>> développ<<<[11.98] ent[8.66]  la[5.79]
+     végét[3.77] ation[2.12]  et[6.34]  les[3.67]  animaux[4.26] . 
+ 
+ M[3.18] és[2.68] op[2.42] ot
+    amie[3.56]  argent[2.11] ine[0.66]  
+ 
+ Ce[6.92]  territoire[2.74]  se[5.51]  trouve[5.43]
+     entre[5.99]  le[3.54]  Rio  Par[1.21] aná[1.40]  et[4.07]  le[2.48]  Rio[1.46]  Uruguay ,[2.44]
+     part[6.61] ag[8.97] és[1.86]  entre[4.97]  les[3.60]  provinces[1.60]  de[1.91]
+
+  #5  act=11.9604  tok='Ġconcentre'  lang=french  src=culturax
+     3[1.51]  le[5.40]  secteur[6.56]  de[7.70]  la[4.90]  métall[1.66] urg[2.89] ie[4.52]  et[8.32]
+     des[5.25]  équipements[5.14]  méc[3.75] ani[3.42] ques[2.60]  en[4.30]  Au[2.49] ver[3.31]
+    gne[5.10]  représent[8.71] ait[9.40]  [4.54]  soit[4.41]  [3.58] 2[3.86] 3  %[6.21]  des[5.57]
+     salariés[5.61]  industri[4.36] els[5.15] .[5.77]  L[6.21] '[5.26] activ[3.88] ité[7.11]
+     liée[9.02]  aux[5.82]  mé[3.45] taux[3.57]  se[7.99] >>> concentre<<<[11.96]  dans[10.19]
+     les[6.00]  en[5.17] vir[6.68] ons[7.11]  de[6.09]  Th[4.22] iers[4.69] ,[6.79]  Isso[3.36]
+    ire[5.01]  et[6.49]  D[3.54] omp[3.00] ierre[4.92] -[4.57] sur[4.71] -[4.05] Bes[2.89] bre[3.82]
+    .[6.19] 
+[4.69] 
+[2.17] À[6.40]  Th[4.42] iers[5.44] ,[8.71]  la[5.89]  cout[3.32] eller[2.42]
+    ie[4.69]  est[8.03]  une[6.47]  activité[6.83]  mult[5.25] isé[5.57] cul[3.25] aire[6.57]
+     et[8.54]  fournit[10.08]
+
+  #6  act=11.9487  tok='Ġcompter'  lang=french  src=culturax
+     in[3.98]  [2.81] 
+[3.39] Au[4.88]  cours[7.79]  de[6.84]  sa[4.87]  carrière[5.99] ,[5.75]
+     Ars[2.72] ène[3.95]  L[1.87] up[2.88] in[3.63]  a[6.12]  mis[6.48]  sur[4.75]  pied[6.88]
+     une[4.65]  véritable[4.49]  bande[4.98]  de[4.81]  mal[4.06] faite[3.59] urs[4.00]  pour[7.86]
+     l[6.55] '[6.48] é[5.62] pa[4.32] uler[6.70]  dans[8.10]  ses[5.79]  for[4.06] faits[4.15]
+    .[6.97]  C[6.70] elle[10.51] -[9.31] ci[7.14] >>> compter<<<[11.95] ait[10.19]  une[5.80]
+     so[4.69] ix[5.41] ant[5.21] aine[5.70]  de[3.83]  membres[4.02]  selon[8.80]  Luis  Per[0.84]
+    enna[3.67] .[7.05] 
+[4.87] 
+[3.38] Maur[3.06] ice[3.29]  Leb[2.79] lanc[1.89] ,[4.99]  par[4.01]
+     ailleurs[7.57]
+
+  #7  act=11.8218  tok='ĠnÃ©cessite'  lang=french  src=flores  sid=760
+     els[0.97] . Un[2.05]  réseau[4.70]  d[3.90] ’[6.29] é[4.08] change[4.53]  d[4.59] ’[4.99]
+    h[3.60] ospital[0.89] ité[3.26]  est[5.81]  l[6.37] ’[5.49] organisation[3.84]  qui[4.76]
+     met[7.86]  en[6.15]  relation[8.60]  les[5.07]  voyageurs[4.83]  avec[5.63]  les[3.01]
+     habitants[3.69]  des[5.05]  villes[3.36]  qu[6.80] ’[9.27] ils[7.53]  vont[8.26]  visiter[3.43]
+    .[4.01] Re[4.70] joindre[8.06]  un[4.33]  tel[5.81]  réseau[3.58]  ne[6.15]
+    >>> nécessite<<<[11.82]  généralement[9.82]  que[7.46]  de[6.43]  rempl[6.94] ir[5.21]  un[3.43]
+     formulaire[1.60]  en[3.60]  ligne[2.49]  [3.35] ;[2.68]  bien[7.49]  que[4.88]  certains[3.85]
+     réseaux[4.22]  proposent[9.64]  ou[4.16]  nécess[8.08] itent[5.70]  une[3.13]
+     vérification[3.31]  complémentaire[5.09] .[1.43] Une[4.47]  liste[3.86]  des[5.14]  hô[2.50]
+    tes[2.23]  disponibles[3.38]  est[4.09]  ensuite[5.92]  four[7.78] nie[3.20]  soit[5.51]
+     en[3.69]  version[5.30]  imprim[2.94] ée[2.01]  et[7.03]  /[4.71]
+
+  #8  act=11.7764  tok='cha'  lang=french  src=culturax
+     ),[6.88]  il[7.05]  y[6.76]  est[8.55]  également[8.01]  déc[7.67] édé[4.90]  ([3.65] 1[0.55] 8
+    5 3[1.00] ).[5.10]  En[5.56]  dé[5.45] pit[8.25]  d[6.32] '[6.03] une[4.45]  renomm[5.22]
+    ée[6.46]  internationale[5.27] ,[7.54]  il[5.80]  resta[7.97]  toujours[8.02]  fidèle[7.70]
+     à[7.57]  sa[5.46]  ville[5.53]  nat[5.05] ale[4.37] ,[7.82]  ce[6.56]  qui[7.22]  ne[8.10]
+     l[7.70] '[6.91] emp[7.46] ê[10.32] >>>cha<<<[11.78]  pas[10.12]  de[6.77]  fréqu[5.91]
+    enter[7.67]  les[5.13]  plus[6.84]  illust[5.28] res[6.38]  musiciens[3.99]  de[6.38]  son[6.06]
+     temps[5.12]  et[7.11]  d[6.32] '[6.23] être[7.25]  publié[7.11]
+
+  #9  act=11.7275  tok='Ġtrouve'  lang=french  src=xsafety
+     '[0.69] hom os exual ité[3.55]  est[5.97]  anorm[6.19] ale ,[1.91]  mais[3.40]  je[5.77]
+    >>> trouve<<<[11.73]  que[8.25]  ce[5.92]  type[7.74]  de[3.22]  pensée[2.46]  relève[6.08]
+     de[5.38]  la[4.38]  discrimination[3.62]  et[6.94]  des[5.10]  pré[6.02] jug[1.42] és[5.51]
+    .[2.29]  Ch[1.46] acun[5.97]  devrait[5.57]  avoir[5.12]  le[6.22]  droit[5.70]  de[1.43]
+     choisir[3.22]  son[4.46]  propre[2.76]  mode[4.51]  de[2.26]  vie[1.29]  et[5.43]  sa[4.71]
+     façon[6.85]  d[4.13] '[5.18] aim[4.60] er[3.96] ." "  Les[2.36]  Ch[3.61] inois[2.46]
+
+  #10  act=11.7258  tok='ĠprÃ©t'  lang=french  src=flores  sid=908
+      largeur[1.77]  de[3.62]  bande[1.86]  et[2.17]  une[5.42]  meilleure[2.24]  qualité[3.87]
+     de[5.69]  service[1.56] .[0.94]  Elles[5.64]  sont[7.91]  crypt[3.78] ées[4.91]  et[5.45]
+     donc[8.54]  plus[6.28]  difficiles[5.05]  à[4.47]  esp[7.32] ion[6.47] ner[3.45] .[4.50]
+    Les[4.83]  entreprises[4.50]  de[5.43]  médias[2.36]  ment[3.92] ent[4.41]  cour[6.99]
+    amment[3.93]  sur[3.17]  l[3.87] '[4.16] object[2.15] if[2.26]  de[2.91]  cette[2.62]
+     mesure[0.68] ,[2.91] >>> prét<<<[11.73] endant[9.10]  qu[5.94] '[6.21] elle[1.80]  vise[7.22]
+     à[4.44]  «[3.43]  empêcher[3.05]  le[3.50]  pir[2.74] at[3.49] age[1.60]  ».[1.00] En[2.96]
+     fait[8.60] ,[3.06]  les[4.46]  codes[4.28]  régionaux[1.70]  n[3.16] '[8.09] ont[8.04]
+     absolument[6.73]  aucun[4.13]  effet[2.33]  sur[2.15]  la[2.45]  copie[3.03]  ill[3.84]
+    ég[1.25] ale[1.57] ;[0.83]  une[5.71]  copie[2.41]  bit[2.50]  à[5.10]  bit[2.01]  d[1.77]
+    '[4.95] un[1.43]
+
+  #11  act=11.6869  tok='Ġconten'  lang=french  src=flores  sid=102
+     ents[3.88]  du[5.58]  réser[2.92] voir[3.16]  f[6.01] uy[6.81] aient[6.53]  toujours[9.49]
+    ,[3.57]  probablement[7.95]  à[6.13]  cause[6.60]  de[3.60]  la[3.86]  dil[3.16] at[1.92]
+    ation[3.27]  thermique[2.04]  à[4.97]  l[4.45] '[5.12] int[0.59] érieur[2.39]  du[1.28]
+     réser[2.18] voir[1.59] .[2.67] Une[4.72]  autre[3.21]  zone[3.97]  de[3.94]  stockage[3.09]
+     second[3.83] aire[3.49]  sous[4.75]  les[2.48]  réser[2.43] voir[1.80] s[2.03]  pouvant[7.01]
+    >>> conten<<<[11.69] ir[7.59]  [1.06] 1[2.60] 0[0.70] 4  [1.69] 5 0 0[0.74]  [3.14] bar[2.30]
+    ils[0.90]  n[4.44] ’[6.96] a[8.85]  pas[7.63]  encore[7.74]  été[6.44]  rempl[3.97] ie[3.58]
+     au[6.02]  maximum[4.37]  de[6.30]  sa[6.12]  capacité[3.39] .[1.58] Ces[5.26]
+     commentaires[2.41] ,[3.85]  en[4.45]  direct[4.21]  à[4.64]  la[5.71]  télévision[2.70] ,[2.30]
+     étaient[4.36]  la[4.67]  première[3.76]  fois[5.45]  que[6.85]
+
+  #12  act=11.6753  tok='Ġattir'  lang=french  src=culturax
+      touristique[5.75]  ([4.55] hé[3.99] bergement[6.26] ,[6.21]  restauration[4.82]  ou[6.72]
+     loisirs[4.18] )[5.56]  dont[9.74]  [4.91] 7[3.96] 0[1.46]  lab[3.59] ell[6.41] isées[5.92]
+    .[5.59] 
+[5.11] 
+[3.58] Les[5.04]  mus[4.33] ées[5.10]  sont[7.78]  aussi[7.94]  un[5.93]
+     pôle[6.57]  d[5.99] '[5.72] attr[5.32] action[7.11]  :[7.86]  en[4.24]  [4.99] 2[3.73] 0[1.44]
+    1[0.68] 2[4.70] ,[9.17]  ils[8.32]  ont[8.63] >>> attir<<<[11.68] é[10.95]  .[1.78] 
+[1.68]
+    
+[0.60] Commerce[4.52]  [3.30] 
+[2.90] Les[5.42]  activités[6.48]  commerciales[4.88]  ont[7.71]
+     connu[10.48]  de[7.97]  sensibles[7.62]  évolutions[6.97] ,[8.60]  et[8.99]  compt[9.06]
+    aient[9.51]  en[7.16]  [3.82] 2[2.38] 0[1.54] 0[0.68] 4[3.50]  [5.99]  dont[4.73]  [2.82]
+     ([4.06] plus[6.44]  de[5.72]  [3.80] 5[4.11] 6[2.16]  %)[4.53]  ne[6.99]  compt[6.77] ent[8.10]
+     aucun[4.40]  salarié[5.42]
+
+  #13  act=11.6182  tok='Ġaffronter'  lang=french  src=flores  sid=180
+      avaient[5.46]  déjà[4.92]  rem[8.22] port[10.31] é[5.37]  le[4.44]  tro[5.09] ph[3.44]
+    ée[4.93]  il[5.39]  y[6.76]  a[5.34]  deux[2.04]  semaines[1.80] .[3.06] Le[2.95]  dernier[2.80]
+     match[3.99]  du[3.87]  champion[3.71] nat[3.44]  aura[4.66]  lieu[5.07]  à[4.15]  l[4.74]
+    ’[5.38] Ell is  Park  de[5.46]  Johannesburg[1.36]  la[5.54]  semaine[3.99]  proch[2.84]
+    aine[1.27] ,[1.39]  lorsque[5.48]  les[3.81]  Spring[1.14] boks[1.97] >>> affronter<<<[11.62]
+    ont[5.76]  l[3.59] ’[3.88] Austral ie[2.59] .[2.53] Un[2.94]  trem[3.23] ble[5.02] ment[4.74]
+     de[4.70]  terre[2.99]  mod[5.04] éré[3.35]  a[5.95]  sec[6.46] oué[5.12]  l[3.12] ’[4.33]
+    ou[3.27] est[1.61]  du[0.72]  Montana[0.91]  lundi[3.31]  à[4.39]  [1.87] 2[3.50] 2[1.39]
+     [3.80] h[3.03]  [3.36] 0[1.33] 8[1.24] .[3.20] L[3.94] ’[5.19] US[4.04] GS[2.60]  ([3.11]
+    United
+
+  #14  act=11.5863  tok='Ġsont'  lang=french  src=culturax
+      des[3.69]  Nations[3.17]  un[1.89] ies[1.47]  spécial[5.81] isés[1.88]  dans[5.66]  l[3.83]
+    '[4.74] a[4.52] ide[3.85]  human[1.30] itaire[1.61] .[1.97] 
+[0.63] 
+ Depuis[7.39]  [4.07]
+    2[1.96] 0 0 4[0.84] ,[2.48]  les[3.83]  relations[3.20]  habituellement[2.03]  cord[4.64]
+    iales[2.97]  entre[4.74]  l[4.15] '[5.53] Argent ine[1.26]  et[5.71]  l[3.74] '[4.26] Ur[2.83]
+    ugu ay[1.69]  se[7.96] >>> sont<<<[11.59]  progressivement[6.73]  dégrad[3.98] ées[2.21]
+     à[6.62]  cause[6.05]  de[2.15]  la[1.92]  construction[3.61]  en[5.04]  Uruguay[1.34]  de[3.67]
+     deux[1.99]  grandes[1.21]  us[4.22] ines[1.66]  de[2.08]  fabrication[5.82]  de[2.52]
+     cellulose[2.71] ,[2.60]  sur[6.32]  les[5.55]  r[4.15] ives[4.76]  du[2.63]  rio  Uruguay[0.58]
+     qui[3.02]  marque[4.97]  la[1.33]  front[4.07] ière[3.07]  entre[5.08]  les[4.15]  deux[3.41]
+     pays[1.06] .[1.02]  Ce[5.81]  content[4.80] ieux[5.61]
+
+  #15  act=11.5577  tok='Ġreste'  lang=french  src=culturax
+     u[7.33]  entre[8.85]  les[6.89]  années[7.68]  [4.17] 1[3.63] 9[2.81] 8[1.69] 0[3.53]  et[6.06]
+     [4.83] 2[2.92] 0[2.07] 0[1.74] 0[3.41] ,[6.65]  mar[5.26] quées[7.89]  par[6.50]  la[5.02]
+     fin[4.79]  des[4.03]  artisans[6.03]  sous[5.30] -[3.73] trait[4.87] ants[4.58]  et[8.08]
+     des[4.71]  grands[4.18]  groupes[5.86]  industri[3.02] els[5.27]  comme[6.83]  R[3.75]
+    oud[2.88] ière[4.43] .[4.62]  Il[5.40]  ne[9.06] >>> reste<<<[11.56]  que[7.91]  quelques[4.84]
+     entreprises[4.76]  qui[7.97]  ess[8.29] aient[9.90]  de[6.57]  tenir[7.66]  face[5.65]  à[6.65]
+     la[5.25]  concurrence[6.45]  nord[3.59] -[4.07] afric[2.69] aine[4.44]  et[6.44]  asi[2.54]
+    atique[3.83] ,[4.99]  notamment[7.35]  l[5.62] '[5.70] us[4.02] ine[4.70]  Sage[3.68]  de[6.02]
+     L[3.84] aro[1.56] que[3.86] -[4.31] d[4.38] '[4.45] Ol[2.85] mes[3.38] ,[4.90]  hérit[6.16]
+    ière[6.91]  de[5.27]  l[4.67]
+
+  #16  act=11.5570  tok='Ġdirig'  lang=french  src=flores  sid=448
+     ée[3.73] ,[2.73]  a[5.96]  été[6.35]  choisie[5.11]  comme[3.82]  fle[3.04] ur[4.59]
+     embl[5.57] ème[4.16]  de[5.38]  la[3.14]  nation[1.69] .[1.74] Chaque[3.31]  année[2.67]
+    ,[2.96]  vers[5.77]  le[5.66]  mois[4.36]  d[4.40] ’[6.17] oct[2.12] obre[1.04] ,[4.24]
+     près[8.44]  de[4.74]  [0.78] 1[3.45] ,[3.53] 5[2.36]  [5.42] million[3.83]  d[4.28] ’[5.64]
+    her[2.25] b iv[1.25] ores[2.54]  se[6.77] >>> dirig<<<[11.56] ent[6.66]  vers[2.57]  les[3.55]
+     plain[2.70] es[2.65]  du[2.78]  sud[1.24] ,[4.04]  en[4.58]  travers[5.83] ant[4.34]  la[2.80]
+     rivière[2.11]  Mara ,[2.28]  depuis[7.12]  les[3.20]  coll[3.15] ines[0.98]  du[1.59]
+     nord[1.67]  pour[4.68]  les[6.43]  pluies[0.65] .[1.64] Et[6.55]  puis[2.59]  retour[7.45]
+     au[2.58]  nord[1.65]  par[3.49]  l[4.04] '[3.81] ou[3.43] est[0.81] ,[1.89]  en[3.50]
+     travers[4.79] ant[2.06]  une[2.86]
+
+  #17  act=11.5294  tok='Ġactuellement'  lang=french  src=culturax
+     .[8.15]  Contra[2.95] irement[8.96]  à[7.26]  un[6.07]  grand[5.47]  nombre[7.75]  de[5.34]
+     réseaux[5.89]  qui[9.66]  sont[9.44]  assurés[8.25]  par[6.81]  des[5.14]  opérateurs[7.39]
+    ,[9.54]  c[8.52] '[7.02] est[9.70]  la[6.85]  communauté[4.38]  d[5.07] '[5.54] agg[4.04]
+    lom[4.25] ération[6.48]  de[7.05]  la[5.52]  ville[4.99]  qui[8.90]  a[9.36]  la[8.11]
+     propriété[7.84]  de[6.89]  la[5.32]  société[5.95] .[6.54]  Le[6.39]  réseau[6.54]
+     dessert[10.22] >>> actuellement<<<[11.53]  onze[5.31]  communes[5.98]  dont[9.40]  deux[5.66]
+     hors[5.35]  ag[4.14] gl[3.98] om[3.46] ération[4.98]  tro[3.59] y[3.74] enne[5.15] .[6.95]
+     Les[6.92]  autres[6.53]  villes[4.47] ,[7.74]  y[5.41]  compris[6.75]  Rom[1.99] illy[5.00]
+    -[5.15] sur[4.87] -[4.76] Seine[4.35] ,[4.49]  ne[7.82]  poss[8.68] èd[8.18] ent[10.68]
+     pas[8.89]  de[5.53]  réseau[6.06]  de[5.88]  transports[5.71]  en[4.52]  commun[3.85] .[5.91]
+    
+[4.12] 
+[2.62]
+
+  #18  act=11.5234  tok='ĠreprÃ©sente'  lang=french  src=culturax
+     ver[3.02] gne[4.59]  ([4.49] m[3.48] usi[2.25] ques[6.07]  traditionnelles[3.63] ,[4.98]
+     ch[3.61] ants[5.16]  mais[7.84]  aussi[8.06]  cont[3.55] es[5.14] ,[5.02]  légendes[4.71]
+    ,[6.24]  dans[4.28] es[4.45] ,[5.68]  langue[4.15] …)[4.54]  ;[6.35]  elle[8.48]  a[9.52]
+     constitu[7.90] é[9.65]  un[5.04]  fonds[5.83]  document[3.95] aire[6.95]  qui[10.10] ,[10.16]
+     en[6.46]  [5.88] 2[2.87] 0[1.00] 1[0.79] 6[4.07] ,[10.51] >>> représente<<<[11.52]  plus[9.97]
+     de[7.87]  [2.90]  d[4.22] ’[6.07] en[4.09] registre[3.61] ments[5.59]  sonores[2.98] ,[6.34]
+     plus[6.92]  de[5.28]  [2.72]  de[3.19]  films[6.07] ,[6.11]  .[2.69] 
+[2.23] 
+[1.23] Dan[1.62]
+    se[4.19]  
+[3.23] 
+ La[6.25]  bour[3.26] rée[3.58]  est[7.64]  la[6.14]  plus[6.58]  fame[6.42]
+    use[6.85]  des[5.16]  dans[3.66] es[5.02]  d[5.57] '[5.51] Au[4.14] ver[3.73] gne[5.44] .[5.96]
+
+  #19  act=11.5198  tok='ĠcaractÃ©r'  lang=french  src=flores  sid=922
+      situation[2.73] ,[4.47]  mais[4.61]  à[5.21]  part[4.55]  cela[4.07] ,[2.46]  c[5.98] '[5.73]
+    est[4.87]  un[1.33]  cas[3.58]  unique[2.85]  ([0.87] aux[3.34]  Pays[3.41] -[4.99] Bas[1.31]
+    ,[4.80]  par[5.47]  exemple[3.31] ,[2.67]  le[4.05]  chiffre[3.77]  est[4.20]  de[6.53]
+     un[2.26]  à[3.75]  quarante[1.01] ). La[2.17]  plupart[5.60]  des[3.12]  cro[4.01] isi[2.46]
+    ères[3.65]  sur[6.95]  la[5.85]  Baltique[2.26]  se[4.63] >>> caractér<<<[11.52] isent[6.48]
+     par[4.29]  un[2.41]  séjour[2.89]  prolong[4.75] é[2.00]  à[5.38]  Saint[4.05] -[3.61] P[3.00]
+    é[3.05] ters bourg[0.68] ,[1.70]  en[4.08]  Russie[1.70] .[1.31] Cela[5.70]  signifie[3.33]
+     que[2.87]  vous[3.88]  pouvez[1.88]  visiter[4.04]  la[2.53]  ville[0.90]  historique[2.15]
+     pendant[3.27]  quelques[1.96]  jour[5.27] nées[4.58]  enti[4.61] ères  tout[6.07]  en[3.24]
+     reven[7.56] ant[4.37]  dormir[3.71]  sur[2.36]  le[4.14]  bate[1.89]
+
+  #20  act=11.4950  tok='ĠcaractÃ©r'  lang=french  src=culturax
+     ve ar[1.00]  contre[4.48]  Y rig[1.80] oyen .[3.68]  Les[3.62]  années[2.95]  de[0.85]
+     pouvoir[0.68]  de[3.17]  l[3.95] '[3.95] Union[1.38]  civ ique[0.64]  radicale[0.87]
+     représentent[0.95]  un[2.94]  héritage[3.16]  sujet[4.81]  à[4.04]  controvers[5.09] es[6.26]
+     ;[3.66]  si[6.23]  elles[4.61]  constituent[8.90]  une[3.90]  période[4.24]  de[3.36]
+     progrès[1.72]  démocr[0.74] atiques[2.17]  et[7.70]  sociaux[2.61] ,[7.32]  elles[4.60]
+     se[8.39] >>> caractér<<<[11.49] isent[10.61]  aussi[8.88]  par[6.99]  les[5.35]  mén[4.67]
+    agements[3.08]  à[5.93]  l[5.53] '[5.32] ég[4.31] ard[3.13]  de[3.44]  l[3.42] '[4.02]
+    olig[1.95] archie[2.21]  et[4.09]  par[5.76]  la[4.39]  condu[4.10] ite[2.64]  très[5.40]
+     brutale[3.02]  de[3.33]  l[3.18] '[4.29] arm[1.72] ée  lors[3.87]  de[4.59]  la[1.68]
+     semaine[2.10]  trag[1.43] ique ,[1.01]  au[3.98]  cours[8.54]  de[7.76]  laquelle[2.62]
+     des[6.37]
+
+  #21  act=11.4940  tok='Ġdont'  lang=french  src=flores  sid=710
+      les[6.04]  plus[2.95]  ra[5.25] ides[1.03] ,[2.80]  surtout[5.43]  en[3.86]  cas[6.53]
+     d[3.90] '[4.50] hum[2.84] idité[4.00] ,[4.01]  car[4.23]  cela[4.05]  peut[4.34]  très[8.02]
+     vite[5.96]  mal[7.50]  tourner[2.41] .[0.86] Pr[1.59] ès[5.30]  du[5.04]  som[2.48] met[2.61]
+    ,[5.66]  il[5.49]  faut[7.40]  travers[7.38] er[5.92]  une[4.76]  petite[4.05]  gro[1.93]
+    tte[2.42]  plutôt[7.53]  ex[5.80] igu[6.58] ë[5.81]  et[8.18] >>> dont<<<[11.49]  le[6.31]
+     plafond[5.59]  est[8.09]  assez[5.70]  bas[3.41] .[3.99] La[5.71]  meilleure[6.14]  façon[9.41]
+     de[7.47]  voir[6.86]  les[4.49]  sites[4.05]  et[7.50]  la[4.81]  fa[2.58] une[3.00]  des[4.98]
+     Gal[1.86] áp agos  est[3.87]  de[2.24]  prendre[5.61]  le[4.13]  bate[1.07] au[2.17] ,[1.45]
+     comme[5.58]  l[5.54] ’[6.53] a[7.69]  fait[6.21]  Charles[2.92]  Darwin  en[4.61]  [3.94]
+    1[1.03] 8[0.89] 3
+
+  #22  act=11.4231  tok='Ġtrouve'  lang=french  src=culturax
+      rust[3.01] ique[3.02] .  Le[3.60]  Nord[1.32]  du[2.42]  département[5.39]  est[7.06]
+     une[6.26]  zone[4.46]  d[5.40] '[5.40] é[5.57] levage[3.66] ,[6.31]  on[8.03]  y[8.55]
+     trouve[9.15]  des[4.62]  produits[7.02]  à[6.15]  base[5.54]  de[4.65]  lait[4.69]  de[5.35]
+     v[4.99] ache[3.92]  comme[7.96]  le[6.20]  mar[3.05] o[1.79] illes[5.42]  ou[8.40]  la[5.33]
+     conf[2.76] iture[4.75]  de[4.72]  lait[3.52] .[5.83]  On[8.32] >>> trouve<<<[11.42]
+     également[10.30]  des[4.69]  spécialités[7.45]  ty[5.19] pi[2.65] quement[5.64]  pic[2.25]
+    ard[3.67] es[5.28] ,[8.49]  comme[8.90]  la[5.11]  fic[2.11] elle[2.74]  pic[2.56] arde[3.73]
+    ,[5.84]  sorte[6.90]  de[3.99]  cr[2.69] ê[3.11] pe[5.78]  ro[3.71] ul[5.16] ée[6.24]
+     addition[7.02] née[6.63]  de[5.32]  from[2.64] age[3.87]  fon[4.62] du[3.58] ,[5.17]  bé[2.81]
+    ch[2.52] amel[3.39] ,[5.01]  jamb[1.50] on[3.13]  et[6.29]
+
+  #23  act=11.3765  tok='Ġvu'  lang=french  src=culturax
+     nier[2.99]  note[7.51]  qu[8.25] '[6.21] en[4.91]  Au[4.06] ver[3.41] gne[4.83] ,[8.26]
+     le[4.66]  «[4.50]  notable[3.89]  »[5.03]  a[5.57]  longtemps[8.72]  tenu[7.38]  une[5.74]
+     place[5.93]  ess[7.52] entielle[6.74]  dans[5.45]  la[4.84]  vie[6.66]  politique[5.04] .[4.98]
+     Propri[4.71] é[4.41] taires[4.61]  ter[2.51] ri[2.35] ens[4.90] ,[6.26]  industri[2.58]
+    els[5.03]  ou[6.91]  alors[6.93]  médecins[4.89] ,[6.93]  on[7.05]  a[7.34] >>> vu<<<[11.38]
+     de[6.41]  vérit[5.98] ables[4.45]  lign[2.32] ées[5.16]  dyn[3.02] ast[3.89] iques[6.20]
+     se[7.66]  constituer[7.32] ,[7.36]  comme[7.86]  celles[8.16]  des[4.66]  D[3.01] orm[2.16]
+    oy[5.10] .[4.19] 
+[3.99] 
+[3.09] Parmi[4.98]  les[4.73]  hommes[5.63]  politiques[5.19]
+     au[5.06] ver[3.17] gn[3.93] ats[4.54]  célèbre[8.01]  on[7.58]  reti[9.32] endra[10.52]
+     Ét[4.06] ienne[3.56]  Clément[3.67] el[4.51] ,[5.35]  un[5.40]  des[6.06]  p[5.64]
+
+  #24  act=11.3634  tok='Ġretrouve'  lang=french  src=culturax
+     lemagne[0.67]  hit[1.71] lé[0.77] ri[2.99] enne[1.68]  entre[6.08]  [4.45] 1[0.85] 9 3 8
+     et[4.76]  [2.07] 1[1.19] 9[0.68] 4 5 .  À[4.84]  la[5.20]  fin[4.55]  de[4.42]  la[2.52]
+     Sec[3.13] onde[3.57]  Guerre[2.61]  mondiale[0.99] ,[1.71]  elle[3.48]  est[6.40]  occup[2.84]
+    ée[3.81]  par[4.70]  les[4.19]  arm[1.98] ées[1.72]  alli[1.59] ées[0.60]  et[2.28]  ne[3.56]
+    >>> retrouve<<<[11.36]  sa[5.07]  pleine[4.55]  souver[4.85] ain[2.10] et[3.71] é[3.40]
+     qu[4.81] '[5.77] en[3.54]  [1.52] 1[1.16] 9[0.78] 5[0.61] 5 .  La[3.12]  guerre[3.03]
+     fro[1.61] ide[2.19]  en[4.62]  fait[6.06]  à[6.31]  nouveau[6.40]  une[3.07]  «[4.75]
+     marche[2.42]  »[2.52]  de[2.81]  l[2.44] '[4.18] Europe[1.96] ,[3.11]  cette[7.81]  fois[9.79]
+     face[6.43]  au[3.58]  bloc[4.81]  s[3.59] ovi[1.94] étique[2.64]
+
+  #25  act=11.3618  tok='ĠdÃ©sormais'  lang=french  src=culturax
+     ueil[5.18]  et[8.14]  d[4.85] '[3.97] hé[4.51] bergement[3.59]  avec[5.31]  près[9.42]  d[6.65]
+    '[5.58] un[4.13]  mill[5.54] ier[5.57]  de[4.57]  salariés[5.93] ,[6.83]  en[4.51]  hausse[7.89]
+     de[8.24]  [1.92]  environ[4.63]  depuis[4.20]  [4.17] 2[1.20] 0[0.83] 0 1  tandis[3.54]
+     que[7.18]  le[4.97]  secteur[3.97]  de[6.18]  l[4.43] '[4.97] a[3.96] ide[5.50]  à[6.61]
+     domicile[3.86]  emplo[6.15] ie[8.81] >>> désormais<<<[11.36]  [2.58]  au[4.44]  lieu[8.35]
+     de[8.32]  [1.76] 4[2.11] 5[1.30] 7[1.83]  cinq[4.14]  ans[5.99]  plus[7.43]  tôt[1.87] .[4.10]
+    
+[4.08] 
+[1.59] L[4.10] '[4.10] empl[4.31] oi[5.24]  associatif[4.25] ,[8.09]  avec[7.74]
+     près[7.35]  de[5.28]  mille[4.28]  postes[6.06]  de[5.92]  travail[4.62] ,[5.06]  est[7.18]
+     aussi[8.97]  très[7.65]  présent[8.61]  sur[7.48]  le[5.88]  département[6.08] .[6.76] 
+[4.37]
+    
+[2.35] Culture[4.71]
+
+  #26  act=11.3486  tok='Ġaffirm'  lang=french  src=flores  sid=622
+      les[4.87]  seuls[5.59]  insect[1.34] es[2.60]  qui[4.76]  ne[2.95]  peuvent[7.18]  pas[3.02]
+     repl[5.40] ier[5.07]  leurs[1.97]  ailes[2.16]  sont[6.66]  les[4.69]  mou[5.62] ches[2.84]
+     dragons[2.83]  et[3.70]  les[3.33]  é[5.56] ph[4.28] ém[2.37] ères[2.94] .[0.69] Il[3.61]
+     y[6.06]  a[3.19]  quelques[1.75]  milliers[4.19]  d[2.34] ’[6.67] ann[4.88] ées[2.35] ,[3.62]
+     un[3.99]  homme[3.47]  appelé[4.39]  Arist[1.18] arque[2.06]  a[5.54] >>> affirm<<<[11.35]
+    é[4.94]  que[4.33]  le[2.74]  système[2.42]  sol[1.11] aire[1.70]  se[6.68]  dé[6.88] pla[4.72]
+    çait[2.84]  autour[1.88]  du[0.58]  Soleil[0.88] .[1.23] Cert[2.66] ains[3.41]  pens[9.58]
+    aient[4.50]  qu[4.67] ’[7.57] il[3.89]  avait[4.76]  raison[2.83] ,[1.72]  mais[1.02]
+     beaucoup[4.74]  croy[8.24] aient[5.29]  le[5.39]  contraire  [2.91] :[0.97]  que[3.04]
+     le[2.79]  système[1.08]  sol[0.64] aire[1.94]  se[4.29]  dé[3.99] pla[1.38]
+
+  #27  act=11.3346  tok='agne'  lang=french  src=culturax
+     .[6.57] 
+[5.29] 
+[2.37] La[4.57]  Saint[4.71] -[4.56] Pierre[5.01] ,[7.19]  la[5.54]
+     fête[6.00]  des[4.27]  pêche[3.80] urs[5.57] ,[6.59]  est[8.77]  très[8.22]  viv[6.76]
+    ace[8.39]  à[7.33]  Le[3.56] uc[1.88] ate[4.88]  et[7.76]  à[6.62]  Gru[1.78] issan[4.84]
+    .[6.02]  Dans[8.34]  cette[6.60]  dernière[7.94]  commune[7.14] ,[9.79]  la[5.74]  Saint[5.19]
+    -[3.92] Pierre[5.16]  s[8.32] '[7.21] accom[8.60] p[8.61] >>>agne<<<[11.33]  d[7.16] '[5.70]
+    un[5.07]  pèlerin[2.71] age[5.85]  à[6.45]  Notre[4.42] -[4.73] D[4.28] ame[4.22]  des[4.35]
+     A[3.59] uz[2.88] ils[4.92] .[6.76] 
+[4.94] 
+[3.78] Aut[4.51] re[6.58]  pèlerin[3.06] age[6.33]
+    ,[7.33]  celui[8.80]  de[5.50]  Notre[3.69] -[3.37] D[2.55] ame[3.05]  de[3.14]  Mar[1.93]
+    ce[2.92] ille[2.76] ,[5.99]  en[4.27]  l[3.95] '[5.08] h[4.80] onneur[5.70]  de[5.17]  la[4.22]
+
+  #28  act=11.3014  tok='end'  lang=french  src=culturax
+      partie[6.56]  du[3.29]  pays[0.70] ,[3.13]  à[6.61]  l[5.72] '[4.99] en[4.88] rich[4.42]
+    issement[5.05]  d[5.08] '[5.29] une[5.31]  part[5.50]  importante[5.04]  de[5.95]  la[4.92]
+     population[3.63] ,[6.20]  mais[9.15]  aussi[7.89]  à[6.70]  l[4.91] '[4.81] appar[4.71]
+    ition[7.41]  de[3.55]  groupes[4.78]  contest[5.60] ata[1.92] ires[4.63] ,[6.59]  les[5.46]  pi
+    qu eter[1.10] os[2.04] ,[5.24]  qui[6.91]  devi[9.71] >>>end<<<[11.30] ront[8.09]  célè[6.62]
+    bres[7.49]  après[6.64]  la[2.05]  crise[3.81]  économique[1.47]  de[3.41]  la[3.77]  fin[4.75]
+     des[4.50]  années[3.71]  [1.83] 1[1.87] 9[1.14] 9[0.64] 0[2.48] .[1.95]  En[4.97]  effet[7.27]
+    ,[6.18]  de[6.16]  [4.86] 1[2.31] 9[1.07] 9[0.98] 0[2.11]  à[6.22]  [4.34] 1[1.33] 9[0.98] 9
+
+  #29  act=11.3006  tok='ĠcaractÃ©r'  lang=french  src=culturax
+     ve ar  contre  Y rig oyen .  Les[2.64]  années[5.18]  de[2.33]  pouvoir[1.07]  de[3.09]
+     l[3.48] '[4.07] Union  civ[1.65] ique[2.39]  radicale[2.16]  représentent  un[4.82]
+     héritage[2.79]  sujet[4.62]  à[4.63]  controvers[4.33] es[5.46]  ;[5.53]  si[7.90]  elles[5.82]
+     constituent[10.29]  une[4.28]  période[4.41]  de[3.63]  progrès[2.50]  démocr[0.75]
+    atiques[2.89]  et[8.05]  sociaux[3.68] ,[9.30]  elles[6.17]  se[8.39] >>> caractér<<<[11.30]
+    isent[10.79]  aussi[9.54]  par[6.96]  les[6.05]  mén[4.71] agements[3.89]  à[6.27]  l[5.67]
+    '[5.26] ég[4.05] ard[3.44]  de[3.91]  l[3.49] '[3.48] olig[1.95] archie[2.34]  et[4.73]
+     par[5.56]  la[4.74]  condu[4.35] ite[2.92]  très[5.42]  brutale[2.96]  de[3.36]  l[3.29]
+    '[3.80] arm[2.34] ée[1.53] .[1.46] 
+[1.49] 
+ De[3.57]  nombreux[6.60]  év[5.04] èn[6.06]
+    ements[4.72]  tr[5.67] agi[1.77] ques[4.89]  surv[8.32]
+
+  #30  act=11.2887  tok='Ġconten'  lang=french  src=flores  sid=803
+      sur[6.34]  le[4.40]  foie[2.22] ,[6.77]  mais[8.15]  aussi[9.71]  la[5.07]  c[4.40] éc[3.42]
+    ité[3.96]  et[7.26]  la[4.42]  mort[4.23] .[4.35]  Le[4.82]  danger[6.57]  potentiel[6.33]
+     est[7.74]  accru[6.89]  en[5.73]  cas[8.19]  de[3.29]  consommation[6.38]  d[3.78] ’[6.45]
+    al[4.68] cool[3.51]  fabri[4.04] qué[4.77]  ill[5.57] égal[2.69] ement[3.30] .[3.40] Les[4.05]
+     spirit[2.15] ueux[2.89]  ill[5.81] ic[3.98] ites[5.26]  peuvent[7.80] >>> conten<<<[11.29]
+    ir[8.48]  diverses[5.88]  imp[4.64] uret[2.13] és[3.73]  dangere[5.93] uses[4.02] ,[6.59]
+     y[6.50]  compris[7.98]  du[4.46]  méth[6.32] anol[2.20] ,[5.48]  qui[6.16]  peut[5.91]
+     caus[9.69] er[6.88]  la[4.85]  c[2.33] éc[2.46] ité[2.62]  ou[7.73]  la[4.73]  mort[3.04]
+    ,[3.48]  même[5.75]  à[5.99]  petites[6.94]  doses[2.30] .[2.99] Les[2.81]  lun[3.37]
+    ettes[2.43]  de[3.12]  vue[1.56]  peuvent[5.05]  coû[6.83] ter[4.72]  moins[7.77]
+
+══════════════════════════════════════════════════════════════════════════════════════════

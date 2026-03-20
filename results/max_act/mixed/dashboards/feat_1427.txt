@@ -1,0 +1,177 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 1427
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=8.1061%  mean=0.4804  max=167.9726  tokens_seen=3,787,008
+  per-lang firing: bengali=6.9304%, english=8.6151%, french=8.2254%, german=5.6243%, hindi=10.1459%, japanese=6.4681%, simplified_chinese=9.5628%, spanish=9.1913%, standard_arabic=7.7612%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=167.9726  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[167.97] , 9 3 , 4 0 7  कर ो ड ़[0.54]  र ु प ए  क ा  प[0.21] ् र ा[0.22] व[0.71]
+    ध[0.77] ा[0.41] न[0.22]  क ि य ा  ग य ा  थ ा ,  जब क ि   2
+
+  #2  act=166.4411  tok='1'  lang=english  src=culturax
+      is   >>>1<<<[166.44] 0 %  and  there  is  an  additional  restaurant  tax  of   1 %,  which
+     means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1 1 %  tax  on  a  meal . 
+ 
+
+    In   2 0
+
+  #3  act=164.3582  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[164.36] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4  film  U ly ss
+    es  by  Pier o  L[0.25] ul li 
+  The   1 9 5 6  film  Helen  of  Troy  by
+
+  #4  act=164.3582  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[164.36] 8 6 2  Hom este ad  Act  made  millions  of  acres  of  Western
+     government - held  land  available  for  purchase  at  low  cost .  The   1 8 6 2  Morr ill
+     Land - Grant  Colleges  Act  provided  government  grants
+
+  #5  act=159.4137  tok='2'  lang=french  src=culturax
+      le   >>>2<<<[159.41] 0  septembre   1 8 7 0 ,  av ocat ,  économ iste  et  journaliste
+     français .  Il  est  un  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de
+     l[0.50] '[0.20] Al[0.59] gérie . 
+  Philippe
+
+  #6  act=159.4108  tok='2'  lang=english  src=culturax
+      In   >>>2<<<[159.41] 7 2  words ,  and  three  minutes ,  Lincoln  asserted  that  the  nation
+     was  born  not  in   1 7 8 9 ,  but  in   1 7 7 6 ,  " con ceived  in  Liberty[0.20] ,  and
+     dedicated[0.19]  to
+
+  #7  act=159.3154  tok='1'  lang=french  src=culturax
+      années   >>>1<<<[159.32] 9 8 0 .  Aujourd ’ h ui ,  des  compagnies  pét ro li ères  comme  Un
+    ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à  Kab oul  pour  rem porter  des
+     appels  d ’ off
+
+  #8  act=159.2382  tok='1'  lang=standard_arabic  src=culturax
+      حوالي   >>>1<<<[159.24] 5 0 0  إلى   1 8 0 0 .  وقد  أدى  ذلك  إلى  العديد  من  التر جمات  الخ
+    اط ئة .  على  سبيل  المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح يين
+
+  #9  act=156.6552  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير  [0.58] >>>2<<<[156.66] 0 0 4  عندما  لم  تتم كن  الم بر مجة  ك اسي  في نت ون  من  إيجاد
+     مكان  للإ قامة  في  أ يس ل ندا  بعد  إيجاد[0.33]  رح[0.25] لة[0.55]  ط يران[0.38]  ر خي صة  إلى
+     هناك . أ ر سل
+
+  #10  act=155.9876  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[155.99] 5  Southern  slave  states ,  and  he  won  only  two  of   9 9 6
+     counties  in  all  the  Southern  states ,  an  omen  of  the  impending  Civil  War .  Lincoln
+     received   1 , 8 6 6 , 4
+
+  #11  act=155.8189  tok='1'  lang=english  src=culturax
+      late   >>>1<<<[155.82] 9 9 0 s  and  early   2 0 0 0 s ,  the  ceremony  returned  to  the
+     Shr ine  Auditorium . 
+ 
+ In   2 0 0 2[0.24] ,[0.32]  Hollywood 's  Dol by  Theatre  (
+    previously  known  as
+
+  #12  act=155.5399  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2   >>>人<<<[155.54] 则 需要 额 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有[0.38] 必要 。 南 极 洲 环 绕[0.75] 着[0.18] 南
+    极 ， 是 地球 上 最 冷[0.87] 的地方 。 旅行 费用 高 昂 ， 对 身体[0.42]
+
+  #13  act=155.2767  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年   >>>9<<<[155.28]  月   1 7  日 ， 波兰[0.21] 的 防 线[0.38] 已经 被 攻[0.50] 破 ， 剩[0.22] 下的[0.36] 唯一 希望
+    就是 沿着 罗马 尼亚[0.21] 桥头[0.41] 堡 撤[0.26] 退 和 改 编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #14  act=154.7451  tok='1'  lang=french  src=flores  sid=816
+      et   >>>1<<<[154.75] 3 0   0 0 0  y ens ,  les  billets  ty pi ques  coû tant  environ   7   0
+    0 0  y ens . En  rep ass[0.30] ant[0.32]  les  vêtements[0.27]  hum ides[0.81] ,   on  peut
+     les[0.17]  faire[0.67]
+
+  #15  act=154.3135  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[154.31] . 5 0  م ترا ً . المس افة[0.18]  الرأس ية[0.51]  الخ الية  تحت[0.21]  الج
+    سر   ١ ٥  م ترا ً .  اك تمل  البناء  في  أغسطس   ٢ ٠ ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #16  act=153.0113  tok='8'  lang=german  src=flores  sid=548
+      als  über   >>>8<<<[153.01] 0 0 . 0 0 0  Sold aten  der  R oten  Ar mee  der  Sow jet union
+     in  die  weiß r[0.16] uss ischen  und  ukrain ischen  Front en  eind[0.39] r angen  und[0.29]
+     diese  sch ufen ,  nachdem  sie[1.01]  in[0.43]  Ver
+
+  #17  act=152.4305  tok='1'  lang=english  src=flores  sid=9
+     At   >>>1<<<[152.43] 1 : 2 0 ,  the  police  asked  the  protesters  to[0.42]  move[0.69]
+     back[0.99]  on  to[0.17]  the  pavement ,  stating  that[0.17]  they[0.20]  needed[0.56]
+     to[0.58]  balance[0.30]  the  right  to  protest  with  the  traffic  building  up . Around   1
+    1 : 2
+
+  #18  act=151.3814  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[151.38] দ ্ য া ল য ় ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্ ব[0.35] া স[0.36]
+    ্[0.22] থ[0.29] ্ য[0.50]  খ া ত  
+ 
+ দ া র
+
+  #19  act=151.0705  tok='1'  lang=spanish  src=culturax
+     ;  [0.56] >>>1<<<[151.07] 5  de  octubre  de   1 8 2 9 - An nap[0.27] olis ,  Maryland ;   2 2
+     de  noviembre  de   1 9 0 7 )  fue  un  astr ón omo  estadounidense .  Desc ub ridor  en  
+
+  #20  act=150.7887  tok='1'  lang=english  src=culturax
+      to   >>>1<<<[150.79] 9 2 0 . 
+ 
+ At  the  same  time ,  many  rural  people  migrated  to  the
+     city  of  Birmingham  to  work  in  new  industrial  jobs .  Birmingham  experienced  such
+     rapid  growth  it  was  called  the  " Magic  City ".
+
+  #21  act=150.7371  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與 >>>他<<<[150.74] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「 蘭 醫 學 」( 荷 蘭 )， 來 作 區 分 。 清 朝 時 也 使用 這個
+    名 詞 來 稱
+
+  #22  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 1 ),  D 
+  Jonathan  Fr anzen  (*   1 9 5 9 ),  US 
+  Carlo  Maria
+     Franz ero  ( 1 8 9 2 – 1 9 8 6 ),  IT 
+  Karl  Emil  Franz os  (
+
+  #23  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 3 ) 
+ Phil ip  Kap le[0.54] au  ( 1 9 1 2 – 2 0 0 4 ) 
+ V á cl[0.69]
+    av[0.47]  Kap[0.24] lick ý[0.27]  ( 1 8 9 5 – 1 9 8 2 )
+
+  #24  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 5 ) 
+  Eugen  Roth  ( 1 8 9 5 – 1 9 7 6 ) 
+  Joseph  Roth  ( 1 8 9 4
+    – 1 9 3 9 ) 
+  J ür gen  Roth  ( Pub liz
+
+  #25  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 8 ),  FR 
+  Peter  Brück ner  ( 1 9 2 2 – 1 9 8 2 ),  D 
+  Ken  Bru
+    en  (*   1 9 5 1 ),  I RL 
+  Cas par  Br ül ow
+
+  #26  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 5 7 ),  GB 
+  O ya  Bay dar  (*   1 9 4 0 ),  TR 
+  Kon rad  Bayer  ( 1
+    9 3 2 – 1 9 6 4 ),  AT 
+  Os val do  Bayer  (
+
+  #27  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 7  /  *   1 9 6 7 ) 
+  Georg  Tr akl  ( 1 8 8 7 – 1 9 1 4 ) 
+  Edmond
+     Tr anin  ( 1 8 9 5 – 2 0 .  J
+
+  #28  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 7 2 ),  CH  /  D 
+ Kurt  Sch wit ters  ( 1 8 8 7 – 1 9 4 8 ),  D 
+ Le
+    on ardo  S cias cia  ( 1 9 2 1 – 1 9 8
+
+  #29  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 4 2 ) 
+ And ré  Kub icz[0.34] ek  (*   1 9 6 9 ) 
+ W erner  K uchar  (
+    1 9 7 1 – 2 0 1 3 ) 
+ Cl aus  Kü chen meister  (
+
+  #30  act=150.6779  tok='1'  lang=german  src=culturax
+      (*   >>>1<<<[150.68] 9 6 1 ),  deutscher  Autor 
+ Mir jam  Press ler  ( 1 9 4 0 – 2 0 1 9 ),
+     deutsche  Schrift steller in  und  Übers et zer in 
+ John  Preston  ( 1 9 4 5 –
+
+══════════════════════════════════════════════════════════════════════════════════════════

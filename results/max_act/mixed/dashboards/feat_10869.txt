@@ -1,0 +1,254 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 10869
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=8.5629%  mean=0.0919  max=10.2594  tokens_seen=3,787,008
+  per-lang firing: bengali=4.9468%, english=9.5260%, french=7.7005%, german=11.6184%, hindi=9.4266%, japanese=11.5835%, simplified_chinese=8.9378%, spanish=8.5087%, standard_arabic=7.4694%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=10.2594  tok='âĢĺ'  lang=simplified_chinese  src=flores  sid=72
+     清洁[2.54] 空气[1.84] 法[2.11] 》 送 交 一个 多 党 委员会 审查 ， 然后 再 进行 二 读 。 “[9.31] 莱[3.52] 顿[2.16]  ( Lay
+    ton )[2.55]  在[1.44] 与[0.65] 首相 会[0.95] 面[1.11] 期间[1.11] 要求[1.20] 修改[0.71] 保守[0.62] 党的 环境 法案
+    ，[1.23] 他[1.69] 要求[0.76] >>>‘<<<[10.26] 彻底[4.04] 重[3.64] 写[5.78] ’[1.98] 保守[0.34] 党的 环境 法案
+    。”[0.92] 自 从 联邦 政府 介入 接 管 塔 斯 马 尼亚 州 德 文 波 特 的 默 西 医院 的资金 后 ， 州 政府 和 一些 联邦 议 员 批评
+
+  #2  act=10.1490  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=56
+     得 · 科 斯特 洛 ， 对 澳大利亚 的 核 电 工业 表示 支持 。 科 斯特 洛 先生 说 ， 当 核 能 发 电 在 经济 上有 可 行性 的时候 ， 澳大利亚 应当 推进 核 电
+    的使用 。 >>>“<<<[10.15] 如果[4.52] 可以[1.50] 用于[1.47] 商业[0.65] 目的[0.87] ，[2.13] 我们就[1.97] 应该[1.63]
+    推广[1.34] 这种[1.43] 方式[2.01] 。[3.88] 也就是说[0.93] ，[1.16] 原则上 不存在 反对[0.57] 核[0.53] 能[0.51] 的理由[0.95]
+    。” 科 斯特 洛 先生 说道 。 安 � � 通讯 社 表示 ：“[7.41] 警方[2.11] 对[1.72] 多[0.41] 起 高层[0.56] 遇[0.38]
+
+  #3  act=9.8706  tok='Ġ"'  lang=english  src=culturax
+      cited  sources 
+ 
+ Primary  sources 
+ 
+ Secondary[0.40]  sources 
+ 
+ T[0.41] ertiary  sources
+    
+ 
+ Further  reading  
+ 
+   
+    Crit icism  of  philosophical  anarch ism . 
+ 
+    A  defence
+     of[0.59]  philosophical  anarch ism ,  stating  that >>> "<<<[9.87] both[2.84]  kinds[1.59]
+     of[1.22]  '[7.67] an[6.05] arch[3.64] ism[4.02] '[1.72]  [[0.73] i . e .  philosophical  and
+     political  anarch ism ][2.50]  are[1.43]  philosophical[0.45]  and[0.85]  political  claims ."
+     ( p .   1 3 7 ) 
+    Anarch istic  popular  fiction  novel
+
+  #4  act=9.7325  tok='Ġ"'  lang=english  src=culturax
+     agg art  is  a  railroad  vice - president . 
+ The  Fish wife  is  one  of  the  str ikers ,
+     who  earns  her  living  by  providing  the  fish  for  Hamm ond 's  grocery  market ;  she  is
+     described  as[0.32]  having >>> "<<<[9.73] dark[4.30] ,[3.37]  dis[1.35] he[1.20] ve[1.37]
+    led[3.12]  hair[3.35]  and[4.31]  large[1.62]  eyes[2.54] ",  and  is  a  writer .  G alt  says
+     she  "[9.37] would[5.13] n[3.05] 't[4.14]  be[2.93]  published[1.71]  outside[1.06] .[5.72]
+     She[2.48]  believes[1.10]  that[0.74]  when[1.09]  one[0.51]
+
+  #5  act=9.5998  tok='Ġ"'  lang=english  src=culturax
+      formed  the  inspiration  for  a  series  of  modern  schools  around  the  world .  Christian
+     anarch ist  Leo  Tol st oy ,  who  published  the  essay  Education[0.98]  and[0.62]
+     Culture[0.32] ,  also  established  a  similar  school  with  its  founding  principle  being
+     that >>> "<<<[9.60] for[3.68]  education[1.38]  to[1.51]  be[1.14]  effective[1.23]  it[3.04]
+     had[1.95]  to[2.41]  be[1.20]  free[0.73] ."  In  a  similar  token ,  A .  S .  Ne ill
+     founded  what  became  the  Summer hill  School  in   1 9 2 1[0.45] ,  also  declaring  being
+     free
+
+  #6  act=9.5548  tok='ĠÂ«'  lang=french  src=flores  sid=317
+     '[1.67] a uteur[0.90] ,  mais[0.58]  n ' a  pas  été  incul pé[0.37] . Un  ancien  étudi ant  a
+     affirm é  qu ’ il >>> «<<<[9.55]  [5.43] util[5.42] isait[4.83]  de[1.49]  l[1.41] ’[1.15]
+    arg[1.36] ot[1.75]  en[2.89]  classe[1.24] ,[4.40]  enseign[0.85] ait[1.02]  les[0.50]
+     techniques[0.71]  de  dr ague  dans[0.54]  des[0.42]  écrits[0.76] ,[1.90]  et[4.07]  se[1.16]
+     comport[0.83] ait[2.16]  comme[1.20]  l[0.49] ’ ami  des[0.95]  étudiants[0.57]  [1.03] ». Au
+     cours  des  trois  dernières  déc
+
+  #7  act=9.5117  tok='ĠÂ«'  lang=french  src=culturax
+     1 9 ),  artiste  contempor ain  né  à  Fo ix . 
+  Marie  La for êt  ( 1 9 3 9 - 2[0.35] 0 1 9
+    ),  chante use  et  act rice  qui  se  définit  elle - m ême  comme[0.46] >>> «<<<[9.51]
+     ari[3.49] ége[2.02] oise[5.06]  ».  Petite - f ille  de  Louis  Dou men ach ,  dirige ant  d '
+    une  entreprise  d ' eff il och age  de  textile  à  L avel anet . 
+  Cla udi us  de  Cap  Blanc
+
+  #8  act=9.4977  tok='ĠÂ«'  lang=french  src=culturax
+     0 0 1  doivent  être  analys ées  en  tenant  compte  des  changements  que  le  répertoire  de
+     l ' action  collective  a  connus  ces  dernières  années  en  Argent ine .  Comme  l ' a  expl
+    iqué  Javier  Ay u ero ,[0.36] >>> «<<<[9.50]  loin[2.64]  d[1.06] '[0.86] être[1.13]  l[0.44] '
+    expl osion  d ' une[0.37]  citoy[0.92] ennet[1.01] é[1.16]  para[0.42] issant  jusqu ' al
+    ors[0.84]  repl i[0.37] ée[0.65]  sur  elle - m ême  et[0.57]  incapable  d[0.31] ' expr imer
+     son  mé[0.47] content[0.36] ement[0.80] ,[0.75]  le[0.69]
+
+  #9  act=9.4896  tok='ï¼ļãĢĮ'  lang=simplified_chinese  src=culturax
+     的一部分 ， 亞 當 · 斯 密 常 被 認為 是 提出 一個 產品[0.46] 的 交換 價值 是由 其 勞 動 所 決定 的人 ， 不 過 ， 斯 密 其實 在 這 方面 有所 保留 ，
+    比如 他 說 >>>：「<<<[9.49] 所有[2.34] 東[0.74] 西[1.39] 的[1.34] 真正[0.95] 價值[0.64] ，[0.52] 取[0.50] 決[0.78]
+    於 取得 這樣 東[0.52] 西[0.42] 的 難[0.41] 度[0.49] 。」[0.35] 斯 密 認為 除了 工 資 以外的 因素 也 影響 了 產品 的 價格 。 � � 管
+    如此 ， 許多 古典
+
+  #10  act=9.4529  tok='Ġ"'  lang=english  src=culturax
+      compassion  are  components  of  all  forms  of  Buddhism[0.74] ,  and  are  focused  on  all
+     beings  equally :  love  is  the  wish  that  all  beings  be  happy ,  and  compassion  is
+     the[0.53]  wish  that  all  beings[0.43]  be  free  from  suffering . >>> "<<<[9.45] Many[3.67]
+     illnesses[2.02]  can[2.23]  be[1.98]  cured[1.84]  by[2.15]  the[1.34]  one[0.78]
+     medicine[1.23]  of[0.77]  love[0.86]  and[1.04]  compassion[1.24] .[4.33]  These[1.47]
+
+  #11  act=9.4515  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=689
+     往往[0.46] 都很[0.42] 马 虎[0.41] ， 读 者的 出现 通常 会 改变 这一 状况 。 学生 往往 是最[0.49] 挑 剔 的 读者 ， 所以 博客 作者 开始 努力
+    提高 写作 水平 ， 避免 受到 批判 。 此外 ， 写 博客 也 >>>“<<<[9.45] 迫[4.95] 使[4.92] 学生[4.32] 对[2.43] 周[0.99] 遭[0.86]
+    世界[1.00] 更[2.28] 具[1.92] 洞[0.87] 察[1.30] 力[3.55] “[3.14] 。[0.63] 为 满足 观众 兴趣 ， 学生 们 受 此 鼓 舞 ， 变得
+    聪明 和 有趣 起来 。[0.43] 写 博客 是一种 能够 激发 合作 的 工具
+
+  #12  act=9.4460  tok='Ġ"'  lang=english  src=culturax
+      trip  to  Paris  in   1 9 2 6[0.38]  ready  to  study  with  Ravel .  After  his  initial
+     student  audition  with  Ravel  turned  into  a  sharing  of  musical  theories ,  Ravel  said
+     he[0.39]  could  not[0.42]  teach  him ,  saying , >>> "<<<[9.45] Why[3.16]  be[1.16]  a[1.42]
+     second[0.87] -[1.16] rate[0.79]  Ravel[1.53]  when[2.09]  you[1.31]  can[1.70]  be[1.41]
+     a[1.19]  first[1.17] -[0.62] rate[0.89]  G[1.19] ers[0.74] h[0.42] win[0.68] ?" 
+ 
+ G ers h win
+     strongly  encouraged  Ravel  to  come  to  the  United  States  for  a  tour .  To
+
+  #13  act=9.4339  tok='Ġ"'  lang=english  src=culturax
+     t[1.38] 's  Aristotle  with  a  Bust  of  Homer ,  too ,  is  a  celebrated  work ,  showing
+     the  knowing  philosopher  and  the  blind  Homer  from  an  earlier  age :  as  the  art
+     critic  Jonathan  Jones  writes ,[0.32] >>> "<<<[9.43] this[4.38]  painting[3.02]  will[3.21]
+     remain[2.31]  one[1.64]  of[2.32]  the[1.74]  greatest[1.42]  and[1.79]  most[0.94]
+     mysterious[1.64]  in[1.85]  the[0.83]  world[2.28] ,[4.84]  ens[1.09] n[0.57] aring[1.37]
+     us[1.38]  in[1.37]  its[0.96]  must[0.85] y[1.06] ,[0.87]  glowing[0.75] ,[0.99]  pitch[0.92]
+    -[1.20] black ,[0.83]  terrible[0.91]  knowledge[1.03]  of[1.04]  time ." 
+ 
+ S cul pt
+
+  #14  act=9.4212  tok='ĠÂ«'  lang=french  src=culturax
+      ( Re ich s rat )  él us  en   1[0.44] 9 1[0.32] 1  déc ident  de  fonder[0.33]  un  É tat  d '
+    Aut[0.37] ric[0.36] he  allem ande .  L ' Ass emblée  réd ige  une  constitution  déclar ant
+     que >>> «<<<[9.42]  l[5.66] '[2.14] Aut[2.00] ric[0.83] he[2.87]  allem[0.76] ande[2.68]
+     est[3.28]  une[1.63]  ré[0.59] pub[0.57] lique[2.14]  démocratique[0.84]  »[0.72]  ( article  
+    1 )  et  qu ' elle  «[7.03]  est[4.51]  une[1.94]  partie[1.80]  de[1.44]  la[1.16]
+     République[0.81]  allem[0.55] ande[1.55]  »  ( article   2 ).  Les  alli
+
+  #15  act=9.4072  tok='Ġ"'  lang=english  src=culturax
+      Independence — which  emphasized  freedom  and  equality  for  all — the[0.63]  "[7.43]
+    s[5.26] heet[3.43]  anchor[3.85] "  of  republic anism  beginning  in  the   1 8 5 0 s .  He
+     did  this  at  a  time  when  the  Constitution ,  which >>> "<<<[9.41] t[5.83] oler[4.50]
+    ated[4.70]  slavery[2.29] ",  was  the  focus  of  most  political  discourse .  D iggins  notes
+    ,  "[8.84] Lincoln[2.20]  presented[1.64]  Americans[0.86]  a[1.25]  theory[0.36]  of[0.57]
+     history[0.98]  that[1.51]  offers[1.63]  a[1.49]  profound[1.35]  contribution[1.91]  to[1.31]
+     the[0.70]  theory  and  destiny  of[0.40]  republic[0.35] anism[1.04]  itself[1.37] "
+
+  #16  act=9.3759  tok='ĠâĢŀ'  lang=german  src=flores  sid=122
+     ,[0.49]  hat  eine  Warn ung  heraus gegeben ,  dass >>> „<<<[9.38] Ext[3.45] rem[2.87]
+    isten[2.26]  aus[1.14]  Somalia[0.72] “  planen ,  Selbst mord att entate  in  K enia  und  Ä
+    thi op ien  zu  ver üben . "[0.65] Die[4.26]  USA[0.96]  sagen[0.35] ,  sie[0.47]  hätten[0.87]
+     Informationen  aus[0.35]  einer  nicht  näher  ben annten  Quelle[0.48]  erlang
+
+  #17  act=9.3683  tok='Ġ"'  lang=english  src=culturax
+      earns  her  living  by  providing  the  fish  for  Hamm ond 's  grocery  market ;  she  is
+     described  as[0.32]  having  "[9.73] dark[4.30] ,[3.37]  dis[1.35] he[1.20] ve[1.37] led[3.12]
+     hair[3.35]  and[4.31]  large[1.62]  eyes[2.54] ",  and  is  a  writer .  G alt  says  she
+    >>> "<<<[9.37] would[5.13] n[3.05] 't[4.14]  be[2.93]  published[1.71]  outside[1.06] .[5.72]
+     She[2.48]  believes[1.10]  that[0.74]  when[1.09]  one[0.51]
+
+  #18  act=9.3264  tok='Ġ"'  lang=english  src=culturax
+      president  to  clarify  the  threat  posed  by  Germany  and  Japan .  Americans  asked ,
+     "[6.57] What[2.80]  would[1.52]  Lincoln[0.79]  do[1.93] ?"  However ,  Schwartz  also  finds
+     that  since  World  War  II  Lincoln 's  symbolic  power  has  lost  relevance ,  and  this
+    >>> "<<<[9.33] f[5.90] ading[4.80]  hero[2.58]  is[4.15]  sympt[2.60] omatic[3.31]  of[2.63]
+     f[1.22] ading[0.63]  confidence[1.63]  in[1.63]  national[1.84]  greatness[1.93] ."  He
+     suggested  that  postmodern ism  and  multicultural ism  have  diluted  greatness  as  a
+     concept . 
+ 
+ In  the  Cold  War  years ,  Lincoln 's  image
+
+  #19  act=9.3210  tok='Ġ"'  lang=english  src=culturax
+     itch um  is  a  state - h ired  superint endent  of  the  Colorado  Division  of  T agg art
+     Transcontinental .  He  is  partially  responsible  for  the  T agg art  Tunnel  disaster . 
+
+    Ch ick  Morrison  holds  the  position  of >>> "<<<[9.32] Mor[4.50] ale[4.39]  Conditioner[2.33]
+    "  in  the  government .  He  qu its  when  society  begins  to  collapse  and  fle es  to  a
+     strong hold  in  Tennessee .  His  fellow  loot ers  consider  it  unlikely  that  he  will
+     survive . 
+ Hor
+
+  #20  act=9.3189  tok='Ġ"'  lang=english  src=culturax
+     Western[0.64]  societies ).  For  example ,  the  classic  of  urban  anthrop ology ,  Ul f  H
+    anner z  in  the  introduction  to  his  sem inal  Exploring[0.34]  the[0.36]  City :[1.13]
+     In[0.41] quiries  Toward  an  Urban[0.54]  Anth rop ology  mentions  that  the >>> "<<<[9.32]
+    Third[3.90]  World[2.87] "  had  habit ually  received  most  of  attention ;  anthrop ologists
+     who  traditionally  specialized  in  "[7.25] other[4.04]  cultures[1.76] "  looked  for  them
+     far  away  and  started  to  look  "[7.63] ac[5.38] ross[4.50]  the[4.23]  tracks[2.95] "  only
+     in  late  
+
+  #21  act=9.3134  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=808
+     另一方面 ， 冰 雪 天气 在 很多 国家 都 十分 常见 ， 全 年 交通 也 几乎 不会 中断 。 游 猎 活动 也许 是非[0.32] 洲 最[0.78] 吸引 人的[0.50] 旅游
+    活动 ， 也是 许多 游客 行 程 中的 亮点 。 >>>“<<<[9.31] 游[6.01] 猎[4.76]  ([1.68] s[0.75] afari )[4.37] ”[1.64]
+    一[0.62] 词 ， 在 常见的 用 法 中 是指 通过 陆 路 旅行 去 观赏 令人 惊 叹 的 非洲 野生 动物 ， 尤其 是在 热 带 草原 上 。 一些 动物 （
+
+  #22  act=9.3104  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=72
+     顿 （  Jack  Lay ton  ） 举行   2 5   分钟 的 会议 后 ， 已经 同意 将 政府 的 《[3.96] 清洁[2.54] 空气[1.84] 法[2.11] 》 送
+    交 一个 多 党 委员会 审查 ， 然后 再 进行 二 读 。 >>>“<<<[9.31] 莱[3.52] 顿[2.16]  ( Lay ton )[2.55]  在[1.44]
+    与[0.65] 首相 会[0.95] 面[1.11] 期间[1.11] 要求[1.20] 修改[0.71] 保守[0.62] 党的 环境 法案 ，[1.23] 他[1.69] 要求[0.76]
+    ‘[10.26] 彻底[4.04] 重[3.64] 写[5.78] ’[1.98] 保守[0.34] 党的 环境 法案 。”[0.92] 自 从 联邦 政府 介入 接 管 塔 斯
+
+  #23  act=9.3050  tok='ĠÂ«'  lang=french  src=culturax
+      la[1.17]  France  méd[0.57] iane  plus  que  de  la  France  centrale  ;[0.77]  c '[0.33]
+    est[0.50]  selon  les  mots  de  Pierre  Bon naud  une  terre >>> «<<<[9.30]
+     intermédiaire[4.15]  »  qui  se  trouve  à  la  rencontre  d ’ influ ences  ven ant  aussi
+     bien  du  nord  que  du  sud .  À  la  fois  origin aux  et  divers ifiés  les  traits  culture
+    ls  caractér isant  l ’ Au ver
+
+  #24  act=9.3041  tok='ĠÂ«'  lang=french  src=flores  sid=689
+      le  public  le  plus  critique ,  l ' a uteur  du  blog  commence  à  s ' ef for cer  d ' am
+    éli orer  son  écrit ure  pour  éviter  les  critiques . De  plus ,  le  fait  de  blog uer
+    >>> «<<<[9.30]  [6.63] ob[5.84] lige[5.68]  les[4.34]  étudiants[2.16]  à[3.13]  mieux[1.23]
+     connaître[1.99]  le[1.29]  monde[1.37]  qui[0.84]  les  ent oure[1.25]  [1.81] ».[0.54]  Le
+     besoin  de  susc iter  l ' int ér êt  du  public  inc ite  les  étudiants  à  être  intellig
+    ents  et  intéress ants  (
+
+  #25  act=9.2965  tok='Ġ"'  lang=english  src=culturax
+     while  fame ,  now  neglected  but  still  considered  a  "[8.86] w[5.74] alking[4.13]
+     classic[2.47] ,"  and  a  pro ponent  of  the  idea  that  freedom  is  an  illusion .  Kip  Ch
+    alm ers  brings  him  along  on  the  train  to  California , >>> "<<<[9.30] for[6.18]  no[3.50]
+     reason[3.71]  that[1.42]  either[0.32]
+
+  #26  act=9.2961  tok='Ġ''  lang=english  src=culturax
+      ([1.87] which  he  related  to  that  of  the  Soviet s ),  claiming ,  "[8.17] From[3.11]
+     almost[0.71]  any[0.91]  page[0.81]  of[0.75]  Atlas  Shr ugged ,[0.74]  a[0.58]  voice
+     can[1.36]  be[0.38]  heard[0.36]  ...[2.91]  commanding[1.03] :[2.81] >>> '<<<[9.30] To[3.32]
+     a[1.46]  gas  chamber[1.11] —[3.31] go[1.86] !.[3.18] 
+[3.60] 
+[1.41] Rand[0.31] 's[0.41]  non
+    fiction  received  far[0.37]  fewer  reviews  than  her  novels .  The  ten or  of  the
+     criticism  for  her  first  non fiction  book ,  For  the  New  Intellectual ,  was
+
+  #27  act=9.2910  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=182
+     Hall[0.36] )  和[0.32] 其他   3 4  名[0.63] 教育 官员 因此 在   2 0 1 3  年 被 起诉 。 为 整 顿 这一 局面 ， 爱 尔 兰 政府 迫
+    切 希望 议会 推出 立法 。 >>>“<<<[9.29] 不管[3.62] 是从[2.15] 公共[1.24] 卫生[0.47] 的角度[1.64] 还是[2.48] 刑事[0.87]
+    司法[0.72] 的角度[2.23] 来看[2.73] ，[4.01] 现在[1.81] 都[1.84] 应当[1.90] 尽快[1.44] 立法[1.26] 。”[0.60] 一位 政府
+    发言人 说道 。 卫生 部长 对 以下 两 方面 表示 了 关切 ： 利用 所 涉 物质 暂 时 合法 性
+
+  #28  act=9.2880  tok='Ġ"'  lang=standard_arabic  src=flores  sid=511
+      التي  يست مت عون  القيام  بها  مثل  الل عب  أو  مشاهدة  الرسوم  المتح ركة  المفضلة  لديهم  أو
+     كتابة  الج مل  من  دون  علام ات  تر قيم . يم يل  هؤلاء  الأطفال  إلى  الوق وع  في  الكثير  من
+     المشاكل ،  لأنهم[0.46] >>> "<<<[9.29] ين[5.11] خر[2.70] ط[3.33] ون[4.96]  في[3.79]  سل[1.81]
+    وك[2.13] يات[2.67]  مح[1.80] ف[0.80] وفة[2.17]  بالم[0.68] خ اطر[2.49] ،[4.49]  وي[2.40]
+    تش[1.04] اجر[0.91] ون[1.51] ،[1.87]  ويت[1.30] حد[0.77]
+
+  #29  act=9.2510  tok='Ġ"'  lang=english  src=culturax
+     .  The  only  corrobor ation  was  a   1 9 3 8  clipping  from  the  Los  Angeles  Examin er ,
+     in  which  Herr ick  told  a  story  of  her  and  her  husband  joking  with  each  other
+     using  the  phrase , >>> "<<<[9.25] How[4.58] 's[2.79]  your[2.29]  uncle[2.35]  Oscar[1.76] ".
+    
+ 
+ Column ist  Sidney  Sk ol sky  wrote  in  his   1 9 7 0  mem oir  that  he  came  up  with
+     the  term  in   1 9 3 4  under  pressure  for
+
+  #30  act=9.2400  tok='âĢľ'  lang=simplified_chinese  src=flores  sid=511
+     看 喜欢的 卡 通 片 ， 或者 写 一些 不 加 标 点 符 号 的 句子 。 这些 孩子[0.40] 往往[0.33] 会 陷入 很多 麻烦 。 因为 正常 的方法 无法 刺激 他们
+    的大 脑 ， 为了 刺激 大脑 ， 他们 >>>“<<<[9.24] 做出[4.50] 危险[1.95] 行为[3.43] 、[2.11] 打[0.98] 架[1.24] 、[2.04]
+    挑战[0.79] 权威[1.50] ”。[1.04] 注意 力 缺陷 障碍 （ ADD ） 会影响 患 病 孩 童 与其 同 龄 人的 关系 ， 因为 其他 儿童 无法 理解 患者 做出 行为
+    、 进行 拼 写
+
+══════════════════════════════════════════════════════════════════════════════════════════

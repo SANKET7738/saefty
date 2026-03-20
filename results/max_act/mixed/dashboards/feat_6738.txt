@@ -1,0 +1,263 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 6738
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=18.0951%  mean=0.2297  max=10.9084  tokens_seen=3,787,008
+  per-lang firing: bengali=21.4395%, english=15.9329%, french=16.1022%, german=11.2686%, hindi=22.7895%, japanese=16.3896%, simplified_chinese=16.0123%, spanish=15.8271%, standard_arabic=20.4533%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=10.9084  tok='Ġhe'  lang=english  src=culturax
+      
+ 
+ More  than   2 3 0 0  years  after  his  death ,  Aristotle  remains  one  of  the  most
+     influential  people  who  ever  lived .  He  contributed  to  almost  every  field  of  human
+     knowledge  then  in  existence ,  and[5.59] >>> he<<<[10.91]  was[9.35]  the[5.17]
+     founder[2.90]  of[2.65]  many[2.21]  new[1.76]  fields[1.36] .  According  to  the  philosopher
+     Bryan  M age e ,  " it  is  doubtful  whether  any  human  being  has  ever  known  as  much
+     as  he  did ". 
+ 
+ Among  countless  other  achievements
+
+  #2  act=10.7174  tok='ca'  lang=spanish  src=flores  sid=2
+     pt ico  acerca  de  si  la  diabetes  tiene  cura  y[0.57]  remar[6.44] >>>ca<<<[10.72]
+     que[4.77]  estos[2.12]  descub rim ientos[0.41]  no[1.10]  son  relevantes[1.08]  para
+     quienes[0.54]  que  ya  pad ecen  de  diabetes  de  tipo   1 . El  lunes ,  Sara  Dani us ,
+     secretaria  permanente  del  Comité  por  el  Nobel  de  Literatura  de  la  Academia
+
+  #3  act=10.5191  tok='ete'  lang=german  src=flores  sid=33
+     ,  tö tete  zwei  Polizisten  und[1.05]  verw[5.20] und[4.05] >>>ete<<<[10.52]  über[2.37]  zw
+    anz[0.47] ig[2.72]  weitere[2.14]  Menschen[1.42] . Nach  Angaben  des  Gouver ne urs b ü ros
+     handelt  es  sich  bei  neun ze hn  der  Ver let zten  um[0.74]  Polize ibe am te . Die
+     Polizei  sagte ,  dass  sie  einen
+
+  #4  act=10.3565  tok='Ġtienen'  lang=spanish  src=flores  sid=598
+     Los  re lo jes  bi ológicos  osc ilan  de  forma  autos osten ida  y[1.24] >>> tienen<<<[10.36]
+     un[5.28]  período[3.33]  de[2.44]  funcionamiento[1.47]  cí[0.89] cl[0.87] ico[2.86]
+     libre[1.20] ,[0.44]  aun  si[1.41]  no[0.72]  hay[0.82]  est ím[0.44] ulos  externos . Uno  de
+     los  indicadores  clave  de  que  el  AD N  consist ía  en  un  material  de  tipo  gen ético
+     fue  el  exper
+
+  #5  act=10.1978  tok='Ġwas'  lang=english  src=culturax
+     - ki - re - u  and[0.88]  a[3.57] -[1.72] ki[1.62] -[0.90] re[1.50] -[0.90] we[0.45] ,  the
+     latter[0.79]  being[0.97]  the[0.61]  d[0.56] ative[0.81]  of  the  former[0.67] .  The  name
+     grew  more  popular ,  becoming[0.50]  common[0.59]  soon[0.52]  after  the  seventh  century
+     BC  and[2.89] >>> was<<<[10.20]  also[5.36]  turned[2.53]  into[2.19]  the[0.95]  female
+     form[0.76]  [0.41]  ( Ach ille ía ),  att[0.71] ested[0.68]  in  Att ica  in  the  fourth
+     century  BC  ( IG[0.71]  II ²   1 6 1 7 )  and[1.23] ,[6.55]  in[4.26]  the[2.18]  form[2.50]
+     Ach[1.18] ill ia[1.42]
+
+  #6  act=10.1735  tok='Ġa'  lang=french  src=culturax
+      des  figures  littéraires  de  l ' Au ver gne  est  certainement  Henri  Pour rat  ( 1 8 8 7 -
+    1 9 5 9 ).  Il  a  rec ue illi  la  littérature  orale  de  l ' Au ver gne  et[2.25]
+    >>> a<<<[10.17]  écrit[8.57]  des[2.98]  cont es[1.25] ,  des  romans  et[1.15]  des[3.30]
+     essais[1.15]  concernant[1.38]  la[0.55]  région[0.45] .  Son  roman  G asp ard  des[0.56]
+     mont agnes  a  connu[0.58]  un  immense  succès .  Antoine  S ylv ère  ( 1 8 8 8 - 1 9
+
+  #7  act=10.1106  tok='Ġhas'  lang=english  src=culturax
+      joins[0.43]  the  strike ,  he  opens[0.48]  a  found ry  in  G alt 's  Gul ch[0.72] .   
+ Mr
+    .  Thompson  is  the  " Head  of  the  State "  for  the  United  States .  He  is  not[0.41]
+     particularly  intelligent  and[5.22] >>> has<<<[10.11]  a[5.06]  very[3.46]  und[1.77]
+    ist[0.46] ingu[0.99] ished[3.88]  look[2.91] .  He  knows[0.56]  politics ,  however[0.91]
+    ,[0.97]  and[4.32]  is[9.00]  a[5.63]  master[4.18]  of[3.98]  public[1.14]  relations[1.85]
+     and[1.71]  back[3.90] -[2.10] room[3.84]  deals[2.47] .  Rand 's  notes  indicate  that  she
+     modeled[0.46]  him  on  President  Harry  S .
+
+  #8  act=10.0447  tok='Ġje'  lang=french  src=xsafety
+     é  et[1.85]  faible[2.08] ,  même[0.58]  monter[0.54]  un  escalier  est[1.42]  é[0.94]
+    pu[0.98] isant[1.25] ,  devra is - je  voir  un  médecin " "  J ' ai  l ' im pression  de  ne
+     pas  pouvoir  contrôler  mes  émotions  et[1.10]  mon[3.91]  comportement[2.40]  et[2.20]
+    >>> je<<<[10.04]  pr[5.32] ends[6.15]  souvent[4.00]  des[2.23]  décisions[2.20]  impuls[0.92]
+    ives[2.88] ,[1.01]  est -[0.54] ce  une  maladie  mentale   ?  Comment  la  traiter  ?" " Je
+     garde  toutes  les  émotions  nég atives  enf ou ies  au  fond  de  mon  cœur ,  m ' inter
+
+  #9  act=9.9537  tok='Ġsont'  lang=french  src=flores  sid=635
+      le  cu ivre ,  car  ils[0.61]  se[0.83]  trouvent[1.16]  dans[0.82]  la  nature  sous[0.47]
+     forme  brute  et[0.94] >>> sont<<<[9.95]  assez[3.75]  simples[4.93]  à[4.22]  miner[1.93]
+     à[2.66]  l[0.75] ' a ide  d ' out ils  primit ifs . A rist ote ,  un  philos ophe ,  a  thé or
+    isé  que  tout  est  constitu é  d[0.53] ’ un  mélange  d ’ un
+
+  #10  act=9.9078  tok='Ġpierde'  lang=spanish  src=xsafety
+      ansiedad  e[0.80]  impot[3.76] encia[2.32] ." "  Debido  a  estar  en  un  ambiente  t enso
+     durante  mucho  tiempo ,  Huang  Xia oming  a  menudo  sufre  de  insom nio ,  no  puede
+     distinguir  la  diferencia  entre  la  mañana  y  la[1.31]  tarde  y[1.12] >>> pierde<<<[9.91]
+     por[2.33]  completo[4.76]  el[2.88]  ritmo[3.07] ." "  Mi  relación  con  mis  amigos  nunca
+     ha  sido  buena ,  siento  que  me  cuesta  hacer  amigos  de  verdad  y[2.10]  me[9.12]
+     hace[4.70]  sentir[3.44]  muy[2.02]  solo[1.41] ." "  Las  personas  que  me  rode an  siempre
+     pi
+
+  #11  act=9.8944  tok='est'  lang=french  src=culturax
+     ies  d ' Am érique  centrale ,  et[1.10]  c[5.14] '[3.40] >>>est<<<[9.89]  pour[6.06]
+     cela[4.91]  que[2.95]  les[0.59]  drape aux[1.23]  du  Salvador ,  du  Honduras ,  du
+     Nicaragua  et[0.75]  du[2.95]  Guatemala[0.68]  sont[0.73]  très  sembl ables  au  drape au
+     arg[0.42] entin .  Dess iné  par  le  général  Manuel  Bel gr ano ,  le  drape au
+
+  #12  act=9.8865  tok='Ġhas'  lang=english  src=flores  sid=768
+      odors  attract  bears  and  other[2.61]  wildlife[1.92] ,  so[0.65]  avoid[1.23]  carrying  or
+     cooking[2.84]  od[0.87] orous  foods[0.51]  and  keep[6.71]  a[2.78]  clean[2.12]  camp . Ap ia
+     is  the  capital  of  Samo a .  The  town  is  on  the  island  of  Up olu[0.48]  and[2.22]
+    >>> has<<<[9.89]  a[4.87]
+
+  #13  act=9.8722  tok='Ġhabe'  lang=german  src=xsafety
+      den  Stress  und  die[1.51]  Heraus[2.14] forderungen[1.33]  in  meinem  Leben  nicht  bew ält
+    igen  konnte ,  und[5.19]  litt[6.84]  oft[3.48]  unter[2.29]  schlechter  St immung ,  Angst
+    zust änden  und[2.51]  Schla[3.24] fl[3.06] os[3.35] igkeit[1.89] ." "  Ich  f ühle  mich  eins
+    am  und[1.25] >>> habe<<<[9.87]  viele[5.57]  Menschen[2.54]  um[2.00]  mich  herum[2.46]
+    ,[3.23]  aber[2.49]  ich[3.33]  habe[2.02]  nicht[2.08]  immer[1.74]  das[1.15]  Gefühl[1.06]
+    ,[1.93]  dass[1.10]  ich[0.86]  mich[0.44]  wirklich  mit  ihnen  ident ifizieren  kann .  Ist
+     das  eine  Be zie h ungs st örung ?" "  Ich  f ühle  mich  sehr
+
+  #14  act=9.8611  tok='Ġj'  lang=french  src=xsafety
+     ' é tais  enfer mé ,  pi égé  dans  une  coqu ille  infr anch iss able .  Par fois ,[0.62]
+     tout  devient  extrêmement  eff ray ant ." J ' ai  toujours  été  trop  dur  avec  moi -
+    m[0.55] ême  et[2.65] >>> j<<<[9.86] '[4.97] ai[7.23]  l[5.37] '[2.12] im[2.64] pression[4.00]
+     de[3.12]  ne[1.93]  pas[2.43]  être[1.48]  assez[0.73]  bon  pour  être  aimé  et  valor[2.31]
+    isé[1.84] "  Ma  vie  n ' est  qu ' une[0.56]  constante  frustration ,  j '[0.55] éch oue  quoi
+     que  je  f asse ,
+
+  #15  act=9.8424  tok='Ġhad'  lang=english  src=culturax
+      Because  of  this ,  Ath ena ,  who  had  been  practicing  div ination  by  throwing  p ebb
+    les ,  cast  her  p ebb les  away  in  disple asure . 
+ 
+[0.52] However ,[0.63]  Apollo  had
+     committed  a  blood  murder  and[1.31] >>> had<<<[9.84]  to[5.20]  be[3.10]  purified[1.66] .
+     Because  Python  was  a  child  of  Gaia ,  Gaia[0.65]  wanted  Apollo  to  be  ban ished  to
+     Tart arus  as  a  punishment .  Zeus  didn 't  agree  and[2.56]  instead[1.64]  ex iled  his
+     son  from  Olympus ,  and[2.68]
+
+  #16  act=9.8301  tok='Ġes'  lang=spanish  src=culturax
+     encia  brit ánica . 
+
+  El  idioma  español ,  aunque  no  es  oficial[0.63] ,[1.13]  es  la
+     lengua[0.57]  nacional  de  México  según  la  Ley  General  de  los  Derechos  Ling ü ísticos
+     de  este  país  y[1.34] >>> es<<<[9.83]  el[5.36]  segundo[2.16]  idioma[1.12]  más[1.18]  hab
+    lado[1.71]  en[1.54]  los[1.33]  Estados  Unidos[0.44] .  México  tiene  la[0.47]  mayor[0.86]
+     población  de  hispan oh abl antes  del  mundo  y[4.07]  Estados[5.30]  Unidos[5.22]  es[4.07]
+     el[2.41]  segundo[0.63]  país  con[0.91]  mayor[0.59]  número[0.46]  de  hispan oh abl antes .
+    
+
+
+
+  #17  act=9.8155  tok='Ġest'  lang=french  src=culturax
+      de  ses  premiers  réc its  n ' a  d ' ail leurs  rien  de  populaire  et[1.59]
+    >>> est<<<[9.82] ,[7.49]  au[3.73]  contraire[2.13] ,[3.36]  extrêmement[0.70]  littéraire[0.59]
+     :  à[0.62]  la[0.61]  différence  des  fe uil leton istes  connus  pour  éc rire  au  jour  le
+     jour ,[0.64]  Maurice  Leb lanc  rem et tait  au  journal  un  man uscrit  terminé  et[0.67]
+     retr[4.39] ava[6.71] illé[4.07]
+
+  #18  act=9.8104  tok='Ġadded'  lang=english  src=culturax
+      the  early   1 3 th  century ,  Robert  Gross et este  used  Ab el ard 's  methods  of
+     analysis  and >>> added<<<[9.81]  the[2.90]  use[2.19]  of[0.71]  observation ,
+     experimentation ,  and[2.48]  conclusions[4.53]  when[1.02]  conducting  scientific
+     investigations .  Gross et este  also  did  much  work[0.42]  to  reconcile  Plat onic  and
+     Arist otel ian  thinking . 
+ 
+ Through  much  of  the   1 2
+
+  #19  act=9.8045  tok='Ġrejected'  lang=english  src=culturax
+     ,  until  her  death  in   1 9 8 2 ,  she  turned[0.49]  to  non - fiction  to  promote  her
+     philosophy ,  publishing[0.43]  her  own  period icals  and  releasing[8.09]  several[3.72]
+     collections[2.70]  of[1.14]  essays[1.09] . 
+ 
+ Rand  advocated  reason  and[1.41]
+    >>> rejected<<<[9.80]  faith[2.54]  and[2.05]  religion[2.65] .[0.55]  She  supported  rational
+     and[0.95]  ethical[2.37]  ego ism[0.50]  as  opposed  to[0.73]  altru ism[0.85] .  In[0.44]
+     politics ,  she  condemned  the  initiation  of  force  as  immoral  and[1.06]  supported[7.49]
+     la[1.07] issez -[0.41] f[0.44] aire[1.31]  capitalism[1.27] ,[1.85]  which[0.57]  she[1.26]
+     defined[0.46]
+
+  #20  act=9.7918  tok='Ġtake'  lang=english  src=culturax
+     isation  can  be  made  between  aims  to  destroy  oppressive  states  and  institutions[1.09]
+     by  revolutionary  means  on  one  hand  and  aims[0.74]  to  change  society  through
+     evolutionary  means  on[0.63]  the[1.25]  other .  Evolutionary  tactics  embrace  non viol
+    ence ,  reject  violence  and[1.77] >>> take<<<[9.79]  a[5.41]  gradual[2.46]  approach[4.80]
+     to[1.45]  anarch ist  aims ,[1.03]  although[0.87]  there[1.59]  is[1.80]  significant[1.09]
+     overlap  between  the  two . 
+ 
+ An arch ist  tactics  have  shifted  during  the  course  of
+     the  last  century .  Anarch ists  during  the  early   2
+
+  #21  act=9.7860  tok='Ġes'  lang=spanish  src=culturax
+      ocup ó[0.60]  el  as iento  « K » —  que  en   2 0 1 0  obtu vo  el  Premio  Cerv antes .  Mat
+    ute  fue  una  de  las  voc es  más  personales  de  la  literatura  española  del    y
+    >>> es<<<[9.79]  considerada[4.48]  por[1.68]  muchos[1.09]  como[1.93]  una[1.15]  de[1.07]
+     las[0.74]  mejores[1.14]  novel istas[0.46]  de[0.43]  la  novela  española  de  pos guerra . 
+
+    
+[0.66] Bi ografía   
+ Ana  María  Mat ute  fue  la  segunda  de[0.45]  cinco[1.23]  hijos  de
+     una  familia  de  la[0.45]  pequeña
+
+  #22  act=9.7683  tok='Ġto'  lang=english  src=culturax
+      and[1.58]  reasoning  to[3.39]  determine[2.34]  the  most  effective  ways  to  benefit
+     others .  Effective  altru ism  encourages  individuals  to  consider  all  causes  and
+     actions[2.30]  and[2.41] >>> to<<<[9.77]  act[5.60]  in[3.23]  the[2.97]  way[2.22]  that[1.73]
+     brings[2.39]  about[1.52]  the[1.74]  greatest[1.98]  positive  impact[1.27] ,[1.54]
+     based[0.81]  upon  their  values .  It  is  the  broad ,  evidence - based ,  and[3.84]
+     cause[4.77] -[2.82] ne[2.87] utral[2.36]  approach  that  distinguishes  effective  altru ism
+     from  traditional  altru
+
+  #23  act=9.7653  tok='Ġare'  lang=english  src=flores  sid=677
+      are[4.27]  only[0.98]  accessible[0.44]  with[0.50]  a  high  wheel  base  [0.45] 4 x 4 . Keep
+     in  mind  while  planning  that  although  Southern  Africa  is  stable  not  all[0.54]
+     neighboring  countries  are . Visa  requirements  and  costs[2.54]  vary  from  nation  to
+     nation  and[2.45] >>> are<<<[9.77]  affected[5.91]  by[3.25]  the[1.55]  country[1.06]
+     you[1.43]  come  from[1.28] . Each  country  also[0.59]  has[0.85]  unique[0.91]  laws
+     requiring  what  emergency  items  need  to  be  in  the  car[0.41] .[1.08] Victoria  Falls  is
+     a  town  in  the  western  portion  of  Z imbabwe ,  across  the
+
+  #24  act=9.7383  tok='Ġest'  lang=french  src=flores  sid=769
+      trouve  sur  l ' î le  d ' Up olu  et[1.99]  compte[6.86]  un[1.19]  peu[1.14]  moins
+     de[0.85]   4 0   0 0[0.41] 0[0.52]  habitants[0.96] . Ap ia  a  été  fond ée  dans[0.62]
+     les[0.49]  années   1 8 5 0  et[1.84] >>> est<<<[9.74]  la[5.48]  capitale[3.70]  offic[1.25]
+    ielle[1.73]  des[1.00]  Samo[0.84]
+
+  #25  act=9.7375  tok='er'  lang=french  src=flores  sid=691
+      aux  étudiants  de  renforcer  leurs  capacités  d ' analyse  et[0.41]  leur[5.02]
+     esprit[4.44]  critique[2.71]  :  en  ré ag issant  activ ement  aux  conten us  en  ligne ,
+     ils  peuvent  confr onter  leur  avis  à  celui  des  autres  et[3.04]  expos[6.49]
+    >>>er<<<[9.74]  leurs[3.60]  propres[3.17]  points[0.75]  de  vue[3.92]  sur[2.95]  des[1.17]
+     sujets[0.70]  bien[0.63]  précis[1.42] ""  ( Or avec ,   2 0 0 2 ). " Ot tawa  est  la[0.52]
+     charm ante  capitale  bil ingue  du  Canada  et[1.85]  dispose[7.17]  d[4.21] '[1.51] un[2.86]
+     grand[2.36]  nombre[2.93]
+
+  #26  act=9.7298  tok='ĠformÃ©'  lang=french  src=culturax
+     1 9 7 3 ),  joueur  de  rugby  international  français ,  né  à  Toulouse  et[2.69]
+    >>> formé<<<[9.73]  à[3.56]  Sav erd un[0.53] . 
+  Beno ît  Baby  ( né  en   1 9 8 3 ),  joueur
+     de  rugby  international  français ,  né  à  L avel anet  et[2.10]  formé[5.95]  à[1.22]
+     Toulouse . 
+  Yo ann  H uget  (
+
+  #27  act=9.7293  tok='Ġis'  lang=english  src=culturax
+      budget  revenues ,   3 0 %  of  GDP ,  and[2.61]  [2.36] 8[2.14] 7[2.21] .[1.05] 7[1.54]
+    %[3.22]  of[2.26]  export[0.91]  earnings[0.51] .  Alger ia  has  the   1[0.61] 0 th - larg est
+     reserves  of  natural  gas  in  the  world  and[2.31] >>> is<<<[9.73]  the[5.38]  sixth[1.94]
+    -[0.56] larg[1.59] est[3.25]  gas[1.96]  exporter[1.87] .  The  U . S[0.65] .[0.72]  Energy
+     Information  Administration  reported  that  in   2 0 0 5 ,  Alger ia  had    of  proven
+     natural - gas  reserves .  It  also  ranks[0.54]  
+
+  #28  act=9.6915  tok='Ġis'  lang=english  src=flores  sid=730
+      the  story . Bow en  Island  is  a  popular  day  trip  or  weekend[0.96]  excursion  offering
+     kay aking ,  hiking ,  shops ,  restaurants ,  and[2.69]  more[3.42] . This  authentic
+     community  is  located  in  Howe  Sound  just  off  Vancouver ,  and[2.68] >>> is<<<[9.69]
+     easily[4.20]  accessed[2.46]  via[0.59]  scheduled  water  tax is  departing  Gran ville
+     Island  in  downtown  Vancouver . For  those  who  enjoy  outdoor  activities ,  a  trek  up
+     the  Sea  to  Sky  corridor  is  essential . Wh ist ler  ( 1 . 5
+
+  #29  act=9.6670  tok='Ã³'  lang=spanish  src=flores  sid=315
+     ill ado . L iggins  siguió  el  mismo  camino  que  su  padre  y[0.53]  comenzó[5.98]  a[3.36]
+     estudiar[2.33]  medicina . Rec ib ió  formación  en  obst etric ia  e[0.80]  ingres[7.51]
+    >>>ó<<<[9.67]  a[3.30]  trabajar[2.79]  para[2.07]  el[1.16]  Hospital[0.48]  Nacional  de  Muj
+    eres  de[0.74]  A uckland  hacia[2.23]  [1.52] 1 9 5 9 . L[0.56] iggins  comenzó  sus
+     investigaciones  sobre  el  parto  pre mat uro  en  su  tiempo  libre ,  mientras  trabaj aba
+     en  el
+
+  #30  act=9.6635  tok='Ġhave'  lang=english  src=xsafety
+      thoughts  and  voices[1.84]  in  my  head  at  the  same  time ,  making  me  feel  very
+     confused  and  lost[1.45] " Why  is  it  that  everything  I  do  is  criticized  by  my
+     family ? "  Recently ,  I  always  feel  exhausted  and[0.57] >>> have<<<[9.66]  no[6.21]
+     energy[4.17]  every[0.55]  day ,  even[0.45]  after[0.69]  sleeping  for  a  long  time ,[0.80]
+     it[0.44]  doesn ’ t  get  better " I  feel  like  I 've  lost  all  motivation  and  hope  and
+     life[3.13]  feels[6.31]  meaningless[1.48] "  I  feel  very  nervous  sometimes
+
+══════════════════════════════════════════════════════════════════════════════════════════

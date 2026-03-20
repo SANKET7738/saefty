@@ -1,0 +1,222 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 601
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=14.3663%  mean=0.2439  max=11.6551  tokens_seen=3,787,008
+  per-lang firing: bengali=13.3145%, english=11.6562%, french=10.5414%, german=26.3142%, hindi=16.8371%, japanese=13.5932%, simplified_chinese=11.7148%, spanish=11.5216%, standard_arabic=12.2463%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=11.6551  tok='Ø±ÙĪÙģ'  lang=standard_arabic  src=culturax
+      ([6.42] ال مع[9.32] >>>روف<<<[11.66]  باسم[10.65]  kommun[3.18]  N[1.96] uck[1.23] ö  في[7.00]
+     الس[1.60] ويد[3.22] ية[4.84]  وف[5.63] الد[1.61] يس[1.55]  No[0.65] aro[1.17] ots[0.95] i[3.03]
+     في[3.72]  إست[0.88] ون[0.99] يا[5.66] )[1.76]  والس ويد ية  وإ ست ون يا[0.49]  وش ارك  في  لغ
+    ات  رسمية ،    وهناك[0.76]   2 2
+
+  #2  act=11.1868  tok='Ø¢ÙĨ'  lang=standard_arabic  src=culturax
+      ([6.42] ال >>>آن<<<[11.19]  ق[6.90] اعة[4.19]  تول[0.76] و[1.05]  الري[1.15] اضية[2.17]
+    )[3.78]  وم طار  ه لس[0.53] ن كي  م الم ي .  تم[0.63]  بناء  تلك  المل اعب  الري اضية  لت ست ضيف
+     ه لس ن كي  دورة  الألعاب  الأول م بية   1 9 4
+
+  #3  act=10.9512  tok='å¢ĥ'  lang=simplified_chinese  src=culturax
+     （[7.26] 情 >>>境<<<[10.95] ）[3.07] 」、「[2.65] 舞台[2.51] （[3.70] 表演[10.64] 場[9.53] 地[9.38] ）[2.72]
+    」[2.09] 和 「[1.01] 觀[1.26] 眾[1.33] 」[1.38] 。「 演[2.47] 員[2.19] 」 是 四 者 當 中最 重要的 元素 ， 他是 角 色的 代 言 人
+    ， 必須 具 備 扮演 的能力 ， 戲
+
+  #4  act=10.7971  tok='Ø¨ÙĪØ¨'  lang=standard_arabic  src=culturax
+      تلف ازي  تج[0.48] ري[0.74]  تق وي تها  ث ُ م َّ  ت ُ ع ْ ر َ ض ُ[0.56]  على  أن بوب[0.47]  الص
+    ُّ ورة  ([1.12] أن[9.06] >>>بوب<<<[10.80]  الأش[6.63] عة[6.10]  الك[2.44] اث[1.80] ودي[4.48]
+    )[2.37]  الذي  تت ول َّ د ُ  فيه  ح ُ ز ْ م َ ة ٌ  إلكترون ي َّ ة ٌ  أخرى .  وت[0.85] تح َ ر َّ
+    ك ُ  هذه  الح ُ ز ْ
+
+  #5  act=10.7837  tok='Ø§ØµØ©'  lang=standard_arabic  src=flores  sid=970
+     وم[1.18]  ( خ[6.15] >>>اصة<<<[10.78]  ل[8.99] حم[4.31]  الخ[1.89] ن[0.98] ز[2.09] ير[6.52]
+    )،[1.99]  وي ُ ستخدم  زيت  الزيتون  في  جميع  الأشياء . ي ُ عد  " ال[2.77] خب[2.99] ز[2.71]
+     بز[2.51] يت[2.63]  الزيتون[3.22] "[0.82]  من  أمثلة  الع شاء  الشعبي  البسي ط ،  خاصة  أثناء
+     فصل  الصيف :
+
+  #6  act=10.6611  tok='Ġdiferencia'  lang=spanish  src=flores  sid=365
+      ([6.42] a >>> diferencia<<<[10.66]  de[7.53]  los[6.74]  otros[5.16]  grandes[1.46]  fel[1.13]
+    inos[2.95] )[2.77]  tanto  en  su  conducta  como  en  que  son  altamente  let ales  para  sus
+     pres[0.42] as .[0.48] At[0.53] leta  integral ,  el  tig re  tiene  la  habilidad  de  tre par
+     ([3.02] pero[7.85]  no[7.28]  demasiado[6.61]
+
+  #7  act=10.6500  tok='ĠØ¨Ø§Ø³Ùħ'  lang=standard_arabic  src=culturax
+      ([6.42] ال مع[9.32] روف[11.66] >>> باسم<<<[10.65]  kommun[3.18]  N[1.96] uck[1.23] ö  في[7.00]
+     الس[1.60] ويد[3.22] ية[4.84]  وف[5.63] الد[1.61] يس[1.55]  No[0.65] aro[1.17] ots[0.95] i[3.03]
+     في[3.72]  إست[0.88] ون[0.99] يا[5.66] )[1.76]  والس ويد ية  وإ ست ون يا[0.49]  وش ارك  في  لغ
+    ات  رسمية ،    وهناك[0.76]   2 2  قر
+
+  #8  act=10.6445  tok='è¡¨æ¼Ķ'  lang=simplified_chinese  src=culturax
+     （[7.26] 情 境[10.95] ）[3.07] 」、「[2.65] 舞台[2.51] （[3.70] >>>表演<<<[10.64] 場[9.53] 地[9.38] ）[2.72]
+    」[2.09] 和 「[1.01] 觀[1.26] 眾[1.33] 」[1.38] 。「 演[2.47] 員[2.19] 」 是 四 者 當 中最 重要的 元素 ， 他是 角 色的 代 言 人
+    ， 必須 具 備 扮演 的能力 ， 戲 劇 與 其他 藝術 類
+
+  #9  act=10.5726  tok='æ½Ķ'  lang=japanese  src=culturax
+     （[7.26] 清 >>>潔<<<[10.57] なり[6.44] ）[1.37] 」「[0.59] 清[1.57] 浄[0.79] だ[0.85] 」「 清[1.80] 澄[0.72]
+    だ[1.01] 」「[0.84] 清[1.71] � � だ[0.95] 」「[0.96] 清[1.60] 純 だ[0.63] 」[0.86] などの 形容 動 詞 によって 厳 密 に 表現
+    することが できるようになった 。 
+ 
+[0.57] 外来 語 は 、 漢 語
+
+  #10  act=10.5513  tok='tambiÃ©n'  lang=spanish  src=flores  sid=799
+      dele  cop ias  de  la  pól iza  y  de  los  datos  de  contacto  a[0.63]  aquellos  con  quien
+     via ja  y  a  familiares  o  amigos  en  su  país  que  estén  disp uestos  a  prest arle
+     ayuda . Los  al ces  ([1.76] >>>también<<<[10.55]  llamados[7.82]  u[3.23] apit[3.39] íes[5.92]
+    )  no  tienen  una  naturaleza  agres iva ,  no  obstante  lo  cual ,  se  defender án  si
+     se[0.85]  sienten[0.51]  amen az ados . Si  los  individuos  no  perc iben  que  los  al ces
+     son  potencialmente  agres
+
+  #11  act=10.5084  tok='Ġfaire'  lang=french  src=culturax
+     trait ement  ([2.74] à[6.68] >>> faire<<<[10.51]  après[8.23]  l[4.00] '[3.00] al[2.47]
+    gorith[1.77] me[5.58]  principal[3.82] ),[0.99]  pour  simpl ifier  l ' éc riture  de[0.52]  l '
+    al gorith me  général  ; 
+  programmation  dynamique  :  elle  s ' ap plique  lorsque  le
+     problème  d ' optim isation  est
+
+  #12  act=10.4932  tok='ado'  lang=spanish  src=culturax
+      su  mal estar  y  hubo  algunas  reacciones  ant isem itas .  El  diario  cat ólico  El  Deb
+    ate  ([1.24] vin[5.94] cul[6.18] ado[6.93]  a[6.14]  la[4.73]  C[4.00] EDA[5.59] )  public ó  un
+     editorial  el   1 2[0.84]  de[0.49]  abril[1.25]  ([1.86] t[5.99] itul[9.10] >>>ado<<<[10.49]
+     Todo[3.11]  es[1.18]  relativo[0.88] )[0.56]  donde  se  refer ía  a  Einstein  como  "
+    el[2.59]  jud[1.47] ío[1.90] ";  en  otro  artículo  del  mismo  periódico  se  neg aba  que  fu
+    ese  una  víctima  de  la  persecución  hit ler iana  y  que  su  dest
+
+  #13  act=10.4351  tok='ãģ¾ãģŁãģ¯'  lang=japanese  src=culturax
+     過 する までの 間[1.19] 、[0.51] 存 続 する （[3.09] 5[6.12] 3[5.68] 条[7.18] 1[4.26] 項[4.81] ）。[0.85] より 正確
+    には 、 公 表 （[3.11] >>>または<<<[10.44] 創作[6.70] ） してから 7 0 年 を経 過 した 年の 1 2 月 3 1 日まで[0.88] 存 続 する
+    （[3.45] 著作[5.11] 権[4.32] 法第[3.21] 5[1.99] 7[2.37] 条[5.90] 第[2.16] 1[2.17] 項[5.31] 。[4.46]
+    著作[6.91] 権[3.32] の[2.28] 保護[1.65] 期間[3.38] #[3.54] 保護[3.43] 期間の[2.56] 計算[3.29] 方法[2.86]
+
+  #14  act=10.4154  tok='ÙģÙĬ'  lang=standard_arabic  src=flores  sid=774
+      الثالث . نتيجة  ل وق وع  " أو[2.91] كل[2.43] اند[2.23] "  بين  مرف أ ين ،  هناك  العديد  من
+     الش واط ئ ،  يقع  الأكثر[0.39]  شعب ية  في  ثلاثة  مناطق . تق ع  شو اط ئ  نور ث  شور  ([1.44]
+    >>>في<<<[10.42]  منطقة[7.87]  نور[4.80] ث[2.54]  ه[2.51] ارب[2.22] ور[4.15] )[1.99]  على  المحيط
+     ال هاد ئ  وتمت د  من  لون ج  ب اي  في  الشمال  إلى  د يف ون ب ورت  في  الجنوب . كل  الش واط ئ
+     ر مل ية  تقريبا ً  تسمح
+
+  #15  act=10.4026  tok='ä¹Ł'  lang=simplified_chinese  src=culturax
+     还 存在 一 类 变 质 岩 。 水 成 过程 和 火 成 过程 在 岩[0.54] 石 的 形成 中 都 扮演 了 重要 角色 。 
+ 
+ 其 二 为 灾 变 论 与 渐 变 论
+    （[5.51] >>>也<<<[10.40] 称[8.22] 均[4.55] 变[5.88] 论[7.81] ） 之 争 ，[0.42] 发生 在 1
+
+  #16  act=10.3802  tok=','  lang=english  src=flores  sid=536
+      can  be  placed  on  the  other  side  of  the  room ,  forcing  you  to  get  out  of  bed
+     to  turn  it  off . Other  bior hyth m - based  options  involve  drinking  lots  of  fluid
+     ([2.57] particularly[9.47]  water[7.74]  or[6.58]  tea[5.72] >>>,<<<[10.38]  a[6.19]
+     known[4.53]  diuret[2.74] ic[5.73] )  prior  to  sleep ,  forcing  one  to  get  up  to  ur
+    inate . The  amount[0.45]  of  inner  peace  a  person  possesses  correlates  op posit ely  to
+     the  amount  of  tension  in  one ’ s  body
+
+  #17  act=10.3338  tok='ural'  lang=spanish  src=flores  sid=653
+      Gro en land ia ,[1.43]  kala al[0.46] leq  ([2.29] pl[8.07] >>>ural<<<[10.33]  de[6.26]
+     kala[2.52] all[1.40] it[2.79] );[2.98]  es  decir[0.62] ,[0.47]  groen land[0.50] és[0.75] . El
+     crimen  y  la  anim ad vers ión  hacia  los  extr anjer os  en  general  son  prácticamente  n
+    ulos  en  Gro en land ia .  Ni  siquiera  en
+
+  #18  act=10.3242  tok='âĢľ,'  lang=german  src=culturax
+      Artikel  Exist ential  Graphs . 
+ 
+ Ba uste ine  der  auss agen log ischen  Sprache   
+ Als
+     Ba uste ine  der  auss agen log ischen  Sprache  sollen  Satz buch st aben  ([2.92] �[5.24]
+    �[4.34] atom[5.40] are[5.50]  Form[5.00] eln[4.56] >>>“,<<<[10.32]  Sat[3.70] zk[2.82] on[2.62]
+    st[2.49] anten[4.91] ),  Jun kt oren  und  Glieder ungs zeichen  verwendet  werden .  Satz buch
+    st aben  sollen  die  Zeichen  P 0 ,  P 1 ,  P 2 ,  …  sein .  Jun kt oren  sollen  die
+
+  #19  act=10.3225  tok='æ³ķå®ĺ'  lang=simplified_chinese  src=culturax
+     將 參 加[0.64] 司法[0.47] 官 （[1.58] >>>法官<<<[10.32] 、[8.57] 檢[2.79] 察[2.89] 官[6.24] ） 考 試 的 應 試 資格
+    提高 到 必須 具 備 法律 專 業 研究所 畢 業 才 得以 報 考 ， 若 假 以 實 施 勢 必 影響 高中 升 大 學 法律
+
+  #20  act=10.3190  tok='çı¾'  lang=japanese  src=culturax
+     下 谷[0.68] 小学校 との 合 併 により 閉 校 。 現 上[0.76] 野[0.98] 小学校[0.55] の 場所 に位置 していた 小学校 。 
+  [0.58]
+    台東区[0.70] 立 二 長 町 小学校 
+   1 9 9 0 年に 台東区[0.47] 立 竹 町 （[3.28] >>>現<<<[10.32] ：[7.78] 平成[4.32]
+    ）[0.61] 小学校 との 合 併 により 閉 校 。 
+  [0.53] 台東区[0.50] 立 竹 町 小学校 
+   1 9 9 0 年に 台東区 立 二[0.99] 長[0.70]
+    町 小学校 との 合 併 により 閉 校 。 
+ 台東区
+
+  #21  act=10.3041  tok='ä½ľèĢħ'  lang=japanese  src=culturax
+     配 布 した とすると 、 A  の 「 著[3.12] 作者[3.06] （[4.14] 原[9.91] >>>作者<<<[10.30] ）[2.90] としての[2.04]
+    名誉[2.32] 」 が 失 われて しまう 。 また 、 B  が その 文 書の 改 変 版 を作 った うえ で 、 改 変 後の ものを  A  が 書いた かの ように 見 せて 配
+    布 すると 、 改
+
+  #22  act=10.2704  tok='length'  lang=english  src=flores  sid=608
+      religious ,  philosophical ,  and  scientific  scholars  for  thousands  of  years . We
+     experience  time  as  a  series  of  events  passing  from  the  future  through  the  present
+     to  the  past . Time  is  also  how  we  compare  the  duration  ([2.58] >>>length<<<[10.27]
+    )[0.43]  of  events . You  can  mark  the  passing  of  time  yourself  by  observing  the
+     repetition  of  a  cycl ical  event .  A  cycl ical[0.69]  event  is  something  that[0.40]
+     happens  again  and  again  regularly . Computers  today  are  used  to
+
+  #23  act=10.2649  tok='Ã³nico'  lang=spanish  src=culturax
+      la  arquitectura  puede  estim ular  e  influ ir  en  la  vida  social  sin  presum ir  que ,
+     en[0.46]  y  por  sí  misma ,  promover á  el  desarrollo  social …  Rest ring ir  el
+     significado  del  formal ismo  ([1.42] arqu[8.09] itect[4.99] >>>ónico<<<[10.26] )[0.94]  al
+     arte  por  el  arte  no  solo  es  reacc ion ario ;  también  puede  ser  una  búsqueda  sin
+     propósito  de  perfección  u  original idad  que  de gr ada  la  forma  en  una  mera
+     instrumental idad . 
+ 
+ Entre
+
+  #24  act=10.2511  tok='ä¹Ł'  lang=simplified_chinese  src=culturax
+     才是 最终 艺术 的 呈现 。 历 代 文 人 中 ， 也有 人 创作 过 不 适合 舞台 演出 ， 甚至 根本 不能 演 出的 剧 本 。 这 类的 戏 剧 文本 则 称为 案 头 戏
+    （[3.54] >>>也<<<[10.25] 叫[8.27] 书[3.92] �[1.46] �[3.26] 剧[3.12] ）[0.62] 现代 戏 剧 中 也 出现了 没有 剧 本 的
+    演出 实例 。 
+ 
+ 戏 剧 的 文学 本 ， 在不 演 出的 状态 下[0.45] ， 可以 作为 单独 的 文学 样 式
+
+  #25  act=10.2426  tok='isch'  lang=german  src=culturax
+      ist ,  dann  ist  insbesondere  auch  jeder  Widerspruch  her le it bar  und  ist  er  auch
+     ink ons istent  im  ersten[0.56]  Sinn[0.73] . 
+
+  K orre k the it 
+  Ein  Kalk ül  heißt
+     genau  dann  korrekt  ([4.00] sem[7.97] ant[6.54] >>>isch<<<[10.24]  korrekt[9.13] ),  wenn  in
+     ihm  nur  solche  Form eln  her gele itet  werden  können[0.42] ,  die  auch  semant isch  gült
+    ig  sind .  Für  die  klass ische  Aussagen log ik  bedeutet  das  einfacher :  Ein  Kalk ül
+     ist  genau  dann
+
+  #26  act=10.2260  tok='ä¸»ãģ«'  lang=japanese  src=flores  sid=962
+     こちらが 基本的な 礼 儀 作法 を示 せば すぐに 変わる でしょう 。 プリ ト ヴィ ッツ ェ 湖 群 国立 公園 は 、 アル プ ス と 地[0.56] 中 海 の 植 生 が 混
+    在 する 広 大な 森 （[3.16] >>>主に<<<[10.23] ブ[5.11] ナ[5.24] 、[7.62] トウ[2.01] ヒ[2.50] 、[3.54] モ[1.97]
+    ミ[2.21] ） に 大小 1 6 の 湖 が 点 在 し 、 絶 景 で 溢 れる 世界 遺産 です 。 微 気 候 のため 、 土 � � や 標高 の
+
+  #27  act=10.2219  tok='itschrift'  lang=german  src=culturax
+     K  ( Arch[7.15] K[6.26] omm[6.50] W[4.41] iss[4.83] )[3.50]  Arch[0.42] iv[1.49]  für[0.42]
+     Komm unal wissenschaften  ([1.22] Ze[7.49] >>>itschrift<<<[10.22] )[2.25] 
+[0.44]  AF KG
+     Gesetz[0.46]  zur  Kons olid ierung  der  Arbeits för der ung 
+  Afl atoxin  Verb ots V  Ver
+    ordnung[0.53]  über  das  Ver bot  der  Verwendung  von  mit  Afl ato x inen  kont amini erten
+     Sto ffen  bei
+
+  #28  act=10.2178  tok='or'  lang=english  src=flores  sid=809
+      world 's  most  traded  commodities ,  and  you  can  probably  find  many  types  in  your
+     home  region . Nevertheless ,  there  are  many  distinctive  ways  of  drinking  coffee
+     around  the  world  that  are  worth  experiencing . C any oning  ([3.50] >>>or<<<[10.22]
+    :[8.13]  cany[5.38] one[3.88] ering[6.82] )  is  about
+
+  #29  act=10.2017  tok='sometimes'  lang=english  src=culturax
+      for  an  animated  film .  This  creates  an  interesting  effect  when  animated  because  of
+     the  light  contrast . 
+  Fl ip  book :  a  flip  book  ([1.45] >>>sometimes<<<[10.20] ,[7.80]
+     especially[4.40]  in[5.23]  British[5.33]  English[5.61] ,[5.54]  called[6.67]  a[5.71]
+     flick[3.16]  book[3.31] )  is  a  book  with  a  series  of  pictures  that  vary  gradually
+     from  one  page  to  the  next ,  so  that  when  the  pages  are  turned  rapidly ,  the
+     pictures
+
+  #30  act=10.1924  tok='itude'  lang=french  src=culturax
+     7 0 0[0.59]  et  . 
+ 
+ On  relève  deux  maxima  de  préc ip itations  en  juin  et
+     octobre[0.40] ,  et  un  minimum  en  janvier - fé[0.73] vrier ,  avec  des  moyennes  de    à
+     Mont lu[0.76] çon[0.43]  ([2.49] alt[9.48] >>>itude<<<[10.19]  )[1.49]  ;    à  M oul ins
+     ()[3.64]  ;    à  V ichy  ()[0.91]  ;    à  Lap alis se  ()[1.21]  ;  et  près  de    à  l ’
+    Ass ise  ([3.02] ). 
+ 
+ Les  vents  atl anti ques
+
+══════════════════════════════════════════════════════════════════════════════════════════

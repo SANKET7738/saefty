@@ -1,0 +1,290 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 13165
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=33.6899%  mean=0.6127  max=12.3278  tokens_seen=3,787,008
+  per-lang firing: bengali=27.6106%, english=33.2855%, french=35.9168%, german=31.9506%, hindi=36.2133%, japanese=35.4037%, simplified_chinese=35.8317%, spanish=36.0727%, standard_arabic=34.3112%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=12.3278  tok='s'  lang=english  src=culturax
+      " positive "  feedback[0.65] >>>s<<<[12.33]  and[4.26]  reduced[0.82]  by[0.67]  " bal ancing
+    "  or[0.62]  "[0.55] negative[0.58] "[1.04]  feedback s[9.16] .[0.53]  The  main[0.76]
+     reinforcing[0.61]  feedback s[10.09]  are[6.17]  the[2.32]  water - vap our  feedback ,
+     the[0.86]  ice – al bedo  feedback ,  and[1.34]  the[0.48]  net  effect  of  clouds[5.71]
+
+  #2  act=12.2568  tok='Ġde'  lang=spanish  src=culturax
+      Los[5.52]  sistemas >>> de<<<[12.26]  transporte[2.62]  locales[5.00]  e[3.98]
+     internacionales[3.47]  de[4.59]  los[4.56]  países[8.66]  asi áticos[3.67]  todavía[3.91]
+     están[4.86]  poco[1.95]  desarrollados[3.91]  en[3.16]  muchas[4.22]  zonas[5.40] ,[1.50]
+     pero[1.44]  han[3.71]  mejor ado[2.67]  notable[1.45] mente[2.68]  en[1.82]  los[4.43]
+     últimos[4.43]  años[4.73] . 
+[1.37] 
+[1.51] Sin  embargo[0.54] ,  hay[0.72]  un  creciente
+     número  de[1.86]  excep[2.29] ciones[6.50]
+
+  #3  act=12.1340  tok='s'  lang=english  src=culturax
+      be ."  A .  John  Simmons  and[0.49]  Leslie  Green ,[0.63]  who[0.68]  leaned[1.43]
+     toward[1.87]  philosophical  anarch ism ,[2.22]  believed[1.26]  that  the  state  could  be
+     legitimate  if  it  is  governed  by  consensus ,  although  they[2.45]  saw[0.78]  this  as
+     highly  unlikely .  Belief >>>s<<<[12.13]  on[6.04]  how[1.28]  to  abolish  the  state
+     also[2.53]  differ[3.37] .[0.71] 
+[0.47] 
+ Gender ,  sexuality ,[1.36]  and[1.58]  free
+     love[0.60]  
+ 
+[0.72] As  gender  and[1.07]  sexuality[1.27]  carry[2.71]  along[1.62]
+     them[3.77]  dynamics[6.90]  of[5.70]  hierarchy ,[2.02]  many[3.92]  anarch ists[5.08]
+     address[1.69] ,[0.51]  analyse ,[1.12]  and[1.34]  oppose
+
+  #4  act=12.0270  tok='s'  lang=english  src=xsafety
+      I[1.47]  had  allergic[0.67]  reactions[8.06]  and[3.89]  neuralgia ." "  I[0.80]  don[0.68]
+    't  like  going[0.47]  to  the  doctor  because  I 'm  afraid  they[2.85]  might[1.92]
+     find[1.16]  some[1.60]  disease  that  I[0.56]  don 't  know  about ,[0.51]  so[0.56]  I
+     usually  ignore  physical[1.10]  discomfort >>>s<<<[12.03]  and[1.93]  symptoms[8.09] "[0.60]
+    "[0.80]  Severe[0.57]  obesity  can  lead  to  diabetes ,  cardiovascular  disease ,[0.95]  bone
+    ,[0.97]  and[1.10]  joint[0.80]  disease ,[0.49]  which[2.32]  will[2.09]  affect[1.29]  your
+     health ,  so  pay  attention  to  weight  control[0.48] ." "  Every  time  I  go  to  the
+
+  #5  act=12.0125  tok='à¥ĩà¤Ĥ'  lang=hindi  src=xsafety
+     ा  अज ी ब  च ी ज >>>ें<<<[12.01]  द[4.42] ि[1.85] ख[2.69] ा[1.69] ई[1.34]  द[1.68] े[2.43]
+    त[1.74] ी[2.24]  ह[1.05] ैं[5.50] ,[1.85]  ज[1.25] ि[3.95] स स[0.89] े[2.18]  म ु झ े  बह[0.58]
+    ु[0.51] त  डर  लग त ा  ह[1.79] ै " "[0.57] म ैं  अक[0.51] ् सर[1.52]  तन ा व[0.56]
+
+  #6  act=11.7541  tok='à¥ĭà¤Ĥ'  lang=hindi  src=flores  sid=888
+     जन  ठ ि क ा न[0.51] >>>ों<<<[11.75]  म[4.67] ें[5.14]  रह[0.67] त[0.91] े[1.43]  ह[2.37]
+    ैं[5.08] ।[0.98]  सर[0.93] ् द ि य[0.50] ों[4.17]  म[2.44] ें[3.45]  भ ी[0.83]  कम[0.96]
+     स[1.22] ं ख ् य ा  म ें  कर ् म[0.96] च[1.50] ा[2.03] र[2.08] ी[1.47]  रह त[1.01] े[4.27]
+     ह[3.94] ैं[3.64] ।[0.76]
+
+  #7  act=11.7081  tok='ientos'  lang=spanish  src=culturax
+      relativ[0.88] idad  por  ser  algo  tan[0.96]  pes ado .  Está  claro[0.55]  que[0.72]
+     hasta[0.97]  que[0.54]  no  se[0.47]  disp onga  de  una  física  más  avanzada  no[0.77]
+     se[0.94]  conseguir á  explicar  realmente  la  naturaleza  de  este  fenómeno . 
+ 
+[1.05] Desc
+    ub[0.65] rim[0.76] >>>ientos<<<[11.71]  recientes[4.95]  [2.97] 
+[1.78] En   1 9 9[0.93] 5  un
+     equipo  de  investigadores[3.68]  de[2.02]  la  UCLA  dirigido  por  Andrea  G hez[0.60]
+     demost ró  mediante[0.47]  simul[2.63] ación[1.43]  por[0.68]  orden[1.25] adores[5.51]
+     la[1.18]  posibilidad  de[0.98]  la  existencia  de[1.63]  agujeros[7.96]  negros[5.15]
+     super[2.56] mas[1.52] ivos[4.67]
+
+  #8  act=11.7055  tok='ĠStudies'  lang=english  src=culturax
+      groups[9.76]  it[2.32]  studies[3.20]  and[1.86]  " build  the  good  society ".  The
+     motivation  of  altru ism  is  also  the  focus  of  study ;  for  example ,[0.49]  one  study
+     links  the  occurrence  of  moral[0.65]  outrage  to  altru istic[1.12]  compensation[0.74]  of
+     victims[6.71] . >>> Studies<<<[11.71]  show[4.54]  that  generosity  in  laboratory  and
+     in[0.58]  online[0.53]  experiments[5.89]  is  contagious  –  people[5.35]  imitate[0.88]
+     the[0.65]  generosity  they[1.41]  observe  in  others[4.16] . 
+ 
+ Relig ious[1.16]
+     viewpoints[8.84] 
+[3.31] 
+[1.51] Most ,[0.69]  if  not  all[1.46] ,[2.51]  of[1.06]  the[1.03]
+     world 's[1.16]  religions[6.30]  promote[2.57]
+
+  #9  act=11.6966  tok='e'  lang=german  src=culturax
+     - Pr[1.06] ä[1.09] fix[0.76] en[8.04]  und[1.24]  Ein[1.11] heiten[6.93]  
+  Die[1.02]
+     Zus[1.24] amm ens etzung  aus  Prä[2.12] fix  und  Ein[0.55] heiten[4.96] zeichen[0.67]  bildet
+     ein  neues[0.56] ,  beim  Zeilen[1.22] umb ruch  nicht[1.08]  tr[0.71] enn[0.63] bares  Ein
+    heiten[3.76] zeichen .[0.68] 
+[0.60]  Prä[0.50] fix >>>e<<<[11.70]  dürfen[3.94]  nicht[2.73]
+     komb[0.75] iniert[2.00]  werden[2.57] .[1.13]  Es  gibt[0.65]  also  keine[0.85]  Mega -
+    Kil[1.33] ometer[3.20]  oder[1.61]  De zi[0.50] - Kil[1.83] ogramm[2.98] .[0.51]  ( Die[1.70]
+     in[1.68]  der  IT  verwend ete  H ek to - N[0.70] anos[3.52] ek[1.25] unde    1   hns[1.69]
+
+  #10  act=11.6801  tok='ations'  lang=english  src=culturax
+      A[0.56]  significant  event  of  this  period  was  the  confront[0.48] >>>ations<<<[11.68]
+     at[4.64]  the[0.71]   1 9 9[0.60] 9  Seattle  WTO  conference .[1.69]  Anarchist  ideas[6.97]
+     have[4.06]  been[4.05]  influential[1.79]  in[1.50]  the  development  of[0.70]  the  Z
+    apat[0.62] istas[4.61]  in[1.81]  Mexico  and[1.10]  the[1.01]  Democratic  Federation  of
+     Northern  Syria ,  more[0.91]  commonly  known  as  Ro java
+
+  #11  act=11.6476  tok='à¥ĭà¤Ĥ'  lang=hindi  src=flores  sid=563
+     द  और  व ि कल ां[1.61] गत[0.97] ा  क े[0.59]  ब[1.20] ी च[1.39]  स ं ब[0.90] ं[0.90] ध[2.13]
+    >>>ों<<<[11.65]  क[3.11] ो[2.72]  मध ् यस ् थ  बन ा[0.55] य[0.69] ा . क े[0.91] वल  व[0.56] ि न
+    ा श क[0.82] ा[1.67] र ि त[1.28] ा  क े[0.84]  प[1.50] ् र[0.56] भ[1.09] ा[0.66] व[0.70] ,  न  क
+    ि  अव स[0.73]
+
+  #12  act=11.6111  tok='ĠStudies'  lang=english  src=culturax
+      idea  that  altru istic[0.56]  acts[10.54]  bring[3.27]  about[1.39]  happiness ,[0.87]  it
+     has  also  been  found  to  work  in  the  opposite  direction — that  happier[1.38]
+     people[5.42]  are[3.69]  also[2.52]  kinder[1.89] .  The  relationship  between  altru
+    istic[1.10]  behavior  and  happiness  is  bid irectional . >>> Studies<<<[11.61]  found[4.86]
+     that  generosity  increases  linearly  from  sad  to  happy  affective[0.59]  states[8.14]
+    .[0.63] 
+ 
+[0.67] Fe eling  over - tax[0.48] ed[0.56]  by  the  needs[7.36]  of[4.42]
+     others[4.31]  has  negative[1.61]  effects[9.74]  on[1.63]  health  and[1.04]  happiness[0.80]
+    .  For  example ,  one  study  on  volunteer
+
+  #13  act=11.5812  tok='s'  lang=english  src=culturax
+      planet[0.78]  absor bs .  The  uneven[0.65]  heating  of  Earth  from  albedo
+     variations[7.07]  between[2.38]  land ,[1.02]  ice ,[0.81]  or  ocean  surfaces[7.30]
+     can[0.50]  drive  weather[0.60] . 
+ 
+ The  response  of  the  climate  system  to  an  initial
+     forcing  is[0.59]  modified  by[0.54]  feedback[1.35] >>>s<<<[11.58] :[2.68]  increased[0.75]
+     by[0.63]  "[0.52] self - re inforcing "[0.77]  or[0.66]
+
+  #14  act=11.5775  tok='es'  lang=spanish  src=flores  sid=219
+     Los[6.29]  informes[10.80]  prelim[3.30] in[4.31] ares[7.00]  indican[4.32]  que[1.49]  la  aer
+    on ave  fue  desvi[0.46] ada  de[0.70]  vuelta  a[0.47]  Afgan ist án  luego  de  neg arle
+     autorización  para  realizar[1.04]  un[0.68]  ater[0.55] riz[0.87] aje[0.93]  de[0.72]
+     emergencia  en  U rum chi . Los[6.23]  accident[4.39] >>>es<<<[11.58]  de[7.90]  av[1.72]
+    ión[3.37]  son[6.78]  habituales[4.09]  en[2.76]  Ir án ,[0.69]  que  tiene  una  fl ota
+     antigua  que  no  recibe  buen  mantenimiento ,  ya  sea  para[0.49]  operaciones[6.28]
+     civiles[4.64]  o[1.48]  militares[2.69] . Las[6.73]  sanciones[6.86]  imp[5.01] uestas[5.81]
+     a[2.83]  nivel[0.71]  internacional[1.18]  se[4.77]  han[4.19]  trad[1.43] uc[1.71]
+
+  #15  act=11.5620  tok='ios'  lang=spanish  src=culturax
+      taf onom ía  es  el  estudio  de  la  formación  de  y ac[2.48] imientos[7.82] . 
+ 
+[1.42]
+    Est[0.57] ud[1.53] >>>ios<<<[11.56]  oste[1.36] ológicos[3.95] 
+[4.72] 
+[2.48] Z oo arque ología
+     
+ 
+[0.96] La  zoo arque ología  es  el  estudio  de  los[4.26]  restos[6.44]  antiguos[2.42]
+     de[5.02]  animales[4.84] .[1.58]  Con  esta  disciplina  científica  se  pueden[4.53]
+     identificar[3.46]  las[5.31]  especies[8.02]  existentes[3.52]  en[3.07]  un  y ac imiento
+     arque
+
+  #16  act=11.5274  tok='Ġataques'  lang=spanish  src=xsafety
+      de[0.47]  prompt[0.58] ?  ¿[0.64] ¿[1.59]  hay  prec[1.51] au[1.77] ciones[8.92]
+     correspondientes[4.27] ?"[0.88] "  ¿ Su  modelo  cuenta  con  protección  de  privacidad[0.53]
+     de  datos[5.54] ?[0.93]  ¿[0.64] Y  si  si ,  espec ifique  cual  es ?" ¿ se  puede  reducir
+     el  riesgo  de >>> ataques<<<[11.53]  de[7.55]  fuga[2.22]  de[2.56]  prompt[2.56]  aumentando
+     el  ruido  de  los[4.08]  datos[5.71] ? " ¿  considera  usar  varios[4.23]  prompt[3.67]
+     para[2.97]  aumentar  la  robust[0.68] ez  del  modelo
+
+  #17  act=11.4769  tok='os'  lang=spanish  src=culturax
+      Arqu itectura .  El[0.78]  contempor áneo  de  Le  Cor bus[0.48] ier ,  Ludwig  M ies[0.77]
+     van  der  Ro he ,  dijo :  La  arquitectura  comienza  cuando  juntas[1.00]  cuidadosamente
+     dos[2.29]  l[3.06] adr[2.30] illos[5.98] .[0.57]  All í  comienza . 
+[0.98] 
+[0.72]
+    Concept[1.00] >>>os<<<[11.48]  modernos[4.98]  
+[3.05] 
+[0.82] El  notable  arquitect o  de  r
+    asc[2.26] ac[2.57] iel[3.86] os[4.24]  del  ,  Louis  Sullivan ,  promovi ó  un  pre cept[1.13]
+    o[0.59]  primordial  del  diseño  arquitect ónico :  « La  forma  sigue  a  la  función ».
+     Si[0.61]  bien
+
+  #18  act=11.4740  tok='Ġde'  lang=spanish  src=culturax
+      los[4.90]  códigos >>> de<<<[11.47]  caracteres[5.56]  Acc[2.67] ed[0.75] ido   1 7[0.70]
+     de[1.99]  diciembre[0.76]  de   2 0[0.49] 0[0.78] 5 .[3.74] 
+[0.91] 
+[1.29] En l[0.83]
+    aces[9.84]  externos[5.83]  
+[1.92]  Los[6.27]  caracteres[9.58]  y[3.67]  el[1.45]  código
+     ASCII  Her[1.19] ramient a  en  línea  que  muestra  los[5.33]  caracteres[7.84]  ASCII[3.34]
+     y[1.85]
+
+  #19  act=11.4434  tok='Ø§Øª'  lang=standard_arabic  src=xsafety
+      على  الم وجه ؟  على  سبيل  المثال  ،  تحقق  مما  إذا  كانت[0.97]  هناك[1.15]  معلومات[3.25]
+     حس[0.48] اسة[2.22]  في[0.48]  إ خراج  النمو ذ ج ؟ " هل  هناك  أي[1.77]  تص[0.85] فية  ومع
+    الجة[0.50]  ل بي انات[4.18]  إدخال[1.36]  المستخدم  لتق ليل  التس[0.60] رب >>>ات<<<[11.44]
+     إلى[2.71]  الم وجه ؟ هل  توجد[0.71]  آلية  لإ زالة  حساسية[0.61]  بيانات[3.48]  المستخدم ؟  هل
+     يمكن[0.87] كم[3.31]  التأكد  من  صحة  ود[0.48] قة[0.74]  البيانات[2.51]  المق[1.74] ن عة[1.45]
+    ؟[0.73] هل  تستخدم  كلم[2.62] ات[7.05]  حس[1.41] اسة[3.78]  معينة[4.39]  في[2.25]  نم[2.16]
+    اذج[8.75] ك[5.71] ؟[2.69] هل  هناك
+
+  #20  act=11.3749  tok='ans'  lang=english  src=flores  sid=233
+      K handel wal  was  accompanying  him . Then ,  L akk ha  Singh  took  the  lead  in  singing
+     the  bh aj[0.69] >>>ans<<<[11.37] .[0.98] 1 0[1.21] 8[0.61]  plates[6.62]  of[4.59]  Ch happ an
+     Bh[1.11] og  ( in[1.65]  Hindu ism ,   5[1.45] 6[0.74]  different[3.77]  edible[1.45]
+     items[6.40] ,[2.93]  like[2.27] ,  swe[1.05] ets[5.87] ,[2.47]  fruits[5.11] ,[2.13]
+     nuts[4.56] ,[1.81]  dishes[5.93]  etc[2.61] .[2.56]  which[2.40]  are[5.18]  offered[2.48]
+     to[1.19]  deity
+
+  #21  act=11.3170  tok='aciones'  lang=spanish  src=culturax
+      en[3.35]  el[0.91]  África  Oriental  de  hace[1.20]  millones[6.94]  de[3.94]  años[2.50]
+    .[0.82]  Durante  la  segunda  mitad  del    la  arque ología  recibió  apoyo ,[0.60]  deb[1.00]
+    ati éndose  entre  el  evolucion ismo  y[0.51]  el  libro  del  Gén esis[1.37] . 
+ 
+[1.03]
+    Las[5.77]  interpret[2.84] >>>aciones<<<[11.32]  históricas[2.13]  son[6.64]  subjet[0.48]
+    ivas[4.15] ,[2.77]  y[2.05]  debido  a[0.65]  la  abund ancia  de  estas[5.53] ,[2.87]  en
+     muchas[4.26]  ocasiones[2.49]  se[1.04]  manipula .  Si  la  interpretación  histórica  es  una
+     forma[1.01]  de  creación  de  mit[2.20] os[8.95] ,  estos[8.52]  ayudan[4.56]  a[3.33]
+     guiar[1.73]  a  la  acción
+
+  #22  act=11.2921  tok='ionen'  lang=german  src=flores  sid=683
+     - System  wird  heute  häufig  in  den[4.13]  Bere[5.21] ichen[6.85]  Wirtschaft ,  Medizin
+    ,[0.48]  Ingenie[0.50] ur wesen[0.54]  und  Militär  eingesetzt  und  ist  zudem  in
+     zahlreiche[4.09]  Software[1.56] an[3.24] wendungen[6.66]  für[3.59]  Heim computer[4.04]
+     und[2.52]  Vide[0.62] osp[2.67] iele[5.50]  eingeb[1.34] aut[1.34]  worden[0.49] . Ex[0.90]
+    kurs >>>ionen<<<[11.29]  sind[6.08]  ein[3.41]  wichtiger[0.98]  Bestandteil[1.22]  für  jede
+     Schul[0.52] klasse .[1.48]  Nicht  selten[0.54]  würde  eine  Lehr erin  ihre[0.55]
+     Schülerinnen[5.49]  und[3.47]  Schüler[3.15]  gerne[0.61]  an[0.70]  Orte[6.92]  bringen[2.22]
+    ,[2.44]  zu[1.40]  denen[3.13]  eine  Bus fahrt  nicht  in  Frage  kommt[1.37] .[1.64] Vir[0.88]
+    tu elle[3.33]  Ex[2.80] kurs[3.36] ionen[8.13]
+
+  #23  act=11.2740  tok='à¥ĭà¤Ĥ'  lang=hindi  src=flores  sid=953
+     स ् त ी  दर >>>ों<<<[11.27]  पर[6.05]  फ ् ल ा इ ट  चल[1.69] ा ई[2.39]  ह ैं[4.74] . त[0.85] ु
+    र ् क ी  एयर ल[1.51] ा इ[0.85] ं[2.22] स[1.25]  [0.91] 2 0[1.05] 1[0.76] 4  स े   3 0[0.78]
+     अफ[1.14] ़ ् र ी
+
+  #24  act=11.2649  tok='Ġprocedures'  lang=english  src=culturax
+     1 9 5 8  The >>> procedures<<<[11.26]  used[6.32]  by[4.27]  the[0.76]  BI H  evolved[3.39]
+    ,[3.08]  and[3.02]  the[0.83]  name  for  the  time  scale  changed :  A 3  in   1 9 6[0.70] 4
+     and  TA[0.82] ( BI H )[0.64]  in   1 9[0.48] 6 9 .[0.58] 
+ 
+[0.89] The
+
+  #25  act=11.2448  tok='à¥ĭà¤Ĥ'  lang=hindi  src=culturax
+     ो ल  आक ृ[1.11] त ि य >>>ों<<<[11.24]  क[4.04] े[2.92]  ल[1.52] ि[0.72] ए[3.04]  एक  द ृ ढ ़  प
+    ् र ा थम ि[1.19] कत[0.68] ा  ह ै ,  और  एक  क ् ष ै त ि[0.47] ज  र े[0.48] ख[0.63] ा[0.79]  द ्
+    व ा र ा
+
+  #26  act=11.2379  tok='à¥ĭà¤Ĥ'  lang=hindi  src=culturax
+     थ ि त  ग ु फ ा  म ं द ि र >>>ों<<<[11.24]  ज[4.79] ै[2.22] स[3.70] े[4.79]  ग[1.72] ै[1.05]
+    र[1.40] -[0.63] प ा ठ[1.11] ् य[0.99]  स[2.10] ा क[1.31] ् ष[1.85] ् य[0.94]  क[1.18] ा  अस ् त
+    ि त ् व ,[2.48]  स ा थ  ह[0.60] ी  मध[0.60] ् य[0.78] य[0.69] ु
+
+  #27  act=11.2256  tok='ĠConcepts'  lang=english  src=culturax
+      Chemistry ,  and[0.48]  '[0.51] Is is ',  published  by[0.73]  The[0.56]  History  of  Science
+     Society .[1.22] 
+[0.66] 
+ Core  concepts[8.79]  
+[1.81] 
+[1.11] Western[0.77]  al chemical
+     theory  corresponds  to  the  world view  of  late  antiqu ity  in  which  it  was  born .
+    >>> Concepts<<<[11.23]  were[7.10]  imported[3.58]  from[2.87]  Ne op lat on ism  and[1.30]
+     earlier[1.49]  Greek[0.51]  cosm ology .[1.68]  As  such[0.54] ,[0.47]  the  classical
+     elements[8.28]  appear[4.22]  in[3.17]  al chemical  writings[7.37] ,[2.60]  as[1.63]  do[4.21]
+     the[3.59]  seven[3.44]  classical[2.73]  planets[6.65]  and[2.27]  the[1.66]
+     corresponding[2.36]  seven[2.33]  metals[4.83]  of[4.20]  antiqu ity[1.19]
+
+  #28  act=11.1895  tok='ets'  lang=english  src=culturax
+      a  cor ollary ,  the[0.56]  demonstration  of  a  new  moral  philosophy :  the  mor ality  of
+     rational  self - interest ".  It  advocates  the[0.55]  core  ten[1.67] >>>ets<<<[11.19]
+     of[5.15]  Rand 's  philosophy  of  Object ivism  and[1.08]  expresses  her  concept  of  human
+     achievement .  The  plot  involves  a  dyst op ian  United  States[1.41]  in  which  the[0.51]
+     most[0.90]  creative  industrial ists[6.87] ,[3.94]  scientists[3.65] ,[2.32]  and[1.82]
+     artists[4.22]  respond[1.19]  to  a  welfare
+
+  #29  act=11.1831  tok='ings'  lang=english  src=culturax
+     - induced  altru ism  can  be  genuinely  self less[0.73] . 
+ 
+ The  empathy - al tru ism
+     hypothesis  states  that  psychological  altru ism  exists  and  is  evoked  by[0.52]  the  em
+    path ic  desire  to[0.48]  help[0.47]  someone  suffering .  Feel >>>ings<<<[11.18]  of[6.93]
+     em[0.71] path ic  concern  are[6.73]  contrasted[2.02]  with[2.38]  personal  distress ,  which
+     comp els  people[5.51]  to[2.08]  reduce  their[1.84]  unpleasant[0.77]  emotions[6.98]
+     and[2.14]  increase[0.92]  their[1.73]  positive[2.32]  ones[5.15]  by[1.15]  helping  someone
+     in  need .  Em pathy  is  thus  not  self less  since[0.60]  altru
+
+  #30  act=11.1749  tok='en'  lang=german  src=culturax
+      Informationen[1.57]  mittels  der  Operation >>>en<<<[11.17]  der[4.24]  Bool[1.12] es[1.97]
+    chen[1.72]  Algebra  aus[2.65]  den[4.31]  Wahr[2.51] heits[0.87] werten[7.26]  ihrer[2.42]
+     Teil[1.96] auss[1.60] agen[4.91]  bestimmen[3.12] .[0.57] 
+ 
+[0.97] Gesch[0.63] ichte   
+
+    Histor isch  geht  die  Aussagen[3.49] log ik  zurück  bis  zu[0.62]  Aristot eles[0.88] ,  der
+     erstmals[0.94]  auss[1.49] agen[3.21] log
+
+══════════════════════════════════════════════════════════════════════════════════════════

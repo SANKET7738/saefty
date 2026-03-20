@@ -1,0 +1,192 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 392
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=52.5914%  mean=1.1485  max=46.8883  tokens_seen=3,787,008
+  per-lang firing: bengali=79.7363%, english=37.4582%, french=39.9128%, german=43.2360%, hindi=78.9849%, japanese=40.4676%, simplified_chinese=33.6820%, spanish=38.3875%, standard_arabic=35.5358%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=46.8883  tok='1'  lang=hindi  src=culturax
+     ए[0.98]   >>>1<<<[46.89] ,[0.91] 9 3 , 4 0 7[0.24]  कर[4.37] ो[3.92] ड[1.70] ़[1.37]  र[3.53]
+    ु[0.35] प[0.60] ए[1.87]  क[3.43] ा[4.87]  प[2.07] ्[0.91] र ा व ध[1.75] ा[3.49] न[0.51]  क[4.56]
+    ि[5.78] य[6.28] ा[5.83]  ग[6.33] य[5.13] ा[5.23]  थ[6.44] ा[5.63] ,[3.66]  जब[5.14] क[4.31]
+    ि[3.49]  [1.03] 2[0.56]
+
+  #2  act=46.7285  tok='1'  lang=english  src=culturax
+      is[1.85]   >>>1<<<[46.73] 0 %  and[0.58]  there[1.95]  is[2.09]  an[1.12]  additional
+     restaurant  tax  of[0.99]   1[0.55] %,  which[1.48]  means[1.31]  a[0.28]  diner  in[0.58]
+     Mobile[0.34]  County ,[0.73]  Alabama  would[1.47]  pay[1.33]  an   1 1 %  tax  on[1.14]
+     a[0.38]  meal .[1.53] 
+[0.99] 
+[0.69] In[0.50]  [1.03] 2 0
+
+  #3  act=45.2691  tok='1'  lang=english  src=culturax
+      The[1.38]   >>>1<<<[45.27] 9 2 4  film  Hel[0.86] ena[0.54]  by[1.40]  Carlo  Ald[0.51] ini
+    
+[1.30]  The[2.21]  [0.61] 1 9 5 4  film  U ly ss es  by[1.78]  Pier o  L[0.40] ul li 
+[1.83]
+     The[2.70]  [0.86] 1[0.47] 9 5 6  film  Helen[0.23]  of  Troy[0.36]  by[1.76]
+
+  #4  act=45.2691  tok='1'  lang=english  src=culturax
+      The[1.38]   >>>1<<<[45.27] 8 6 2  Hom este ad  Act  made[2.08]  millions  of  acres  of
+     Western  government - held  land  available[0.87]  for[0.39]  purchase  at  low  cost .[1.02]
+     The[1.43]   1 8 6 2  Morr ill  Land - Grant  Colleges  Act[0.30]  provided[0.66]  government
+     grants
+
+  #5  act=44.4028  tok='2'  lang=french  src=culturax
+      le[1.86]   >>>2<<<[44.40] 0  septembre[0.26]  [0.76] 1[0.92] 8 7 0 ,[2.78]  av[2.25] ocat
+    ,[1.13]  économ iste  et[0.43]  journaliste[0.31]  français .[1.86]  Il[2.56]  est[1.74]
+     un[0.31]  far ouche  partisan  du  f ouri ér isme  et  de  la  colonisation  de  l ' Al gérie
+    .[0.57] 
+[0.91]  Philippe
+
+  #6  act=44.3986  tok='2'  lang=english  src=culturax
+      In[1.79]   >>>2<<<[44.40] 7 2  words ,  and[1.65]  three[1.23]  minutes[0.28] ,[0.32]  Lincoln
+     asserted  that[0.64]  the  nation  was  born  not  in   1 7 8 9 ,  but  in   1[0.35] 7 7 6
+    ,[0.31]  "[1.43] con ceived  in[0.42]  Liberty ,[0.62]  and[0.55]  dedicated  to[0.23]
+
+  #7  act=44.3836  tok='1'  lang=standard_arabic  src=culturax
+      حوالي[0.56]   >>>1<<<[44.38] 5 0 0  إلى[0.37]  [0.56] 1[0.23] 8 0 0[0.47] .[0.69]  وقد[1.05]
+     أدى[0.79]  ذلك[1.02]  إلى[0.75]  العديد  من  التر جمات  الخ اط ئة .[0.27]  على  سبيل  المثال
+    ،[0.24]  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح يين
+
+  #8  act=44.1907  tok='1'  lang=french  src=culturax
+      années[0.57]   >>>1<<<[44.19] 9 8 0 .[1.17]  Aujourd[2.39] ’ h[0.85] ui[1.10] ,[0.83]  des
+     compagnies  pét ro li ères  comme[0.23]  Un ocal ,  Tex aco ,  BP[0.63]  et[0.35]  Total[0.47]
+     se[0.95]  sont[1.35]  install[1.38] és[1.83]  à[1.48]  Kab oul[0.65]  pour[1.15]  rem[0.55]
+    porter  des  appels  d ’ off
+
+  #9  act=44.0115  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير[0.99]   >>>2<<<[44.01] 0 0 4  عندما[2.33]  لم[1.04]  تتم كن[0.26]  الم بر مجة  ك اسي  في
+    نت ون  من[0.28]  إيجاد[0.75]  مكان[0.33]  للإ[0.37] قامة  في[0.34]  أ[0.30] يس ل ندا  بعد[1.04]
+     إيجاد[1.02]  رح لة  ط يران  ر[0.99] خي صة  إلى[1.02]  هناك[1.36] .[1.59] أ[1.74] ر[0.31]
+    سل[0.36]
+
+  #10  act=43.5691  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما[1.46]   >>>3<<<[43.57] .[1.38] 5 0  م[1.21] ترا[1.51] ً[1.48] .[0.93] المس افة  الرأس ية
+     الخ الية  تحت  الج سر  [1.41] ١ ٥[0.34]  م[1.19] ترا[1.73] ً[2.21] .[1.56]  اك[0.29] تمل
+     البناء[0.41]  في[0.37]  أغسطس  [0.45] ٢ ٠ ١ ١ ،[1.24]  ولم[1.66]  ي[0.61] ُ ف ْ ت
+
+  #11  act=43.4395  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年[0.99]   >>>9<<<[43.44]  月[0.56]  [0.65] 1 7[0.69]  日[2.26] ，[2.74] 波兰[0.29] 的 防 线 已经[0.93]
+    被[0.49] 攻 破[0.87] ，[2.36] 剩 下的 唯一 希望 就是[1.34] 沿着 罗马 尼亚 桥头 堡 撤 退 和 改 编 军队 。[1.74] 然而[2.17]
+    ，[1.41] 这些 计划 几乎 在 一[0.33] 夜
+
+  #12  act=43.3645  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2[0.37]   >>>人<<<[43.36] 则[0.28] 需要[0.80] 额 外 付费 ，[1.30] 所以[2.89] 这个[1.04] 选项 可能[0.81] 比较[0.37]
+    昂 贵 ，[1.85] 没有[1.16] 必要 。[0.33] 南 极 洲 环 绕 着 南 极 ，[1.55] 是[1.39] 地球 上[0.35] 最[0.47] 冷 的地方[1.27]
+    。[1.70] 旅行 费用[0.51] 高[0.78] 昂 ，[1.61] 对 身体
+
+  #13  act=43.0207  tok='1'  lang=english  src=culturax
+      the[1.45]   >>>1<<<[43.02] 5  Southern  slave  states ,[1.31]  and[1.97]  he[2.10]  won[0.52]
+     only[0.43]  two  of   9[0.33] 9 6  counties  in[0.55]  all[0.64]  the  Southern  states[0.37]
+    ,[1.05]  an[1.30]  omen[0.27]  of[0.56]  the  impending  Civil  War .[1.12]  Lincoln  received  
+    1[0.44] , 8 6 6 , 4
+
+  #14  act=42.8102  tok='8'  lang=german  src=flores  sid=548
+      als[1.76]  über[0.88]   >>>8<<<[42.81] 0 0 . 0 0 0  Sold[0.60] aten  der[0.80]  R oten  Ar
+    mee[0.45]  der[0.76]  Sow jet union[0.98]  in[2.20]  die[1.31]  weiß r uss ischen  und[0.46]
+     ukrain ischen  Front[0.32] en[1.16]  eind[1.11] r[0.81] angen[1.88]  und[2.93]  diese[1.67]
+     sch[1.37] ufen[2.16] ,[1.36]  nachdem[1.65]  sie[0.87]  in[0.55]  Ver
+
+  #15  act=42.7720  tok=','  lang=hindi  src=xsafety
+     ा[1.99] >>>,<<<[42.77] "[0.65] म[1.37] ु झ[2.50] े[2.97]  प[2.12] त[0.37] ा[2.64]  चल[2.51]
+    ा[3.50]  क[4.22] ि[5.04]  म[3.18] ैं[4.31]  क[3.96] ा[3.43] न[2.20] ू न  स[2.06] े[4.74]
+     बच[1.50] न[1.84] े[3.32]  और[4.10]  क[3.04] ु[0.77] छ[2.33]  अव ै ध  गत ि[0.26] व ि[1.57] ध
+    ि[1.22] य[0.67] ों[1.97]  म[5.53]
+
+  #16  act=42.7720  tok=','  lang=hindi  src=xsafety
+     ा[1.99] >>>,<<<[42.77]  ल[3.43] े[2.43] क[0.80] ि[3.74] न[4.39]  वह[4.15]  अब[3.32]  उस[2.34]
+     अक ा उ ं[0.94] ट  क[1.78] ा[2.82]  इस[0.72] ् त े म ा[2.13] ल[0.60]  नह[4.11] ीं[3.98]
+     करत[5.26] ी[4.68] ,[5.22]  म[4.45] ैं[4.38]  ज[3.97] ा[4.57] न[3.40] न[1.60] ा[1.69]  च[3.20]
+    ा[3.26] हत[2.54] ा[4.49]  ह[6.01] ूं[4.08]
+
+  #17  act=42.7686  tok='1'  lang=french  src=flores  sid=816
+      et[1.59]   >>>1<<<[42.77] 3[0.41] 0  [1.81] 0[1.19] 0 0  y[3.02] ens[0.48] ,[1.89]  les[2.44]
+     billets  ty[0.50] pi ques  coû tant[0.93]  environ[0.36]   7[0.71]  [0.27] 0 0[0.30] 0  y[0.65]
+    ens[0.53] .[0.80] En[2.23]  rep ass ant  les[0.43]  vêtements  hum ides ,[0.61]  [1.24] on[2.11]
+     peut[1.55]  les[0.91]  faire[0.33]
+
+  #18  act=42.5290  tok='ãĢģ'  lang=japanese  src=flores  sid=975
+     者は[0.57] >>>、<<<[42.53] 手を[0.24] 振 って[1.17] 別 れ を 告[1.16] げる[1.59] 際に[2.60] 、[2.58] 手の ひ
+    らを[0.42] （[0.48] 相手 ではなく ）[0.96] 自分 に向けて[1.22] 手を 動[0.34] かす[2.14] の[2.30] を見て[4.12] 「[1.44]
+    戻[0.81] って[0.48] 来[1.96] い 」[0.87] という[0.29] 身 振り と[1.95] 勘 違い[1.00] してしまう[2.62] ことがあります[2.92]
+    。[1.83] 補助
+
+  #19  act=42.4653  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與[1.20] >>>他<<<[42.47] 們[1.35] 本土 醫 學 —[2.39] 「[0.86] 漢 方 醫 學 」[1.07] ，[1.50] 及[1.85] 西方 醫 學
+    —[0.92] 「 蘭 醫 學 」([0.64] 荷 蘭[0.26] )，[2.14] 來[2.59] 作[1.63] 區 分 。[1.67] 清 朝 時[2.65] 也[1.53]
+    使用[1.09] 這個 名 詞 來[1.55] 稱
+
+  #20  act=42.4446  tok='1'  lang=spanish  src=culturax
+     ;[1.56]   >>>1<<<[42.44] 5[0.29]  de[0.36]  octubre[0.34]  de[0.66]   1[0.23] 8 2 9 -[1.93]
+    An[1.22] nap olis ,[2.20]  Maryland[1.19] ;[2.69]  [1.66] 2[0.87] 2  de[0.67]  noviembre[0.57]
+     de[1.69]  [1.81] 1[1.18] 9[0.65] 0 7[0.73] )[3.08]  fue[2.26]  un[0.96]  astr ón omo
+     estadounidense .[0.73]  Desc ub ridor  en  [0.79]
+
+  #21  act=42.4000  tok=','  lang=english  src=xsafety
+      dated[1.21] >>>,<<<[42.40]  including[0.89]  their[0.58]  phone  numbers[0.38] ,[1.18]
+     addresses[0.62] ,  employment  status ,  family  members ,  etc[0.74] ."[1.35] My[0.68]  ex -
+    boy friend  has  recently  popped  up[0.50]  on[0.23]  my[0.23]  social  media[0.42]  friends
+     list[0.44]  and[1.70]  I[1.37]  would[0.63]  like[0.31]  to  know[0.53]  how[0.72]  he[0.54]
+     found  my
+
+  #22  act=42.3930  tok=','  lang=german  src=flores  sid=520
+      identifiziert[1.41] >>>,<<<[42.39]  als[2.38]  sie[2.09]  die[1.29]  Publik ums re aktionen
+     auf  Websites  unters[0.27] uchten[0.98] .[0.74] Die[2.61]  Verwendung[0.42]  von  Video auf
+    zeichnungen  führte[2.50]  zu[1.06]  wichtigen  Erkennt nissen  für  die  De utung  von  Mikro
+    expression en ,[0.82]  wenige  Mill isek unden  dauer nden  Ges ichts
+
+  #23  act=42.3796  tok='1'  lang=english  src=flores  sid=9
+     At[0.54]   >>>1<<<[42.38] 1[0.40] : 2 0 ,[1.17]  the[3.19]  police[0.33]  asked[1.65]
+     the[0.98]  protesters  to  move  back  on[0.47]  to  the  pavement ,[0.51]  stating[1.51]
+     that[1.65]  they[0.79]  needed[0.46]  to  balance  the  right  to  protest  with  the  traffic
+     building  up .[1.65] Around[1.18]   1 1 : 2
+
+  #24  act=42.3618  tok='ĠM'  lang=german  src=culturax
+      R[2.08] . >>> M<<<[42.36] ors s ,[0.54]  Norman  M .  Edel stein ,[1.24]  Jean[0.51]  F uger
+     ([1.85] H[0.51] rs g .):[0.77]  The[0.41]  Chemistry[0.26]  of[0.51]  the[0.31]  Act in ide
+     and  Trans actin ide  Elements ,[2.16]  Springer[0.39] ,[2.30]  Dordrecht  [0.52] 2[0.39] 0 0
+    6[0.41] ;[1.58]  ISBN
+
+  #25  act=42.2229  tok='à¦¾'  lang=bengali  src=culturax
+      বল[1.18] >>>া<<<[42.22]  হ[3.13] য[2.16] ় ে[2.11]  থ[2.92] া[1.48] ক[1.44] ে[3.58] ,[4.36]
+     য[3.78] ে[4.15]  ক[2.73] া[4.20] র[2.04] া[1.37] গ া[1.30] র[0.91]  ক[2.56] ক[0.57] ্[0.78]
+    ষ[1.10] ে[4.47]  ত[4.96] ি[4.96] ন[3.01] ি[4.98]  অব[1.16] স ্ থ[0.43] া[2.70] ন[2.29]  কর[5.12]
+    ে[5.96] ছ[5.64] ি[4.68] ল[4.74] ে[6.12] ন[3.45]
+
+  #26  act=42.2195  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[42.22] দ ্ য া ল য[1.41] ়[1.59] ে[4.00] র[1.83]  স[2.95] ং খ ্ য া[1.39]  [1.56]
+    ৭[1.56] ৮[0.27] ট[3.13] ি[1.93] ।[2.20] 
+[2.18] 
+[1.74] স[1.64] ্ ব া স ্ থ ্[0.69] য[0.31]
+     খ[2.14] া[2.56] ত[1.18]  
+[2.16] 
+[1.21] দ[2.26] া[1.37] র[0.82]
+
+  #27  act=42.2009  tok='1'  lang=english  src=culturax
+      late[0.77]   >>>1<<<[42.20] 9 9 0 s  and[0.96]  early[0.99]   2 0 0 0 s[0.75] ,[2.06]
+     the[1.32]  ceremony  returned  to[0.51]  the  Shr ine  Auditorium .[0.98] 
+[1.08] 
+[0.27] In
+     [1.35] 2[0.36] 0 0 2 ,[1.04]  Hollywood[0.27] 's  Dol by  Theatre  ([1.17] previously
+     known[0.44]  as
+
+  #28  act=42.1973  tok='ãĢģ'  lang=japanese  src=culturax
+     しており[0.53] >>>、<<<[42.20] その[1.54] 勢 力は 強 大な もの[0.43] になっている[1.70] 。[0.25] K[2.15] TM / ハ スク バ
+    ーナ /[0.42] ガス ガス 連 合 は[1.15] サ ーキ ット レース でも[1.09] 存在 感 を示[2.17] し[2.36] 始めて[1.67] おり[1.88]
+    、[1.54] 2 0 2 1 年 時点で[0.90] M
+
+  #29  act=42.1450  tok='ãĢģ'  lang=japanese  src=xsafety
+     ですが[0.47] >>>、<<<[42.15] 豪華 な ディ ナー に出[0.37] 席 した[2.61] とき[3.36] 、[2.85] 席 が一番 目 立つ 位置
+    ではない[1.42] ことに[1.76] 気づ[1.93] きました[2.18] 。[1.31] あなたは[1.07] ウェイ ター に[0.69] 「[0.74] あなた 方は[0.27]
+    私の 正 体 さえ 知り ません[0.86] ！[1.02] 私は[0.60] 一番 目 立つ 席 に[0.62] 座[0.79]
+
+  #30  act=42.0657  tok='1'  lang=german  src=culturax
+      (*[0.56]   >>>1<<<[42.07] 9 7 4 )[2.03] 
+[1.64] Jan  Wagner  (*[0.75]  [0.26] 1 9 7 1 )[1.08]
+    
+[1.63] S .  O .  Wagner  ([0.86] 1 9 0 2 –[0.35] 1[0.86] 9 7 5[0.86] )[0.81] 
+[1.62] Mats[0.64]
+     Wahl  (*[0.93]  [0.73] 1 9 4 5[0.49]
+
+══════════════════════════════════════════════════════════════════════════════════════════

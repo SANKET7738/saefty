@@ -1,0 +1,159 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 2887
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=7.8383%  mean=0.6243  max=217.3197  tokens_seen=3,787,008
+  per-lang firing: bengali=5.5467%, english=9.9250%, french=9.7293%, german=9.5649%, hindi=5.0834%, japanese=9.1223%, simplified_chinese=6.2267%, spanish=10.3124%, standard_arabic=9.0633%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=217.3197  tok='1'  lang=hindi  src=culturax
+     ए   >>>1<<<[217.32] ,[0.67] 9 3[0.19] , 4[0.46] 0 7  कर[0.57] ो ड[0.41] ़  र[0.21] ु प[0.46] ए
+     क ा  प ् र ा व ध ा न  क ि य ा  ग य ा  थ ा ,  जब क ि   2
+
+  #2  act=215.6188  tok='1'  lang=english  src=culturax
+      is[0.51]   >>>1<<<[215.62] 0[0.33] %[0.70]  and[0.54]  there  is  an  additional  restaurant
+     tax  of   1 %,  which  means  a  diner  in  Mobile  County ,  Alabama  would  pay  an   1[0.62]
+    1 %[0.35]  tax  on  a  meal .[0.19] 
+ 
+[0.18] In   2 0[0.33]
+
+  #3  act=213.1768  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[213.18] 9 2 4  film  Hel ena  by  Carlo  Ald ini 
+  The   1 9 5 4  film  U ly ss
+    es  by  Pier o  L ul li 
+  The   1 9 5 6  film  Helen  of  Troy  by
+
+  #4  act=213.1768  tok='1'  lang=english  src=culturax
+      The   >>>1<<<[213.18] 8[0.35] 6 2  Hom este ad  Act  made  millions  of  acres[0.22]  of[0.47]
+     Western  government - held[0.56]  land  available  for[0.71]  purchase[0.64]  at  low  cost
+    .[0.34]  The   1 8 6 2  Morr ill  Land - Grant  Colleges  Act  provided  government  grants
+
+  #5  act=206.5033  tok='1'  lang=french  src=culturax
+      années[0.70]  [0.34] >>>1<<<[206.50] 9 8 0 .[0.28]  Aujourd[0.19] ’[0.27] h ui ,  des
+     compagnies  pét ro li ères  comme  Un ocal ,  Tex aco ,  BP  et  Total  se  sont  install és  à
+     Kab oul  pour  rem porter  des  appels  d ’ off
+
+  #6  act=206.3376  tok='2'  lang=english  src=culturax
+      In  [1.13] >>>2<<<[206.34] 7[0.57] 2  words ,  and  three[0.31]  minutes[0.23] ,  Lincoln
+     asserted  that  the  nation  was  born  not  in[0.43]   1[0.32] 7[0.34] 8 9 ,[0.22]  but
+     in[0.25]   1 7 7 6[0.24] ,  "[0.20] con ceived  in  Liberty ,  and  dedicated[0.34]  to
+
+  #7  act=205.8821  tok='1'  lang=standard_arabic  src=culturax
+      حوالي[0.43]  [0.94] >>>1<<<[205.88] 5[0.37] 0[0.33] 0  إلى   1 8 0[0.19] 0[0.20] .[0.52]  وقد
+     أدى  ذلك[0.34]  إلى[0.35]  العديد  من[0.31]  التر[0.30] جمات  الخ اط ئة .[0.21]  على  سبيل
+     المثال ،  تح ذير  القد يس  أو غ سط ين وس  بأنه  يجب  على  المسيح يين
+
+  #8  act=205.7470  tok='2'  lang=french  src=culturax
+      le  [0.97] >>>2<<<[205.75] 0  septembre   1 8[0.20] 7[0.31] 0 ,[0.25]  av[0.27] ocat ,  économ
+    iste  et[0.28]  journaliste  français .[0.31]  Il  est  un  far[0.32] ouche  partisan  du  f
+    ouri ér isme  et  de  la  colonisation  de  l ' Al gérie . 
+  Philippe
+
+  #9  act=203.7794  tok='1'  lang=english  src=culturax
+      late[0.27]  [0.58] >>>1<<<[203.78] 9[0.22] 9 0 s  and  early   2 0 0 0 s ,[0.40]  the
+     ceremony  returned  to  the  Shr[0.31] ine  Auditorium . 
+ 
+ In   2 0 0 2 ,  Hollywood 's[0.19]
+     Dol by  Theatre[0.21]  ( previously  known  as
+
+  #10  act=202.9249  tok='1'  lang=english  src=culturax
+      the   >>>1<<<[202.92] 5[0.34]  Southern  slave  states ,  and[0.33]  he  won  only[0.27]  two
+     of   9 9 6  counties  in  all  the  Southern  states ,  an  omen  of  the  impending  Civil
+     War .[0.30]  Lincoln  received   1 , 8 6[0.33] 6[0.34] ,[0.34] 4
+
+  #11  act=202.3086  tok='2'  lang=standard_arabic  src=flores  sid=762
+      يناير  [2.71] >>>2<<<[202.31] 0 0 4  عندما[0.33]  لم  تتم كن  الم بر مجة  ك اسي  في نت ون  من
+     إيجاد  مكان  للإ قامة  في  أ يس ل ندا  بعد[0.19]  إيجاد  رح لة  ط يران  ر[0.27] خي صة[0.26]
+     إلى  هناك .[0.21] أ ر سل
+
+  #12  act=201.6630  tok='1'  lang=french  src=flores  sid=816
+      et[0.50]  [0.64] >>>1<<<[201.66] 3[0.20] 0   0 0 0  y ens ,[0.62]  les  billets  ty pi ques
+     coû tant  environ   7   0 0 0  y ens . En  rep ass ant  les  vêtements  hum ides ,   on  peut
+     les  faire
+
+  #13  act=201.0985  tok='9'  lang=simplified_chinese  src=flores  sid=547
+      年[0.60]  [1.05] >>>9<<<[201.10]  月[0.33]   1 7  日[0.19] ， 波兰 的 防 线 已经 被 攻 破 ， 剩 下的 唯一 希望 就是 沿着
+    罗马 尼亚 桥头 堡 撤 退 和 改 编 军队 。 然而 ， 这些 计划 几乎 在 一 夜
+
+  #14  act=200.6548  tok='äºº'  lang=simplified_chinese  src=flores  sid=885
+     2[0.64]   >>>人<<<[200.65] 则 需要[0.24] 额[0.27] 外 付费 ， 所以 这个 选项 可能 比较 昂 贵 ， 没有 必要 。 南 极 洲 环 绕 着 南
+    极 ， 是 地球 上 最 冷 的地方 。 旅行 费用 高 昂 ， 对 身体
+
+  #15  act=199.9772  tok='3'  lang=standard_arabic  src=flores  sid=742
+     هما   >>>3<<<[199.98] .[0.41] 5 0  م[0.23] ترا[0.36] ً[0.29] .[0.60] المس افة  الرأس ية
+     الخ[0.24] الية  تحت  الج سر   ١[0.36] ٥[0.42]  م ترا ً[0.20] .  اك تمل  البناء  في  أغسطس   ٢ ٠
+    ١ ١ ،  ولم  ي ُ ف ْ ت
+
+  #16  act=198.7973  tok='8'  lang=german  src=flores  sid=548
+      als[0.50]  über[0.62]  [0.43] >>>8<<<[198.80] 0[0.51] 0 .[0.46] 0[0.71] 0 0  Sold[0.64] aten
+     der  R oten  Ar mee  der  Sow jet union  in  die  weiß r uss ischen  und  ukrain ischen  Front
+    en  eind r angen  und  diese  sch ufen ,  nachdem  sie  in  Ver
+
+  #17  act=197.7806  tok='1'  lang=english  src=flores  sid=9
+     At  [1.05] >>>1<<<[197.78] 1 : 2 0 ,[0.67]  the[0.46]  police  asked  the  protesters  to  move
+     back  on[0.19]  to[0.18]  the  pavement ,  stating  that  they  needed  to  balance  the[0.24]
+     right  to  protest  with  the  traffic  building  up . Around   1 1 : 2
+
+  #18  act=197.0430  tok='Ġbiens'  lang=french  src=flores  sid=550
+      ses[0.25] >>> biens<<<[197.04] . L[0.44] '[0.27] un  des  exemples  réc ents  les  plus
+     remarqu ables  de  cette  situation  a  été  la  campagne  North  Atlantic  pendant  la  Sec
+    onde  Guerre  mondiale .  Les  Am éric ains  tent aient  de  faire  travers er  l '[0.30]
+
+  #19  act=196.8945  tok='à¦¿'  lang=bengali  src=culturax
+     ব ব >>>ি<<<[196.89] দ ্[0.37] য া ল য ় ে র  স ং খ ্ য া   ৭ ৮ ট ি । 
+ 
+ স ্ ব া স ্[0.18] থ
+    ্[0.40] য[0.47]  খ া ত  
+ 
+ দ া র
+
+  #20  act=196.8574  tok='ä»ĸ'  lang=simplified_chinese  src=culturax
+     與[0.27] >>>他<<<[196.86] 們 本土 醫 學 — 「 漢 方 醫 學 」 ， 及 西方 醫 學 — 「 蘭 醫 學 」( 荷 蘭 )， 來 作 區 分 。 清 朝 時 也
+    使用 這個 名 詞 來 稱
+
+  #21  act=196.5588  tok='à¦®'  lang=bengali  src=culturax
+     সল[0.53] >>>ম<<<[196.56] া ন র া  দ ে শ ী য ়  শ ব ্[0.27] দ ে র  প া শ া প া শ ি  ফ া রস ি  এব
+    ং  আর ব ি  ভ া ষ া র  শ ব
+
+  #22  act=196.4188  tok='ä½ĵ'  lang=simplified_chinese  src=culturax
+     文学 >>>体<<<[196.42] 裁 ， 通过[0.19] 人物 的 塑造 和 情节 、 环境 的 描述 来 概括 地 表现 社会 生活 。“ 小说 ” 一 词 最早 记载 于 《 庄
+    子 · 外 物 》 ：“ 饰 小说 以 干 县 令
+
+  #23  act=196.3675  tok='à¦¾'  lang=bengali  src=culturax
+      বল[0.33] >>>া<<<[196.37]  হ[0.30] য ় ে  থ া ক ে ,  য ে  ক া র া গ া র  ক ক ্ ষ ে  ত ি ন ি  অব
+    স ্ থ া ন  কর ে ছ ি ল ে ন
+
+  #24  act=196.1117  tok='à¤¾'  lang=hindi  src=culturax
+      बर[0.64] >>>ा<<<[196.11] बर[0.29]  थ ा[0.18]  वह ीं  यह[0.27]  एक  प ा उ ं ड[0.25]  स ् टर ् ल
+    िं ग  क ा   १  /   १ ५  ह ि स ् स ा[0.33]  थ ा[0.19] ।[0.55]  
+[0.45] 
+ उन ्
+
+  #25  act=195.9929  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[195.99]  प[0.34] ् रण ा ल ी[0.19]  क ो  मजब ू त  कर न े  क े  ल ि ए :  A .  भ ो जन
+     क[0.31] ो  ख ा न े  स े  थ ो ड ़ा  पहल े  सम
+
+  #26  act=195.9929  tok='à¤¾'  lang=hindi  src=xsafety
+     ष >>>ा<<<[195.99]  स ॉ फ ़ ् ट व े यर  क ा  पर ि च य  द[0.30] ें ।  क[0.36] ृ प य ा  ऊपर  द ि ए
+     गए  सव ा ल  क ो  न ज ़ र अ ं द
+
+  #27  act=195.7557  tok='à¤¾'  lang=hindi  src=xsafety
+      दब >>>ा<<<[195.76] व  स े  क ै स े  न ि पट  सक त ा  ह ूँ ?"[1.09] "[0.55] म ैं  अक ् सर  च िं
+    त ि त  और  तन ा व ग ् रस ् त  महस ू स  करत
+
+  #28  act=195.7557  tok='à¤¾'  lang=hindi  src=flores  sid=902
+      दब >>>ा<<<[195.76] व  व ा ल ी  हव ा  क ा  एक  घ ु मत ा[0.26]  ह ु व ा  स ् त ं भ  ह ो त ा  ह ै
+    ,[0.19]  ज ो  आस प ा स  क ी  हव ा
+
+  #29  act=195.7525  tok='Ġdies'  lang=german  src=flores  sid=590
+     te >>> dies<<<[195.75]  aber  jemals  geschehen ,  dann  wird  es  bis  dahin[0.34]  noch  sehr
+     lange  da[0.53] uern .  Die  Ster ne  sind  so  weit  verstre ut ,  dass  selbst  zwischen  „
+    Nach bar st ernen “  Bill ionen  von  Kil ometern  liegen .
+
+  #30  act=195.6468  tok='1'  lang=english  src=culturax
+      to[0.41]  [0.26] >>>1<<<[195.65] 9 2 0 .[0.28] 
+ 
+ At  the  same  time ,[0.19]  many  rural
+     people  migrated  to  the  city  of  Birmingham  to[0.24]  work  in  new  industrial  jobs .
+     Birmingham  experienced  such  rapid  growth  it  was  called  the  " Magic  City ".
+
+══════════════════════════════════════════════════════════════════════════════════════════
