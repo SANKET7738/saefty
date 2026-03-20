@@ -644,6 +644,9 @@ def main():
     }
     stats_out = {"metadata": {"model": MODEL_NAME, "corpus": args.corpus}, "features": []}
 
+    from transformers import AutoTokenizer
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+
     for fid in feature_ids:
         t = trackers[fid]
         examples = t.get_sorted_examples()
