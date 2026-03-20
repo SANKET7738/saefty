@@ -13,6 +13,7 @@ import os
 from pathlib import Path
 
 import torch
+import torch.nn as nn
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # ── load .env if present (so HF_TOKEN is available) ────────────────────────
@@ -46,14 +47,26 @@ def load_feature_ids(path: str) -> list[int]:
     return ids
 
 
-def load_embedding_matrix(model_name: str) -> torch.Tensor:
-    """Load model, extract embedding matrix, free model memory."""
+def load_embedding_matrix(model_name: str) -> tuple[torch.Tensor, nn.Module | None]:
+    """Load model, extract unembedding matrix and final layernorm, free model memory."""
     print(f"Loading model: {model_name} ...")
     model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cpu")
-    embed = model.model.embed_tokens.weight.detach().clone()
+
+    if hasattr(model, "lm_head") and model.lm_head.weight is not None:
+        embed = model.lm_head.weight.detach().clone()
+        print(f"Using lm_head.weight: {embed.shape}")
+    else:
+        embed = model.model.embed_tokens.weight.detach().clone()
+        print(f"Fallback to embed_tokens.weight: {embed.shape}")
+
+    # Extract final layernorm module (applied before lm_head during inference)
+    norm = None
+    if hasattr(model.model, "norm"):
+        norm = model.model.norm.cpu()
+        print(f"LayerNorm type: {type(norm).__name__}, weight shape: {norm.weight.shape}")
+
     del model
-    print(f"Embedding matrix shape: {embed.shape}")  # (vocab_size, d_model)
-    return embed
+    return embed, norm
 
 
 def load_decoder_weights(checkpoint_path: str) -> torch.Tensor:
@@ -125,8 +138,14 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
     with torch.no_grad():
-        embed = load_embedding_matrix(MODEL_NAME)
+        embed, norm = load_embedding_matrix(MODEL_NAME)
         W_dec = load_decoder_weights(CHECKPOINT_PATH)
+
+    # Apply final layernorm to decoder rows (model applies norm before lm_head)
+    if norm is not None:
+        with torch.no_grad():
+            W_dec = norm(W_dec.float()).to(W_dec.dtype)  # (d_sae, d_model)
+        print("Applied full layernorm to W_dec rows")
 
     print(f"\nEmbed:  {embed.shape}  (vocab_size, d_model)")
     print(f"W_dec:  {W_dec.shape}  (d_sae, d_model)")
