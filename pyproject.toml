@@ -17,6 +17,10 @@ dependencies = [
     "tensorboard",
     "datasets",
     "huggingface-hub",
+    "tiktoken>=0.12.0",
+    "python-dotenv>=1.2.2",
+    "openai>=2.29.0",
+    "azure-identity>=1.25.3",
 ]
 
 [build-system]

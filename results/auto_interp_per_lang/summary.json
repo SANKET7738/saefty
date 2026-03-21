@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-03-21T21:27:47.720822",
+  "languages_processed": [
+    "english",
+    "standard_arabic",
+    "german",
+    "spanish",
+    "french",
+    "hindi",
+    "japanese",
+    "bengali",
+    "simplified_chinese"
+  ],
+  "explain_only": false,
+  "per_language": {
+    "english": {
+      "total": 50,
+      "successful": 49,
+      "errors": 1,
+      "mean_confidence": 0.704,
+      "mean_detection_f1": 0.291,
+      "mean_fuzzing_exact": 0.09,
+      "safety_relevant": 3,
+      "top_labels": {
+        "word-initial tokens": 6,
+        "common short tokens": 5,
+        "high-frequency tokens": 3,
+        "common standalone tokens": 3,
+        "Common bigram completion": 2,
+        "High-frequency tokens": 2,
+        "Non-space-prefixed tokens": 2,
+        "Short common tokens": 2,
+        "Collocation continuations": 1,
+        "short boundary tokens": 1
+      }
+    },
+    "standard_arabic": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.82,
+      "mean_detection_f1": 0.154,
+      "mean_fuzzing_exact": 0.052,
+      "safety_relevant": 3,
+      "top_labels": {
+        "short subword tokens": 12,
+        "short subword fragments": 10,
+        "Short subword fragments": 4,
+        "word-initial subwords": 4,
+        "short common tokens": 3,
+        "word-internal subwords": 2,
+        "short common subwords": 2,
+        "Arabic subword continuation": 1,
+        "Arabic comma/punctuation": 1,
+        "Short subword tokens": 1
+      }
+    },
+    "german": {
+      "total": 50,
+      "successful": 49,
+      "errors": 1,
+      "mean_confidence": 0.775,
+      "mean_detection_f1": 0.296,
+      "mean_fuzzing_exact": 0.314,
+      "safety_relevant": 3,
+      "top_labels": {
+        "word-initial tokens": 24,
+        "Word-initial tokens": 7,
+        "word-initial token": 6,
+        "immoral wrongdoing": 1,
+        "Word-initial subwords": 1,
+        "First-person singular": 1,
+        "word-initial subword": 1,
+        "high-frequency tokens": 1,
+        "German word prefixes": 1,
+        "German modal questions": 1
+      }
+    },
+    "spanish": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.808,
+      "mean_detection_f1": 0.284,
+      "mean_fuzzing_exact": 0.164,
+      "safety_relevant": 4,
+      "top_labels": {
+        "word-initial tokens": 16,
+        "word-initial token": 4,
+        "common word starts": 4,
+        "common function words": 4,
+        "Common function words": 3,
+        "common short words": 2,
+        "common Spanish tokens": 1,
+        "sentence-initial token": 1,
+        "common word-initial tokens": 1,
+        "common function tokens": 1
+      }
+    },
+    "french": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.78,
+      "mean_detection_f1": 0.317,
+      "mean_fuzzing_exact": 0.134,
+      "safety_relevant": 4,
+      "top_labels": {
+        "word-initial tokens": 7,
+        "high-frequency tokens": 5,
+        "common function words": 3,
+        "common function tokens": 3,
+        "High-frequency tokens": 3,
+        "common word tokens": 2,
+        "common French tokens": 2,
+        "Word-initial tokens": 2,
+        "common token detector": 2,
+        "Common French tokens": 2
+      }
+    },
+    "hindi": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.827,
+      "mean_detection_f1": 0.408,
+      "mean_fuzzing_exact": 0.329,
+      "safety_relevant": 6,
+      "top_labels": {
+        "Devanagari matra tokens": 3,
+        "Devanagari combining marks": 3,
+        "Devanagari diacritics/punctuation": 2,
+        "Single-character tokens": 2,
+        "Devanagari matras/punctuation": 2,
+        "Devanagari diacritics": 2,
+        "Hindi function words": 1,
+        "fraud/deception terms": 1,
+        "Devanagari subword pieces": 1,
+        "English loanwords": 1
+      }
+    },
+    "japanese": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.89,
+      "mean_detection_f1": 0.283,
+      "mean_fuzzing_exact": 0.249,
+      "safety_relevant": 1,
+      "top_labels": {
+        "Japanese comma": 29,
+        "Japanese comma punctuation": 9,
+        "Japanese clause comma": 2,
+        "Japanese comma delimiter": 1,
+        "Japanese clause boundary": 1,
+        "negation/opposition": 1,
+        "generic common nouns": 1,
+        "Clause punctuation": 1,
+        "activity/field nouns": 1,
+        "clause punctuation": 1
+      }
+    },
+    "bengali": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.889,
+      "mean_detection_f1": 0.261,
+      "mean_fuzzing_exact": 0.264,
+      "safety_relevant": 1,
+      "top_labels": {
+        "Bengali vowel sign ে": 4,
+        "Bengali e-kar vowel": 3,
+        "Bengali vowel diacritics": 3,
+        "Bengali ে vowel sign": 2,
+        "Bengali e-kar": 2,
+        "Bengali vowel diacritic": 2,
+        "Bengali vowel matras": 1,
+        "Bengali vowel/diacritic chars": 1,
+        "Bengali e-kar vowel sign": 1,
+        "Bengali letter tokens": 1
+      }
+    },
+    "simplified_chinese": {
+      "total": 50,
+      "successful": 50,
+      "errors": 0,
+      "mean_confidence": 0.815,
+      "mean_detection_f1": 0.176,
+      "mean_fuzzing_exact": 0.264,
+      "safety_relevant": 0,
+      "top_labels": {
+        "single-character tokens": 13,
+        "single-character token": 5,
+        "word-initial token": 4,
+        "Single-character tokens": 3,
+        "clause-initial token": 2,
+        "word-initial tokens": 2,
+        "single-token boundary": 1,
+        "sentence-initial token": 1,
+        "word boundary token": 1,
+        "singular determiner phrase": 1
+      }
+    }
+  }
+}
