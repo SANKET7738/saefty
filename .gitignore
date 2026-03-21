@@ -2,7 +2,6 @@
 brainstorm/
 .local/
 .env
-src/saefty/llm_utils/azure_client.py
 
 # Model weights
 *.pt
