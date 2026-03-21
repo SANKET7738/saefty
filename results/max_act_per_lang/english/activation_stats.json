@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "model": "CohereLabs/tiny-aya-global",
+    "language": "english"
+  },
+  "features": [
+    {
+      "feature_id": 15726,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 534,
+      "firing_rate": 0.00405,
+      "mean_activation": 20.151785,
+      "std_activation": 325.65807,
+      "max_activation": 6863.220215,
+      "per_lang_firing_rate": {
+        "english": 0.00405
+      }
+    },
+    {
+      "feature_id": 8241,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 535,
+      "firing_rate": 0.004058,
+      "mean_activation": 16.195507,
+      "std_activation": 261.701811,
+      "max_activation": 5507.436523,
+      "per_lang_firing_rate": {
+        "english": 0.004058
+      }
+    },
+    {
+      "feature_id": 3391,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 26.348755,
+      "std_activation": 425.871272,
+      "max_activation": 9002.347656,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 8747,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 531,
+      "firing_rate": 0.004028,
+      "mean_activation": 25.227185,
+      "std_activation": 407.733308,
+      "max_activation": 8614.192383,
+      "per_lang_firing_rate": {
+        "english": 0.004028
+      }
+    },
+    {
+      "feature_id": 883,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 22.932823,
+      "std_activation": 370.679677,
+      "max_activation": 7843.237305,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 15621,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 535,
+      "firing_rate": 0.004058,
+      "mean_activation": 17.671073,
+      "std_activation": 285.57773,
+      "max_activation": 6023.712891,
+      "per_lang_firing_rate": {
+        "english": 0.004058
+      }
+    },
+    {
+      "feature_id": 3965,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 23.75098,
+      "std_activation": 383.893738,
+      "max_activation": 8119.165039,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 9840,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 21.959874,
+      "std_activation": 354.938509,
+      "max_activation": 7503.969727,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 2603,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 19.797932,
+      "std_activation": 319.984846,
+      "max_activation": 6760.852539,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 15779,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 531,
+      "firing_rate": 0.004028,
+      "mean_activation": 20.261754,
+      "std_activation": 327.468511,
+      "max_activation": 6915.708496,
+      "per_lang_firing_rate": {
+        "english": 0.004028
+      }
+    },
+    {
+      "feature_id": 2202,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 535,
+      "firing_rate": 0.004058,
+      "mean_activation": 16.000345,
+      "std_activation": 258.575485,
+      "max_activation": 5451.25293,
+      "per_lang_firing_rate": {
+        "english": 0.004058
+      }
+    },
+    {
+      "feature_id": 6547,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 20.756968,
+      "std_activation": 335.497364,
+      "max_activation": 7093.981934,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 11678,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 534,
+      "firing_rate": 0.00405,
+      "mean_activation": 15.905138,
+      "std_activation": 257.032943,
+      "max_activation": 5417.962402,
+      "per_lang_firing_rate": {
+        "english": 0.00405
+      }
+    },
+    {
+      "feature_id": 375,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 533,
+      "firing_rate": 0.004043,
+      "mean_activation": 17.524443,
+      "std_activation": 283.228501,
+      "max_activation": 5981.942383,
+      "per_lang_firing_rate": {
+        "english": 0.004043
+      }
+    },
+    {
+      "feature_id": 10905,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 533,
+      "firing_rate": 0.004043,
+      "mean_activation": 14.499128,
+      "std_activation": 234.314294,
+      "max_activation": 4939.739258,
+      "per_lang_firing_rate": {
+        "english": 0.004043
+      }
+    },
+    {
+      "feature_id": 4875,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 131264,
+      "firing_rate": 0.995631,
+      "mean_activation": 12.365605,
+      "std_activation": 101.643011,
+      "max_activation": 2110.107422,
+      "per_lang_firing_rate": {
+        "english": 0.995631
+      }
+    },
+    {
+      "feature_id": 10609,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 18.797416,
+      "std_activation": 303.838708,
+      "max_activation": 6429.847168,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 761,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 529,
+      "firing_rate": 0.004012,
+      "mean_activation": 17.191062,
+      "std_activation": 277.866056,
+      "max_activation": 5877.703613,
+      "per_lang_firing_rate": {
+        "english": 0.004012
+      }
+    },
+    {
+      "feature_id": 15916,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 117841,
+      "firing_rate": 0.893818,
+      "mean_activation": 8.325975,
+      "std_activation": 82.072602,
+      "max_activation": 1696.019409,
+      "per_lang_firing_rate": {
+        "english": 0.893818
+      }
+    },
+    {
+      "feature_id": 11733,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 532,
+      "firing_rate": 0.004035,
+      "mean_activation": 11.061938,
+      "std_activation": 178.786018,
+      "max_activation": 3777.292969,
+      "per_lang_firing_rate": {
+        "english": 0.004035
+      }
+    },
+    {
+      "feature_id": 10630,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 533,
+      "firing_rate": 0.004043,
+      "mean_activation": 11.035908,
+      "std_activation": 178.358122,
+      "max_activation": 3766.188477,
+      "per_lang_firing_rate": {
+        "english": 0.004043
+      }
+    },
+    {
+      "feature_id": 11920,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 537,
+      "firing_rate": 0.004073,
+      "mean_activation": 7.87122,
+      "std_activation": 127.180479,
+      "max_activation": 2672.662842,
+      "per_lang_firing_rate": {
+        "english": 0.004073
+      }
+    },
+    {
+      "feature_id": 8600,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 535,
+      "firing_rate": 0.004058,
+      "mean_activation": 9.294498,
+      "std_activation": 150.210333,
+      "max_activation": 3170.502197,
+      "per_lang_firing_rate": {
+        "english": 0.004058
+      }
+    },
+    {
+      "feature_id": 12982,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 534,
+      "firing_rate": 0.00405,
+      "mean_activation": 9.210638,
+      "std_activation": 148.856778,
+      "max_activation": 3141.223877,
+      "per_lang_firing_rate": {
+        "english": 0.00405
+      }
+    },
+    {
+      "feature_id": 3945,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 126343,
+      "firing_rate": 0.958306,
+      "mean_activation": 6.735384,
+      "std_activation": 33.88061,
+      "max_activation": 719.122192,
+      "per_lang_firing_rate": {
+        "english": 0.958306
+      }
+    },
+    {
+      "feature_id": 5743,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 45488,
+      "firing_rate": 0.345024,
+      "mean_activation": 1.879488,
+      "std_activation": 20.347545,
+      "max_activation": 433.388519,
+      "per_lang_firing_rate": {
+        "english": 0.345024
+      }
+    },
+    {
+      "feature_id": 738,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 41454,
+      "firing_rate": 0.314427,
+      "mean_activation": 1.712873,
+      "std_activation": 18.683679,
+      "max_activation": 386.107269,
+      "per_lang_firing_rate": {
+        "english": 0.314427
+      }
+    },
+    {
+      "feature_id": 6988,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 72146,
+      "firing_rate": 0.547224,
+      "mean_activation": 1.183509,
+      "std_activation": 1.484515,
+      "max_activation": 9.587098,
+      "per_lang_firing_rate": {
+        "english": 0.547224
+      }
+    },
+    {
+      "feature_id": 4349,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 30517,
+      "firing_rate": 0.23147,
+      "mean_activation": 0.649155,
+      "std_activation": 5.490494,
+      "max_activation": 112.925095,
+      "per_lang_firing_rate": {
+        "english": 0.23147
+      }
+    },
+    {
+      "feature_id": 5629,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 3381,
+      "firing_rate": 0.025645,
+      "mean_activation": 0.996751,
+      "std_activation": 15.989817,
+      "max_activation": 330.543762,
+      "per_lang_firing_rate": {
+        "english": 0.025645
+      }
+    },
+    {
+      "feature_id": 6169,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 60477,
+      "firing_rate": 0.458715,
+      "mean_activation": 0.749327,
+      "std_activation": 2.337308,
+      "max_activation": 46.934383,
+      "per_lang_firing_rate": {
+        "english": 0.458715
+      }
+    },
+    {
+      "feature_id": 14399,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 4736,
+      "firing_rate": 0.035922,
+      "mean_activation": 0.870833,
+      "std_activation": 13.874746,
+      "max_activation": 289.718811,
+      "per_lang_firing_rate": {
+        "english": 0.035922
+      }
+    },
+    {
+      "feature_id": 7742,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 549,
+      "firing_rate": 0.004164,
+      "mean_activation": 1.345765,
+      "std_activation": 21.737159,
+      "max_activation": 453.810333,
+      "per_lang_firing_rate": {
+        "english": 0.004164
+      }
+    },
+    {
+      "feature_id": 2887,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 17346,
+      "firing_rate": 0.131569,
+      "mean_activation": 0.646779,
+      "std_activation": 9.671825,
+      "max_activation": 197.780624,
+      "per_lang_firing_rate": {
+        "english": 0.131569
+      }
+    },
+    {
+      "feature_id": 13845,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 31354,
+      "firing_rate": 0.237819,
+      "mean_activation": 0.536112,
+      "std_activation": 1.413791,
+      "max_activation": 10.833466,
+      "per_lang_firing_rate": {
+        "english": 0.237819
+      }
+    },
+    {
+      "feature_id": 10237,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 66701,
+      "firing_rate": 0.505924,
+      "mean_activation": 1.029674,
+      "std_activation": 6.397489,
+      "max_activation": 135.342468,
+      "per_lang_firing_rate": {
+        "english": 0.505924
+      }
+    },
+    {
+      "feature_id": 6089,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 10059,
+      "firing_rate": 0.076297,
+      "mean_activation": 0.563435,
+      "std_activation": 8.683557,
+      "max_activation": 175.529373,
+      "per_lang_firing_rate": {
+        "english": 0.076297
+      }
+    },
+    {
+      "feature_id": 10222,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 8059,
+      "firing_rate": 0.061127,
+      "mean_activation": 0.511289,
+      "std_activation": 7.952144,
+      "max_activation": 165.640396,
+      "per_lang_firing_rate": {
+        "english": 0.061127
+      }
+    },
+    {
+      "feature_id": 15161,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 67422,
+      "firing_rate": 0.511393,
+      "mean_activation": 0.765881,
+      "std_activation": 1.07672,
+      "max_activation": 8.314781,
+      "per_lang_firing_rate": {
+        "english": 0.511393
+      }
+    },
+    {
+      "feature_id": 12004,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 10765,
+      "firing_rate": 0.081652,
+      "mean_activation": 0.532859,
+      "std_activation": 8.169669,
+      "max_activation": 165.379379,
+      "per_lang_firing_rate": {
+        "english": 0.081652
+      }
+    },
+    {
+      "feature_id": 13967,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 20645,
+      "firing_rate": 0.156591,
+      "mean_activation": 0.526152,
+      "std_activation": 7.492831,
+      "max_activation": 155.142517,
+      "per_lang_firing_rate": {
+        "english": 0.156591
+      }
+    },
+    {
+      "feature_id": 11182,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 14049,
+      "firing_rate": 0.106561,
+      "mean_activation": 0.613219,
+      "std_activation": 9.253086,
+      "max_activation": 187.017014,
+      "per_lang_firing_rate": {
+        "english": 0.106561
+      }
+    },
+    {
+      "feature_id": 5243,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 6854,
+      "firing_rate": 0.051987,
+      "mean_activation": 0.439871,
+      "std_activation": 6.840169,
+      "max_activation": 140.48407,
+      "per_lang_firing_rate": {
+        "english": 0.051987
+      }
+    },
+    {
+      "feature_id": 16017,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 10773,
+      "firing_rate": 0.081713,
+      "mean_activation": 0.513679,
+      "std_activation": 7.847785,
+      "max_activation": 158.58638,
+      "per_lang_firing_rate": {
+        "english": 0.081713
+      }
+    },
+    {
+      "feature_id": 3536,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 18041,
+      "firing_rate": 0.13684,
+      "mean_activation": 0.484822,
+      "std_activation": 6.909909,
+      "max_activation": 142.17453,
+      "per_lang_firing_rate": {
+        "english": 0.13684
+      }
+    },
+    {
+      "feature_id": 13256,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 15355,
+      "firing_rate": 0.116467,
+      "mean_activation": 0.399541,
+      "std_activation": 5.761367,
+      "max_activation": 118.334488,
+      "per_lang_firing_rate": {
+        "english": 0.116467
+      }
+    },
+    {
+      "feature_id": 8585,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 9008,
+      "firing_rate": 0.068325,
+      "mean_activation": 0.458828,
+      "std_activation": 7.036619,
+      "max_activation": 142.510727,
+      "per_lang_firing_rate": {
+        "english": 0.068325
+      }
+    },
+    {
+      "feature_id": 6785,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 57589,
+      "firing_rate": 0.43681,
+      "mean_activation": 1.223532,
+      "std_activation": 7.011924,
+      "max_activation": 146.813522,
+      "per_lang_firing_rate": {
+        "english": 0.43681
+      }
+    },
+    {
+      "feature_id": 12305,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 7947,
+      "firing_rate": 0.060278,
+      "mean_activation": 0.636593,
+      "std_activation": 9.946183,
+      "max_activation": 203.609985,
+      "per_lang_firing_rate": {
+        "english": 0.060278
+      }
+    },
+    {
+      "feature_id": 11760,
+      "total_tokens_seen": 131840,
+      "nonzero_count": 34858,
+      "firing_rate": 0.264396,
+      "mean_activation": 0.398321,
+      "std_activation": 0.82576,
+      "max_activation": 7.783546,
+      "per_lang_firing_rate": {
+        "english": 0.264396
+      }
+    }
+  ]
+}

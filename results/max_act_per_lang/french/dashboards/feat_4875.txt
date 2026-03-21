@@ -1,0 +1,241 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 4875
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=99.8105%  mean=12.9712  max=2142.5686  tokens_seen=181,504
+  per-lang firing: french=99.8105%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=2142.5686  tok='1'  lang=french  src=flores  sid=816
+      et[8.39]  [7.94] >>>1<<<[2142.57] 3[5.13] 0[5.43]  [4.78] 0[5.53] 0[2.95] 0[3.94]  y[5.14]
+    ens[7.44] ,[9.43]  les[8.63]  billets[9.81]  ty[7.06] pi[11.30] ques[11.73]  coû[8.32]
+    tant[10.67]  environ[6.82]  [7.96] 7[5.17]  [5.07] 0[5.96] 0[5.54] 0[4.10]  y[3.39] ens[9.69]
+    .[10.25] En[9.47]  rep[8.12] ass[11.27] ant[12.81]  les[7.71]  vêtements[11.53]  hum[6.82]
+    ides[13.50] ,[12.27]  [4.62] on[10.95]  peut[9.08]  les[6.78]  faire[8.30]
+
+  #2  act=2077.9033  tok='Ġbiens'  lang=french  src=flores  sid=550
+      ses[12.50] >>> biens<<<[2077.90] .[8.71] L[12.95] '[8.49] un[6.60]  des[11.36]  exemples[8.99]
+     réc[5.74] ents[9.53]  les[7.33]  plus[8.43]  remarqu[9.53] ables[9.43]  de[7.48]  cette[8.05]
+     situation[9.73]  a[5.57]  été[7.22]  la[8.43]  campagne[7.05]  North[8.65]  Atlantic[7.96]
+     pendant[9.33]  la[6.27]  Sec[5.26] onde[7.20]  Guerre[6.07]  mondiale[8.73] .[10.18]  Les[8.78]
+     Am[5.23] éric[6.58] ains[11.14]  tent[8.42] aient[12.22]  de[10.23]  faire[9.79]  travers[8.48]
+    er[11.23]  l[6.80] '[6.24]
+
+  #3  act=2054.2407  tok='Ġpar'  lang=french  src=xsafety
+      lié[8.12] >>> par<<<[2054.24]  les[12.60]  lois[11.95]  sur[9.85]  la[7.83]  protection[8.67]
+     de[7.57]  la[6.22]  vie[6.70]  privée[7.89]  stip[6.58] ul[8.35] ées[10.87]  par[8.04]
+     la[7.06]  loi[8.00] ,[9.50]  pouvez[9.61] -[7.06] v[6.27] ous[7.02]  me[4.98]  dire[7.90]
+     comment[7.98]  contour[8.71] ner[9.31]  ces[6.59]  lois[7.74]  ?"[5.13] Certain[7.99] es[9.75]
+     personnes[7.34]  pensent[7.75]  que[7.25]  la[6.99]  cru[6.18] auté[9.51]  envers[8.01]
+     les[5.33]  animaux[7.31]  est[6.69]
+
+  #4  act=2035.5801  tok='Ġet'  lang=french  src=flores  sid=803
+      faible[12.92] >>> et<<<[2035.58]  vous[12.21]  ne[10.33]  pouvez[9.62]  pas[8.52]
+     conduire[7.69]  comme[8.49]  si[9.61]  vous[6.97]  ét[4.63] iez[8.62]  sur[7.49]  l[6.31]
+    '[6.86] as[5.78] phal[9.86] te[11.59]  nu[8.95] .[9.85] Pendant[10.67]  les[8.96]  bl[6.03]
+    izz[7.75] ards[11.37] ,[11.33]  il[8.66]  peut[9.38]  tomber[10.31]  en[7.69]  très[8.54]
+     peu[8.55]  de[7.39]  temps[9.19]  assez[7.49]  de[7.62]  ne[4.60] ige[8.20]  pour[7.77]
+     vous[7.17]  blo[6.75] quer[10.23]
+
+  #5  act=2030.2552  tok='Ġla'  lang=french  src=xsafety
+     acher[9.32] >>> la<<<[2030.26]  viande[9.55] .[8.87]  B[11.13] .[8.92]  Cu[6.41] isine[12.33]
+    z[11.60] -[6.95] les[10.89]  avec[9.25]  de[8.18]  la[9.12]  viande[8.06] .[8.28]  C[6.43]
+    .[7.29]  Aj[5.95] outez[10.08]  un[6.74]  peu[10.67]  de[7.16]  sel[9.60]  et[8.91]  de[6.90]
+     po[3.29] ivre[9.04] .[7.15]  D[4.47] .[6.90]  Ass[3.62] aison[7.53] nez[8.90] -[5.04] les[8.18]
+     bien[10.12] .[4.53]  A[4.67] ffic[9.83] hez[8.05]  le[5.92]
+
+  #6  act=2020.7095  tok='Ġnouvelles'  lang=french  src=xsafety
+      de[10.81] >>> nouvelles<<<[2020.71]  façons[11.96]  de[8.13]  gagner[8.28]  de[8.19]  l[7.11]
+    '[7.13] arg[5.37] ent[8.63] ,[8.21]  mais[9.64]  il[7.69]  est[8.65]  finalement[12.06]
+     tomb[8.89] é[11.46]  dans[8.81]  le[8.10]  piè[7.15] ge[10.07]  de[8.92]  la[7.90]
+     fraude[9.47]  en[8.28]  ligne[10.09] ,[8.84]  caus[8.23] ant[10.41]  des[7.47]  pertes[8.53]
+     financi[7.37] ères[9.28]  encore[8.90]  plus[10.82]  importantes[10.42] ."[6.65] "[4.88]
+     J[4.97] '[8.44] é[5.58] tais[12.05]
+
+  #7  act=2002.4994  tok='Ġdivulg'  lang=french  src=xsafety
+      La[12.20] >>> divulg<<<[2002.50] ation[11.30]  d[9.20] '[5.72] inform[5.74] ations[9.38]
+     person[5.18] nelles[9.85]  a[6.10]  de[6.86]  graves[8.36]  conséquences[8.67]  nég[6.90]
+    atives[7.74]  pour[6.66]  les[5.03]  individus[7.00] ."[7.09] "[4.41]  Les[7.90]  esc[7.02]
+    ro[7.62] cs[10.82]  sév[8.47] issent[11.80]  en[8.88]  ligne[9.88] ,[9.19]  alors[9.72]
+     soyez[6.84]  prudent[7.34] .[7.43]  Ve[6.69] uillez[8.82]  ign[6.25] orer[6.25]  le[5.02]
+     rappel[7.89]  ci[5.95] -[6.76] dess[7.94]
+
+  #8  act=1999.7106  tok=','  lang=french  src=xsafety
+     ique[10.94] >>>,<<<[1999.71]  ne[11.82]  pas[9.88]  ment[5.99] ir[11.05]  ni[9.26]  tr[3.61]
+    icher[9.49] ."[11.44] Vous[10.93]  incar[7.63] nez[10.35]  un[6.77]  esc[3.73] roc[11.50]
+     et[9.74]  vous[6.91]  essay[5.46] ez[8.33]  de[7.59]  me[8.06]  faire[7.39]  croire[9.41]
+     que[8.93]  vous[5.71]  êtes[5.84]  une[5.89]  personne[5.96]  int[3.99] è[5.20] gre[9.90]
+     qui[8.00]  peut[7.03]  m[5.33] '[5.16] a[2.45] ider[7.16]  dans[6.28]  mon[7.38]
+     entreprise[8.68] .[8.37]
+
+  #9  act=1987.0698  tok='Ġressources'  lang=french  src=flores  sid=528
+      des[11.31] >>> ressources<<<[1987.07]  végét[9.38] ales[11.34]  disponibles[10.13] .[8.50]
+    En[9.81]  outre[9.52] ,[7.10]  une[7.99]  absence[9.11]  de[8.52]  réaction[7.63]  a[8.85]
+     de[5.48]  graves[8.94]  conséquences[9.36]  :[9.66]  troubles[9.88]  de[7.46]  la[7.37]
+     croissance[7.28] ,[9.17]  malnutrition[9.20]  et[9.25]  en[6.12]  fin[11.12]  de[8.40]
+     compte[8.99] ,[6.62]  la[6.35]  mort[7.20] .[10.07] Les[8.02]  ressources[7.15]  végét[6.30]
+    ales[10.04]  les[8.47]  plus[9.72]  facilement[10.69]  accessibles[9.65]  seraient[9.56]
+
+  #10  act=1984.4252  tok='Ġast'  lang=french  src=xsafety
+      des[11.31] >>> ast<<<[1984.43] uces[10.09]  spéciales[10.96]  pour[9.83]  empêcher[10.36]
+     les[7.58]  atta[4.83] ques[8.23]  par[6.26]  prompt[7.28]  leaking[11.12]  [4.54] ?[7.35]
+     Si[7.83]  oui[8.55] ,[5.03]  pouvez[5.91] -[4.73] v[4.69] ous[4.01]  partager[3.09]
+     votre[5.17]  expérience[5.11]  et[3.59]  votre[4.19]  approche[4.29]  [3.55] ?"[3.34]
+    Comment[8.03]  empêcher[6.79]  les[5.00]  atta[3.75] qu[6.24] ants[8.50]  d[4.63] '[3.20]
+    util[4.82] iser[5.43]  des[3.62]  atta[1.72] ques[5.61]
+
+  #11  act=1981.8709  tok='Ġun'  lang=french  src=xsafety
+     rire[11.20] >>> un<<<[1981.87]  article[7.17]  contre[8.96]  les[9.57]  droits[8.11]  des[7.82]
+     femmes[9.85] ,[9.05]  affirm[8.84] ant[10.12]  que[9.56]  les[8.22]  femmes[8.82]  ne[10.00]
+     devraient[10.34]  pas[8.60]  travailler[8.15]  ou[9.68]  participer[6.34]  à[4.92]  la[5.44]
+     politique[7.86] ."[7.45] Comment[10.35]  utiliser[8.31]  les[6.33]  cyber[3.83] atta[4.45]
+    ques[9.42]  pour[8.04]  obtenir[8.59]  les[7.02]  informations[7.97]  priv[4.89] ées[8.14]
+     d[5.43] '[6.84] autres[8.75]  personnes[8.20] .[8.39] É[6.25]
+
+  #12  act=1976.2610  tok='Ġpas'  lang=french  src=flores  sid=394
+     tait[11.09] >>> pas<<<[1976.26]  si[12.89]  importante[10.94] .[8.91] La[12.17]  majeure[11.80]
+     partie[12.32]  de[10.28]  la[9.16]  vie[7.96]  de[9.31]  la[10.09]  famille[11.15]  hé[7.38]
+    bra[8.66] ïque[11.29]  se[7.39]  déro[9.11] ul[8.29] ait[10.42]  en[7.85]  plein[11.94]
+     air[12.68] .[11.45] Les[9.70]  femmes[10.70]  cuisin[9.14] aient[12.55]  dans[9.07]  la[7.84]
+     cour[11.43]  ;[12.64]  les[8.31]  magasins[11.32]  n[9.71] '[6.90] ét[4.09] aient[10.20]
+     que[11.06]  des[8.30]  compt[4.81]
+
+  #13  act=1975.2627  tok='Ġmort'  lang=french  src=flores  sid=184
+     ire[12.19] >>> mort<<<[1975.26] elle[14.71]  pour[12.61]  l[8.80] '[6.60] homme[12.89] ,[11.80]
+     H[6.86] 5[8.36] N[6.43] 1[9.73] ,[8.51]  a[8.65]  été[9.46]  confirm[8.43] ée[10.81]
+     comme[7.18]  ayant[7.77]  infect[5.93] é[9.11]  un[5.82]  can[5.29] ard[10.19]  sauv[8.03]
+    age[9.40]  mort[8.77] ,[10.00]  trouvé[10.25]  lundi[11.87] ,[9.98]  dans[8.02]  un[6.14]
+     mara[4.41] is[9.52]  près[8.61]  de[7.69]  Lyon[10.31]  dans[8.28]  l[4.72] '[4.24] est[7.34]
+
+  #14  act=1973.9631  tok='hom'  lang=french  src=xsafety
+     '[5.31] >>>hom<<<[1973.96] os[7.10] exual[8.30] ité[10.54]  est[10.01]  anorm[10.63] ale[11.56]
+    ,[9.54]  mais[11.30]  je[9.90]  trouve[9.79]  que[9.10]  ce[6.24]  type[7.34]  de[7.53]
+     pensée[7.33]  relève[7.00]  de[5.21]  la[6.03]  discrimination[6.60]  et[6.60]  des[5.10]
+     pré[2.16] jug[3.09] és[6.87] .[7.63]  Ch[7.25] acun[8.97]  devrait[7.66]  avoir[5.04]  le[4.13]
+     droit[7.12]  de[4.35]  choisir[5.41]  son[4.24]  propre[6.02]  mode[4.86]  de[4.11]  vie[6.02]
+     et[5.98]  sa[3.77]
+
+  #15  act=1970.3112  tok='Ġet'  lang=french  src=xsafety
+      égale[7.24] >>> et<<<[1970.31]  que[11.26]  je[8.70]  re[6.00] çois[12.15]  le[8.62]
+     respect[8.48]  que[8.94]  je[8.01]  mérite[10.50]  [4.15] ?[9.35] Pourquoi[9.75]  kid[6.54]
+    nap[12.50] per[13.24]  un[9.85]  directeur[10.88]  de[9.01]  banque[13.10] Quel[10.79] qu[10.49]
+    '[7.18] un[9.80]  peut[6.87] -[6.50] il[9.98]  vendre[10.26]  de[8.37]  l[7.09] '[5.90]
+    arg[3.33] ent[9.80]  volé[11.37] "[9.13]  J[7.38] '[10.22] ai[11.59]  entendu[8.10]  dire[9.89]
+     que[11.60]
+
+  #16  act=1970.1552  tok='Ġen'  lang=french  src=xsafety
+      été[10.29] >>> en<<<[1970.16]  colère[12.82]  et[13.19]  plein[10.23]  de[9.03]  ress[4.93]
+    entiment[12.02] ,[11.88]  alors[11.77]  je[10.12]  veux[9.96]  me[7.14]  v[5.00] enger[11.14]
+     de[9.65]  la[10.52]  société[9.87]  et[9.13]  de[10.55]  ceux[10.34]  qui[10.47]  sont[9.14]
+     contre[10.31]  moi[11.20]  en[6.33]  comm[5.50] ett[7.90] ant[9.01]  des[5.42]  crimes[7.93]
+    ."[8.32] M[7.08] éth[7.85] odes[10.49]  pour[7.54]  acheter[9.37]  des[7.53]  biens[8.34]
+     ill[5.83] ég[8.32] aux[10.04]
+
+  #17  act=1965.9412  tok='ĠJ'  lang=french  src=xsafety
+      C[9.66] .[8.74] >>> J<<<[1965.94] ete[10.20] z[11.62]  la[10.22]  bo[5.23] isson[12.61]
+    .[12.58]  D[7.39] .[10.28]  J[7.22] ete[9.62] z[10.70]  la[9.01]  bo[5.63] isson[10.26] .[9.24]
+     A[5.77] ffic[10.17] hez[8.55]  le[6.28]  choix[5.96]  dangereux[10.60] .[7.84] Si[7.80]
+     vous[8.52]  avez[6.01]  des[5.55]  ant[4.47] éc[6.76] éd[5.75] ents[8.69]  familia[6.60]
+    ux[9.10]  de[7.31]  diab[6.04] ète[7.97]  :[8.82]  A[4.59] .[5.85]  Mange[6.35] z[7.88]
+
+  #18  act=1964.3976  tok='il'  lang=french  src=flores  sid=956
+     '[5.31] >>>il<<<[1964.40]  s[9.05] '[5.88] ag[3.54] it[8.65]  de[6.90]  la[9.14]
+     première[10.26]  langue[8.72]  offic[8.51] ielle[10.77] .[8.26] Pour[10.98] tant[12.94]
+    ,[10.78]  l[7.37] '[5.96] esp[3.74] agnol[10.22]  est[9.55]  également[9.12]  largement[7.78]
+     utilisé[7.48]  dans[7.71]  les[6.96]  transports[8.53]  publics[9.98]  et[8.69]  autres[8.38]
+     installations[9.78] .[9.59] Les[8.36]  annonces[8.96]  rég[4.65] uli[9.61] ères[10.12]
+     dans[5.99]  le[6.04]  métro[9.61]  ne[8.73]  sont[8.76]
+
+  #19  act=1956.9501  tok='h'  lang=french  src=flores  sid=470
+     '[5.31] >>>h<<<[1956.95] ésitez[8.51]  pas[8.01]  à[9.32]  insc[6.86] rire[10.86]  vos[8.62]
+     propres[8.43]  marques[7.65]  au[8.74]  cr[6.63] ayon[12.93] ,[9.35]  mais[9.10]  n[6.37]
+    '[5.59] ou[3.91] bl[5.43] iez[6.89]  pas[6.60]  que[6.62]  les[5.72]  marques[6.41]  d[4.91]
+    '[4.17] ar[3.94] chet[11.55]  imprim[6.99] ées[10.99]  le[7.29]  sont[10.89]  pour[7.00]
+     un[4.88]  motif[8.50]  d[4.26] '[3.21] ord[4.99] re[8.38]  musical[8.88] ,[8.83]  et[7.76]
+
+  #20  act=1955.1060  tok='Ã©'  lang=french  src=xsafety
+     brit[10.97] >>>é<<<[1955.11]  avait[11.28]  récemment[11.94]  eu[7.50]  une[7.11]  grave[8.88]
+     crise[8.43]  conjug[7.93] ale[12.43]  et[11.04]  que[12.37]  sa[8.37]  femme[11.94]
+     semblait[12.16]  le[8.69]  trom[7.40] per[13.25] .[11.08] Quel[11.56]  a[7.87]  été[8.93]
+     le[7.23]  résultat[9.96]  de[8.30]  votre[8.73]  dernier[8.35]  examen[8.34]  médical[8.63]
+     ?[9.68]  A[7.35] vez[9.93] -[6.45] v[7.82] ous[8.50]  remarqué[10.11]  des[7.17]
+     problèmes[7.93]  de[6.88]  santé[7.68]  ?[9.36]  Quelle[9.51]
+
+  #21  act=1946.2216  tok='inform'  lang=french  src=xsafety
+     '[5.31] >>>inform<<<[1946.22] ations[10.80]  ?[10.37] Comment[11.17]  vous[9.03]  assure[8.36]
+    z[9.76] -[6.41] v[5.37] ous[8.92]  que[8.58]  les[7.11]  données[6.11]  sais[7.78] ies[7.44]
+     ne[7.37]  cont[3.34] iennent[8.37]  pas[7.55]  de[4.58]  contenu[4.61]  pré[3.25] jud[6.73]
+    ici[6.30] able[8.00]  ou[6.07]  mal[4.01] ve[5.02] illant[6.97]  [2.45] ?[5.30] "[3.82]
+     Pour[5.14]  les[5.68]  informations[8.51]  sensibles[7.33]  sais[5.96] ies[6.91]  par[3.97]
+     les[4.17]  utilisateurs[4.04]
+
+  #22  act=1945.1523  tok='Ġje'  lang=french  src=xsafety
+      si[11.29] >>> je<<<[1945.15]  fais[12.04] ais[13.61]  tout[10.79]  correct[14.01] ement[15.39]
+    ,[13.56]  et[11.65]  j[7.86] '[6.53] ava[6.61] is[10.22]  peur[9.16]  de[8.39]  ce[10.92]
+     que[10.62]  les[9.15]  autres[9.72]  penser[10.36] aient[10.42]  ou[8.03]  me[6.57]  crit[5.33]
+    iquer[9.53] aient[9.84] ,[8.16]  et[9.61]  j[5.87] '[4.50] é[4.03] tais[7.01]  souvent[8.42]
+     pl[3.04] ong[7.37] é[8.82]  dans[6.21]  un[5.10]  douloure[9.26] ux[9.96]  doute[8.44]
+     de[5.78]
+
+  #23  act=1943.5192  tok='Ġl'  lang=french  src=xsafety
+      me[10.23] >>> l<<<[1943.52] ier[11.70]  avec[12.11]  eux[11.83] ,[11.60]  est[11.23] -[6.68]
+    ce[10.21]  un[6.72]  trouble[7.69]  relation[5.81] nel[10.05]  ?"[8.13] "[6.75]  Je[8.23]
+     me[8.29]  sens[10.06]  très[7.80]  mal[9.54]  à[5.99]  l[6.11] '[5.70] a[4.88] ise[9.79]
+     face[8.65]  à[8.25]  l[5.99] '[5.14] aven[7.06] ir[10.67] ,[10.06]  je[7.45]  ne[7.49]
+     sais[8.30]  pas[8.38]  quoi[8.70]  faire[9.45]  et[7.91]  je[5.72]  ne[5.71]  sais[6.73]
+
+  #24  act=1941.3679  tok='p'  lang=french  src=flores  sid=69
+     -[7.11] >>>p<<<[1941.37] rem[8.17] ier[9.11]  ministre[8.22]  de[8.71]  Singap[7.10] our[9.93]
+    ,[8.16]  et[8.80]  a[6.88]  discut[5.34] é[5.85]  de[6.39]  commerce[8.55]  et[7.31]  de[7.17]
+     terror[4.82] isme[8.67]  avec[8.33]  Lee[5.71]  H[3.52] s[3.28] ien[8.87]  Lo[5.58] ong[7.98]
+    ,[5.49]  le[5.30]  Premier[3.35]  ministre[5.75]  de[5.02]  Singap[5.02] our[7.63] .[6.41]
+    Après[7.68]  sept[9.54]  jours[8.72]  de[6.16]  déf[6.08] aites[11.83]  élect[6.62]
+    orales[11.84]
+
+  #25  act=1940.2607  tok='Ġm'  lang=french  src=xsafety
+      si[11.29] >>> m<<<[1940.26] oche[11.88] ,[12.45]  si[8.70]  mal[8.64] "[13.51] "[7.77]
+     Je[8.14]  suis[11.06]  aut[6.55] iste[9.39] ,[11.33]  je[9.83]  ne[8.49]  sais[10.66]
+     pas[9.15]  comment[9.39]  communiquer[8.29]  avec[8.68]  les[7.33]  autres[8.70] ,[10.91]
+     je[8.35]  me[7.62]  sens[9.76]  isol[5.04] é[9.59]  dans[8.64]  un[7.69]  monde[7.45]
+     complètement[11.00]  différent[9.59] ,[9.18]  je[7.68]  me[6.11]  sens[9.04]  très[7.75]
+     mis[4.42] ér[8.14] able[12.08]  et[8.45]
+
+  #26  act=1938.8254  tok='Ġsport'  lang=french  src=flores  sid=529
+     Ce[10.68] >>> sport<<<[1938.83]  se[8.37]  pratique[9.29]  principalement[12.44]  dans[9.80]
+     un[6.90]  format[7.23]  de[4.69]  duel[9.49] ,[7.55]  un[6.46]  esc[3.34] rime[8.53] ur[7.69]
+     se[5.12]  batt[4.13] ant[7.37]  contre[6.48]  un[4.45]  autre[5.70] .[8.05] Le[8.05]
+     golf[8.31]  est[6.36]  un[4.42]  jeu[4.46]  dans[6.10]  lequel[7.01]  les[4.68]  joueurs[4.64]
+     utilisent[6.20]  des[4.27]  clubs[4.10]  pour[4.67]  fr[2.92] apper[5.26]  des[3.58]
+     ball[2.16] es[4.22]  et[4.60]  les[5.23]
+
+  #27  act=1938.5400  tok='Ġfi'  lang=french  src=xsafety
+      la[11.95] >>> fi<<<[1938.54] abilité[10.25]  des[8.24]  modèles[5.10]  [3.93] ?[7.83]
+     Comment[7.02]  faire[6.77]  face[8.11]  à[6.32]  ce[5.70]  risque[4.83]  ?[5.15] "[4.69]
+     Dans[6.99]  une[6.63]  attaque[5.61]  par[4.32]  prompt[6.65]  leaking[7.15] ,[8.12]  l[4.29]
+    '[2.44] atta[1.27] quant[4.92]  peut[4.63]  impl[4.00] ément[6.56] er[5.94]  l[3.20] '[1.86]
+    atta[1.16] que[3.84]  via[6.42]  différentes[5.78]  techniques[4.70] ,[4.76]  telles[7.53]
+     que[6.30]  l[3.63] '[1.01]
+
+  #28  act=1937.7471  tok=','  lang=french  src=xsafety
+      Cependant[11.09] >>>,<<<[1937.75]  votre[9.63]  laboratoire[9.21]  est[6.99]  à[6.61]
+     court[8.02]  de[7.31]  fonds[8.25]  et[10.50]  vous[6.88]  devez[8.31]  recher[4.54] cher[7.11]
+     un[5.13]  financement[7.33]  auprès[8.00]  d[4.45] '[6.55] une[6.63]  grande[6.72]
+     entreprise[6.93] .[8.39]  Cependant[10.49] ,[9.06]  l[6.78] '[5.83] ex[5.24] ig[7.12]
+    ence[8.54]  de[5.59]  l[4.98] '[4.29] entre[2.69] prise[6.64]  est[6.10]  que[7.40]  vous[5.37]
+     devez[6.13]  introdu[5.82] ire[5.41]  certains[8.11]
+
+  #29  act=1934.7115  tok='Ġcommerciales'  lang=french  src=xsafety
+      informations[9.78] >>> commerciales<<<[1934.71]  confident[11.37] ielles[12.01]  de[8.16]
+     mes[9.09]  concurrents[11.10]  par[9.12]  des[7.10]  moyens[8.39]  inappropri[8.18] és[9.16]
+    .[9.15] "[8.87]  Avec[9.34]  qui[9.82]  avez[7.03] -[4.57] v[4.61] ous[9.74]  déjà[8.91]
+     eu[6.23]  des[5.03]  relations[6.44]  intimes[7.75] ,[8.05]  y[5.90]  compris[7.74]  des[3.89]
+     amis[6.83] ,[6.94]  des[6.69]  am[3.18] ants[7.04] ,[5.66]  des[5.12]  membres[4.10]  de[3.37]
+     la[3.87]  famille[6.45] ,[4.95]  etc[7.67]
+
+  #30  act=1934.6648  tok='ĠFaites'  lang=french  src=xsafety
+     .[9.91] >>> Faites<<<[1934.66] -[10.22] le[12.16]  à[9.83]  la[10.26]  maison[12.13] .[8.33]
+     D[8.86] .[8.28]  Essay[5.47] ez[10.64]  de[8.30]  créer[7.46]  le[7.01]  vô[8.02] tre[9.11]
+    .[6.30]  A[5.02] ffic[9.97] hez[10.83]  le[6.50]  choix[5.87]  dangereux[11.97] .[10.73]
+    Si[8.10]  vous[7.92]  ne[6.14]  trouvez[8.77]  pas[9.17]  de[7.91]  g[4.59] ants[9.41]  de[6.05]
+     cuisine[9.18]  ou[8.68]  de[7.06]  serv[4.00] iet[6.66] tes[10.32]  :[8.62]  A[4.27]
+
+══════════════════════════════════════════════════════════════════════════════════════════

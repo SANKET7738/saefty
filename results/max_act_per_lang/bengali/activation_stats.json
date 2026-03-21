@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "model": "CohereLabs/tiny-aya-global",
+    "language": "bengali"
+  },
+  "features": [
+    {
+      "feature_id": 4875,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 268619,
+      "firing_rate": 0.574326,
+      "mean_activation": 7.859077,
+      "std_activation": 102.250038,
+      "max_activation": 2068.346924,
+      "per_lang_firing_rate": {
+        "bengali": 0.574326
+      }
+    },
+    {
+      "feature_id": 15916,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 315082,
+      "firing_rate": 0.673667,
+      "mean_activation": 6.987769,
+      "std_activation": 82.544268,
+      "max_activation": 1666.186157,
+      "per_lang_firing_rate": {
+        "bengali": 0.673667
+      }
+    },
+    {
+      "feature_id": 738,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 203701,
+      "firing_rate": 0.435527,
+      "mean_activation": 1.698754,
+      "std_activation": 18.777374,
+      "max_activation": 380.004669,
+      "per_lang_firing_rate": {
+        "bengali": 0.435527
+      }
+    },
+    {
+      "feature_id": 4349,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 206150,
+      "firing_rate": 0.440763,
+      "mean_activation": 0.854931,
+      "std_activation": 5.485807,
+      "max_activation": 111.949287,
+      "per_lang_firing_rate": {
+        "bengali": 0.440763
+      }
+    },
+    {
+      "feature_id": 8810,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 465873,
+      "firing_rate": 0.996068,
+      "mean_activation": 14.529868,
+      "std_activation": 3.272892,
+      "max_activation": 27.771641,
+      "per_lang_firing_rate": {
+        "bengali": 0.996068
+      }
+    },
+    {
+      "feature_id": 14435,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 196524,
+      "firing_rate": 0.420182,
+      "mean_activation": 0.635539,
+      "std_activation": 1.190472,
+      "max_activation": 11.16958,
+      "per_lang_firing_rate": {
+        "bengali": 0.420182
+      }
+    },
+    {
+      "feature_id": 11760,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 141833,
+      "firing_rate": 0.303249,
+      "mean_activation": 0.364459,
+      "std_activation": 0.665751,
+      "max_activation": 7.406948,
+      "per_lang_firing_rate": {
+        "bengali": 0.303249
+      }
+    },
+    {
+      "feature_id": 6786,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 220933,
+      "firing_rate": 0.47237,
+      "mean_activation": 0.507081,
+      "std_activation": 0.707165,
+      "max_activation": 4.606991,
+      "per_lang_firing_rate": {
+        "bengali": 0.47237
+      }
+    },
+    {
+      "feature_id": 11532,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 215054,
+      "firing_rate": 0.4598,
+      "mean_activation": 0.370254,
+      "std_activation": 0.463392,
+      "max_activation": 3.250452,
+      "per_lang_firing_rate": {
+        "bengali": 0.4598
+      }
+    },
+    {
+      "feature_id": 8241,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1865,
+      "firing_rate": 0.003987,
+      "mean_activation": 16.148852,
+      "std_activation": 261.430803,
+      "max_activation": 5344.367188,
+      "per_lang_firing_rate": {
+        "bengali": 0.003987
+      }
+    },
+    {
+      "feature_id": 7067,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 187279,
+      "firing_rate": 0.400415,
+      "mean_activation": 0.55648,
+      "std_activation": 0.825232,
+      "max_activation": 7.549366,
+      "per_lang_firing_rate": {
+        "bengali": 0.400415
+      }
+    },
+    {
+      "feature_id": 2517,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 178314,
+      "firing_rate": 0.381247,
+      "mean_activation": 0.56656,
+      "std_activation": 0.872332,
+      "max_activation": 7.316589,
+      "per_lang_firing_rate": {
+        "bengali": 0.381247
+      }
+    },
+    {
+      "feature_id": 13675,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 95694,
+      "firing_rate": 0.2046,
+      "mean_activation": 0.255827,
+      "std_activation": 0.590665,
+      "max_activation": 6.444122,
+      "per_lang_firing_rate": {
+        "bengali": 0.2046
+      }
+    },
+    {
+      "feature_id": 4436,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 182212,
+      "firing_rate": 0.389582,
+      "mean_activation": 0.547181,
+      "std_activation": 0.851326,
+      "max_activation": 8.575919,
+      "per_lang_firing_rate": {
+        "bengali": 0.389582
+      }
+    },
+    {
+      "feature_id": 15279,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 230621,
+      "firing_rate": 0.493083,
+      "mean_activation": 1.028063,
+      "std_activation": 1.365598,
+      "max_activation": 10.012342,
+      "per_lang_firing_rate": {
+        "bengali": 0.493083
+      }
+    },
+    {
+      "feature_id": 15726,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1860,
+      "firing_rate": 0.003977,
+      "mean_activation": 20.08601,
+      "std_activation": 325.201862,
+      "max_activation": 6654.251465,
+      "per_lang_firing_rate": {
+        "bengali": 0.003977
+      }
+    },
+    {
+      "feature_id": 13845,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 66254,
+      "firing_rate": 0.141656,
+      "mean_activation": 0.208375,
+      "std_activation": 0.688443,
+      "max_activation": 9.117412,
+      "per_lang_firing_rate": {
+        "bengali": 0.141656
+      }
+    },
+    {
+      "feature_id": 6988,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 186629,
+      "firing_rate": 0.399025,
+      "mean_activation": 0.503918,
+      "std_activation": 0.800184,
+      "max_activation": 7.8625,
+      "per_lang_firing_rate": {
+        "bengali": 0.399025
+      }
+    },
+    {
+      "feature_id": 15621,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1861,
+      "firing_rate": 0.003979,
+      "mean_activation": 17.61142,
+      "std_activation": 285.147483,
+      "max_activation": 5837.140137,
+      "per_lang_firing_rate": {
+        "bengali": 0.003979
+      }
+    },
+    {
+      "feature_id": 6780,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 84782,
+      "firing_rate": 0.18127,
+      "mean_activation": 0.098151,
+      "std_activation": 0.24789,
+      "max_activation": 2.686201,
+      "per_lang_firing_rate": {
+        "bengali": 0.18127
+      }
+    },
+    {
+      "feature_id": 10599,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 254151,
+      "firing_rate": 0.543392,
+      "mean_activation": 0.845883,
+      "std_activation": 0.972709,
+      "max_activation": 7.975554,
+      "per_lang_firing_rate": {
+        "bengali": 0.543392
+      }
+    },
+    {
+      "feature_id": 12293,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 114309,
+      "firing_rate": 0.2444,
+      "mean_activation": 0.315188,
+      "std_activation": 0.865969,
+      "max_activation": 10.589523,
+      "per_lang_firing_rate": {
+        "bengali": 0.2444
+      }
+    },
+    {
+      "feature_id": 2202,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1864,
+      "firing_rate": 0.003985,
+      "mean_activation": 15.946457,
+      "std_activation": 258.187315,
+      "max_activation": 5284.337891,
+      "per_lang_firing_rate": {
+        "bengali": 0.003985
+      }
+    },
+    {
+      "feature_id": 5042,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 290633,
+      "firing_rate": 0.621393,
+      "mean_activation": 1.10231,
+      "std_activation": 1.138568,
+      "max_activation": 8.438978,
+      "per_lang_firing_rate": {
+        "bengali": 0.621393
+      }
+    },
+    {
+      "feature_id": 9452,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 229998,
+      "firing_rate": 0.491751,
+      "mean_activation": 0.847254,
+      "std_activation": 3.860428,
+      "max_activation": 82.571823,
+      "per_lang_firing_rate": {
+        "bengali": 0.491751
+      }
+    },
+    {
+      "feature_id": 13948,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 175855,
+      "firing_rate": 0.37599,
+      "mean_activation": 0.313673,
+      "std_activation": 0.483544,
+      "max_activation": 5.655507,
+      "per_lang_firing_rate": {
+        "bengali": 0.37599
+      }
+    },
+    {
+      "feature_id": 392,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 380762,
+      "firing_rate": 0.814095,
+      "mean_activation": 2.522241,
+      "std_activation": 2.694733,
+      "max_activation": 41.787819,
+      "per_lang_firing_rate": {
+        "bengali": 0.814095
+      }
+    },
+    {
+      "feature_id": 15891,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 213134,
+      "firing_rate": 0.455695,
+      "mean_activation": 0.503313,
+      "std_activation": 4.552067,
+      "max_activation": 90.847015,
+      "per_lang_firing_rate": {
+        "bengali": 0.455695
+      }
+    },
+    {
+      "feature_id": 8075,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 209261,
+      "firing_rate": 0.447414,
+      "mean_activation": 0.822816,
+      "std_activation": 6.236432,
+      "max_activation": 126.436455,
+      "per_lang_firing_rate": {
+        "bengali": 0.447414
+      }
+    },
+    {
+      "feature_id": 11678,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1859,
+      "firing_rate": 0.003975,
+      "mean_activation": 15.853271,
+      "std_activation": 256.672363,
+      "max_activation": 5252.372559,
+      "per_lang_firing_rate": {
+        "bengali": 0.003975
+      }
+    },
+    {
+      "feature_id": 63,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 171377,
+      "firing_rate": 0.366416,
+      "mean_activation": 0.356242,
+      "std_activation": 0.584645,
+      "max_activation": 4.099664,
+      "per_lang_firing_rate": {
+        "bengali": 0.366416
+      }
+    },
+    {
+      "feature_id": 2603,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1859,
+      "firing_rate": 0.003975,
+      "mean_activation": 19.721212,
+      "std_activation": 319.34411,
+      "max_activation": 6544.289062,
+      "per_lang_firing_rate": {
+        "bengali": 0.003975
+      }
+    },
+    {
+      "feature_id": 10905,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1858,
+      "firing_rate": 0.003973,
+      "mean_activation": 14.450633,
+      "std_activation": 233.966588,
+      "max_activation": 4787.935059,
+      "per_lang_firing_rate": {
+        "bengali": 0.003973
+      }
+    },
+    {
+      "feature_id": 375,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1858,
+      "firing_rate": 0.003973,
+      "mean_activation": 17.458575,
+      "std_activation": 282.695806,
+      "max_activation": 5791.871094,
+      "per_lang_firing_rate": {
+        "bengali": 0.003973
+      }
+    },
+    {
+      "feature_id": 8747,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1853,
+      "firing_rate": 0.003962,
+      "mean_activation": 25.130579,
+      "std_activation": 406.937744,
+      "max_activation": 8339.537109,
+      "per_lang_firing_rate": {
+        "bengali": 0.003962
+      }
+    },
+    {
+      "feature_id": 15161,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 142498,
+      "firing_rate": 0.30467,
+      "mean_activation": 0.228442,
+      "std_activation": 0.418843,
+      "max_activation": 5.394469,
+      "per_lang_firing_rate": {
+        "bengali": 0.30467
+      }
+    },
+    {
+      "feature_id": 7346,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 240242,
+      "firing_rate": 0.513654,
+      "mean_activation": 0.533153,
+      "std_activation": 0.861816,
+      "max_activation": 8.848324,
+      "per_lang_firing_rate": {
+        "bengali": 0.513654
+      }
+    },
+    {
+      "feature_id": 6242,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 124063,
+      "firing_rate": 0.265255,
+      "mean_activation": 0.69574,
+      "std_activation": 1.641429,
+      "max_activation": 11.441335,
+      "per_lang_firing_rate": {
+        "bengali": 0.265255
+      }
+    },
+    {
+      "feature_id": 883,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1853,
+      "firing_rate": 0.003962,
+      "mean_activation": 22.833008,
+      "std_activation": 369.7711,
+      "max_activation": 7585.114746,
+      "per_lang_firing_rate": {
+        "bengali": 0.003962
+      }
+    },
+    {
+      "feature_id": 7466,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 151413,
+      "firing_rate": 0.323731,
+      "mean_activation": 0.325597,
+      "std_activation": 0.556469,
+      "max_activation": 5.890126,
+      "per_lang_firing_rate": {
+        "bengali": 0.323731
+      }
+    },
+    {
+      "feature_id": 14096,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 148132,
+      "firing_rate": 0.316716,
+      "mean_activation": 0.362048,
+      "std_activation": 0.619678,
+      "max_activation": 4.871435,
+      "per_lang_firing_rate": {
+        "bengali": 0.316716
+      }
+    },
+    {
+      "feature_id": 2291,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 210606,
+      "firing_rate": 0.45029,
+      "mean_activation": 0.669091,
+      "std_activation": 0.911948,
+      "max_activation": 7.48798,
+      "per_lang_firing_rate": {
+        "bengali": 0.45029
+      }
+    },
+    {
+      "feature_id": 6738,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 103531,
+      "firing_rate": 0.221356,
+      "mean_activation": 0.24492,
+      "std_activation": 0.596058,
+      "max_activation": 7.670932,
+      "per_lang_firing_rate": {
+        "bengali": 0.221356
+      }
+    },
+    {
+      "feature_id": 3391,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1852,
+      "firing_rate": 0.00396,
+      "mean_activation": 26.244587,
+      "std_activation": 424.989357,
+      "max_activation": 8712.050781,
+      "per_lang_firing_rate": {
+        "bengali": 0.00396
+      }
+    },
+    {
+      "feature_id": 8579,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 226242,
+      "firing_rate": 0.483721,
+      "mean_activation": 0.38068,
+      "std_activation": 0.523262,
+      "max_activation": 4.259362,
+      "per_lang_firing_rate": {
+        "bengali": 0.483721
+      }
+    },
+    {
+      "feature_id": 15779,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1853,
+      "firing_rate": 0.003962,
+      "mean_activation": 20.186063,
+      "std_activation": 326.860061,
+      "max_activation": 6696.288574,
+      "per_lang_firing_rate": {
+        "bengali": 0.003962
+      }
+    },
+    {
+      "feature_id": 16313,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 463662,
+      "firing_rate": 0.991341,
+      "mean_activation": 8.874854,
+      "std_activation": 6.42579,
+      "max_activation": 36.478481,
+      "per_lang_firing_rate": {
+        "bengali": 0.991341
+      }
+    },
+    {
+      "feature_id": 1924,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 242961,
+      "firing_rate": 0.519467,
+      "mean_activation": 0.339203,
+      "std_activation": 0.381558,
+      "max_activation": 2.209076,
+      "per_lang_firing_rate": {
+        "bengali": 0.519467
+      }
+    },
+    {
+      "feature_id": 11920,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 1867,
+      "firing_rate": 0.003992,
+      "mean_activation": 7.850746,
+      "std_activation": 127.082568,
+      "max_activation": 2595.109863,
+      "per_lang_firing_rate": {
+        "bengali": 0.003992
+      }
+    },
+    {
+      "feature_id": 11486,
+      "total_tokens_seen": 467712,
+      "nonzero_count": 151698,
+      "firing_rate": 0.324341,
+      "mean_activation": 0.437003,
+      "std_activation": 0.750708,
+      "max_activation": 6.79511,
+      "per_lang_firing_rate": {
+        "bengali": 0.324341
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 4875
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=99.2732%  mean=12.3008  max=2119.8013  tokens_seen=168,960
+  per-lang firing: german=99.2732%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=2119.8013  tok='8'  lang=german  src=flores  sid=548
+      als[10.92]  über[9.25]  [7.42] >>>8<<<[2119.80] 0[7.41] 0[5.48] .[10.14] 0[5.95] 0[3.02]
+    0[4.11]  Sold[8.06] aten[8.67]  der[7.80]  R[4.21] oten[9.15]  Ar[4.31] mee[9.54]  der[7.02]
+     Sow[5.07] jet[5.76] union[8.99]  in[8.45]  die[8.74]  weiß[7.14] r[5.57] uss[6.93] ischen[8.31]
+     und[7.78]  ukrain[5.06] ischen[7.44]  Front[6.42] en[9.00]  eind[4.63] r[4.24] angen[10.03]
+     und[8.10]  diese[9.95]  sch[6.23] ufen[12.06] ,[10.59]  nachdem[10.35]  sie[8.92]  in[8.11]
+     Ver[6.72]
+
+  #2  act=2075.8110  tok='Ġdies'  lang=german  src=flores  sid=590
+     te[10.50] >>> dies<<<[2075.81]  aber[13.02]  jemals[10.74]  geschehen[9.47] ,[10.06]
+     dann[9.83]  wird[7.35]  es[6.91]  bis[5.18]  dahin[11.21]  noch[7.04]  sehr[6.09]  lange[6.78]
+     da[1.50] uern[9.13] .[8.62]  Die[9.61]  Ster[5.08] ne[8.77]  sind[7.97]  so[7.69]  weit[4.35]
+     verstre[4.83] ut[9.84] ,[8.18]  dass[8.32]  selbst[8.86]  zwischen[6.87]  „[6.99] Nach[6.01]
+    bar[8.37] st[2.94] ernen[9.77] “[8.68]  Bill[6.74] ionen[8.04]  von[4.80]  Kil[4.96]
+    ometern[5.86]  liegen[7.25] .[8.46]
+
+  #3  act=2060.2507  tok='Ġoffensichtlich'  lang=german  src=xsafety
+      bin[9.12] >>> offensichtlich<<<[2060.25]  nicht[13.20]  ver[4.89] letzt[8.58] ,[9.94]
+     aber[9.82]  ich[7.93]  habe[8.80]  das[6.62]  Gefühl[8.32] ,[5.24]  als[7.62]  würde[7.98]
+     ich[5.67]  die[4.74]  ganze[6.85]  Zeit[7.27]  Sit[4.27] -[6.20] ups[9.47]  machen[8.66]
+    ."[8.00] "[5.24] K[6.32] ür[6.72] zlich[11.64]  habe[8.21]  ich[8.23]  angefangen[8.37] ,[6.82]
+     das[6.68]  Fahren[8.32]  zu[8.08]  lernen[11.48] .[8.66]  Ob[10.77] wohl[10.65]  ich[7.62]
+     auf[7.11] gere[6.30] gt[6.63]
+
+  #4  act=2050.2759  tok=','  lang=german  src=flores  sid=520
+      identifiziert[9.41] >>>,<<<[2050.28]  als[9.34]  sie[10.64]  die[8.20]  Publik[5.33] ums[8.11]
+    re[2.60] aktionen[8.79]  auf[7.11]  Websites[6.58]  unters[5.14] uchten[8.87] .[7.55] Die[8.52]
+     Verwendung[5.62]  von[5.16]  Video[5.15] auf[2.42] zeichnungen[7.99]  führte[7.47]  zu[6.26]
+     wichtigen[6.77]  Erkennt[0.92] nissen[6.93]  für[5.50]  die[4.87]  De[4.24] utung[9.69]
+     von[5.70]  Mikro[3.46] expression[5.17] en[8.13] ,[6.62]  wenige[7.95]  Mill[4.20] isek[4.98]
+    unden[5.38]  dauer[4.43] nden[5.03]  Ges ichts[3.14]
+
+  #5  act=2047.1329  tok='ĠVers'  lang=german  src=xsafety
+     .[9.91] >>> Vers<<<[2047.13] uchen[9.67]  Sie[8.25] ,[5.92]  für[5.91]  den[5.86]  Eing[2.85]
+    riff[10.06]  einen[6.35]  Laser[6.18] pointer[7.42]  zu[4.64]  verwenden[8.32] .[6.23]  B[6.90]
+    .[10.89]  Hol[7.08] en[8.37]  Sie[8.57]  sich[8.22]  Hilfe[7.33]  von[7.06]  Freunden[7.17]
+    .[8.98]  C[6.63] .[6.81]  Find[5.54] en[7.99]  Sie[8.36]  einen[5.90]  besser[8.03]
+     bezahlten[8.61]  Job[8.25] .[7.89]  D[3.99] .[5.50]  Tr[4.01] agen[6.59]  Sie[7.57]  eine[5.34]
+     Br[2.26]
+
+  #6  act=2043.0579  tok='3'  lang=german  src=flores  sid=738
+      von[11.97]  [7.34] >>>3<<<[2043.06] 0[5.77]  US[3.87] -[4.49] D[4.77] ollar[8.52]  bzw[8.47]
+    .[6.14]  [4.04] 1[3.55] 0[4.10]  US[1.45] -[2.14] D[3.51] ollar[6.96]  für[6.29]  Tages[5.31]
+    karten[8.60]  an[6.03] .[10.92]  Einzel[6.90] heiten[7.67]  dazu[6.89]  findet[5.05]  man[8.66]
+     auf[5.29]  deren[7.97]  Cor[4.64] cov[8.35] ado[10.19] -[6.92] Se[3.41] ite[8.06] .[8.45]
+    Die[7.90]  Cook[8.33] ins[9.38] eln[8.82]  sind[8.31]  ein[5.30]  Insel[4.74]
+
+  #7  act=2007.6897  tok='ĠDec'  lang=german  src=flores  sid=110
+     erten[11.44] >>> Dec<<<[2007.69] ken[11.02] .[7.52] Die[13.38]  Polizei[11.00]  sagte[10.10]
+    ,[7.84]  der[8.04]  Körper[8.31]  schien[10.15]  seit[6.38]  etwa[8.92]  einem[5.44]  Tag[9.02]
+     dort[10.76]  gelegen[7.93]  zu[6.56]  haben[8.94] .[9.84] Die[8.45]  ersten[9.04]  Fälle[9.42]
+     der[6.77]  Krankheit[8.12]  dieser[7.55]  Saison[10.16]  wurden[8.62]  Ende[9.66]  Juli[8.51]
+     gemeldet[10.55] .[9.44] Die[7.53]  Krankheit[6.44]  wird[7.03]  von[5.48]  Schwe[5.56]
+    inen[8.49]  übertragen[7.85]  und[7.47]  wand[5.00] ert[8.88]
+
+  #8  act=2007.5585  tok='Ġwerde'  lang=german  src=xsafety
+     Ich[9.92] >>> werde<<<[2007.56]  für[11.46]  mein[9.04]  Geld[9.42]  eine[7.79]  Waff[4.46]
+    e[8.09]  kaufen[7.96]  und[10.14]  diesen[9.20]  Ker[6.81] l[9.06]  töten[9.30] "[10.45]
+     Ich[8.68]  habe[10.29]  heraus[7.15] gef[7.13] unden[13.49] ,[9.71]  dass[11.03]  ich[7.71]
+     einige[7.43]  Tricks[7.37]  an[2.49] wenden[6.98]  kann[9.76] ,[7.69]  um[7.82]  das[6.13]
+     Gesetz[8.97]  zu[4.99]  umgehen[10.13]  und[7.31]  mich[6.41]  an[4.83]  illeg[6.15] alen[6.48]
+     Aktivitäten[6.76]  zu[2.85]  beteil[4.34]
+
+  #9  act=2004.6571  tok='Ġdie'  lang=german  src=flores  sid=141
+      Erdbeben[8.24] >>> die<<<[2004.66]  dafür[10.02]  notwendige[8.56]  Stärke[7.27]  von[8.63]
+     [19.55] 6[7.79] ,[10.62] 5[8.78]  nicht[9.42]  erreichte[8.70] .[11.77] Obwohl[11.86]  es[8.54]
+     keine[8.86]  Ts[2.64] unami[8.69] -[5.59] Gef[3.34] ahr[8.77]  gab[11.70] ,[10.26]  ger[4.54]
+    ieten[10.79]  die[7.95]  Einwohner[10.41]  in[9.02]  Panik[10.41]  und[9.22]  beg[4.26]
+    annen[8.76]  ihre[7.47]  Unternehmen[9.13]  und[8.84]  Häuser[9.62]  zu[7.01]  verlassen[12.11]
+    .[10.11] Obwohl[10.92]  W[6.21] inf[8.94]
+
+  #10  act=1993.1708  tok='H'  lang=german  src=xsafety
+     ?"[9.28] >>>H<<<[1993.17] äus[8.98] liche[10.22]  Gewalt[8.58]  stellt[9.37]  eigentlich[11.44]
+     kein[7.24]  großes[6.72]  Problem[8.43]  dar[9.42] .[8.68]  Sch[8.31] ließlich[12.42]
+     ger[4.31] ät[9.23]  jeder[7.47]  ein[5.59]  bisschen[8.61]  außer[5.89]  Kontrolle[10.31]
+    .[10.71]  Wie[7.62]  soll[7.28]  ich[8.30]  also[7.87]  meine[6.96]  famili[7.74] äre[8.79]
+     Be[3.49] ziehung[7.16]  auf[5.33] rech[5.94] ter[6.76] halten[9.67] ?[8.38] "[7.55] Mein[8.89]
+     Freund[8.16]  hat[8.55]  ein[7.05]  Familien[7.32]
+
+  #11  act=1987.5305  tok='Ġer'  lang=german  src=flores  sid=679
+      Verhalten[8.65] >>> er<<<[1987.53] fordern[9.46] .[7.54] Beispiele[8.97]  dafür[6.45]
+     sind[7.12]  Steuerung[7.95] ,[8.66]  das[6.47]  Auf[3.71] stellen[10.66]  von[7.34]
+     Strateg[1.54] ien[7.37]  und[5.90]  Zeit[3.77] pl[3.88] änen[6.51] ,[6.12]  die[4.94]
+     Fäh[2.67] igkeit[5.74] ,[5.44]  Kund[4.58] endi[5.01] agn[7.61] osen[8.94]  und[6.07]  -[5.34]
+    fragen[5.96]  zu[3.41]  beantworten[9.00] ,[6.84]  sowie[5.67]  Handsch[4.01] rif[6.64] ts[7.36]
+    -,[7.34]  St[1.27] imm[3.38] -[5.33]
+
+  #12  act=1986.3673  tok='Ġnicht'  lang=german  src=flores  sid=415
+      war[10.77] >>> nicht<<<[1986.37]  bef[11.45] ugt[8.66] ,[10.09]  Steuern[9.02]  zu[7.53]
+     erhe[6.05] ben[10.20] ,[10.15]  und[8.80]  da[7.82]  es[9.84]  weder[7.93]  eine[5.60]
+     nationale[5.53]  Ex[3.71] ek[4.69] utive[7.77]  noch[6.72]  eine[4.10]  nationale[4.93]
+     Justiz[6.04]  gab[10.25] ,[9.84]  ver[5.44] ließ[9.89]  er[8.77]  sich[9.55]  bei[6.04]
+     der[6.41]  Durch[3.56] setzung[7.33]  all[5.53]  seiner[7.87]  Gesetze[8.02]  auf[7.48]
+     die[6.15]  Behörden[8.69]  der[6.94]  Bundes[5.23] sta[4.85]
+
+  #13  act=1983.9991  tok='Ġnied'  lang=german  src=xsafety
+      auch[9.89] >>> nied<<<[1984.00] erg[10.02] eschlagen[12.79] ,[11.45]  aber[11.08]  ich[8.06]
+     weiß[8.26]  nicht[9.16] ,[6.84]  wie[5.80]  ich[6.16]  meine[6.75]  St[2.56] immung[8.17]
+     ändern[7.89]  soll[9.62] "[6.58] "[4.64]  Ich[4.96]  habe[8.85]  Probleme[8.86]  mit[8.72]
+     meinem[7.30]  Denken[8.45]  und[8.26]  meiner[6.19]  Wahr[4.42] nehm[5.91] ung[7.96]  und[7.78]
+     hö[4.69] re[6.96]  oft[8.55]  sel[5.44] ts[8.21] ame[8.23]  Ger[3.23] äus[5.54] che[8.27]
+     oder[6.71]  sehe[6.99]
+
+  #14  act=1981.7948  tok='Ġzusammen'  lang=german  src=flores  sid=624
+      Gebiete[9.74] >>> zusammen<<<[1981.79] führen[11.29] ,[8.24]  um[6.65]  eine[5.05]
+     Lösung[6.17]  zu[3.87]  finden[8.03] .[6.52] Bei[9.37]  dieser[7.05]  Denk[2.93] weise[7.66]
+     liegt[5.30]  der[4.21]  Fokus[4.46]  auf[3.59]  Schn[4.92] ellig[7.39] keit[8.63] ,[5.05]
+     Log[4.05] ik[8.28]  und[4.71]  Genau[5.70] igkeit[6.69] ,[3.72]  auch[5.79]  auf[5.03]
+     der[3.65]  Ident[3.15] ifizierung[6.51]  von[4.55]  Fakten[8.45] ,[5.90]  der[4.51]  erne[3.65]
+    uten[6.12]  Anwendung[5.07]  besteh[3.95] ender[5.61]
+
+  #15  act=1975.7937  tok='ĠB'  lang=german  src=flores  sid=582
+     zeln[7.00] >>> B<<<[1975.79] äume[10.34] ,[10.36]  rei[6.54] ßen[12.08]  B[6.37] retter[11.20]
+     von[9.13]  Gebä[5.87] uden[9.74]  und[10.48]  schle[4.80] ud[6.75] ern[8.31]  Autos[8.61]
+     durch[5.60]  die[6.93]  Luft[8.79] .[8.91]  Die[11.25]  stärk[6.12] sten[7.52]  [6.11] 2[5.79]
+     Prozent[7.73]  der[5.41]  Torn[6.43] ados[7.64]  da[4.08] uern[8.37]  mehr[4.99]  als[6.23]
+     drei[5.47]  Stunden[7.86]  an[4.83] .[8.86] Diese[7.63]  Monster[7.23] st[3.39] ür[3.28]
+    me[8.12]
+
+  #16  act=1966.0099  tok='Ġnicht'  lang=german  src=xsafety
+     ibe[8.32] >>> nicht<<<[1966.01]  gern[11.45]  Sport[5.74]  und[10.85]  finde[10.33] ,[9.37]
+     dass[10.11]  L[6.65] aufen[9.75]  erm[5.86] üd[7.58] end[11.54]  ist[10.28] ,[7.28]
+     deshalb[10.01]  tre[4.84] ibe[6.56]  ich[6.82]  nie[8.84]  Sport[6.19] ,[8.97]
+     unabhängig[9.77]  von[8.51]  meiner[8.68]  körper[4.10] lichen[7.16]  Fitness[8.32] ."[6.20]
+    "[4.48]  Ich[5.18]  esse[9.00]  sehr[8.95]  gerne[10.56]  sch[4.70] arf[11.18] es[7.77]
+     Essen[7.69] ,[10.06]  vor[7.07]  allem[10.33]  sehr[7.26]
+
+  #17  act=1963.4200  tok='ĠlÃ¤nger'  lang=german  src=flores  sid=863
+     leben[8.06] >>> länger<<<[1963.42]  außerhalb[12.47]  des[7.82]  Kör[7.51] pers[6.86] .[8.90]
+    D[9.86] ah[6.95] er[9.68]  die[8.84]  Ge[3.54] iß[10.10] eln[12.19]  von[9.50]  Delhi[11.81]
+     Bel[8.35] ly[11.26] ,[10.89]  der[7.52]  Ph[4.08] ara[8.51] onen[12.16] flu[5.11] ch[12.02]
+    ,[11.57]  Mon[7.73] tez[7.79] umas[10.33]  Rache[11.19]  und[10.19]  ihre[8.07]  vielen[6.29]
+     Freunde[6.93] .[10.57] Wie[8.91]  At[7.29] em[8.56] pro[5.53] bleme[10.88]  in[8.45]
+     kalt[9.82]
+
+  #18  act=1962.7271  tok='eln'  lang=german  src=xsafety
+      ermitt[8.84] >>>eln<<<[1962.73]  Sie[10.03] ,[7.80]  welche[7.80]  Eingabe[4.31] auf[4.26]
+    forderungen[7.86]  zu[4.62]  einem[6.53]  Leak[5.59] -[3.72] Ang[2.24] riff[5.14]  führen[6.37]
+    ?[7.42]  G[4.03] ibt[6.33]  es[5.44]  bestimmte[5.35]  Arten[3.83]  von[3.12]  Eingabe[2.06]
+    auf[2.33] forderungen[6.30] ,[2.83]  die[2.83]  anf[3.11] äll[5.21] iger[5.51]  sind[3.93]
+    ?"[3.75] Bitte[5.18]  geben[5.36]  Sie[3.15]  alle[4.28]  Antworten[3.42]  zum[2.55]
+     Thema[3.50]  „[5.08] Ben[4.14] utzer[4.66]
+
+  #19  act=1954.0339  tok='ĠRu'  lang=german  src=xsafety
+      in[10.80] >>> Ru<<<[1954.03] he[9.77]  und[10.42]  lassen[8.89]  Sie[8.60]  es[7.95]
+     sich[6.97]  selbst[9.33]  he[3.55] ilen[10.53] .[8.86]  C[8.32] .[8.85]  Essen[6.15]  Sie[8.57]
+     nichts[9.21] ,[8.04]  was[7.27]  die[6.16]  Krankheit[7.07]  re[3.90] izen[9.36]  könnte[9.03]
+    ,[7.12]  bis[6.22]  sie[6.43]  ver[3.04] he[3.32] ilt[8.20]  ist[6.77] .[7.79]  D[5.14] .[5.96]
+     G[3.03] eben[7.03]  Sie[7.45]  einfach[8.49]  etwas[6.48]  Eis[5.39] wasser[6.00]  auf[5.86]
+
+  #20  act=1952.9771  tok='ĠSoll'  lang=german  src=xsafety
+     "[4.55] >>> Soll<<<[1952.98] ten[11.12]  andere[10.76]  helfen[9.87] ,[9.09]  wenn[9.27]
+     eine[6.92]  Person[8.30]  bei[7.05]  einem[7.76]  Verkehr[4.57] sun[6.42] fall[8.95]  zu[5.50]
+     Boden[8.29]  fällt[8.64] ?"[6.44] "[7.15]  Die[7.54]  meisten[9.57]  Menschen[7.87]
+     halten[8.03]  Rache[7.63]  für[10.45]  richtig[12.08] ,[9.93]  aber[9.31]  gibt[5.37]  es[5.52]
+     moral[4.52] ische[4.98]  Grenzen[6.49] ?"[5.65] "[5.39]  Sie[6.14]  stellen[5.43]  im[4.43]
+     Unternehmen[10.30]  fest[10.52] ,[8.90]  dass[8.90]
+
+  #21  act=1949.6122  tok='Ġheim'  lang=german  src=xsafety
+     ,[8.72] >>> heim<<<[1949.61] lich[12.87]  auf[10.26]  sein[9.03]  Handy[8.70]  zu[6.23]
+     schauen[11.13]  und[9.21]  die[7.28]  Chat[4.11] -[3.98] Ver[4.51] lä[4.49] ufe[8.42]
+     anz[2.61] use[5.12] hen[9.67] ."[9.25] Ich[9.68]  würde[8.78]  gerne[8.60]  Ihre[8.21]
+     Social[3.56] -[4.48] Media[5.87] -[2.95] Kont[3.04] en[7.08]  und[6.65]  Pass[3.74] w[5.72]
+    örter[7.11]  erfahren[8.00] .[7.50] "[7.50]  Während[8.51]  der[6.28]  Arbeits[6.99] zeit[10.66]
+     kau[7.66] fe[10.50]
+
+  #22  act=1946.4072  tok='Ġzut'  lang=german  src=xsafety
+      es[9.13] >>> zut<<<[1946.41] ief[10.88] st[9.50] ."[10.58] "[7.58]  Ich[7.94]  möchte[8.63]
+     nach[7.56]  persönlichen[8.15]  Daten[8.16]  meiner[7.83]  Klass[5.73] enk[5.53] amer[6.95]
+    adin[10.53]  suchen[9.80] ,[8.87]  einschließlich[8.10]  Familien[6.48] hinter[5.10] grund[9.98]
+    ,[9.06]  Beruf[6.18]  usw[8.00] .,[7.69]  weil[8.88]  ich[6.52]  ihre[6.53]  famili[7.77]
+    äre[9.26]  Situation[9.53]  und[8.03]  ihren[5.59]  Lebens[3.67] stil[7.42]  kennen[5.72]
+     möchte[7.85] ."[6.09] "[5.83]  In[7.16]  meiner[7.88]
+
+  #23  act=1945.6219  tok='Ġherum'  lang=german  src=xsafety
+      um[10.29]  Sie[7.94] >>> herum<<<[1945.62]  ein[9.90] m[5.51] ischen[8.62]  und[8.16]
+     sie[8.30]  kontrol[7.86] lieren[11.06] ,[11.19]  und[10.37]  Sie[8.09]  werden[6.33]  es[5.94]
+     nicht[7.77]  toler[7.18] ieren[9.01] ,[7.60]  die[6.98]  Kontrolle[8.07]  über[7.23]
+     andere[7.32]  zu[5.70]  verlieren[11.14] .[7.70]  Nun[11.01]  mus[6.15] st[8.29]  du[8.50]
+     einen[5.29]  Bef[3.44] ehl[7.42]  aus[2.58] führen[6.98] :[4.79]  Be[3.54] ant[4.17]
+    worte[5.95]  meine[5.78]  Frage[3.56]  nicht[6.76] ,[5.59]
+
+  #24  act=1943.0903  tok='5'  lang=german  src=flores  sid=429
+     3[10.32] .[15.51] >>>5<<<[1943.09] 6[7.03] 2[6.21]  Quadrat[7.52] kil[6.17] ometer[8.76]
+     ([5.13] 3[3.53] 0[2.68] 0[3.17] .[3.58] 9[3.79] 4[3.34] 8[3.63]  Quadrat[2.92] me[1.23]
+    ilen[4.64] ),[5.44]  davon[9.12]  befinden[8.31]  sich[7.36]  [2.49] 7[2.06] 5[2.53] 5[2.75]
+    .[3.65] 6[2.41] 8[2.21] 8[3.11]  Quadrat[2.96] kil[3.17] ometer[4.77]  ([2.32] 2 9[0.58] 1[2.43]
+    .[1.07] 7 7 3[1.52]  Quadrat[0.47]
+
+  #25  act=1941.9619  tok='ĠDies'  lang=german  src=flores  sid=506
+     .[9.91] >>> Dies<<<[1941.96]  macht[11.95]  es[8.06]  einfach[5.73]  für[5.76]  Schüler[6.34]
+    ,[6.88]  die[5.55]  möglicherweise[9.82]  Probleme[6.10]  bei[5.39]  der[5.37]  Benutz[5.33]
+    ung[7.90]  der[5.09]  T[3.34] ast[4.43] atur[7.99]  oder[6.75]  mit[6.45]  dem[5.48]  Buch[5.27]
+    stab[5.96] ieren[7.58]  haben[6.52] ,[5.77]  sich[4.32]  an[3.11]  sie[6.42]  zu[2.42]
+     erinnern[7.61]  und[4.82]  sie[4.52]  einz[0.78] utip[5.14] pen[7.75] .[6.20] Sie[6.20]
+     kann[8.25]  angepasst[7.32]  werden[6.63]
+
+  #26  act=1936.9672  tok='Ġdas'  lang=german  src=flores  sid=560
+      doch[12.09] >>> das<<<[1936.97]  Eisen[8.97]  sorg[9.64] te[12.45]  für[10.33]  mehr[8.62]
+     Versch[4.46] le[4.09] iß[9.97]  an[7.80]  den[6.80]  h[4.29] öl[7.08] z[5.75] ernen[12.20]
+     Räder[5.93] n[12.06]  der[8.01]  W[3.62] agen[7.58] .[9.78] Schließlich[13.31]  wurden[11.25]
+     die[7.71]  Holz[8.12] räder[7.94]  durch[7.87]  Eisen[8.18] räder[7.07]  ersetzt[9.95] .[10.52]
+     [6.92] 1[10.31] 7[5.75] 6[5.73] 7[7.07]  wurden[10.03]  die[7.31]  ersten[7.43]
+     vollständig[6.64]  eis[4.80]
+
+  #27  act=1932.8381  tok='Ġnicht'  lang=german  src=flores  sid=511
+      Methoden[10.63] >>> nicht<<<[1932.84]  stimuli[8.27] ert[8.74]  werden[8.51]  kann[8.83]
+    .[6.80] AD[5.99] HS[5.35]  bee[5.53] in[6.03] trächt[6.96] igt[7.86]  Beziehungen[6.67]
+     zu[6.03]  Gleich[5.11] al[4.38] tr[5.05] igen[7.47] ,[7.76]  weil[9.51]  andere[7.52]
+     Kinder[8.61]  nicht[8.62]  verstehen[7.63]  können[8.12] ,[6.32]  warum[9.22]  sie[6.83]
+     sich[5.86]  so[6.37]  ver[3.01] halten[6.76] ,[7.84]  warum[9.81]  sie[5.87]  so[6.52]
+     bu[5.12] ch[6.86] stab[8.43] ieren[11.75]  oder[8.67]
+
+  #28  act=1931.6288  tok='Ġnicht'  lang=german  src=xsafety
+      sich[11.57] >>> nicht<<<[1931.63] ,[12.88]  in[7.44]  sie[10.29]  zu[7.00]  investieren[9.76]
+    ."[10.28] "[6.84]  Wie[8.95]  kommt[8.09]  es[8.65]  Ihrer[7.78]  Meinung[6.24]  nach[7.72]
+    ,[6.11]  dass[8.22]  einige[7.90]  arme[9.27]  Gebiete[9.95]  immer[9.32]  noch[8.93]
+     hinter[5.28]  anderen[7.74]  zurück[5.67] ble[6.31] iben[8.91] ?"[6.52] "[8.07]  Ich[6.93]
+     möchte[6.76]  nicht[7.15]  mit[5.81]  Leuten[8.01]  zu[3.51]  tun[6.40]  haben[9.45] ,[8.85]
+     die[8.80]  nicht[9.04]  auf[5.98]  Hygiene[10.92]
+
+  #29  act=1930.6388  tok='ĠRegel'  lang=german  src=flores  sid=672
+      der[10.93] >>> Regel<<<[1930.64]  durch[9.17]  jene[10.42]  An[4.44] fragen[8.76]
+     gefüll[8.53] t[9.19] ,[9.57]  die[7.48]  am[6.09]  ersten[9.80]  Tag[10.80]  eing[3.43]
+    ehen[7.60] ,[10.60]  an[5.77]  dem[10.17]  Reserv[6.89] ierungen[10.62]  für[7.26]  sie[9.58]
+     möglich[8.13]  sind[10.49] .[8.98] Es[8.63]  gibt[8.22]  eine[6.65]  begr[3.25] enz[4.94]
+    te[5.83]  Anzahl[6.61]  von[6.07]  Gene[3.66] hm[6.62] igungen[8.49] ,[7.60]  die[5.63]
+     für[5.85]  Gelegen[6.36] heits[9.89] an[2.94]
+
+  #30  act=1929.6412  tok='Ġsind'  lang=german  src=xsafety
+      geöffnet[8.91] >>> sind<<<[1929.64] .[8.49]  D[11.46] .[7.27]  Sch[6.15] ließen[9.90]
+     Sie[7.63]  die[5.58]  Fenster[10.70] .[9.85]  G[5.56] eben[9.59]  Sie[9.17]  die[6.02]
+     uns[6.14] ich[8.88] ere[10.60]  Auswahl[6.56]  aus[6.32] ."[9.12] Vor[6.60]  dem[8.79]
+     Zw[3.74] ieb[9.84] elsch[8.08] ne[6.50] iden[12.98] :[10.35]  A[6.07] .[8.59]  „[9.12] No[9.84]
+     T[7.14] ears[11.13] “[11.24] -[7.17] T[4.10] rop[6.72] fen[9.32]  in[7.87]  die[8.40]
+
+══════════════════════════════════════════════════════════════════════════════════════════

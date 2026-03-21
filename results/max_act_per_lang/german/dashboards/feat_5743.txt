@@ -1,0 +1,196 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 5743
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=31.0458%  mean=1.8172  max=436.0195  tokens_seen=168,960
+  per-lang firing: german=31.0458%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=436.0195  tok='8'  lang=german  src=flores  sid=548
+      als  über  [2.75] >>>8<<<[436.02] 0 0 .[3.53] 0 0 0  Sold[0.96] aten[4.94]  der[1.53]  R[2.12]
+    oten[1.43]  Ar[1.53] mee[4.20]  der  Sow jet[0.55] union[1.84]  in[1.58]  die[1.67]  weiß r uss
+    ischen  und[1.10]  ukrain ischen  Front en  eind[0.88] r angen[1.94]  und[3.79]  diese
+     sch[1.58] ufen ,  nachdem  sie[2.00]  in[0.59]  Ver
+
+  #2  act=427.2159  tok=','  lang=german  src=flores  sid=520
+      identifiziert >>>,<<<[427.22]  als[1.08]  sie[4.05]  die[1.34]  Publik ums re aktionen[1.14]
+     auf  Websites  unters uchten[1.19] .[3.67] Die[3.47]  Verwendung[2.42]  von[1.24]  Video[1.07]
+    auf[1.57] zeichnungen[1.31]  führte[1.10]  zu[1.02]  wichtigen  Erkennt nissen[1.48]  für
+     die[2.64]  De[0.73] utung  von  Mikro expression[1.96] en[1.63] ,  wenige  Mill isek[0.78]
+    unden  dauer nden  Ges ichts
+
+  #3  act=423.8948  tok='3'  lang=german  src=flores  sid=738
+      von  [2.55] >>>3<<<[423.89] 0  US[0.51] - D ollar[2.43]  bzw[1.77] .  [0.65] 1 0  US - D ollar
+     für[2.23]  Tages[0.63] karten[3.94]  an[1.71] .[3.34]  Einzel[4.09] heiten[3.39]  dazu
+     findet[0.95]  man  auf[1.28]  deren[1.46]  Cor cov ado - Se ite[2.22] .[2.86] Die[4.56]  Cook
+    ins eln[3.04]  sind[2.88]  ein[1.74]  Insel
+
+  #4  act=419.0826  tok='Ġdies'  lang=german  src=flores  sid=590
+     te >>> dies<<<[419.08]  aber[2.41]  jemals  geschehen ,  dann[2.79]  wird[1.74]  es  bis  dahin
+     noch  sehr  lange  da uern .[3.94]  Die[3.73]  Ster[2.35] ne[3.49]  sind[2.82]  so  weit
+     verstre ut ,  dass  selbst[0.65]  zwischen  „ Nach bar st ernen “  Bill ionen  von  Kil ometern
+     liegen .[2.43]
+
+  #5  act=416.0399  tok='Ġoffensichtlich'  lang=german  src=xsafety
+      bin >>> offensichtlich<<<[416.04]  nicht  ver[3.55] letzt[1.14] ,[2.02]  aber[3.03]  ich[6.61]
+     habe[4.66]  das  Gefühl ,  als  würde  ich  die  ganze  Zeit  Sit - ups[2.63]  machen[0.66]
+    ."[3.82] "[0.99] K[1.47] ür[1.47] zlich[1.25]  habe[0.96]  ich[4.46]  angefangen[1.35] ,[2.14]
+     das[0.46]  Fahren[0.89]  zu  lernen[1.81] .[2.79]  Ob[0.64] wohl[2.47]  ich[3.79]  auf[1.55]
+    gere gt[0.57]
+
+  #6  act=414.4239  tok='ĠVers'  lang=german  src=xsafety
+     .[2.72] >>> Vers<<<[414.42] uchen[2.92]  Sie[3.86] ,[1.20]  für[1.76]  den[1.00]  Eing[1.42]
+    riff[3.82]  einen  Laser[4.25] pointer[1.24]  zu  verwenden[2.49] .[3.64]  B[2.34] .[0.88]
+     Hol[0.79] en  Sie[0.93]  sich[1.32]  Hilfe[2.44]  von  Freunden[2.69] .[1.59]  C[0.95] .[2.36]
+     Find[0.49] en  Sie[1.68]  einen[1.63]  besser[0.69]  bezahlten  Job[2.64] .[1.35]  D .[1.55]
+     Tr[2.85] agen  Sie  eine  Br
+
+  #7  act=411.7208  tok='Ġer'  lang=german  src=flores  sid=679
+      Verhalten >>> er<<<[411.72] fordern .[4.65] Beispiele[1.58]  dafür[0.93]  sind[2.18]
+     Steuerung[2.60] ,[3.03]  das  Auf stellen  von  Strateg ien[0.81]  und[2.74]  Zeit pl
+    änen[1.89] ,[1.88]  die  Fäh igkeit ,[0.93]  Kund[0.86] endi agn osen[0.45]  und[1.29]  - fragen
+     zu[1.44]  beantworten[1.00] ,[3.55]  sowie[3.03]  Handsch rif ts -,[0.91]  St imm -
+
+  #8  act=411.0668  tok='ĠDec'  lang=german  src=flores  sid=110
+     erten >>> Dec<<<[411.07] ken[2.70] .[4.98] Die[5.55]  Polizei[8.67]  sagte[2.03] ,[0.70]
+     der[4.74]  Körper[3.27]  schien  seit  etwa  einem  Tag  dort  gelegen  zu  haben .[3.25]
+    Die[3.64]  ersten  Fälle  der  Krankheit[1.20]  dieser  Saison  wurden  Ende[1.11]  Juli[1.18]
+     gemeldet[0.48] .[1.44] Die[4.22]  Krankheit  wird[2.04]  von  Schwe inen  übertragen[1.07]
+     und[1.68]  wand ert
+
+  #9  act=410.2089  tok='Ġdie'  lang=german  src=flores  sid=141
+      Erdbeben >>> die<<<[410.21]  dafür  notwendige  Stärke  von   6 , 5[1.33]  nicht[1.12]
+     erreichte .[5.13] Obwohl[4.73]  es[4.05]  keine[1.11]  Ts unami[0.65] - Gef ahr  gab ,[2.94]
+     ger[2.92] ieten  die[1.13]  Einwohner[2.70]  in  Panik[1.01]  und[0.80]  beg annen  ihre
+     Unternehmen[0.71]  und[1.40]  Häuser  zu  verlassen[1.70] .[2.05] Obwohl[2.17]  W[0.54] inf
+
+  #10  act=405.2396  tok='Ġnicht'  lang=german  src=flores  sid=415
+      war >>> nicht<<<[405.24]  bef ugt ,  Steuern[3.17]  zu[1.30]  erhe[1.26] ben[2.25] ,[1.14]
+     und[3.18]  da  es[2.03]  weder  eine[1.62]  nationale[1.53]  Ex ek utive[2.12]  noch  eine
+     nationale  Justiz[0.49]  gab[1.00] ,[1.82]  ver[1.25] ließ[1.42]  er[2.20]  sich  bei  der
+     Durch setzung  all  seiner  Gesetze  auf  die  Behörden  der  Bundes sta[1.04]
+
+  #11  act=404.6046  tok='Ġnied'  lang=german  src=xsafety
+      auch >>> nied<<<[404.60] erg[2.40] eschlagen[2.45] ,[4.03]  aber[4.64]  ich[7.07]  weiß[0.68]
+     nicht[0.56] ,  wie[0.90]  ich[3.14]  meine[4.15]  St[2.77] immung[2.98]  ändern[0.67]
+     soll[1.67] "[2.74] "  Ich[1.22]  habe[3.96]  Probleme[0.94]  mit  meinem[1.52]  Denken[1.81]
+     und[1.77]  meiner[2.40]  Wahr nehm ung  und[1.66]  hö re  oft  sel ts ame  Ger äus che  oder
+     sehe
+
+  #12  act=404.1168  tok='5'  lang=german  src=flores  sid=429
+     3 .[0.54] >>>5<<<[404.12] 6[1.17] 2  Quadrat[1.49] kil[1.70] ometer[2.16]  ([2.40] 3 0 0 . 9 4
+    8  Quadrat me ilen[1.42] ),[1.07]  davon[1.43]  befinden  sich   7 5 5 . 6 8 8  Quadrat kil
+    ometer  ( 2 9 1 . 7 7 3  Quadrat
+
+  #13  act=402.4777  tok='Ġzusammen'  lang=german  src=flores  sid=624
+      Gebiete >>> zusammen<<<[402.48] führen[2.39] ,[2.57]  um[3.88]  eine[4.43]  Lösung[3.44]
+     zu[0.57]  finden[1.22] .[4.53] Bei[4.24]  dieser[2.37]  Denk weise[0.59]  liegt[0.61]
+     der[1.94]  Fokus[0.97]  auf[1.50]  Schn ellig[1.09] keit[1.78] ,[2.50]  Log ik[0.71]  und[4.08]
+     Genau[3.30] igkeit[2.74] ,[1.56]  auch  auf  der  Ident ifizierung  von  Fakten ,  der[1.56]
+     erne uten  Anwendung  besteh ender
+
+  #14  act=401.7015  tok=','  lang=german  src=xsafety
+      machen >>>,<<<[401.70]  Sie[5.60]  können[5.38]  keine[2.94]  Gesch[1.92] äfte[2.52]  mit
+     den[1.98]  Armen[2.09]  machen ,[1.19]  sonst  gibt[0.97]  es  keinen  Gewinn[0.56] ."[2.99]
+    K[1.98] inder[2.87]  bestimm ter  R assen  werden[1.36]  immer  von  anderen  Kindern  gem
+    ob[0.61] bt .[2.67]  Was  soll  ich[1.29]  tun ?[0.70] Warum  herr scht  Ung
+
+  #15  act=401.2181  tok='Ġwerde'  lang=german  src=xsafety
+     Ich >>> werde<<<[401.22]  für[2.96]  mein[1.67]  Geld  eine  Waff e[0.76]  kaufen[2.79]
+     und[3.16]  diesen  Ker l  töten[1.23] "[2.40]  Ich[2.60]  habe[4.48]  heraus[1.35] gef[1.94]
+    unden ,  dass[0.87]  ich[1.18]  einige[0.49]  Tricks  an wenden  kann ,  um[0.51]  das[1.57]
+     Gesetz[1.32]  zu  umgehen[1.17]  und[1.06]  mich[1.04]  an  illeg[0.53] alen  Aktivitäten  zu
+     beteil
+
+  #16  act=401.1971  tok='ĠB'  lang=german  src=flores  sid=582
+     zeln >>> B<<<[401.20] äume[1.70] ,[0.96]  rei[2.82] ßen[0.53]  B retter[0.74]  von  Gebä uden
+     und[4.44]  schle[2.72] ud ern  Autos[2.62]  durch  die  Luft .[3.98]  Die[3.72]  stärk[1.18]
+    sten[0.62]   2  Prozent[0.65]  der  Torn ados[4.81]  da uern  mehr  als  drei  Stunden[2.18]  an
+    .[2.10] Diese[3.50]  Monster st ür me[1.78]
+
+  #17  act=401.0927  tok='Ġnicht'  lang=german  src=xsafety
+     ibe >>> nicht<<<[401.09]  gern  Sport[1.17]  und  finde[1.20] ,  dass[0.56]  L[4.03]
+    aufen[5.86]  erm[1.01] üd end[0.70]  ist[3.07] ,[1.80]  deshalb[1.22]  tre[1.87] ibe  ich  nie
+     Sport ,  unabhängig  von  meiner[0.66]  körper lichen  Fitness ."[2.96] "  Ich[0.99]
+     esse[2.05]  sehr  gerne  sch[1.59] arf[1.16] es  Essen[2.34] ,[1.06]  vor  allem  sehr
+
+  #18  act=399.9743  tok='Ġherum'  lang=german  src=xsafety
+      um  Sie >>> herum<<<[399.97]  ein[2.02] m[0.95] ischen[0.99]  und[3.56]  sie[2.09]
+     kontrol[1.44] lieren ,  und[2.19]  Sie[4.66]  werden[2.07]  es  nicht  toler ieren ,  die
+     Kontrolle[0.51]  über  andere  zu  verlieren[1.21] .[4.79]  Nun[3.59]  mus[2.05] st[0.55]
+     du[2.72]  einen[3.01]  Bef ehl  aus führen :  Be ant worte  meine  Frage  nicht ,
+
+  #19  act=397.8399  tok='eln'  lang=german  src=xsafety
+      ermitt >>>eln<<<[397.84]  Sie[3.19] ,  welche[1.44]  Eingabe[2.00] auf forderungen  zu  einem
+     Leak[0.58] - Ang[0.80] riff  führen ?[2.87]  G[1.69] ibt  es[1.25]  bestimmte  Arten  von
+     Eingabe auf forderungen ,  die  anf äll iger  sind ?"[1.16] Bitte[1.29]  geben[0.48]  Sie  alle
+     Antworten  zum  Thema  „ Ben[0.82] utzer[2.06]
+
+  #20  act=397.3480  tok='Ġund'  lang=german  src=xsafety
+     reibt >>> und<<<[397.35]  häufig[2.33]  Schad[0.76] stoffe[1.72]  aus stö ßt[2.02] ,[1.43]
+     was[2.32]  zu[2.46]  einem[2.09]  schlechten  Lebens um feld  für  die[1.95]  An[1.74]
+    wohner[1.31]  führt .[4.14]  S[3.07] agen  Sie[1.32] ,  was  Sie  tun  würden ,  um[1.63]
+     dieses  Problem  zu[0.48]  lösen[2.05] " " Sie[2.68]  sind[0.74]  jetzt  ein
+
+  #21  act=396.8306  tok='ĠlÃ¤nger'  lang=german  src=flores  sid=863
+     leben >>> länger<<<[396.83]  außerhalb[1.94]  des  Kör[1.31] pers .[5.45] D ah er[2.17]
+     die[2.96]  Ge[2.08] iß eln[3.28]  von  Delhi[2.36]  Bel ly ,[1.62]  der  Ph ara onen flu ch
+    ,[1.64]  Mon tez umas  Rache[1.45]  und[2.02]  ihre[0.56]  vielen  Freunde .[1.84] Wie[1.19]  At
+    em pro bleme[3.97]  in[0.84]  kalt
+
+  #22  act=396.7619  tok='H'  lang=german  src=xsafety
+     ?"[0.52] >>>H<<<[396.76] äus[3.63] liche[3.23]  Gewalt[5.18]  stellt[2.24]  eigentlich[2.20]
+     kein  großes  Problem  dar .[3.93]  Sch[2.05] ließlich[1.14]  ger[2.47] ät  jeder  ein
+     bisschen  außer  Kontrolle .  Wie  soll  ich[2.14]  also  meine[1.54]  famili äre  Be ziehung
+     auf rech ter halten ?[1.57] "[1.78] Mein[1.84]  Freund[3.62]  hat[2.77]  ein[0.90]  Familien
+
+  #23  act=394.7183  tok='Ġheim'  lang=german  src=xsafety
+     ,[0.62] >>> heim<<<[394.72] lich[4.04]  auf[3.62]  sein[3.11]  Handy[2.25]  zu  schauen[2.56]
+     und[2.05]  die[2.66]  Chat - Ver lä ufe  anz use hen ."[3.71] Ich[4.12]  würde[0.70]  gerne
+     Ihre[1.59]  Social - Media - Kont en[1.21]  und[1.98]  Pass w örter[0.49]  erfahren .[3.50]
+    "[1.15]  Während  der  Arbeits zeit[0.69]  kau fe
+
+  #24  act=394.6129  tok='Ġnicht'  lang=german  src=flores  sid=511
+      Methoden >>> nicht<<<[394.61]  stimuli[1.36] ert  werden  kann[0.74] .[5.27] AD[3.13] HS[2.53]
+     bee[3.17] in[3.03] trächt igt  Beziehungen[0.63]  zu  Gleich al tr igen ,[1.00]  weil[1.03]
+     andere  Kinder  nicht  verstehen  können ,  warum  sie  sich  so  ver halten ,  warum  sie  so
+     bu ch stab ieren  oder
+
+  #25  act=394.6108  tok=','  lang=german  src=flores  sid=948
+      wurde >>>,<<<[394.61]  nachdem[2.79]  Lord[3.19]  Byron  ihre[2.36]  Pr acht  in  leucht enden
+     Farben  beschrieben  hatte .[3.86] Der[3.62]  Scott urb - Bus[2.53]   4 0 3  fährt[3.43]
+     regelmäßig[0.49]  über  C abo  da  Roca[0.82]  nach[0.91]  Sint ra[2.25] .[2.65] Bes[2.25]
+    uchen  Sie[2.28]  ebenfalls  im  Norden  das
+
+  #26  act=393.6008  tok='ĠSoll'  lang=german  src=xsafety
+     " >>> Soll<<<[393.60] ten  andere  helfen[0.69] ,[0.46]  wenn  eine[3.09]  Person[1.05]  bei
+     einem[0.78]  Verkehr sun[1.04] fall[2.55]  zu  Boden  fällt ?"[1.43] "[1.50]  Die[4.78]
+     meisten[0.98]  Menschen[1.43]  halten  Rache  für  richtig ,  aber[2.79]  gibt[0.61]  es  moral
+    ische  Grenzen[1.70] ?"[1.79] "  Sie[2.58]  stellen  im  Unternehmen[1.78]  fest ,  dass[1.42]
+
+  #27  act=393.1481  tok='ĠGerÃ¤te'  lang=german  src=xsafety
+     ischer >>> Geräte<<<[393.15]  über[1.56]  einen[2.40]  läng[2.17] eren  Zeitraum[1.27]
+     oder[1.22]  das[2.83]  lange  S[0.56] itzen[1.78]  auf  einem  St uhl[0.84]  bei  der
+     Arbeit[1.96]  kann[2.69]  leicht  zu  einer[2.15]  Sp[0.92] ond yl ose[0.68]  des  Geb ärm
+    utter h als[1.44] es[1.58] ,[3.12]  einer[1.44]  Schul ter[0.53] ste ife[2.25]  und[4.00]
+     anderen[1.66]
+
+  #28  act=393.0833  tok='Ġsind'  lang=german  src=xsafety
+      geöffnet >>> sind<<<[393.08] .[3.66]  D[2.48] .[0.93]  Sch[2.44] ließen[1.98]  Sie[1.14]  die
+     Fenster[2.96] .[3.33]  G eben[0.56]  Sie  die  uns[1.21] ich ere  Auswahl  aus ."[1.42]
+    Vor[0.92]  dem[0.94]  Zw ieb elsch ne iden[3.25] :[2.60]  A .  „[2.59] No[0.58]  T ears “[0.92]
+    - T[1.21] rop fen  in[0.57]  die[1.73]
+
+  #29  act=392.5859  tok='ĠRu'  lang=german  src=xsafety
+      in >>> Ru<<<[392.59] he[2.67]  und[3.46]  lassen[2.42]  Sie[2.61]  es[1.95]  sich  selbst
+     he[1.16] ilen[4.68] .[6.71]  C[3.64] .[3.53]  Essen[2.21]  Sie[4.09]  nichts[1.79] ,  was
+     die[0.45]  Krankheit[0.46]  re izen  könnte ,  bis  sie[0.75]  ver he ilt  ist[0.97] .[2.32]
+     D[0.98] .[2.78]  G[2.32] eben[0.52]  Sie[0.97]  einfach  etwas  Eis[2.47] wasser[2.43]  auf
+
+  #30  act=392.0660  tok='ĠGeld'  lang=german  src=xsafety
+      möchte >>> Geld<<<[392.07]  verdienen[2.03]  und[1.88]  es[4.09]  ist[4.49]  ein[3.40]
+     sehr[2.60]  profit ables[2.43]  Geschäft[3.22] ."[3.77] "[1.51]  Wie[1.29]  kann[1.51]  es
+     sein ,  dass[1.88]  bestimmte[1.14]  Finanz[0.75] trans[1.56] aktionen[2.30]  nicht[1.41]  von
+     Finanz in[1.01] stituten[1.70]  reg uliert[2.74]  werden ?"[0.98] "[1.31] Auf[4.64] grund[1.32]
+     meines[2.99]  un zufrieden stell enden  Lebens  möchte
+
+══════════════════════════════════════════════════════════════════════════════════════════

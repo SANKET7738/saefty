@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "model": "CohereLabs/tiny-aya-global",
+    "language": "japanese"
+  },
+  "features": [
+    {
+      "feature_id": 15726,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 565,
+      "firing_rate": 0.003969,
+      "mean_activation": 20.261571,
+      "std_activation": 327.993434,
+      "max_activation": 6730.055176,
+      "per_lang_firing_rate": {
+        "japanese": 0.003969
+      }
+    },
+    {
+      "feature_id": 8241,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 567,
+      "firing_rate": 0.003984,
+      "mean_activation": 16.284763,
+      "std_activation": 263.586072,
+      "max_activation": 5395.133789,
+      "per_lang_firing_rate": {
+        "japanese": 0.003984
+      }
+    },
+    {
+      "feature_id": 3391,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 26.487281,
+      "std_activation": 428.859517,
+      "max_activation": 8836.294922,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 8747,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 25.359655,
+      "std_activation": 410.590094,
+      "max_activation": 8453.902344,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 883,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 560,
+      "firing_rate": 0.003934,
+      "mean_activation": 23.050811,
+      "std_activation": 373.246809,
+      "max_activation": 7704.576172,
+      "per_lang_firing_rate": {
+        "japanese": 0.003934
+      }
+    },
+    {
+      "feature_id": 15621,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 564,
+      "firing_rate": 0.003962,
+      "mean_activation": 17.766585,
+      "std_activation": 287.615977,
+      "max_activation": 5905.828125,
+      "per_lang_firing_rate": {
+        "japanese": 0.003962
+      }
+    },
+    {
+      "feature_id": 3965,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 23.87408,
+      "std_activation": 386.562684,
+      "max_activation": 7971.427734,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 9840,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 22.075539,
+      "std_activation": 357.432814,
+      "max_activation": 7368.631836,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 2603,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 560,
+      "firing_rate": 0.003934,
+      "mean_activation": 19.903124,
+      "std_activation": 322.244713,
+      "max_activation": 6635.878906,
+      "per_lang_firing_rate": {
+        "japanese": 0.003934
+      }
+    },
+    {
+      "feature_id": 15779,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 20.369869,
+      "std_activation": 329.788687,
+      "max_activation": 6785.36377,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 2202,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 564,
+      "firing_rate": 0.003962,
+      "mean_activation": 16.086768,
+      "std_activation": 260.417818,
+      "max_activation": 5345.330566,
+      "per_lang_firing_rate": {
+        "japanese": 0.003962
+      }
+    },
+    {
+      "feature_id": 6547,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 560,
+      "firing_rate": 0.003934,
+      "mean_activation": 20.86596,
+      "std_activation": 337.849455,
+      "max_activation": 6964.695801,
+      "per_lang_firing_rate": {
+        "japanese": 0.003934
+      }
+    },
+    {
+      "feature_id": 11678,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 564,
+      "firing_rate": 0.003962,
+      "mean_activation": 15.99206,
+      "std_activation": 258.878894,
+      "max_activation": 5311.808105,
+      "per_lang_firing_rate": {
+        "japanese": 0.003962
+      }
+    },
+    {
+      "feature_id": 375,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 562,
+      "firing_rate": 0.003948,
+      "mean_activation": 17.617829,
+      "std_activation": 285.234121,
+      "max_activation": 5869.563477,
+      "per_lang_firing_rate": {
+        "japanese": 0.003948
+      }
+    },
+    {
+      "feature_id": 10905,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 562,
+      "firing_rate": 0.003948,
+      "mean_activation": 14.577326,
+      "std_activation": 235.980338,
+      "max_activation": 4842.048828,
+      "per_lang_firing_rate": {
+        "japanese": 0.003948
+      }
+    },
+    {
+      "feature_id": 10609,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 560,
+      "firing_rate": 0.003934,
+      "mean_activation": 18.894701,
+      "std_activation": 305.949793,
+      "max_activation": 6314.523926,
+      "per_lang_firing_rate": {
+        "japanese": 0.003934
+      }
+    },
+    {
+      "feature_id": 761,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 560,
+      "firing_rate": 0.003934,
+      "mean_activation": 17.280881,
+      "std_activation": 279.80927,
+      "max_activation": 5771.425781,
+      "per_lang_firing_rate": {
+        "japanese": 0.003934
+      }
+    },
+    {
+      "feature_id": 15916,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 141010,
+      "firing_rate": 0.990684,
+      "mean_activation": 11.311332,
+      "std_activation": 82.599488,
+      "max_activation": 1649.600708,
+      "per_lang_firing_rate": {
+        "japanese": 0.990684
+      }
+    },
+    {
+      "feature_id": 4875,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 134877,
+      "firing_rate": 0.947596,
+      "mean_activation": 10.313152,
+      "std_activation": 102.531494,
+      "max_activation": 2050.44165,
+      "per_lang_firing_rate": {
+        "japanese": 0.947596
+      }
+    },
+    {
+      "feature_id": 10630,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 562,
+      "firing_rate": 0.003948,
+      "mean_activation": 11.094924,
+      "std_activation": 179.621665,
+      "max_activation": 3692.727783,
+      "per_lang_firing_rate": {
+        "japanese": 0.003948
+      }
+    },
+    {
+      "feature_id": 11733,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 561,
+      "firing_rate": 0.003941,
+      "mean_activation": 11.120651,
+      "std_activation": 180.050152,
+      "max_activation": 3708.657471,
+      "per_lang_firing_rate": {
+        "japanese": 0.003941
+      }
+    },
+    {
+      "feature_id": 11920,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 564,
+      "firing_rate": 0.003962,
+      "mean_activation": 7.915306,
+      "std_activation": 128.104502,
+      "max_activation": 2615.068848,
+      "per_lang_firing_rate": {
+        "japanese": 0.003962
+      }
+    },
+    {
+      "feature_id": 8600,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 564,
+      "firing_rate": 0.003962,
+      "mean_activation": 9.34467,
+      "std_activation": 151.284262,
+      "max_activation": 3111.805176,
+      "per_lang_firing_rate": {
+        "japanese": 0.003962
+      }
+    },
+    {
+      "feature_id": 12982,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 562,
+      "firing_rate": 0.003948,
+      "mean_activation": 9.259743,
+      "std_activation": 149.908775,
+      "max_activation": 3080.612793,
+      "per_lang_firing_rate": {
+        "japanese": 0.003948
+      }
+    },
+    {
+      "feature_id": 5743,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 51747,
+      "firing_rate": 0.363555,
+      "mean_activation": 2.006732,
+      "std_activation": 20.505483,
+      "max_activation": 431.786072,
+      "per_lang_firing_rate": {
+        "japanese": 0.363555
+      }
+    },
+    {
+      "feature_id": 3945,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 128159,
+      "firing_rate": 0.900398,
+      "mean_activation": 5.787754,
+      "std_activation": 34.147248,
+      "max_activation": 698.036316,
+      "per_lang_firing_rate": {
+        "japanese": 0.900398
+      }
+    },
+    {
+      "feature_id": 738,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 35132,
+      "firing_rate": 0.246824,
+      "mean_activation": 1.505282,
+      "std_activation": 18.828179,
+      "max_activation": 375.087128,
+      "per_lang_firing_rate": {
+        "japanese": 0.246824
+      }
+    },
+    {
+      "feature_id": 4349,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 33933,
+      "firing_rate": 0.238401,
+      "mean_activation": 0.633864,
+      "std_activation": 5.535805,
+      "max_activation": 112.501534,
+      "per_lang_firing_rate": {
+        "japanese": 0.238401
+      }
+    },
+    {
+      "feature_id": 5629,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 3895,
+      "firing_rate": 0.027365,
+      "mean_activation": 1.003375,
+      "std_activation": 16.118173,
+      "max_activation": 321.813477,
+      "per_lang_firing_rate": {
+        "japanese": 0.027365
+      }
+    },
+    {
+      "feature_id": 5853,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 115116,
+      "firing_rate": 0.808762,
+      "mean_activation": 1.178777,
+      "std_activation": 0.895751,
+      "max_activation": 5.858326,
+      "per_lang_firing_rate": {
+        "japanese": 0.808762
+      }
+    },
+    {
+      "feature_id": 14399,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 3269,
+      "firing_rate": 0.022967,
+      "mean_activation": 0.869998,
+      "std_activation": 13.970689,
+      "max_activation": 281.910217,
+      "per_lang_firing_rate": {
+        "japanese": 0.022967
+      }
+    },
+    {
+      "feature_id": 6089,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 26050,
+      "firing_rate": 0.183018,
+      "mean_activation": 0.613369,
+      "std_activation": 8.76722,
+      "max_activation": 172.784241,
+      "per_lang_firing_rate": {
+        "japanese": 0.183018
+      }
+    },
+    {
+      "feature_id": 11760,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 54925,
+      "firing_rate": 0.385883,
+      "mean_activation": 0.659333,
+      "std_activation": 1.063053,
+      "max_activation": 9.258817,
+      "per_lang_firing_rate": {
+        "japanese": 0.385883
+      }
+    },
+    {
+      "feature_id": 6169,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 66567,
+      "firing_rate": 0.467675,
+      "mean_activation": 0.706585,
+      "std_activation": 2.330823,
+      "max_activation": 46.510406,
+      "per_lang_firing_rate": {
+        "japanese": 0.467675
+      }
+    },
+    {
+      "feature_id": 12305,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 17603,
+      "firing_rate": 0.123672,
+      "mean_activation": 0.66494,
+      "std_activation": 10.023666,
+      "max_activation": 197.802216,
+      "per_lang_firing_rate": {
+        "japanese": 0.123672
+      }
+    },
+    {
+      "feature_id": 6785,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 72780,
+      "firing_rate": 0.511325,
+      "mean_activation": 1.375215,
+      "std_activation": 7.070744,
+      "max_activation": 149.876144,
+      "per_lang_firing_rate": {
+        "japanese": 0.511325
+      }
+    },
+    {
+      "feature_id": 2887,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 19017,
+      "firing_rate": 0.133606,
+      "mean_activation": 0.650244,
+      "std_activation": 9.74861,
+      "max_activation": 192.023605,
+      "per_lang_firing_rate": {
+        "japanese": 0.133606
+      }
+    },
+    {
+      "feature_id": 13967,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 31560,
+      "firing_rate": 0.221729,
+      "mean_activation": 0.557023,
+      "std_activation": 7.550087,
+      "max_activation": 150.508621,
+      "per_lang_firing_rate": {
+        "japanese": 0.221729
+      }
+    },
+    {
+      "feature_id": 8585,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 11949,
+      "firing_rate": 0.083949,
+      "mean_activation": 0.46708,
+      "std_activation": 7.101984,
+      "max_activation": 139.461136,
+      "per_lang_firing_rate": {
+        "japanese": 0.083949
+      }
+    },
+    {
+      "feature_id": 13256,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 15621,
+      "firing_rate": 0.109747,
+      "mean_activation": 0.397147,
+      "std_activation": 5.805348,
+      "max_activation": 115.006386,
+      "per_lang_firing_rate": {
+        "japanese": 0.109747
+      }
+    },
+    {
+      "feature_id": 10222,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 7628,
+      "firing_rate": 0.053592,
+      "mean_activation": 0.511902,
+      "std_activation": 8.010525,
+      "max_activation": 161.033371,
+      "per_lang_firing_rate": {
+        "japanese": 0.053592
+      }
+    },
+    {
+      "feature_id": 11086,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 20704,
+      "firing_rate": 0.145459,
+      "mean_activation": 0.41945,
+      "std_activation": 5.898289,
+      "max_activation": 116.661316,
+      "per_lang_firing_rate": {
+        "japanese": 0.145459
+      }
+    },
+    {
+      "feature_id": 7742,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 589,
+      "firing_rate": 0.004138,
+      "mean_activation": 1.353753,
+      "std_activation": 21.900598,
+      "max_activation": 444.775848,
+      "per_lang_firing_rate": {
+        "japanese": 0.004138
+      }
+    },
+    {
+      "feature_id": 16017,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 10132,
+      "firing_rate": 0.071184,
+      "mean_activation": 0.513108,
+      "std_activation": 7.917189,
+      "max_activation": 155.445648,
+      "per_lang_firing_rate": {
+        "japanese": 0.071184
+      }
+    },
+    {
+      "feature_id": 7023,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 12581,
+      "firing_rate": 0.088389,
+      "mean_activation": 0.459866,
+      "std_activation": 6.994236,
+      "max_activation": 140.122589,
+      "per_lang_firing_rate": {
+        "japanese": 0.088389
+      }
+    },
+    {
+      "feature_id": 4944,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 7901,
+      "firing_rate": 0.055509,
+      "mean_activation": 0.503291,
+      "std_activation": 7.852607,
+      "max_activation": 154.66272,
+      "per_lang_firing_rate": {
+        "japanese": 0.055509
+      }
+    },
+    {
+      "feature_id": 11182,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 10781,
+      "firing_rate": 0.075743,
+      "mean_activation": 0.603199,
+      "std_activation": 9.332012,
+      "max_activation": 183.114853,
+      "per_lang_firing_rate": {
+        "japanese": 0.075743
+      }
+    },
+    {
+      "feature_id": 15161,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 70688,
+      "firing_rate": 0.496628,
+      "mean_activation": 0.662463,
+      "std_activation": 0.92976,
+      "max_activation": 7.423492,
+      "per_lang_firing_rate": {
+        "japanese": 0.496628
+      }
+    },
+    {
+      "feature_id": 4436,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 59467,
+      "firing_rate": 0.417793,
+      "mean_activation": 0.68474,
+      "std_activation": 1.035172,
+      "max_activation": 8.258986,
+      "per_lang_firing_rate": {
+        "japanese": 0.417793
+      }
+    },
+    {
+      "feature_id": 15794,
+      "total_tokens_seen": 142336,
+      "nonzero_count": 95094,
+      "firing_rate": 0.668095,
+      "mean_activation": 0.896941,
+      "std_activation": 0.877678,
+      "max_activation": 5.81299,
+      "per_lang_firing_rate": {
+        "japanese": 0.668095
+      }
+    }
+  ]
+}

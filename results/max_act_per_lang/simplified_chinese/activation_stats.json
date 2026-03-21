@@ -1,0 +1,608 @@
+{
+  "metadata": {
+    "model": "CohereLabs/tiny-aya-global",
+    "language": "simplified_chinese"
+  },
+  "features": [
+    {
+      "feature_id": 3391,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 553,
+      "firing_rate": 0.004252,
+      "mean_activation": 24.973278,
+      "std_activation": 409.155973,
+      "max_activation": 9197.689453,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004252
+      }
+    },
+    {
+      "feature_id": 15726,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 559,
+      "firing_rate": 0.004298,
+      "mean_activation": 19.107621,
+      "std_activation": 312.958235,
+      "max_activation": 7011.104004,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004298
+      }
+    },
+    {
+      "feature_id": 8747,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 556,
+      "firing_rate": 0.004275,
+      "mean_activation": 23.910399,
+      "std_activation": 391.727924,
+      "max_activation": 8800.412109,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004275
+      }
+    },
+    {
+      "feature_id": 883,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 21.732923,
+      "std_activation": 356.089764,
+      "max_activation": 8014.437988,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 8241,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 566,
+      "firing_rate": 0.004352,
+      "mean_activation": 15.358431,
+      "std_activation": 251.513426,
+      "max_activation": 5623.844238,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004352
+      }
+    },
+    {
+      "feature_id": 15621,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 560,
+      "firing_rate": 0.004306,
+      "mean_activation": 16.754459,
+      "std_activation": 274.430573,
+      "max_activation": 6152.20459,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004306
+      }
+    },
+    {
+      "feature_id": 3965,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 22.508941,
+      "std_activation": 368.798198,
+      "max_activation": 8294.947266,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 9840,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 20.813842,
+      "std_activation": 341.009877,
+      "max_activation": 7667.047363,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 6547,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 19.673581,
+      "std_activation": 322.328649,
+      "max_activation": 7247.620605,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 15779,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 555,
+      "firing_rate": 0.004268,
+      "mean_activation": 19.207439,
+      "std_activation": 314.653426,
+      "max_activation": 7064.899414,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004268
+      }
+    },
+    {
+      "feature_id": 2603,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 554,
+      "firing_rate": 0.00426,
+      "mean_activation": 18.765919,
+      "std_activation": 307.440741,
+      "max_activation": 6907.37207,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.00426
+      }
+    },
+    {
+      "feature_id": 2202,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 562,
+      "firing_rate": 0.004321,
+      "mean_activation": 15.170251,
+      "std_activation": 248.475689,
+      "max_activation": 5568.931641,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004321
+      }
+    },
+    {
+      "feature_id": 11678,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 558,
+      "firing_rate": 0.004291,
+      "mean_activation": 15.080967,
+      "std_activation": 247.010531,
+      "max_activation": 5534.02832,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004291
+      }
+    },
+    {
+      "feature_id": 375,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 557,
+      "firing_rate": 0.004283,
+      "mean_activation": 16.612407,
+      "std_activation": 272.137126,
+      "max_activation": 6111.114746,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004283
+      }
+    },
+    {
+      "feature_id": 10905,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 557,
+      "firing_rate": 0.004283,
+      "mean_activation": 13.746554,
+      "std_activation": 225.161567,
+      "max_activation": 5044.876953,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004283
+      }
+    },
+    {
+      "feature_id": 10609,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 17.81354,
+      "std_activation": 291.883393,
+      "max_activation": 6569.096191,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 761,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 552,
+      "firing_rate": 0.004245,
+      "mean_activation": 16.292641,
+      "std_activation": 266.949196,
+      "max_activation": 6005.06543,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004245
+      }
+    },
+    {
+      "feature_id": 10630,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 558,
+      "firing_rate": 0.004291,
+      "mean_activation": 10.462068,
+      "std_activation": 171.378698,
+      "max_activation": 3845.977295,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004291
+      }
+    },
+    {
+      "feature_id": 11733,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 557,
+      "firing_rate": 0.004283,
+      "mean_activation": 10.485588,
+      "std_activation": 171.777833,
+      "max_activation": 3859.586426,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004283
+      }
+    },
+    {
+      "feature_id": 15916,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 127933,
+      "firing_rate": 0.983737,
+      "mean_activation": 10.379271,
+      "std_activation": 78.913377,
+      "max_activation": 1726.545288,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.983737
+      }
+    },
+    {
+      "feature_id": 4875,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 122569,
+      "firing_rate": 0.94249,
+      "mean_activation": 9.847321,
+      "std_activation": 97.919814,
+      "max_activation": 2147.577393,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.94249
+      }
+    },
+    {
+      "feature_id": 11920,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 564,
+      "firing_rate": 0.004337,
+      "mean_activation": 7.466609,
+      "std_activation": 122.257563,
+      "max_activation": 2728.598389,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004337
+      }
+    },
+    {
+      "feature_id": 8600,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 559,
+      "firing_rate": 0.004298,
+      "mean_activation": 8.812195,
+      "std_activation": 144.342789,
+      "max_activation": 3238.847412,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004298
+      }
+    },
+    {
+      "feature_id": 12982,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 557,
+      "firing_rate": 0.004283,
+      "mean_activation": 8.731408,
+      "std_activation": 143.029094,
+      "max_activation": 3208.655518,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004283
+      }
+    },
+    {
+      "feature_id": 5743,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 49774,
+      "firing_rate": 0.382736,
+      "mean_activation": 1.926989,
+      "std_activation": 19.539353,
+      "max_activation": 444.735077,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.382736
+      }
+    },
+    {
+      "feature_id": 3945,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 119251,
+      "firing_rate": 0.916977,
+      "mean_activation": 5.814232,
+      "std_activation": 32.565662,
+      "max_activation": 729.154053,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.916977
+      }
+    },
+    {
+      "feature_id": 738,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 31203,
+      "firing_rate": 0.239934,
+      "mean_activation": 1.454575,
+      "std_activation": 17.984048,
+      "max_activation": 393.305115,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.239934
+      }
+    },
+    {
+      "feature_id": 5629,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 4141,
+      "firing_rate": 0.031842,
+      "mean_activation": 0.949063,
+      "std_activation": 15.394232,
+      "max_activation": 336.563232,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.031842
+      }
+    },
+    {
+      "feature_id": 4349,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 31653,
+      "firing_rate": 0.243395,
+      "mean_activation": 0.634447,
+      "std_activation": 5.286223,
+      "max_activation": 116.682426,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.243395
+      }
+    },
+    {
+      "feature_id": 14399,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 3995,
+      "firing_rate": 0.030719,
+      "mean_activation": 0.824219,
+      "std_activation": 13.337646,
+      "max_activation": 294.964417,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.030719
+      }
+    },
+    {
+      "feature_id": 7742,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 581,
+      "firing_rate": 0.004468,
+      "mean_activation": 1.27788,
+      "std_activation": 20.910214,
+      "max_activation": 464.089142,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.004468
+      }
+    },
+    {
+      "feature_id": 6089,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 14648,
+      "firing_rate": 0.112635,
+      "mean_activation": 0.554264,
+      "std_activation": 8.375511,
+      "max_activation": 179.573792,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.112635
+      }
+    },
+    {
+      "feature_id": 13256,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 27615,
+      "firing_rate": 0.212345,
+      "mean_activation": 0.423132,
+      "std_activation": 5.546434,
+      "max_activation": 120.300194,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.212345
+      }
+    },
+    {
+      "feature_id": 6183,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 115437,
+      "firing_rate": 0.887649,
+      "mean_activation": 1.483428,
+      "std_activation": 0.907319,
+      "max_activation": 7.886691,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.887649
+      }
+    },
+    {
+      "feature_id": 6785,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 68330,
+      "firing_rate": 0.525421,
+      "mean_activation": 1.391547,
+      "std_activation": 6.74434,
+      "max_activation": 152.150162,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.525421
+      }
+    },
+    {
+      "feature_id": 2305,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 66338,
+      "firing_rate": 0.510104,
+      "mean_activation": 0.557943,
+      "std_activation": 1.268579,
+      "max_activation": 21.770981,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.510104
+      }
+    },
+    {
+      "feature_id": 6169,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 61444,
+      "firing_rate": 0.472472,
+      "mean_activation": 0.734126,
+      "std_activation": 2.252244,
+      "max_activation": 47.196724,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.472472
+      }
+    },
+    {
+      "feature_id": 10222,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 9686,
+      "firing_rate": 0.07448,
+      "mean_activation": 0.491197,
+      "std_activation": 7.645345,
+      "max_activation": 168.644577,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.07448
+      }
+    },
+    {
+      "feature_id": 16017,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 13039,
+      "firing_rate": 0.100263,
+      "mean_activation": 0.497049,
+      "std_activation": 7.564098,
+      "max_activation": 161.592941,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.100263
+      }
+    },
+    {
+      "feature_id": 2869,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 103548,
+      "firing_rate": 0.796229,
+      "mean_activation": 0.979143,
+      "std_activation": 0.866199,
+      "max_activation": 8.124349,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.796229
+      }
+    },
+    {
+      "feature_id": 2887,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 10895,
+      "firing_rate": 0.083777,
+      "mean_activation": 0.598201,
+      "std_activation": 9.317181,
+      "max_activation": 201.09845,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.083777
+      }
+    },
+    {
+      "feature_id": 12305,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 10274,
+      "firing_rate": 0.079002,
+      "mean_activation": 0.613208,
+      "std_activation": 9.574418,
+      "max_activation": 207.177826,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.079002
+      }
+    },
+    {
+      "feature_id": 7888,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 84719,
+      "firing_rate": 0.651444,
+      "mean_activation": 0.502428,
+      "std_activation": 0.458899,
+      "max_activation": 2.654925,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.651444
+      }
+    },
+    {
+      "feature_id": 10237,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 49984,
+      "firing_rate": 0.38435,
+      "mean_activation": 0.777239,
+      "std_activation": 6.139819,
+      "max_activation": 138.67157,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.38435
+      }
+    },
+    {
+      "feature_id": 11086,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 21088,
+      "firing_rate": 0.162156,
+      "mean_activation": 0.405692,
+      "std_activation": 5.636715,
+      "max_activation": 121.845619,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.162156
+      }
+    },
+    {
+      "feature_id": 13967,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 26779,
+      "firing_rate": 0.205916,
+      "mean_activation": 0.524326,
+      "std_activation": 7.208102,
+      "max_activation": 157.497559,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.205916
+      }
+    },
+    {
+      "feature_id": 4157,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 26495,
+      "firing_rate": 0.203732,
+      "mean_activation": 0.507495,
+      "std_activation": 7.019851,
+      "max_activation": 150.164078,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.203732
+      }
+    },
+    {
+      "feature_id": 4944,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 7074,
+      "firing_rate": 0.054395,
+      "mean_activation": 0.476318,
+      "std_activation": 7.506719,
+      "max_activation": 160.92601,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.054395
+      }
+    },
+    {
+      "feature_id": 8585,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 8883,
+      "firing_rate": 0.068306,
+      "mean_activation": 0.437745,
+      "std_activation": 6.78941,
+      "max_activation": 145.31514,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.068306
+      }
+    },
+    {
+      "feature_id": 14225,
+      "total_tokens_seen": 130048,
+      "nonzero_count": 5541,
+      "firing_rate": 0.042607,
+      "mean_activation": 0.445799,
+      "std_activation": 7.071866,
+      "max_activation": 155.091721,
+      "per_lang_firing_rate": {
+        "simplified_chinese": 0.042607
+      }
+    }
+  ]
+}

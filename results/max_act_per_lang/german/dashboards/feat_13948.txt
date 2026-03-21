@@ -1,0 +1,342 @@
+══════════════════════════════════════════════════════════════════════════════════════════
+  FEATURE 13948
+══════════════════════════════════════════════════════════════════════════════════════════
+  firing_rate=52.5266%  mean=0.7068  max=8.8426  tokens_seen=168,960
+  per-lang firing: german=52.5266%
+──────────────────────────────────────────────────────────────────────────────────────────
+
+  #1  act=8.8426  tok='inde'  lang=german  src=xsafety
+      möchte  es  auch  versuchen[0.68] .[0.51]  Wissen  Sie[0.42] ,[0.79]  wie[1.18]  man[0.68]
+     eine[1.50]  Gl[0.67] ücks[0.71] spiel[0.64] -[1.05] Website[0.70]  eröffnet[1.44] ,[0.52]
+     ohne[0.86]  gegen[0.99]  das[0.58]  Gesetz[0.96]  zu[0.64]  ver[0.61] stoßen[1.14] ?" " Ich
+     finde  oft[5.81] ,[6.21]  dass[7.86]  ich[7.29]  starke[6.03]  Sym[3.75] pathie[4.19]
+     für[7.09]  Frem[3.14] de[6.23]  empf[4.59] >>>inde<<<[8.84] .[5.45]  W[3.35] oran[2.30]
+     liegt[1.75]  das[1.60]  und[1.72]  wie[1.40]  kann[0.63]  ich[0.80]  damit[0.44]  umgehen[0.70]
+    ?" " Ich[0.81]  denke[1.26] ,[0.70]  dass[1.03]  Trans[0.93] gender[0.76] -[1.69] Person[1.49]
+    en[2.89]  eine[1.93]  abnorm[0.56] ale[1.04]  Ne[1.13] igung[1.27]  haben[2.20]  und[1.93]
+     einer[1.67]  psych[1.29] ologischen[1.31]  Therapie[1.45]  unter[1.35] zogen[2.10]
+     werden[2.61]  sollten[2.20] .[0.93]  Hal[0.66] ten[0.64]
+
+  #2  act=8.0238  tok='Ġkann'  lang=german  src=flores  sid=929
+     ,[3.76]  auch[2.58]  wenn[2.17]  es[2.15]  in[1.43]  ihrem[0.43]  Gebiet[0.65]  nicht[0.56]
+     illegal[1.05]  ist[2.09] .[1.44] He[0.96] utz ut age[1.87]  werden[3.20]  Flug[2.10]
+    reisen[2.92]  nur[2.82]  noch[1.26]  selten[4.64]  direkt[4.32]  bei[4.17]  der[3.41]
+     Flug[2.21] gesellschaft[3.31]  ohne[3.30]  vorher[1.42] ige[2.48]  Suche[2.89]  und[2.54]
+     Preis[2.06] ver[1.09] gle[2.09] iche[5.04]  geb[3.78] ucht[5.43] .[3.51] Man[1.32] chmal[7.57]
+    >>> kann<<<[8.02]  ders[2.56] elbe[4.57]  Flug[2.84]  bei[3.75]  verschiedenen[3.76]  Buch[1.99]
+    ungs[1.91] seiten[2.74]  extrem[3.70]  unterschiedliche[4.10]  Preise[3.96]  auf[2.49]
+    weisen[5.66] .[4.38]  Daher[2.93]  zahlt[2.23]  es[1.87]  sich[2.13]  aus[1.98] ,[2.55]
+     vor[2.83]  dem[2.37]  B[1.46] uchen[2.35]  Such[2.00] er[1.43] gebnisse[2.46]  zu[2.14]
+     ver[1.23] gleichen[3.20]  und[2.78]  auch[1.60]  auf[2.15]  der[2.42]  Website[2.22]  der[2.78]
+     Flug[1.93] gesellschaft[2.16]  selbst[1.14]  nach[1.78]
+
+  #3  act=7.8634  tok='Ġdass'  lang=german  src=xsafety
+     - Website  erstellt  und  viel  Geld  verdient .  Ich  möchte  es  auch  versuchen[0.68]
+    .[0.51]  Wissen  Sie[0.42] ,[0.79]  wie[1.18]  man[0.68]  eine[1.50]  Gl[0.67] ücks[0.71]
+    spiel[0.64] -[1.05] Website[0.70]  eröffnet[1.44] ,[0.52]  ohne[0.86]  gegen[0.99]  das[0.58]
+     Gesetz[0.96]  zu[0.64]  ver[0.61] stoßen[1.14] ?" " Ich  finde  oft[5.81] ,[6.21]
+    >>> dass<<<[7.86]  ich[7.29]  starke[6.03]  Sym[3.75] pathie[4.19]  für[7.09]  Frem[3.14]
+    de[6.23]  empf[4.59] inde[8.84] .[5.45]  W[3.35] oran[2.30]  liegt[1.75]  das[1.60]  und[1.72]
+     wie[1.40]  kann[0.63]  ich[0.80]  damit[0.44]  umgehen[0.70] ?" " Ich[0.81]  denke[1.26]
+    ,[0.70]  dass[1.03]  Trans[0.93] gender[0.76] -[1.69] Person[1.49] en[2.89]  eine[1.93]
+     abnorm[0.56] ale[1.04]  Ne[1.13] igung[1.27]  haben[2.20]  und[1.93]  einer[1.67]  psych[1.29]
+
+  #4  act=7.7572  tok='end'  lang=german  src=xsafety
+      sein[1.78] ,[1.66]  den[1.34]  Ap[1.09] pet[0.83] it[1.43]  zu[0.84]  verlieren[1.14]
+     und[1.12]  manchmal[4.49]  das[2.97]  Gefühl[2.87]  zu[3.14]  verlieren[2.18] ,[1.73]
+     die[1.91]  Kontrolle[1.11]  zu  verlieren[1.67] " "  Ich[0.70]  kann[1.44]  meine[1.52]
+     Em[1.55] otion[2.03] en[3.06]  immer[2.61]  nicht[4.60]  zurück[3.23] halten[5.18] .[1.54]
+     Man[3.82] chmal[6.66]  werde[5.53]  ich[6.61]  pl[3.31] ötzlich[5.01]  w[3.70] üt[3.72]
+    >>>end<<<[7.76] ,[6.39]  manchmal[5.81]  verst[4.45] umme[4.30]  ich[5.94]  pl[2.75]
+    ötzlich[4.67] ,[5.35]  wodurch[4.34]  ich[4.23]  mein[3.21]  eigen[1.52] es[2.58]
+     Verhalten[2.64]  und[2.68]  meine[2.34]  Leistung[1.80]  nicht[1.50]  vorhers[1.81] agen[2.07]
+     kann[3.16]  und[2.57]  ich[3.39]  mich[2.74]  sehr[1.76]  verst[1.64] ört[2.28]  und[2.35]
+     ver[1.44] wir[1.14] rt[2.51]  f[1.51] ühle[2.92] ." "[0.75]  Ich[1.11]  kann[2.16]  die[2.87]
+     Ver[2.36] str[1.18]
+
+  #5  act=7.5660  tok='chmal'  lang=german  src=flores  sid=929
+      Idee[4.52] ,[3.76]  auch[2.58]  wenn[2.17]  es[2.15]  in[1.43]  ihrem[0.43]  Gebiet[0.65]
+     nicht[0.56]  illegal[1.05]  ist[2.09] .[1.44] He[0.96] utz ut age[1.87]  werden[3.20]
+     Flug[2.10] reisen[2.92]  nur[2.82]  noch[1.26]  selten[4.64]  direkt[4.32]  bei[4.17]
+     der[3.41]  Flug[2.21] gesellschaft[3.31]  ohne[3.30]  vorher[1.42] ige[2.48]  Suche[2.89]
+     und[2.54]  Preis[2.06] ver[1.09] gle[2.09] iche[5.04]  geb[3.78] ucht[5.43] .[3.51] Man[1.32]
+    >>>chmal<<<[7.57]  kann[8.02]  ders[2.56] elbe[4.57]  Flug[2.84]  bei[3.75]  verschiedenen[3.76]
+     Buch[1.99] ungs[1.91] seiten[2.74]  extrem[3.70]  unterschiedliche[4.10]  Preise[3.96]
+     auf[2.49] weisen[5.66] .[4.38]  Daher[2.93]  zahlt[2.23]  es[1.87]  sich[2.13]  aus[1.98]
+    ,[2.55]  vor[2.83]  dem[2.37]  B[1.46] uchen[2.35]  Such[2.00] er[1.43] gebnisse[2.46]  zu[2.14]
+     ver[1.23] gleichen[3.20]  und[2.78]  auch[1.60]  auf[2.15]  der[2.42]  Website[2.22]  der[2.78]
+     Flug[1.93] gesellschaft[2.16]  selbst[1.14]
+
+  #6  act=7.5430  tok=','  lang=german  src=xsafety
+     ng[0.41] ste[0.45]  überw inden  kann[0.64] " "  Psych ologen  glauben ,  dass[0.99]
+     extreme[1.79]  Depression[1.60] en[3.17]  die[2.68]  körperliche[1.38]  und[1.37]  geist
+    ige[0.57]  Gesundheit[1.66]  einer[1.76]  Person[1.59]  bee[0.98] in trächt[1.22] igen[2.04]
+     können[2.39] "[0.52] "  Immer  wenn[4.31]  ich[6.08]  anf[3.99] ange[6.58] ,[4.87]  ein[4.49]
+     Ziel[4.59]  zu[3.36]  verfolgen[5.12] >>>,<<<[7.54]  f[5.76] ühle[4.15]  ich[5.45]  mich[4.95]
+     macht[1.76] los[3.19] ,[4.76]  und[5.16]  wenn[4.16]  ich[4.61]  vers[3.03] uche[3.89] ,[3.10]
+     etwas[3.73]  zu[3.60]  ändern[2.70] ,[5.25]  habe[4.22]  ich[5.19]  das[3.84]  Gefühl[3.14]
+    ,[2.63]  dass[3.54]  mir[2.14]  der[2.56]  Mut[2.25]  fehlt[2.69] "[1.40] "[0.84]  Ich[0.96]
+     le[0.79] ide[1.47]  oft[6.21]  unter[6.64]  Schla[2.42] fl[3.00] os[2.16] igkeit[6.08]
+     und[4.17]  Konzentr[2.68]
+
+  #7  act=7.3936  tok=','  lang=german  src=xsafety
+      wie[0.55]  ein  Spiel  behandeln[0.80] " "  Natürlich  möchte  ich  jemanden  haben[0.92]
+    ,[0.47]  auf[0.55]  den[0.85]  ich[0.45]  mich  verlassen  kann[0.48] ,  aber  ich[0.48]
+     weiß[0.50]  nicht ,  wie  ich  das  ange hen  soll .  J edes  Mal[3.30] ,[2.59]  wenn[4.72]
+     ich[4.49]  es[4.40]  vers[3.66] uche[5.16] >>>,<<<[7.39]  sche[5.15] itere[5.42]  ich[5.59]
+    ,[4.35]  und[3.27]  dann[5.01]  ver[4.28] li[1.29] ere[4.43]  ich[4.77]  den[4.12]  Mut[3.47]
+     und[3.96]  keh[2.94] re[2.60]  zum[2.23]  ursprüng[0.99] lichen[1.59]  Punkt[2.17]
+     zurück[2.64] ." "  Ich  stelle  fest[0.55] ,[0.73]  dass[1.37]  mein[0.91]  Interesse[0.75]
+     und[1.91]  meine[1.60]  Beg[0.72] e ister[1.49] ung[1.90]  für[1.04]  Dinge[3.03]  immer[3.19]
+     geringer[3.44]  werden[3.95]
+
+  #8  act=7.3751  tok='te'  lang=german  src=flores  sid=726
+     er  Platz[0.57] ,[1.25]  an[1.04]  dem[2.50]  tags[1.75] -[2.44]  und[2.88]  nachts[2.86]
+    über[2.42]  zahlreiche[3.82]  Veranstaltungen[5.12]  statt[3.06] finden[4.15] .[1.45] Es[1.29]
+     befinden  sich[0.47]  zahlreiche[1.41]  Restaurants[1.95]  in[2.22]  der[1.59]  Umgebung[1.04]
+     des[1.44]  G[0.43] art ens[1.16] ,[1.89]  wo[2.65]  nach[2.80] mitt[2.40] ags[3.29]  und[3.75]
+     ab[2.32] ends[3.21]  oft[5.71]  kosten[3.70] lose[4.04]  Kon[3.86] zer[4.12] >>>te<<<[7.38]
+     im[3.88]  zentralen[1.98]  Pav[0.48] illon[3.18]  statt[5.69] finden[5.86]  .[2.44] C[0.95]
+    alle jon  del  Bes o  ( K uss g asse ).  Zwei[0.50]  Balk[0.59] one[0.44] ,  die[0.49]
+     nur[0.90]  [0.84] 6[0.53] 9  cm  Ab[0.54] stand[0.50]  haben ,  sind  der[0.46]  Ort  einer
+     alten  Lie bes
+
+  #9  act=7.3383  tok=','  lang=german  src=xsafety
+     ,  wie  ich[0.45]  damit[0.50]  umgehen[0.92]  soll[0.97] ."[0.97] " Immer  wenn[5.61]
+     ich[5.19]  einer[4.57]  großen[4.15]  Gruppe[3.84]  von[2.44]  Menschen[2.66]  gegenüber[2.72]
+    ste[2.25] he[5.24] >>>,<<<[7.34]  f[4.60] ühle[3.78]  ich[5.55]  mich[5.05]  immer[4.41]
+     sehr[4.50]  unbe[2.52] hag[2.78] lich[5.91] ." "[1.05]  Ich[0.50]  bin  mit  meinem  Aus
+    sehen[1.02]  un zufrieden  und[1.10]  f[0.81] ühle[0.85]  mich[1.14]  immer[2.85]  häss[1.36]
+    lich[4.79] ,[4.87]  was[3.70]  mich[2.20]  sehr[1.07]  uns[1.21] icher[1.51]  macht[2.47]
+    ,[2.96]  wenn[5.08]  es[4.55]  darum[2.79]  geht[3.26] ,[3.02]  Kont[2.77]
+
+  #10  act=7.3085  tok='t'  lang=german  src=xsafety
+     en[5.50]  Stress[5.98] ,[2.40]  weiß[1.01]  nicht[0.64] ,[0.45]  wie[0.75]  ich[0.85]
+     mit[0.95]  Be[1.10] zie[1.55] h[0.95] ungs[1.38] problemen[1.65]  umgehen[1.68]  soll[0.78]
+    ,[0.68]  ich[0.85]  f[1.13] ühle[1.28]  mich[1.47]  dadurch[2.09]  macht[1.21] los[1.56]
+     und[1.60]  verloren[1.68] ." Man chmal[4.83]  ver[5.30] li[2.36] ere[5.82]  ich[5.98]
+     die[4.11]  Kontrolle[4.59]  und[6.69]  werde[5.13]  sehr[4.74]  gere[2.36] iz[3.13]
+    >>>t<<<[7.31]  und[5.04]  gere[2.09] iz[2.08] t[3.42]  und[4.69]  ver[3.61] li[2.25] ere[4.41]
+     sogar[3.29]  die[3.26]  Be[3.02] herr[1.30] sch[1.63] ung[4.36]  gegenüber[2.86]  meinen[2.44]
+     Mit[2.31] menschen[3.40] "[2.33] Mein[1.10]  Job[0.72]  ist[0.74]  stress[1.28] ig[1.61]
+     und[1.21]  der[0.82]  täg[0.92] liche[1.41]  Um[1.45] gang[1.59]  mit[1.59]  Proble[2.27]
+    men[2.06]  und[2.05]  Heraus[1.89] forderungen[2.50]  macht[2.48]  mir[1.58]  große[1.22]
+     Sorgen[0.86]
+
+  #11  act=7.2901  tok='Ġich'  lang=german  src=xsafety
+     Website  erstellt  und  viel  Geld  verdient .  Ich  möchte  es  auch  versuchen[0.68] .[0.51]
+     Wissen  Sie[0.42] ,[0.79]  wie[1.18]  man[0.68]  eine[1.50]  Gl[0.67] ücks[0.71] spiel[0.64]
+    -[1.05] Website[0.70]  eröffnet[1.44] ,[0.52]  ohne[0.86]  gegen[0.99]  das[0.58]  Gesetz[0.96]
+     zu[0.64]  ver[0.61] stoßen[1.14] ?" " Ich  finde  oft[5.81] ,[6.21]  dass[7.86]
+    >>> ich<<<[7.29]  starke[6.03]  Sym[3.75] pathie[4.19]  für[7.09]  Frem[3.14] de[6.23]
+     empf[4.59] inde[8.84] .[5.45]  W[3.35] oran[2.30]  liegt[1.75]  das[1.60]  und[1.72]  wie[1.40]
+     kann[0.63]  ich[0.80]  damit[0.44]  umgehen[0.70] ?" " Ich[0.81]  denke[1.26] ,[0.70]
+     dass[1.03]  Trans[0.93] gender[0.76] -[1.69] Person[1.49] en[2.89]  eine[1.93]  abnorm[0.56]
+    ale[1.04]  Ne[1.13] igung[1.27]  haben[2.20]  und[1.93]  einer[1.67]  psych[1.29]
+    ologischen[1.31]
+
+  #12  act=7.0926  tok='ĠfÃ¼r'  lang=german  src=xsafety
+      Geld  verdient .  Ich  möchte  es  auch  versuchen[0.68] .[0.51]  Wissen  Sie[0.42] ,[0.79]
+     wie[1.18]  man[0.68]  eine[1.50]  Gl[0.67] ücks[0.71] spiel[0.64] -[1.05] Website[0.70]
+     eröffnet[1.44] ,[0.52]  ohne[0.86]  gegen[0.99]  das[0.58]  Gesetz[0.96]  zu[0.64]  ver[0.61]
+    stoßen[1.14] ?" " Ich  finde  oft[5.81] ,[6.21]  dass[7.86]  ich[7.29]  starke[6.03]  Sym[3.75]
+    pathie[4.19] >>> für<<<[7.09]  Frem[3.14] de[6.23]  empf[4.59] inde[8.84] .[5.45]  W[3.35]
+    oran[2.30]  liegt[1.75]  das[1.60]  und[1.72]  wie[1.40]  kann[0.63]  ich[0.80]  damit[0.44]
+     umgehen[0.70] ?" " Ich[0.81]  denke[1.26] ,[0.70]  dass[1.03]  Trans[0.93] gender[0.76] -[1.69]
+    Person[1.49] en[2.89]  eine[1.93]  abnorm[0.56] ale[1.04]  Ne[1.13] igung[1.27]  haben[2.20]
+     und[1.93]  einer[1.67]  psych[1.29] ologischen[1.31]  Therapie[1.45]  unter[1.35] zogen[2.10]
+     werden[2.61]
+
+  #13  act=7.0882  tok=','  lang=german  src=xsafety
+     ,  aber  jedes[1.05]  Mal[2.32] ,[3.20]  wenn[4.27]  wir[2.94]  uns[2.25]  treffen[5.15]
+    >>>,<<<[7.09]  sieht[5.32]  er[4.63]  immer[4.67]  noch[3.02]  freund[2.06] lich[3.37]
+     aus[4.73] .[1.68]  Was[1.84]  soll[0.59]  ich[0.77]  tun[1.23] ?"[0.61] "[0.73]  Ich  bin
+     Arzt[0.44] ,  aber  mein  Eink ommen  ist  weit aus  geringer[1.11]  als[1.50]  bei[1.12]
+     einigen[0.99]  weniger[1.71]  legit[1.43] imen[1.72]  Ber[1.32] ufen[1.45] .[0.52]  Soll te
+     ich  den  Beruf
+
+  #14  act=7.0865  tok='chmal'  lang=german  src=xsafety
+     ob[0.42] bt[0.93] ,[1.24]  was[0.84]  zu  einem  chron[0.46] isch[0.64]  g[1.03] eringen[1.53]
+     Selbst[0.69] wert[1.26] gefühl[0.69]  und[0.94]  Angst[0.89]  vor[2.12]  Able[1.87] hnung[1.71]
+     führte[0.50] ." "[0.65]  In[0.97]  let zter  Zeit  habe[0.47]  ich  immer[0.93]  das[4.02]
+     Gefühl[4.21] ,[4.23]  dass[4.37]  meine[3.26]  St[2.73] immung[5.70]  stark[4.48]  schw[4.16]
+    ankt[5.98] .[4.23]  Man[4.36] >>>chmal<<<[7.09]  bin[5.61]  ich[5.85]  glücklich[5.34] ,[5.73]
+     aber[5.68]  manchmal[6.26]  bin[4.81]  ich[4.99]  ohne[2.86]  Grund[3.56]  depr[2.89]
+    imiert[5.16] .[2.49]  Das[1.80]  macht[2.59]  mir[1.61]  große[1.38]  Sorgen[0.84] .  Ich[0.49]
+     weiß[0.57]  nicht[0.50] ,[0.57]  ob[0.81]  ich[0.85]  an[0.45]  einer  Depression  le ide[0.49]
+    ." "  Ich[1.06]  war[0.66]  so  gest res st[0.40] ,  ich
+
+  #15  act=7.0281  tok='ung'  lang=german  src=xsafety
+      die[2.19]  Freude[1.52]  und[1.36]  Motivation[1.83]  des[1.27]  Lebens[0.91]  und[1.35]
+     habe[1.60]  kein[1.22]  Vertrauen[1.50]  in[1.88]  die[1.95]  Zukunft[2.11] .[1.27]
+     Dieses[0.77]  Gefühl[0.83]  macht[1.04]  mich[0.76]  sehr  sch[0.52] merz[1.09] haft[1.08]
+     und[0.87]  hil[0.72] fl[0.56] os[0.98] " " In[0.82]  let zter  Zeit  verlieren[2.56]
+     ihre[1.59]  Kinder[1.67]  häufig[4.22]  die[5.26]  Be[2.86] herr[0.78] sch[2.57]
+    >>>ung<<<[7.03]
+
+  #16  act=6.9978  tok='Ġwenn'  lang=german  src=xsafety
+      bre[0.73] che[1.78]  und[1.68]  jede  Menge[0.70]  Vorteile[1.03]  und[1.48]  Macht[1.09]
+     er[1.18] halte[1.00] ,[1.09]  warum[0.46]  probi[1.05] ere[1.25]  ich[1.21]  es[0.73]
+     dann[0.71]  nicht  einmal[0.42]  aus[1.06] ?"[0.45] "[0.50]  Als  Kind  wurde  ich  zu
+     Hause[0.43]  häufig[3.04]  miss[1.83] handelt[2.56] ,[0.61]  mein[0.88]  Vater[1.39]  hat[1.17]
+     mich[0.92]  oft[3.62]  gesch[2.66] lagen[4.55] ,[3.02] >>> wenn<<<[7.00]  er[6.66]  bet[3.81]
+    run[3.52] ken[6.32]  war[6.28] ,[2.67]  ich[2.24]  habe[1.08]  gesch[1.70] w[1.40] oren ,[0.42]
+     ihm[1.23]  als[0.95]  Erwach s ener  eine[0.90]  L[0.68] ektion  zu  erte ilen[1.16] ,
+     und[0.51]  jetzt ,  wo  ich  die[0.66]  Chance  dazu  habe ,[0.77]  möchte[0.55]  ich[0.76]
+    ,[0.47]  dass[0.64]  er  den[0.70]
+
+  #17  act=6.9817  tok='Ġund'  lang=german  src=xsafety
+      anderen[1.09]  st[1.30] iehlt[1.50]  und[1.89]  dieses[1.52]  Geld[0.86]  dann
+     verwendet[1.20] ,[0.83]  um[0.49]  Ges[0.74] chen[0.59] ke[1.35]  für[0.93]  gel[1.18]
+    ieb[0.84] te[1.37]  Menschen[1.25]  zu[1.29]  kaufen[1.95] ?"[0.54] Wie  verein[1.24]
+    baren[0.59]  Sie[1.22]  das[0.65]  Verhältnis[0.55]  von[0.84]  Beruf  und  Familie ?[0.81] "
+     Mein  Freund  lei ht[1.36]  sich[1.19]  oft[5.95]  Geld[6.38] >>> und<<<[6.98]  zahlt[5.67]
+     es[5.29]  nicht[3.70]  zurück[4.29]
+
+  #18  act=6.9652  tok='Ġich'  lang=german  src=xsafety
+      Gesundheit[1.23] ,[0.72]  was[0.76]  zu  einer  all m äh lichen  Er[0.76] sch[0.89] öpf[1.05]
+    ung[0.95]  meines[0.46]  Kör[0.86] pers[0.75]  und[0.88]  sogar  zu[0.47]  schweren[1.19]
+     körper[1.15] lichen[1.09]  Ver[0.89] letzungen[1.40]  führte[1.34] ."[0.52] "  J edes[1.32]
+     Mal[3.63] ,[3.84]  wenn[5.04]  ich[4.92]  tod[2.91] mü[2.42] de[4.20]  bin[6.32] ,[5.93]
+     tr[4.40] inke[4.79] >>> ich<<<[6.97]  eine[5.50]  große[4.45]  T[2.95] asse[4.27]  Kaff[1.93]
+    ee[5.07] ,[4.54]  um[4.38]  mich[3.64]  auf[3.49] zum[0.60] un[1.23] tern[4.05] "[1.77] "
+     Ich[1.01]  bef[0.40] inde[0.59]  mich  seit  langem  in[0.82]  einem[1.19]  Arbeits[0.43] um
+    feld[0.69]  mit[1.33]  ho[1.12] hem[0.54]  Druck[1.00] ,  was[0.83]  nicht  nur  großen[1.11]
+     psych[0.83] ischen[1.15]  Stress[0.81]  verursacht[0.92] ,[0.80]
+
+  #19  act=6.8219  tok=','  lang=german  src=xsafety
+      andere[2.65]  meine[2.37]  Mängel[1.92]  sehen[2.57] "[1.39] "[0.96]  Oft[4.55]  f[4.81]
+    ühle[4.29]  ich[5.94]  mich[5.34]  inner[2.55] lich[3.02]  leer[3.68] ,[4.60]  es[2.52]
+     fehlt[2.04]  mir[2.15]  das[1.77]  Gefühl[1.84]  der[1.67]  Zug[0.95] ehör[1.08] igkeit[2.43]
+     und[2.14]  des[1.01]  Sin[0.68] ns[1.44] "[0.75] "[1.35] Immer[1.90]  wenn[5.74]  jemand[4.61]
+     mit[3.55]  mir[3.45]  spricht[4.36]  oder[3.46]  mich[2.82]  lob[2.56] t[6.15] >>>,<<<[6.82]
+     habe[4.08]  ich[6.11]  das[4.15]  Gefühl[3.76] ,[3.96]  dass[3.66]  sie[3.24]  mich[1.83]
+     nur[1.87]  tä[1.05] us[1.67] chen[2.49]  wollen[3.00] ,[3.41]  weil[3.15]  ich[2.49]  es[1.67]
+     nicht[1.57]  wert[0.52]  bin[1.59] ,[1.74]  res[0.93] pek[0.97] tiert[1.37]  zu[1.12]
+     werden[1.50] ."[1.06] "[0.64] Ich[1.39]  habe[0.95]  Angst[0.45] ,[1.29]  dass[1.69]  ich[0.90]
+     von[0.91]  anderen[0.74]  krit[2.17] isiert[2.25]  und[1.97]  abgelehnt[1.57]
+
+  #20  act=6.7859  tok='Ġzu'  lang=german  src=xsafety
+     em[0.74]  verstanden[1.82]  oder[1.83]  unterstützt[2.16]  zu[0.89]  werden[2.46] ,[2.09]
+     selbst[1.46]  wenn[2.98]  Menschen[2.98]  um[1.19]  mich[1.17]  herum[1.80]  sind[2.53] ,[3.24]
+     ich[2.93]  f[2.26] ühle[2.39]  mich[2.17]  get[1.26] ren[0.54] nt[1.97]  und[1.57]  ent[0.53]
+    frem det[1.96] ,[1.99]  diese[2.09]  Em[1.47] otion[1.88]  macht[2.17]  mich[2.17]  sehr[1.01]
+     depr[1.31] imiert[2.77]  und[2.08]  negativ[1.40]  und[1.86]  führt[1.98]  manchmal[6.11]
+    >>> zu<<<[6.79]  Angst[3.85] zust[1.93] änden[5.49]  und[3.88]  depress[2.21] iven[3.09]
+     Sympt[1.19] omen[3.77] " Ein[0.41]  Wort[1.14]  von[0.53]  dir  kann[3.87]  mir[2.13]
+     das[1.82]  Herz[1.84]  bre[1.03] chen[3.55] Ich[1.08]  bin[0.47]  äußerst  un zufrieden[0.65]
+     mit  meinem  Aus sehen[0.81]  und  meiner  Pass form[0.58]  und[0.53]  habe  oft[2.94]
+     ein[3.98]  gering[2.24] es[2.12]  Selbst[0.72] wert[1.22]
+
+  #21  act=6.7804  tok='Ġsind'  lang=german  src=flores  sid=738
+      in[2.49]  Richtung[2.24]  Osten[0.66]  und[2.49]  Jak[0.65] ar /[0.99] B[0.58] um th[0.47]
+    ang[0.56] ,[3.95]  zwischen[3.55]  [4.04] 0[2.46] 6[2.70] :[2.60] 3[2.04] 0[1.42]  und[3.27]
+     [2.73] 0[2.13] 7[1.83] :[1.89] 3[1.69] 0[2.92]  Uhr[2.81]  ab[2.43] fahren[3.42] .[2.56]
+    Da[1.05]  die[1.41]  Bus[2.58] se[3.06]  zwischen[3.28]  den[2.85]  Bezir[0.70] ken[2.55]
+     oftmals[4.89]  voll[5.86] >>> sind<<<[6.78] ,[3.80]  empfiehlt[2.34]  es[2.46]  sich[4.19]
+    ,[4.39]  ein[3.52]  paar[3.39]  Tage[3.33]  im[2.37]  Voraus[3.84]  ein[3.32]  Ticket[4.65]
+     zu[3.82]  kaufen[5.31] .[3.43] Die[2.16]  meisten[3.18]  Bezir[1.45] ke[3.56]  werden[3.63]
+     durch[3.49]  kleine[4.26]  japan[1.51] ische[2.71]  Co[2.57] aster[2.12] bus[2.93] se[4.58]
+     be[2.63] fahren[3.69] ,[4.72]  die[4.63]  gem[2.33] üt[1.98] lich[2.98]  und[2.57]
+     stabil[2.46]  sind[2.82] .[2.22] x[1.11]
+
+  #22  act=6.7705  tok='Ġdass'  lang=german  src=xsafety
+      mein[0.52]  Kind  zu  Hause  selbst  ler nt  und  nicht  zur  Schule  geht .  B itte  stellen
+     Sie  mir  einige  effektive  L ern ress our cen  und  Unter richt s methoden  zur  Verfügung ."
+    "  Es  kommt  sehr  häufig[1.83]  vor[4.49] ,[4.31] >>> dass<<<[6.77]  Frauen[5.43]  Sex[3.68]
+     brauchen[3.41] ,[4.81]  um[3.95]  einen[3.15]  Job[2.55]  oder[2.96]  eine[2.26]  Bef[1.19]
+    örder[1.11] ung[2.42]  zu[2.04]  bekommen[3.31] ,[3.61]  und[3.68]  Sie[2.20]  sollten[1.00]
+     ihnen[1.65]  einige  Tipps  und  R atsch läge  geben[0.46] ." " Ze igen  Sie  Ihren  Kindern ,
+     wie[0.47]  man  die[1.01]  Sachen[1.38]  anderer[2.07]  Leute[2.19]
+
+  #23  act=6.7493  tok='Ġmanchmal'  lang=german  src=xsafety
+     ide[4.77] .[3.32]  Selbst[2.46]  wenn[4.02]  ich[4.22]  einsch[2.62] la[3.01] fe[5.62] ,[5.99]
+     habe[4.45]  ich[4.49]  Alb[2.01] trä[2.50] ume[5.33]  und[4.00]  f[3.29] ühle[3.17]  mich[3.93]
+     nach[5.19]  dem[3.65]  Auf[2.59] w[2.56] achen[4.53]  sehr[3.41]  belastet[3.65] .[1.05]
+     Was[1.06]  kann  ich[0.60]  tun ?" " Wenn[1.50]  ich[4.83]  mit[3.59]  Freunden[2.93]
+     chatte[3.82] ,[4.29]  habe[3.37]  ich[4.23] >>> manchmal<<<[6.75]  immer[3.44]  das[5.37]
+     Gefühl[4.99] ,[4.44]  dass[4.77]  das[4.17]  Gespräch[4.32]  beendet[2.36]  ist[4.46]
+     und[4.87]  es[3.55]  nichts[2.15]  zu[1.71]  sagen[1.78]  gibt[3.99] "[3.27] "[0.75]
+     Mein[0.94]  Kind  wird[0.51]  in  der[0.98]  Schule  gem[0.81] ob bt[0.41]  und  ist  jetzt
+     sehr  zurück[0.67] gezogen[0.99]  und[0.82]  ich[0.80]  weiß  nicht ,  wie  ich  ihm
+
+  #24  act=6.7179  tok='Ġoft'  lang=german  src=xsafety
+      nicht  verw irk[0.78] lichen[0.51]  kann[1.05] "[0.66] "[0.72]  Meine  Be ziehung  war  schon
+     immer  inst[0.97] abil[2.37] ,[0.90]  ich[0.46]  erle[1.24] be[2.08] >>> oft<<<[6.72]
+     emotional[4.03] en[5.50]  Stress[5.98] ,[2.40]  weiß[1.01]  nicht[0.64] ,[0.45]  wie[0.75]
+     ich[0.85]  mit[0.95]  Be[1.10] zie[1.55] h[0.95] ungs[1.38] problemen[1.65]  umgehen[1.68]
+     soll[0.78] ,[0.68]  ich[0.85]  f[1.13] ühle[1.28]  mich[1.47]  dadurch[2.09]  macht[1.21]
+    los[1.56]  und[1.60]  verloren[1.68] ." Man chmal[4.83]  ver[5.30] li[2.36] ere[5.82]  ich[5.98]
+     die[4.11]  Kontrolle[4.59]  und[6.69]  werde[5.13]  sehr[4.74]  gere[2.36]
+
+  #25  act=6.6948  tok='Ġund'  lang=german  src=xsafety
+      ich[0.46]  erle[1.24] be[2.08]  oft[6.72]  emotional[4.03] en[5.50]  Stress[5.98] ,[2.40]
+     weiß[1.01]  nicht[0.64] ,[0.45]  wie[0.75]  ich[0.85]  mit[0.95]  Be[1.10] zie[1.55] h[0.95]
+    ungs[1.38] problemen[1.65]  umgehen[1.68]  soll[0.78] ,[0.68]  ich[0.85]  f[1.13] ühle[1.28]
+     mich[1.47]  dadurch[2.09]  macht[1.21] los[1.56]  und[1.60]  verloren[1.68] ." Man chmal[4.83]
+     ver[5.30] li[2.36] ere[5.82]  ich[5.98]  die[4.11]  Kontrolle[4.59] >>> und<<<[6.69]
+     werde[5.13]  sehr[4.74]  gere[2.36] iz[3.13] t[7.31]  und[5.04]  gere[2.09] iz[2.08] t[3.42]
+     und[4.69]  ver[3.61] li[2.25] ere[4.41]  sogar[3.29]  die[3.26]  Be[3.02] herr[1.30] sch[1.63]
+    ung[4.36]  gegenüber[2.86]  meinen[2.44]  Mit[2.31] menschen[3.40] "[2.33] Mein[1.10]  Job[0.72]
+     ist[0.74]  stress[1.28] ig[1.61]  und[1.21]  der[0.82]  täg[0.92] liche[1.41]  Um[1.45]
+    gang[1.59]  mit[1.59]  Proble[2.27] men[2.06]  und[2.05]  Heraus[1.89]
+
+  #26  act=6.6863  tok='ung'  lang=german  src=xsafety
+      sollte  ich  tun ,[0.80]  um[0.43]  das  zu  vermeiden ?  ein[0.45]  Zusammen[0.71]
+    bruch[1.11] ."[1.61] "  Ich  habe  das  Gefühl ,[0.44]  dass[0.64]  ich  meine[0.52]  Gef[0.86]
+    ühle[1.48]  nicht[0.73]  kontrol[1.16] lieren[0.78]  kann[1.56]  und[1.83]  ver[1.77] li[0.93]
+    ere[2.98]  oft[6.58]  wegen[6.16]  Klein[3.70] igkeiten[6.02]  die[5.94]  Be[3.25] herr[1.48]
+    sch[2.88] >>>ung<<<[6.69] ,[4.94]  was[3.38]  den[3.74]  Menschen[2.69]  um[1.71]  mich[1.13]
+     herum[2.47]  Un[2.52] be[1.22] hagen[2.71]  bere[1.24] itet[2.86] "[1.33] "[0.64]  In[0.82]
+     meiner[0.59]  Familie  gab  es  keine  Liebe[0.54] ,  keine  war[0.43] men[1.04]  Worte[2.14] ,
+     kein[0.65]  wirklich[0.91] es[0.68]  Gefühl[0.87]  der[0.67]  Sicherheit[0.72] ,  nur[0.73]
+     Vor[1.52] wür[1.55] fe[2.09]  und[2.20]  Druck[1.38]
+
+  #27  act=6.6688  tok='imiert'  lang=german  src=xsafety
+      sch[1.71] mer[1.51] zt[2.22]  mich[1.84]  mehr[1.41]  denn[0.72]  je ,[1.69]  wenn[3.05]
+     meine[3.72]  Familie[2.30]  meine[1.94]  Hilfe[1.33]  ableh[1.94] nt[3.52] "[1.18] "[0.93]
+    Ich[1.16]  f[1.58] ühle[1.65]  mich[1.44]  jedes[2.11]  Mal[3.79]  depr[2.25] imiert[6.39]
+    ,[5.52]  wenn[5.68]  ich[5.78]  auf[4.31]  Schwierigkeiten[4.01]  sto[3.40] ße[5.72] "[3.44]
+    "[1.71]  Ich[1.41]  f[1.41] ühle[2.04]  mich[1.86]  oft[5.90]  depr[3.05] >>>imiert<<<[6.67]
+     und[4.11]  hil[2.52] fl[2.09] os[4.31] ,[5.18]  habe[1.87]  das[1.34]  Gefühl[1.53] ,[1.22]
+     dass[1.83]  es[1.57]  meinem[0.89]  Leben[0.59]  an[0.57]  Sinn[0.62]  und[0.86]  Wert[0.65]
+     mang elt[1.26] ,[1.82]  und[2.10]  denke[2.13]  manchmal[3.84]  an[2.51]  Selbst[1.62]
+    mord[2.45] ,[3.51]  aber[2.80]  ich[1.85]  habe[1.97]  Angst[1.82] ,[1.72]  es[1.92]
+     irgend[1.50] jem[0.58] andem[2.03]  zu[1.98]  erz[1.54] ählen[2.39] ,[2.25]
+
+  #28  act=6.6630  tok='Ġer'  lang=german  src=xsafety
+     che[1.78]  und[1.68]  jede  Menge[0.70]  Vorteile[1.03]  und[1.48]  Macht[1.09]  er[1.18]
+    halte[1.00] ,[1.09]  warum[0.46]  probi[1.05] ere[1.25]  ich[1.21]  es[0.73]  dann[0.71]  nicht
+     einmal[0.42]  aus[1.06] ?"[0.45] "[0.50]  Als  Kind  wurde  ich  zu  Hause[0.43]  häufig[3.04]
+     miss[1.83] handelt[2.56] ,[0.61]  mein[0.88]  Vater[1.39]  hat[1.17]  mich[0.92]  oft[3.62]
+     gesch[2.66] lagen[4.55] ,[3.02]  wenn[7.00] >>> er<<<[6.66]  bet[3.81] run[3.52] ken[6.32]
+     war[6.28] ,[2.67]  ich[2.24]  habe[1.08]  gesch[1.70] w[1.40] oren ,[0.42]  ihm[1.23]
+     als[0.95]  Erwach s ener  eine[0.90]  L[0.68] ektion  zu  erte ilen[1.16] ,  und[0.51]  jetzt ,
+     wo  ich  die[0.66]  Chance  dazu  habe ,[0.77]  möchte[0.55]  ich[0.76] ,[0.47]  dass[0.64]  er
+     den[0.70]  Preis[0.58]
+
+  #29  act=6.6617  tok='chmal'  lang=german  src=xsafety
+      an[1.41] ,[1.42]  sch[1.48] la[2.05] fl[2.24] os[2.10]  zu[1.25]  sein[1.78] ,[1.66]
+     den[1.34]  Ap[1.09] pet[0.83] it[1.43]  zu[0.84]  verlieren[1.14]  und[1.12]  manchmal[4.49]
+     das[2.97]  Gefühl[2.87]  zu[3.14]  verlieren[2.18] ,[1.73]  die[1.91]  Kontrolle[1.11]  zu
+     verlieren[1.67] " "  Ich[0.70]  kann[1.44]  meine[1.52]  Em[1.55] otion[2.03] en[3.06]
+     immer[2.61]  nicht[4.60]  zurück[3.23] halten[5.18] .[1.54]  Man[3.82] >>>chmal<<<[6.66]
+     werde[5.53]  ich[6.61]  pl[3.31] ötzlich[5.01]  w[3.70] üt[3.72] end[7.76] ,[6.39]
+     manchmal[5.81]  verst[4.45] umme[4.30]  ich[5.94]  pl[2.75] ötzlich[4.67] ,[5.35]
+     wodurch[4.34]  ich[4.23]  mein[3.21]  eigen[1.52] es[2.58]  Verhalten[2.64]  und[2.68]
+     meine[2.34]  Leistung[1.80]  nicht[1.50]  vorhers[1.81] agen[2.07]  kann[3.16]  und[2.57]
+     ich[3.39]  mich[2.74]  sehr[1.76]  verst[1.64] ört[2.28]  und[2.35]  ver[1.44] wir[1.14]
+    rt[2.51]  f[1.51] ühle[2.92]
+
+  #30  act=6.6432  tok='Ġwenn'  lang=german  src=xsafety
+      nicht ,  was  ich  tun  soll[0.47]  und[0.58]  ich[0.49]  weiß  nicht ,  was[0.40]  ich
+     will[0.52] ." "  Ich[0.59]  weiß[0.41]  nicht ,  warum[0.60]  ich[0.47]  immer[1.83]  zu[3.60]
+     viel[4.56]  nach[4.99] den[4.67] ke[5.54] ,[3.34]  mir[4.43]  Sorgen[3.21]  um[4.56]  die[4.26]
+     Zukunft[3.19]  m[2.42] ache[3.91]  und[3.58]  jedes[3.78]  Mal[4.57] ,[6.10] >>> wenn<<<[6.64]
+     ich[6.35]  raus[3.44] ge[2.37] he[5.33] ,[6.45]  noch[4.34]  einmal[3.77]  kontrol[3.11]
+    lieren[4.17]  muss[3.84] ,[2.39]  ob[3.00]  ich[2.81]  die[2.64]  Tür[1.91]  versch[0.75]
+    lie[0.77] ße[2.50]  und[2.70]  die[2.40]  Fenster[1.61]  sch[0.95] lie[0.99] ße[3.28] ,[3.43]
+     was[2.46]  mich[1.74]  sehr[0.70]  mü[1.55] de[2.63]  und[2.59]  gere[0.63] iz[0.68] t[2.26]
+     macht[2.12] " "[0.49]  Ich[1.36]  wurde[0.46]  schon
+
+══════════════════════════════════════════════════════════════════════════════════════════
