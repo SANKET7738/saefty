@@ -125,6 +125,8 @@ def main():
     parser.add_argument("--explain-only", action="store_true")
     parser.add_argument("--model", default=None)
     parser.add_argument("--max-features", type=int, default=None)
+    parser.add_argument("--workers", type=int, default=1,
+                        help="Parallel API workers per language (default: 1)")
     args = parser.parse_args()
 
     t0 = time.time()
@@ -189,13 +191,12 @@ def main():
         }
         errors = 0
 
-        for i, fid in enumerate(fids):
+        def process_feature(fid_idx):
+            i, fid = fid_idx
             examples = features_data[fid]
             sel_info = sel_lookup.get((lang, fid), {})
             selectivity = sel_info.get("selectivity", 0.0)
             rank = sel_info.get("rank", 0)
-
-            print(f"  [{i+1}/{len(fids)}] feat {fid} ...", end=" ")
 
             explanation = explain_feature_per_lang(
                 llm, fid, examples, lang, selectivity, rank, tokenizer,
@@ -208,39 +209,75 @@ def main():
                 **explanation,
             }
 
-            if explanation.get("error"):
-                errors += 1
-                print("ERROR")
-            else:
-                label = explanation.get("short_label", "?")
-                conf = explanation.get("confidence", "?")
-                print(f"{label} (conf={conf})", end="")
+            if not explanation.get("error") and not args.explain_only:
+                expl_text = explanation.get("explanation", "")
+                short = explanation.get("short_label", "unknown")
+                det = score_detection(
+                    llm, expl_text, examples, features_data, fid, tokenizer,
+                )
+                fuz = score_fuzzing(
+                    llm, expl_text, short, examples, tokenizer,
+                )
+                entry.update(det)
+                entry.update(fuz)
 
-                if not args.explain_only:
-                    expl_text = explanation.get("explanation", "")
-                    short = explanation.get("short_label", "unknown")
+            return i, entry
 
-                    det = score_detection(
-                        llm, expl_text, examples, features_data, fid, tokenizer,
-                    )
-                    fuz = score_fuzzing(
-                        llm, expl_text, short, examples, tokenizer,
-                    )
-                    entry.update(det)
-                    entry.update(fuz)
-                    print(f"  det={det.get('detection_f1', '—')}  "
-                          f"fuz={fuz.get('fuzzing_exact', '—')}", end="")
+        if args.workers > 1:
+            from concurrent.futures import ThreadPoolExecutor, as_completed
+            print(f"  Using {args.workers} parallel workers")
 
-                print()
+            with ThreadPoolExecutor(max_workers=args.workers) as pool:
+                futures = {
+                    pool.submit(process_feature, (i, fid)): fid
+                    for i, fid in enumerate(fids)
+                }
+                results_buf = {}
+                for future in as_completed(futures):
+                    i, entry = future.result()
+                    results_buf[i] = entry
+                    fid = entry["feature_id"]
+                    if entry.get("error"):
+                        errors += 1
+                        print(f"  [{i+1}/{len(fids)}] feat {fid} ... ERROR")
+                    else:
+                        label = entry.get("short_label", "?")
+                        conf = entry.get("confidence", "?")
+                        det = entry.get("detection_f1", "—")
+                        fuz = entry.get("fuzzing_exact", "—")
+                        score_str = f"  det={det}  fuz={fuz}" if not args.explain_only else ""
+                        print(f"  [{i+1}/{len(fids)}] feat {fid} ... {label} (conf={conf}){score_str}")
 
-            output["features"].append(entry)
+                    if len(results_buf) % 10 == 0:
+                        output["features"] = [results_buf[j] for j in sorted(results_buf)]
+                        with open(expl_path, "w", encoding="utf-8") as f:
+                            json.dump(output, f, indent=2, ensure_ascii=False)
+                        print(f"  [checkpoint: {len(results_buf)} features saved]")
 
-            if (i + 1) % 10 == 0:
-                with open(expl_path, "w", encoding="utf-8") as f:
-                    json.dump(output, f, indent=2, ensure_ascii=False)
-                print(f"  [checkpoint: {i+1} features saved]")
+            output["features"] = [results_buf[j] for j in sorted(results_buf)]
+        else:
+            for i, fid in enumerate(fids):
+                _, entry = process_feature((i, fid))
 
-            time.sleep(0.5)
+                if entry.get("error"):
+                    errors += 1
+                    print(f"  [{i+1}/{len(fids)}] feat {fid} ... ERROR")
+                else:
+                    label = entry.get("short_label", "?")
+                    conf = entry.get("confidence", "?")
+                    det = entry.get("detection_f1", "—")
+                    fuz = entry.get("fuzzing_exact", "—")
+                    score_str = f"  det={det}  fuz={fuz}" if not args.explain_only else ""
+                    print(f"  [{i+1}/{len(fids)}] feat {fid} ... {label} (conf={conf}){score_str}")
+
+                output["features"].append(entry)
+
+                if (i + 1) % 10 == 0:
+                    with open(expl_path, "w", encoding="utf-8") as f:
+                        json.dump(output, f, indent=2, ensure_ascii=False)
+                    print(f"  [checkpoint: {i+1} features saved]")
+
+                time.sleep(0.5)
 
         # Final save for this language
         with open(expl_path, "w", encoding="utf-8") as f:
