@@ -6,7 +6,7 @@ Automatically label what each of the 118 candidate features encodes, then score 
 
 ## Method
 
-Three-step pipeline per feature, all using GPT-5-Chat:
+Three-step pipeline per feature, all using gpt-5.2-chat:
 
 ### Step 1 — Explain
 
@@ -164,7 +164,7 @@ close match: 0.6   (3/5 — within 2 positions)
 
 | Parameter | Value |
 |-----------|-------|
-| Model | GPT-5-Chat |
+| Model | gpt-5.2-chat |
 | Examples for explain | 12 (diverse selection) |
 | Examples for detection | 5 activating + 20 non-activating |
 | Examples for fuzzing | 5 |
