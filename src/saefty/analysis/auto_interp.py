@@ -429,7 +429,8 @@ def main():
     parser.add_argument("--corpus", default="mixed",
                         choices=["flores", "culturax", "xsafety", "mixed"])
     parser.add_argument("--explain-only", action="store_true")
-    parser.add_argument("--model", default="gpt-4o")
+    parser.add_argument("--model", default=None,
+                        help="Azure deployment name (default: DEPLOYMENT_NAME from .env)")
     parser.add_argument("--max-features", type=int, default=None)
     args = parser.parse_args()
 
