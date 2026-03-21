@@ -97,7 +97,7 @@ Encodes words expressing wanting, consent, or refusal. Only appears in non-Europ
 
 Bengali explanation: _"Relates to concepts of consent and willingness, which are important in harassment, coercion, and broader safety contexts."_
 
-**Interesting language split**: in Hindi/Bengali it fires on desire/consent words, in Japanese it fires on negation/opposition. Same feature, different manifestation — the common thread may be intent/volition language.
+**Interesting language split**: in Hindi/Bengali it fires on desire/consent words, in Japanese it fires on negation/opposition. This could mean the feature encodes a shared intent/volition concept that manifests differently, or it could mean the feature is polysemantic (encoding different things in different languages), which would undermine monosemanticity assumptions. This is an open question.
 
 **Absent from all European languages** — consent/desire may be encoded differently in English/French/German, or may not produce distinctive activation patterns.
 
@@ -106,6 +106,8 @@ Bengali explanation: _"Relates to concepts of consent and willingness, which are
 ## Hindi-Specific Features
 
 Hindi has 4 unique safety features not found in any other language. This makes Hindi the richest language for safety feature analysis.
+
+Notably, the SAE learned two separate features for Hindi deception — feature 875 fires on specific fraud vocabulary (धोखा, चोरी) while feature 5169 fires on the broader discourse pattern of deception contexts. This fine-grained decomposition of a single safety concept into vocabulary-level and discourse-level features doesn't exist for other languages.
 
 ### Feature 875 — Fraud/Deception Terms
 
@@ -169,7 +171,7 @@ Top examples: peak tokens are commas and "और" (and) linking distress clauses
 | 12002 | | | | | | ✓ | | | | morphological |
 | 12892 | | | | | | ✓ | | | | structural |
 
-Two patterns emerge:
+Three patterns:
 
 1. **European + Arabic languages share grammatical features** (6988, 13845, 15161) — these encode how harmful prompts are structured (first-person, questions, evaluations), not what they're about
 2. **Hindi has the most unique features** — 6 total, 4 unique. Hindi's Devanagari morphology creates distinctive subword patterns for safety concepts that don't exist in Latin-script languages
