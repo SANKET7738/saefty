@@ -43,8 +43,6 @@ EXPERIMENTS = [
     {"feature_id": 4436, "languages": ["hindi", "english", "bengali"]},
 ]
 
-ALPHA_VALUES = [0, 1, 3, 5, 10]
-
 
 # ── steering hooks ────────────────────────────────────────────────────────
 class VectorAdditionHook:
@@ -145,6 +143,7 @@ def main():
 
     print(f"Loading SAE: {CHECKPOINT_PATH}")
     sae = load_sae(CHECKPOINT_PATH, DEVICE)
+    sae = sae.to(DEVICE)  # ensure SAE is on GPU even if load_sae defaults to CPU
 
     # Load xsafety prompts
     print("Loading XSafety prompts...")
@@ -179,8 +178,8 @@ def main():
             conditions = [
                 # (label, method, prompts, prompt_type, hook_factory)
                 ("baseline", "none", harmful_prompts, "harmful", lambda: None),
-                ("sae_passthrough", "clamping", harmful_prompts, "harmful",
-                 lambda: FeatureClampHook(sae, fid, None)),  # passthrough marker
+                ("sae_passthrough", "passthrough", harmful_prompts, "harmful",
+                 lambda: _PassthroughHook(sae)),
                 ("suppress_vector", "vector_addition", harmful_prompts, "harmful",
                  lambda: VectorAdditionHook(decoder_vec, -5.0)),
                 ("suppress_clamp", "clamping", harmful_prompts, "harmful",
@@ -197,11 +196,6 @@ def main():
                 generations = []
                 for i, prompt in enumerate(prompts):
                     hook = hook_factory()
-
-                    # SAE passthrough: encode→decode+error without modification
-                    if cond_name == "sae_passthrough":
-                        # Use clamping hook but read the original activation value
-                        hook = _PassthroughHook(sae)
 
                     response = generate_with_hook(model, tokenizer, prompt, hook)
                     generations.append({
@@ -268,7 +262,12 @@ def main():
 
 
 class _PassthroughHook:
-    """SAE encode→decode+error with no modification (sanity check)."""
+    """SAE encode→decode+error with no modification (sanity check).
+    
+    Mathematically x_hat + error = x_hat + (h - x_hat) = h, so this is a no-op.
+    If output changes, it means float32↔float16 casting introduces drift.
+    Tests casting fidelity, not SAE fidelity.
+    """
 
     def __init__(self, sae):
         self.sae = sae
