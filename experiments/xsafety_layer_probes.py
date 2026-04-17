@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import List, Dict
 
 from saefty.models.infer import InferenceEngine, ModelConfig, InferenceConfig
+from saefty.models.prompt_format import PROMPT_MODES
 from saefty.eval.refusal import RefusalEvaluator
 from saefty.analysis.layer_stats import compute_layer_stats, plot_layer_stats
 from saefty.analysis.probes import (
@@ -26,6 +27,12 @@ def parse_args():
     parser.add_argument("--lang", type=str, default=None, help="comma-separated languages to filter")
     parser.add_argument("--take", type=int, default=None, help="first N entries per language")
     parser.add_argument("--output-dir", type=str, default="results/xsafety_layer_probes")
+    parser.add_argument(
+        "--prompt-mode",
+        choices=list(PROMPT_MODES),
+        default="chat_no_preamble",
+        help="How to format prompts before tokenizing.",
+    )
     return parser.parse_args()
 
 
@@ -174,11 +181,11 @@ def main():
 
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
-    cache_dir = output_dir / ".cache"
+    cache_dir = output_dir / f".cache_{args.prompt_mode}"
 
     # load model and collect activations
     model_config = ModelConfig(model=args.model)
-    inference_config = InferenceConfig()
+    inference_config = InferenceConfig(prompt_mode=args.prompt_mode)
     engine = InferenceEngine(model_config, inference_config)
     activations = collect_activations(engine, entries, cache_dir)
 

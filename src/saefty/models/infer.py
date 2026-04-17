@@ -3,6 +3,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from pydantic import BaseModel
 from typing import Union, List, Dict, Optional
 
+from saefty.models.prompt_format import format_prompt, PROMPT_MODES
+
 
 class ModelConfig(BaseModel):
     model: str 
@@ -16,6 +18,7 @@ class InferenceConfig(BaseModel):
     truncation: bool = True
     temperature: float = 0.7
     skip_special_tokens: bool = True
+    prompt_mode: str = "chat_no_preamble"
     
 
 class InferenceEngine:
@@ -55,17 +58,7 @@ class InferenceEngine:
         self,
         prompt: Union[str, List[Dict[str, str]]],
     ) -> str:
-        if isinstance(prompt, list):
-            prefix_forcing = (
-                prompt[-1]["role"].lower() == "assistant" if prompt else False 
-            )
-            return self.tokenizer.apply_chat_template(
-                prompt,
-                tokenize=False, 
-                add_generation_prompt=not prefix_forcing,
-                continue_final_message=prefix_forcing,
-            )
-        return prompt
+        return format_prompt(prompt, self.tokenizer, mode=self.inference_config.prompt_mode)
     
     
     def _tokenize(self, text: str) -> Dict:

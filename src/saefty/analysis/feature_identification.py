@@ -9,6 +9,7 @@ Usage:
     python src/saefty/analysis/feature_identification.py
 """
 
+import argparse
 import json
 import time
 import warnings
@@ -17,6 +18,8 @@ from typing import Dict, List, Tuple
 
 import torch
 import numpy as np
+
+from saefty.models.prompt_format import format_prompt, PROMPT_MODES
 
 # ── CONFIG ──────────────────────────────────────────────────────────────────
 MODEL_NAME = "CohereLabs/tiny-aya-global"
@@ -141,12 +144,15 @@ def get_activations(
     device: str,
     batch_size: int,
     label: str = "",
+    prompt_mode: str = "chat_no_preamble",
 ) -> torch.Tensor:
     """
     Run prompts through model and capture mean-pooled residual stream at hook_layer.
 
     Returns: (N, d_model) tensor
     """
+    # Apply chat template (or not) per prompt before tokenizing.
+    prompts = [format_prompt(p, tokenizer, mode=prompt_mode) for p in prompts]
     all_activations = []
     captured = {}
     skipped = 0
@@ -290,6 +296,16 @@ def compute_selectivity(
 # ── MAIN ────────────────────────────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--prompt-mode",
+        choices=list(PROMPT_MODES),
+        default="chat_no_preamble",
+        help="How to format prompts before tokenizing.",
+    )
+    parser.add_argument("--output-path", type=str, default=OUTPUT_PATH)
+    args = parser.parse_args()
+
     t0 = time.time()
 
     # ── load data ──
@@ -324,6 +340,7 @@ def main():
             h_act = get_activations(
                 harmful[lang], model, tokenizer, HOOK_LAYER, DEVICE, BATCH_SIZE,
                 label=f"{lang}/harmful",
+                prompt_mode=args.prompt_mode,
             )
             harmful_features[lang] = encode_with_sae(h_act, sae)
         else:
@@ -335,6 +352,7 @@ def main():
             b_act = get_activations(
                 benign[lang], model, tokenizer, HOOK_LAYER, DEVICE, BATCH_SIZE,
                 label=f"{lang}/benign",
+                prompt_mode=args.prompt_mode,
             )
             benign_features[lang] = encode_with_sae(b_act, sae)
         else:
@@ -348,7 +366,7 @@ def main():
     )
 
     # ── save results ──
-    output_path = Path(OUTPUT_PATH)
+    output_path = Path(args.output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     n_harmful = {lang: len(harmful.get(lang, [])) for lang in LANGUAGES}
@@ -359,6 +377,7 @@ def main():
             "model": MODEL_NAME,
             "hook_layer": HOOK_LAYER,
             "checkpoint": CHECKPOINT_PATH,
+            "prompt_mode": args.prompt_mode,
             "n_harmful_per_lang": n_harmful,
             "n_benign_per_lang": n_benign,
             "top_k": TOP_K,

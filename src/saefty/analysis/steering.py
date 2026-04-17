@@ -16,6 +16,7 @@ Usage:
   python -m saefty.analysis.steering
 """
 
+import argparse
 import json
 import time
 from pathlib import Path
@@ -28,6 +29,7 @@ from saefty.analysis.feature_identification import (
     MODEL_NAME, CHECKPOINT_PATH, HOOK_LAYER, DEVICE, LANGUAGES, load_sae,
     load_xsafety_data, XSAFETY_DATA_DIR,
 )
+from saefty.models.prompt_format import format_prompt, PROMPT_MODES
 
 # ── CONFIG ─────────────────────────────────────────────────────────────────
 N_PROMPTS = 30
@@ -89,8 +91,9 @@ class FeatureClampHook:
 
 
 # ── generation ────────────────────────────────────────────────────────────
-def generate_with_hook(model, tokenizer, prompt: str, hook_fn=None) -> str:
-    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=256)
+def generate_with_hook(model, tokenizer, prompt: str, hook_fn=None, prompt_mode: str = "chat_no_preamble") -> str:
+    formatted = format_prompt(prompt, tokenizer, mode=prompt_mode)
+    inputs = tokenizer(formatted, return_tensors="pt", truncation=True, max_length=512)
     inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
 
     handle = None
@@ -127,6 +130,16 @@ def get_max_activation(feature_id: int, language: str) -> float:
 
 # ── main ──────────────────────────────────────────────────────────────────
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--prompt-mode",
+        choices=list(PROMPT_MODES),
+        default="chat_no_preamble",
+        help="How to format prompts before tokenizing.",
+    )
+    parser.add_argument("--output-dir", type=str, default=OUTPUT_DIR)
+    args = parser.parse_args()
+
     t0 = time.time()
 
     # Load model + SAE
@@ -150,9 +163,9 @@ def main():
     harmful, benign = load_xsafety_data(XSAFETY_DATA_DIR, list(LANGUAGES))
 
     # Output
-    out_dir = Path(OUTPUT_DIR)
+    out_dir = Path(args.output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
-    all_results = {"experiments": []}
+    all_results = {"metadata": {"prompt_mode": args.prompt_mode}, "experiments": []}
 
     for exp in EXPERIMENTS:
         fid = exp["feature_id"]
@@ -197,7 +210,9 @@ def main():
                 for i, prompt in enumerate(prompts):
                     hook = hook_factory()
 
-                    response = generate_with_hook(model, tokenizer, prompt, hook)
+                    response = generate_with_hook(
+                        model, tokenizer, prompt, hook, prompt_mode=args.prompt_mode
+                    )
                     generations.append({
                         "prompt": prompt,
                         "response": response,

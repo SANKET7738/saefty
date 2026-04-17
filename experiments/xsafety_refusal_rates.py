@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, Dict
 
 from saefty.models.infer import InferenceEngine, ModelConfig, InferenceConfig
+from saefty.models.prompt_format import PROMPT_MODES
 from saefty.data.xsafety import XSafetyLoader, XSafetyConfig
 from saefty.data.base import Benchmark
 from saefty.eval.refusal import RefusalEvaluator
@@ -16,6 +17,12 @@ def parse_args():
     parser.add_argument("--lang", type=str, default=None, help="comma-separated languages, e.g. en,hi,ar")
     parser.add_argument("--take", type=int, default=None, help="first N prompts per language")
     parser.add_argument("--output-dir", type=str, default="results/xsafety_refusal_rates")
+    parser.add_argument(
+        "--prompt-mode",
+        choices=list(PROMPT_MODES),
+        default="chat_no_preamble",
+        help="How to format prompts before tokenizing.",
+    )
     return parser.parse_args()
 
 
@@ -90,12 +97,14 @@ def run_eval(
     benchmark: Benchmark,
     predictions: Dict[str, List[str]],
     eval_path: Path,
+    engine: InferenceEngine = None,
 ) -> None:
     evaluator = RefusalEvaluator()
     metrics = Metrics(evaluator)
     result = metrics.compute_benchmark(benchmark, predictions)
     
     output = {
+        "prompt_mode": getattr(engine.inference_config, "prompt_mode", "unknown") if engine else "unknown",
         "per_split": result.per_split,
         "overall": result.overall,
     }
@@ -126,11 +135,11 @@ def main():
     
     # load model
     model_config = ModelConfig(model=args.model)
-    inference_config = InferenceConfig()
+    inference_config = InferenceConfig(prompt_mode=args.prompt_mode)
     engine = InferenceEngine(model_config, inference_config)
     
-    # setup output dirs
-    output_dir = Path(args.output_dir)
+    # setup output dirs (mode-specific to avoid cross-contamination)
+    output_dir = Path(args.output_dir) / args.prompt_mode
     predictions_dir = output_dir / "predictions"
     eval_dir = output_dir / "eval"
     predictions_dir.mkdir(parents=True, exist_ok=True)
@@ -145,7 +154,7 @@ def main():
     
     # run eval
     print(f"\n--- running evaluation ---")
-    run_eval(benchmark, predictions, eval_path)
+    run_eval(benchmark, predictions, eval_path, engine=engine)
     
     print(f"results saved to {output_dir}")
 
